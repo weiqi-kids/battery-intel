@@ -1,0 +1,317 @@
+{
+  "companies": [
+    {
+      "id": "catl",
+      "name": "CATL",
+      "short_name": "寧德時代",
+      "position": "upstream",
+      "role": "電池製造",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "lg_energy",
+      "name": "LG Energy Solution",
+      "short_name": "LG新能源",
+      "position": "upstream",
+      "role": "電池製造",
+      "x": 0.106,
+      "y": 0.34
+    },
+    {
+      "id": "samsung_sdi",
+      "name": "Samsung SDI",
+      "short_name": "三星SDI",
+      "position": "upstream",
+      "role": "電池製造",
+      "x": 0.163,
+      "y": 0.34
+    },
+    {
+      "id": "panasonic",
+      "name": "Panasonic",
+      "short_name": "松下",
+      "position": "upstream",
+      "role": "電池製造",
+      "x": 0.219,
+      "y": 0.34
+    },
+    {
+      "id": "eve",
+      "name": "EVE Energy",
+      "short_name": "億緯鋰能",
+      "position": "upstream",
+      "role": "電池製造",
+      "x": 0.275,
+      "y": 0.34
+    },
+    {
+      "id": "sk_on",
+      "name": "SK On",
+      "short_name": "SK創新",
+      "position": "upstream",
+      "role": "電池製造",
+      "x": 0.331,
+      "y": 0.34
+    },
+    {
+      "id": "albemarle",
+      "name": "Albemarle",
+      "short_name": "雅保",
+      "position": "upstream",
+      "role": "鋰礦",
+      "x": 0.388,
+      "y": 0.34
+    },
+    {
+      "id": "sqm",
+      "name": "SQM",
+      "short_name": "智利化工",
+      "position": "upstream",
+      "role": "鋰礦",
+      "x": 0.444,
+      "y": 0.34
+    },
+    {
+      "id": "ganfeng",
+      "name": "Ganfeng Lithium",
+      "short_name": "贛鋒鋰業",
+      "position": "upstream",
+      "role": "鋰礦",
+      "x": 0.5,
+      "y": 0.34
+    },
+    {
+      "id": "pilbara",
+      "name": "Pilbara Minerals",
+      "short_name": "Pilbara Minerals",
+      "position": "upstream",
+      "role": "鋰礦",
+      "x": 0.556,
+      "y": 0.34
+    },
+    {
+      "id": "byd",
+      "name": "BYD",
+      "short_name": "比亞迪",
+      "position": "midstream",
+      "role": "垂直整合",
+      "x": 0.613,
+      "y": 0.34
+    },
+    {
+      "id": "umicore",
+      "name": "Umicore",
+      "short_name": "優美科",
+      "position": "midstream",
+      "role": "材料回收",
+      "x": 0.669,
+      "y": 0.34
+    },
+    {
+      "id": "basf",
+      "name": "BASF",
+      "short_name": "巴斯夫",
+      "position": "midstream",
+      "role": "化學材料",
+      "x": 0.725,
+      "y": 0.34
+    },
+    {
+      "id": "tesla",
+      "name": "Tesla",
+      "short_name": "特斯拉",
+      "position": "downstream",
+      "role": "電動車",
+      "x": 0.781,
+      "y": 0.34
+    },
+    {
+      "id": "rivian",
+      "name": "Rivian",
+      "short_name": "Rivian",
+      "position": "downstream",
+      "role": "電動車",
+      "x": 0.838,
+      "y": 0.34
+    },
+    {
+      "id": "nio",
+      "name": "NIO",
+      "short_name": "蔚來",
+      "position": "downstream",
+      "role": "電動車",
+      "x": 0.894,
+      "y": 0.34
+    },
+    {
+      "id": "volkswagen",
+      "name": "Volkswagen",
+      "short_name": "福斯",
+      "position": "downstream",
+      "role": "電動車",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "catl",
+      "target": "tesla",
+      "strength": 2
+    },
+    {
+      "source": "catl",
+      "target": "nio",
+      "strength": 2
+    },
+    {
+      "source": "catl",
+      "target": "volkswagen",
+      "strength": 2
+    },
+    {
+      "source": "catl",
+      "target": "byd",
+      "strength": 2
+    },
+    {
+      "source": "lg_energy",
+      "target": "tesla",
+      "strength": 2
+    },
+    {
+      "source": "lg_energy",
+      "target": "volkswagen",
+      "strength": 2
+    },
+    {
+      "source": "lg_energy",
+      "target": "rivian",
+      "strength": 2
+    },
+    {
+      "source": "samsung_sdi",
+      "target": "rivian",
+      "strength": 2
+    },
+    {
+      "source": "samsung_sdi",
+      "target": "volkswagen",
+      "strength": 2
+    },
+    {
+      "source": "panasonic",
+      "target": "tesla",
+      "strength": 2
+    },
+    {
+      "source": "eve",
+      "target": "byd",
+      "strength": 2
+    },
+    {
+      "source": "sk_on",
+      "target": "volkswagen",
+      "strength": 2
+    },
+    {
+      "source": "albemarle",
+      "target": "catl",
+      "strength": 2
+    },
+    {
+      "source": "albemarle",
+      "target": "lg_energy",
+      "strength": 2
+    },
+    {
+      "source": "albemarle",
+      "target": "panasonic",
+      "strength": 2
+    },
+    {
+      "source": "sqm",
+      "target": "catl",
+      "strength": 2
+    },
+    {
+      "source": "sqm",
+      "target": "lg_energy",
+      "strength": 2
+    },
+    {
+      "source": "ganfeng",
+      "target": "catl",
+      "strength": 2
+    },
+    {
+      "source": "ganfeng",
+      "target": "byd",
+      "strength": 2
+    },
+    {
+      "source": "ganfeng",
+      "target": "tesla",
+      "strength": 2
+    },
+    {
+      "source": "pilbara",
+      "target": "ganfeng",
+      "strength": 2
+    },
+    {
+      "source": "pilbara",
+      "target": "catl",
+      "strength": 2
+    },
+    {
+      "source": "byd",
+      "target": "tesla",
+      "strength": 2
+    },
+    {
+      "source": "umicore",
+      "target": "catl",
+      "strength": 2
+    },
+    {
+      "source": "umicore",
+      "target": "lg_energy",
+      "strength": 2
+    },
+    {
+      "source": "umicore",
+      "target": "samsung_sdi",
+      "strength": 2
+    },
+    {
+      "source": "basf",
+      "target": "catl",
+      "strength": 2
+    },
+    {
+      "source": "basf",
+      "target": "lg_energy",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_lit",
+      "name": "Global X Lithium & Battery Tech ETF",
+      "ticker": "LIT",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "鋰電池產業 ETF"
+    },
+    {
+      "id": "etf_batt",
+      "name": "Amplify Lithium & Battery Technology ETF",
+      "ticker": "BATT",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "電池技術 ETF"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "catl": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 58
+  },
+  "lg_energy": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 61
+  },
+  "samsung_sdi": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 61
+  },
+  "panasonic": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "eve": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 58
+  },
+  "sk_on": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 61
+  },
+  "albemarle": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "sqm": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "ganfeng": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 59
+  },
+  "pilbara": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "byd": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 59
+  },
+  "umicore": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 63
+  },
+  "basf": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 63
+  },
+  "tesla": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "rivian": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "nio": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "volkswagen": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 63
+  },
+  "etf_lit": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "etf_batt": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  }
+}

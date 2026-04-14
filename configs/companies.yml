@@ -1,0 +1,261 @@
+companies:
+- id: catl
+  name: CATL
+  aliases:
+  - 寧德時代
+  ticker: 300750.SZ
+  market: SZSE
+  currency: CNY
+  position: upstream
+  role: 電池製造
+  description: 全球最大動力電池製造商
+  downstream:
+  - tesla
+  - nio
+  - volkswagen
+  - byd
+- id: lg_energy
+  name: LG Energy Solution
+  aliases:
+  - LG新能源
+  - LG에너지솔루션
+  ticker: 373220.KS
+  market: KRX
+  currency: KRW
+  position: upstream
+  role: 電池製造
+  description: 韓國第一大動力電池廠
+  downstream:
+  - tesla
+  - volkswagen
+  - rivian
+- id: samsung_sdi
+  name: Samsung SDI
+  aliases:
+  - 三星SDI
+  ticker: 006400.KS
+  market: KRX
+  currency: KRW
+  position: upstream
+  role: 電池製造
+  description: 三星集團電池部門
+  downstream:
+  - rivian
+  - volkswagen
+- id: panasonic
+  name: Panasonic
+  aliases:
+  - 松下
+  - パナソニック
+  ticker: 6752.T
+  market: TSE
+  currency: JPY
+  position: upstream
+  role: 電池製造
+  description: Tesla 長期電池供應商
+  downstream:
+  - tesla
+- id: eve
+  name: EVE Energy
+  aliases:
+  - 億緯鋰能
+  ticker: 300014.SZ
+  market: SZSE
+  currency: CNY
+  position: upstream
+  role: 電池製造
+  description: 中國主要鋰電池製造商
+  downstream:
+  - byd
+- id: sk_on
+  name: SK On
+  aliases:
+  - SK創新
+  - SK이노베이션
+  ticker: 096770.KS
+  market: KRX
+  currency: KRW
+  position: upstream
+  role: 電池製造
+  description: SK 集團電池子公司
+  downstream:
+  - volkswagen
+- id: albemarle
+  name: Albemarle
+  aliases:
+  - 雅保
+  ticker: ALB
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 鋰礦
+  description: 全球最大鋰供應商
+  downstream:
+  - catl
+  - lg_energy
+  - panasonic
+- id: sqm
+  name: SQM
+  aliases:
+  - 智利化工
+  - Sociedad Quimica y Minera
+  ticker: SQM
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 鋰礦
+  description: 智利鋰礦與化工巨頭
+  downstream:
+  - catl
+  - lg_energy
+- id: ganfeng
+  name: Ganfeng Lithium
+  aliases:
+  - 贛鋒鋰業
+  ticker: 1772.HK
+  market: HKEX
+  currency: HKD
+  position: upstream
+  role: 鋰礦
+  description: 中國最大鋰供應商
+  downstream:
+  - catl
+  - byd
+  - tesla
+- id: pilbara
+  name: Pilbara Minerals
+  aliases: []
+  ticker: PLS.AX
+  market: ASX
+  currency: AUD
+  position: upstream
+  role: 鋰礦
+  description: 澳洲鋰礦開採商
+  downstream:
+  - ganfeng
+  - catl
+- id: byd
+  name: BYD
+  aliases:
+  - 比亞迪
+  ticker: 1211.HK
+  market: HKEX
+  currency: HKD
+  position: midstream
+  role: 垂直整合
+  description: 電池到整車垂直整合
+  upstream:
+  - catl
+  - eve
+  - ganfeng
+  downstream:
+  - tesla
+- id: umicore
+  name: Umicore
+  aliases:
+  - 優美科
+  ticker: UMI.BR
+  market: EURONEXT
+  currency: EUR
+  position: midstream
+  role: 材料回收
+  description: 正極材料與電池回收
+  upstream:
+  - albemarle
+  - ganfeng
+  downstream:
+  - catl
+  - lg_energy
+  - samsung_sdi
+- id: basf
+  name: BASF
+  aliases:
+  - 巴斯夫
+  ticker: BAS.DE
+  market: XETRA
+  currency: EUR
+  position: midstream
+  role: 化學材料
+  description: 正極材料與電解液供應商
+  upstream:
+  - albemarle
+  downstream:
+  - catl
+  - lg_energy
+- id: tesla
+  name: Tesla
+  aliases:
+  - 特斯拉
+  ticker: TSLA
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 電動車
+  description: 全球電動車龍頭
+  upstream:
+  - catl
+  - lg_energy
+  - panasonic
+  - ganfeng
+- id: rivian
+  name: Rivian
+  aliases: []
+  ticker: RIVN
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 電動車
+  description: 美國電動皮卡新創
+  upstream:
+  - lg_energy
+  - samsung_sdi
+- id: nio
+  name: NIO
+  aliases:
+  - 蔚來
+  ticker: NIO
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 電動車
+  description: 中國高端電動車品牌
+  upstream:
+  - catl
+- id: volkswagen
+  name: Volkswagen
+  aliases:
+  - 福斯
+  - VW
+  ticker: VOW3.DE
+  market: XETRA
+  currency: EUR
+  position: downstream
+  role: 電動車
+  description: 歐洲最大汽車集團電動化轉型
+  upstream:
+  - lg_energy
+  - samsung_sdi
+  - sk_on
+etfs:
+- id: lit
+  name: Global X Lithium & Battery Tech ETF
+  ticker: LIT
+  market: NYSE
+  currency: USD
+  description: 鋰電池產業 ETF
+- id: batt
+  name: Amplify Lithium & Battery Technology ETF
+  ticker: BATT
+  market: NYSE
+  currency: USD
+  description: 電池技術 ETF
+supply_chain_positions:
+  upstream:
+  - 電池製造
+  - 鋰礦
+  midstream:
+  - 垂直整合
+  - 材料回收
+  - 化學材料
+  downstream:
+  - 電動車
