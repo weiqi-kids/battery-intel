@@ -1,0 +1,101 @@
+{
+  "company_count": 17,
+  "topic_count": 5,
+  "alias_count": 35,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "catl",
+      "short_name": "CATL",
+      "tier": ""
+    },
+    {
+      "id": "lg_energy",
+      "short_name": "LG Energy Solution",
+      "tier": ""
+    },
+    {
+      "id": "samsung_sdi",
+      "short_name": "Samsung SDI",
+      "tier": ""
+    },
+    {
+      "id": "panasonic",
+      "short_name": "Panasonic",
+      "tier": ""
+    },
+    {
+      "id": "eve",
+      "short_name": "EVE Energy",
+      "tier": ""
+    },
+    {
+      "id": "sk_on",
+      "short_name": "SK On",
+      "tier": ""
+    },
+    {
+      "id": "albemarle",
+      "short_name": "Albemarle",
+      "tier": ""
+    },
+    {
+      "id": "sqm",
+      "short_name": "SQM",
+      "tier": ""
+    },
+    {
+      "id": "ganfeng",
+      "short_name": "Ganfeng Lithium",
+      "tier": ""
+    },
+    {
+      "id": "pilbara",
+      "short_name": "Pilbara Minerals",
+      "tier": ""
+    },
+    {
+      "id": "byd",
+      "short_name": "BYD",
+      "tier": ""
+    },
+    {
+      "id": "umicore",
+      "short_name": "Umicore",
+      "tier": ""
+    },
+    {
+      "id": "basf",
+      "short_name": "BASF",
+      "tier": ""
+    },
+    {
+      "id": "tesla",
+      "short_name": "Tesla",
+      "tier": ""
+    },
+    {
+      "id": "rivian",
+      "short_name": "Rivian",
+      "tier": ""
+    },
+    {
+      "id": "nio",
+      "short_name": "NIO",
+      "tier": ""
+    },
+    {
+      "id": "volkswagen",
+      "short_name": "Volkswagen",
+      "tier": ""
+    }
+  ]
+}
