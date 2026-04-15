@@ -1,5 +1,29 @@
 [
   {
+    "id": "unknown-2026-04-15-037",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "ev_sales"
+    ],
+    "impact": "neutral",
+    "title": "5 Takeaways From Q1's EV Sales In The U.S.",
+    "summary": "Electric car sales fell considerably in the first quarter. Here are some trends to look out for, and what might happen next. ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-038",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "ev_sales"
+    ],
+    "impact": "positive",
+    "title": "BMW Group’s Global EV Sales Crater 20% As U.S. Market Cools Off",
+    "summary": "The new iX3 is hugely successful in Europe, but it wasn’t enough to offset the big declines recorded in China and the U.S.",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-14-001",
     "date": "2026-04-14",
     "companies": [],
@@ -24,6 +48,34 @@
     "sources": []
   },
   {
+    "id": "ganfeng-2026-04-14-022",
+    "date": "2026-04-14",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "lithium_price"
+    ],
+    "impact": "neutral",
+    "title": "HSBC Research Expects Supply-Demand Imbalance to Lift Short-term Lithium Prices; Raises Ganfeng Lithium (01772.HK) and Tianqi Lithium (09696.HK) TP - AASTOCKS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPeklSNFExWUFuYV9lcVZGSnF2RW1xQ0MtWDdsZWNEMjlxT3p1NFBPLURIYXlfTzFkTzNDa3JmR1NrSDZJS0hZcDhvMEVzVG40S1RGODRVQUpYTTJST1pjc19GcEQ1YVkxT2poRTBNND",
+    "sources": []
+  },
+  {
+    "id": "ganfeng-2026-04-14-023",
+    "date": "2026-04-14",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "lithium_price"
+    ],
+    "impact": "neutral",
+    "title": "Stock Movement in Hong Kong | Strengthened expectations of a contraction in lithium carbonate supply drive Tianqi Lithium (09696) up over 5%, and Ganfeng Lithium (01772) up nearly 4%. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2c1cUhmbjk2bWsxcHpZYm90cldKdEJDM3JRa2ducTcxR3RYUFB5MUx0TktGdUlzSER1RzJvUDk4V3g0U25VWlE4SUVMTDItblM4eGpSOVZYZkNEYWZnYm9KME9mUExhU0ZfQm1MeE",
+    "sources": []
+  },
+  {
     "id": "tesla-2026-04-13-005",
     "date": "2026-04-13",
     "companies": [
@@ -35,6 +87,72 @@
     "impact": "neutral",
     "title": "As lithium prices skyrocket, Elon considers Tesla getting into the mining industry - Not a Tesla App",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE04TUo5ZlB6Yy1xalZsdG8zTXRpVG9QMDE2QTZXWC1iS0JqVmpKNTFhYUF0a3ptZWlsOW1kaUJrSHNESjJjME9PZVo3S0IwNGND?oc=5\" target=\"_blank\">As lithium prices s",
+    "sources": []
+  },
+  {
+    "id": "lg_energy-2026-04-13-003",
+    "date": "2026-04-13",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "cathode_material"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy Solution raises stakes on AI push, targets 50% productivity gain by 2028 - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSzNTWXJjT3NrUC1lYzV3a0pUOWlWYmstRjN0VWdtQ0lydkVIT0s5YzlYVlg4TjVNcmpwSnVmQ21TNmN1RVhMRllnd3dJYTFCWHdKNkp3TjkyMUhZOVNNbEhUaUtSYnBLYk9RazVEVU",
+    "sources": []
+  },
+  {
+    "id": "sqm-2026-04-13-016",
+    "date": "2026-04-13",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "lithium_price"
+    ],
+    "impact": "neutral",
+    "title": "SQM executive expects lithium carbonate prices around $15-$18/kg in 2026 - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORzhZZW9uMGZfWkdjYUlrbm8zakV3ejhFV2laSlo0b2xUX05JYm10Zm56d1ZVSWUtV09DdGtiSTNCU2FqOTNINThkTncyTEJDMndFTGJWSk5aa0RMUGJ5NTU2dFVHbkducEp6UWxrNH",
+    "sources": []
+  },
+  {
+    "id": "catl-2026-04-12-001",
+    "date": "2026-04-12",
+    "companies": [
+      "catl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "How China’s EV battery king CATL powers up profits while EV makers struggle - South China Morning Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPOXFUV2FQU29OMUtMTzFpVTVhanE1YXJ1ck9nY3Zka3BwczkyY1RrZXVSOWhpVWRiN0NiOVp6U09oWk1Gb3VqYXZMczZ4a0Y1ZUFhVkZOV2Vtdzg2Q0RYNFlkbmZiVjVJSV9OV1NGN0",
+    "sources": []
+  },
+  {
+    "id": "rivian-2026-04-12-034",
+    "date": "2026-04-12",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "ev_sales"
+    ],
+    "impact": "neutral",
+    "title": "EV Sales Are \"Cratering.\" Here's Why I'm Holding On to My Rivian Shares - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1puTWYwWXBNRk0zWFhjd2pZVFZTbVN3ZWhnZjd1Q1ZBQ3hSUU9PV1Y1b2syZE9qUDltTUlKWXVoZjdLMTA0WmdBblNETktMVkExQUlYT3phLWxFYkJiV1dxRjBRdFFCcXoxQUJHbm",
+    "sources": []
+  },
+  {
+    "id": "nio-2026-04-11-036",
+    "date": "2026-04-11",
+    "companies": [
+      "nio"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nio President Says ES9 Will Deliver Higher Gross Profit Than ES8 - eletric-vehicles.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWXhFZHItZWZYRDAtc0hCMnA4R0g2eHR0dGJwUEk2YWtHME5Xb0hVdTNuMVdxNjEtWm92LVc3LVVDVG4xQjVNZ2xJMDdhQ0YwVmxOTzU0Z1lKMGUwUWY5OEUwWUdKUE5Sc091TXUyc3",
     "sources": []
   },
   {
@@ -50,6 +168,190 @@
     "sources": []
   },
   {
+    "id": "catl-2026-04-10-002",
+    "date": "2026-04-10",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "ev_sales"
+    ],
+    "impact": "neutral",
+    "title": "Global EV Sales Set to Hit 50% by 2030 Amid Oil Shock While CATL Leads Batteries - CarbonCredits.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQl84OHZPU25OaVRQV2dweDM5NW9yY0tuZGlzVTZfZWZIR3U2NEl0UGtvRmczSWRHME5HaGFRWmtpYjJySE02alhLcEpIMmFGSjYwM0FlOHhqYjJDakNOanB6ZTlYT3Nnbmx3eGtrcU",
+    "sources": []
+  },
+  {
+    "id": "nio-2026-04-10-035",
+    "date": "2026-04-10",
+    "companies": [
+      "nio"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Nio Q1 2026 Earnings Preview: Profit Momentum & Growth Strategy | June 2 Report - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxORktWSW5SN2VzODhBSGUyQzRnSmphT3poUTQta1hOcFIybG15US1lUkppOUs2QnpaNDhMSGhycVpMZWMwY25veTU4NWhuQXdsYlRDMTBCeDYySWpHWEVxT010VEFaQmxPb0MtOHV0Rm",
+    "sources": []
+  },
+  {
+    "id": "eve-2026-04-08-006",
+    "date": "2026-04-08",
+    "companies": [
+      "eve"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "EVE Energy plans CN¥11bn expansion as Q1 profit surges - Automotive World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNekF3azg3Z2lDc2l0VnhkdEw5OHB4aXZWYjFXaEdwYlAtcm5TS0gzbnlzVEc4bWpEa3pRck81LUFoa1hFMjExMnFjM1c2aEpGSUxCNjE3VVRHMTVwNHNJajFmU3RlenFSN2dpMkg5Sl",
+    "sources": []
+  },
+  {
+    "id": "eve-2026-04-08-007",
+    "date": "2026-04-08",
+    "companies": [
+      "eve"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "China’s Eve Energy Gains on First-Quarter Profit Jump, Battery Capacity Expansion Plan - Yicai Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXFkMnpqdks5Uy1ISWlBTUktS204aG96ZkxYMjAzOWxNcVdaRzBxNkd4S21BUFFFNmpILXJqUng3Z0ZrRWJpb1VKU2xPWGljcXRBT0JWRzM0Nmcwd2pLS2ZXbV8wRUhkekc4Q084a0",
+    "sources": []
+  },
+  {
+    "id": "eve-2026-04-08-010",
+    "date": "2026-04-08",
+    "companies": [
+      "eve"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "EVE Energy Q1 Earnings Forecast: Net Profit Up 25%-35% YoY - Gasgoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkl1REpXLURWbEthMS1lRHZLZjVnZTcwYjBOcWhQRWdGX2ZadXFVLVU1dzVSOUhXMEx5YkhjbEZmSWp6UWw3TllWYnBUQXNjZ1UzaXZWQVd3bXhyXzNUcjM1TzF4djhyOU1PenJGNE",
+    "sources": []
+  },
+  {
+    "id": "eve-2026-04-07-008",
+    "date": "2026-04-07",
+    "companies": [
+      "eve"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "EVE Energy Sees Q1 Net Profit Up 25.0%-35.0% Y/Y - TradingView — Track All Markets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPaVNQQ1N1VGFhXzBaR1hjNWRFZ0VtQ292VEV5eTJqNFktNjRCZktyUkU0ZWk2QklESjlhOWlXRHNTdHYtZTNwUVlocG9LRmtXeXlxZU9qRUl0OFQtWXRtZ0xrRklDY2ZoWFBlRWF3aU",
+    "sources": []
+  },
+  {
+    "id": "eve-2026-04-07-009",
+    "date": "2026-04-07",
+    "companies": [
+      "eve"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "EVE Energy sees Q1 net profit up 25.0%-35.0% Y/Y - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPQnRPX1BCRzRIS1p6anRfV2tYeTdpd1A3YkZNMmVMUDBpWXFQUVktMDZEN1poc3E1WElNOGpPV1J1emhCV2s1SThJWEZ3MFV6R3JkdVRyRTZ4QVhLNDdNa19RYU1TVWNKcUdLUzd3Wl",
+    "sources": []
+  },
+  {
+    "id": "eve-2026-04-03-013",
+    "date": "2026-04-03",
+    "companies": [
+      "eve"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "EVE Energy Reports 2025 Revenue Growth as Multi-Segment Strategy Supports Expansion - Pandaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxON1pLVWl1YjlQNlZrOEVuRmEtZ0VHZDJoWmNRSC1KR0VDbXlvb3NwVHpXMXhPNHVPRkw0bjU4UkFlcFNaaEVxRHdXSVNQSWROZ0phMWFrRXhNSFN1cVRaQ1NKLWp4c2RmRlhaOTUtWn",
+    "sources": []
+  },
+  {
+    "id": "ganfeng-2026-04-02-021",
+    "date": "2026-04-02",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Ganfeng Lithium Forecasts Strong Energy Storage Market Growth Amid AI Demand - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNaTBTTzFQcVpQVlJocWktdmNFaFowLVJ5R3hsSUQtWHBLYWNCelk4c0tHTlkzVUFqczFseWkxYW1QVmNIQnY1cTZ2a0V4WFhOQnk0ckNISmlqQ1lfRzJydzA2VG03aUFweHV2QkY0RU",
+    "sources": []
+  },
+  {
+    "id": "ganfeng-2026-04-01-020",
+    "date": "2026-04-01",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ganfeng Lithium 2025 Net Profit Surges 177.77% YoY - Gasgoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPSjdoR1dvdGphME9tWUtqSTdhNGFTU1cxcW00UGwwQUhLU05fWjd5dUV0dzk5YWxtWFZOcUZyaHVla2ZJdmFqYVBYQnJZTm01QnZ0YmNwUU5Cbm1ncVJFeGE3VVNzWFplM2dCWU9YRV",
+    "sources": []
+  },
+  {
+    "id": "eve-2026-03-30-012",
+    "date": "2026-03-30",
+    "companies": [
+      "eve"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "EVE Energy 2025 Net Profit Reaches 4.134 Billion Yuan - Gasgoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNYzFSTTNQMWg0ZWl2TWwtYURlREFfRkFtSnpGM2V6Y2VIejZUX0w1b1FIRDRsejJJLXhDS2NUSTlRTVA4TE44dmJ4Qm1uZDg3RURmUnk0Q3NHdFRqVEg4UUJEclNzMWFJbHkxQVZuSV",
+    "sources": []
+  },
+  {
+    "id": "ganfeng-2026-03-30-024",
+    "date": "2026-03-30",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ganfeng Lithium Swings Back to Profit on Higher Revenue in 2025 - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1dOejRJaTNuWWoxWjlmZ3ZNUkQ2d1BMY0hsZWQtZzU3SmhpYkNfaXJta0dOR0s0Q2lJNjhWZDBHMmhIZnlIZWpEOEE1ZlBrbUtNM2JHcUVGeTNuR0kwMzRPUjFEWVVDenk1Nk84Qj",
+    "sources": []
+  },
+  {
+    "id": "eve-2026-03-27-011",
+    "date": "2026-03-27",
+    "companies": [
+      "eve"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "EVE Energy : 2025 revenue up 26.44%, net profit up 1.44%, with strong battery shipment growth - TradingView — Track All Markets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPb2t5LXlxSUhJMndiSUlRY0h4UjYxQU50Q0dLN3RSaEt2Y0Y0b1lfT1hYS2tnVmpMNm96YVUxUk5MUHl6MkNyeVdNOFdIM0tFcmM5c281VEhnYmdLRVp0bTVaV3pqZUoyUFBEZ2xkb0",
+    "sources": []
+  },
+  {
+    "id": "sk_on-2026-03-27-014",
+    "date": "2026-03-27",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "cathode_material"
+    ],
+    "impact": "neutral",
+    "title": "SK On and Hyundai Motor's U.S.-based joint battery venture gets new name - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQREE2ZG9EaXFWSTdkU081WTYxVW5pYlZiVjY2QldLcWpFVDFFMHMzTk5GVXhmVm5ZeEZJdi1VT0VmTjJaMlJpRjd1SnhQbkF6TFZCZGFEWjVJNWdBRlNCaGJ0N0hvV1dPaV80dG02Wl",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-20-031",
+    "date": "2026-03-20",
+    "companies": [],
+    "topics": [
+      "recycling"
+    ],
+    "impact": "neutral",
+    "title": "Lithium-ion Battery Recycling Market Trends and Investment - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxOekRCMUcyMFlQcWEyZDFORzFnV2ZhSEhGaDh1azhyOFU1V3VSbThUYzJqNWlpV18wVUNVMHNWSUVUM1Rmc0JoUjYtOFJjTURTWUE5QUdFZ09SS2dUWTFJaTVnQlBOakdKcUt4aVYxdn",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-03-13-006",
     "date": "2026-03-13",
     "companies": [],
@@ -59,6 +361,59 @@
     "impact": "positive",
     "title": "Lithium price gains improve margins, prospects for unconventional supply - S&P Global",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQckVQZHVkbmh5U3Y0NjgyYzN1MXN1MFZNRmtKa1FQQmdYc0JkanpZRHlnNVNfOUVVem9LbVJvUWo3Nl94RjBCb0UxVU4zUTNydmpCaldySkRvajB6UDRLRkFsWW1hRUdDakgwYjc3RV",
+    "sources": []
+  },
+  {
+    "id": "byd-2026-03-05-029",
+    "date": "2026-03-05",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "cathode_material"
+    ],
+    "impact": "neutral",
+    "title": "BYD's new Blade EV Battery 2.0 unlocks 1,000+ km pure electric range and 10 min fast charging - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUl4ZjJwS1ItVlFPbkljWFFJZEpCNEI4ZG1OczdXVGhRTENsV3FCWG9GWTFTVmZvaV9UWGZnVjlma3RUZDVRcjhqcUh4UzFFek40NG12amJ3MjR2aEd5VGlGMnVPTjRLOUNVMTFQc0",
+    "sources": []
+  },
+  {
+    "id": "sqm-2026-02-23-019",
+    "date": "2026-02-23",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lithium output at SQM-Codelco venture edges out forecasts - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDBJUHhNOXA1NV9uZWk5OEhiVUdIbk9Ub0JBOWt3TlcxejZUX0ZMNnhWRllBYnZkQzRhTUhiY1hsYnlFSG1PTkZTY1A4ejRFZnFONFBiUnBQSDBxSG5taW0yU1V5bFQ5WG9FbVVDdG",
+    "sources": []
+  },
+  {
+    "id": "umicore-2026-02-20-030",
+    "date": "2026-02-20",
+    "companies": [
+      "umicore"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Umicore finishes 2025 with increased earnings - Recycling Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkhzSFJNbTFyTlZuSzJNbS1RQmFoQmlBblhvRkg3VmVyRjI5dWFoTGtuUG03U3dCWVd3UmRTTjdUNDB1NEZmci1jVEFDUHRsSnU0bXRpV2tzVmJhMXlXcjBHNmpxQlR5MDFtOHZWNG",
+    "sources": []
+  },
+  {
+    "id": "catl-2026-02-03-039",
+    "date": "2026-02-03",
+    "companies": [
+      "catl",
+      "byd"
+    ],
+    "topics": [
+      "lithium_price"
+    ],
+    "impact": "neutral",
+    "title": "Sodium-ion batteries enter winter EV tests as CATL and BYD hedge soaring lithium prices - Notebookcheck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOcUx6cnRSSU1qWldzU1llNXVHaVZBT1V3MlYwSWJsU3ZQRDl0UVZrU3k1NTkwVkllZUFiUlRoM3g0VFVUQkJuT2VtMTVFQVBBWmJPbDZOSkhrWG5vYXdzSW5jSWozY1M2QWJ6NDVDNj",
     "sources": []
   },
   {
@@ -116,6 +471,128 @@
     "sources": []
   },
   {
+    "id": "samsung_sdi-2025-12-10-005",
+    "date": "2025-12-10",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "cathode_material"
+    ],
+    "impact": "neutral",
+    "title": "Samsung SDI to begin LFP battery manufacturing in Indiana - Solar Power World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxObGllbWd0ZDBkbVVzLUlGeTdsRWo5YjZNaWFxeTBETUIxam1BUHhlSWxEY29WVGdSc3RtMkdvX1N4amFhUldsNFhZRkNuaWVnSWxVUzlaV3lsQk95REZHZWVmbnE1LUFwY3NDUlNWXz",
+    "sources": []
+  },
+  {
+    "id": "samsung_sdi-2025-12-09-004",
+    "date": "2025-12-09",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "cathode_material"
+    ],
+    "impact": "neutral",
+    "title": "Samsung SDI unit signs $1.4 billion LFP battery deal for US customer - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE85Z1JoVTFEalJUMEZLVkxTQlVMR25ENkZtamlpYmllNHNGdkZMSFdkVks1SVVPLVNKOWZ1MWtxUjN4OURja0s4WFFQS19FaE5ncTFuQkdWRlBnbmdvOUw0M1VtbGpRcW12M19namFFen",
+    "sources": []
+  },
+  {
+    "id": "sqm-2025-11-24-018",
+    "date": "2025-11-24",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "lithium_price"
+    ],
+    "impact": "neutral",
+    "title": "SQM Bets Big With $2.7 Billion Expansion as Lithium Prices Rebound and Demand Surges - CarbonCredits.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWIwdVRNeGdRcHZJclZfWnQzVmp5UW1zcE5OQWJtWkVMZWdMMlJJdXRfVVpPUGJHT25rTExJOVNfOUtGLTVjNmNLb2dsX2xXclBwZVA1WHkwN2dWb1hWek5lZHYwU2dpcUpPZFZhdU",
+    "sources": []
+  },
+  {
+    "id": "sqm-2025-11-19-017",
+    "date": "2025-11-19",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "lithium_price"
+    ],
+    "impact": "neutral",
+    "title": "Lithium price rebound lifts SQM profits and demand outlook - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdC1UMU01UFlPVjVORkZGckFGRmRfbWJBTnNFOG1SOE1JQ3BxWVlxMTNFNTBOY1dUR19JNTVBdW1LSEVtQXJxRklfUlZ3MkxiZmpReDdnZXBSVXhXc1JoODlrc2xyTDk0VVc1RlhiVE",
+    "sources": []
+  },
+  {
+    "id": "pilbara-2025-10-14-027",
+    "date": "2025-10-14",
+    "companies": [
+      "pilbara"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Earnings call transcript: Pilbara Minerals Q4 2025 sees revenue rise, stock uptick - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVTh5aThDV0JrcU1ZQzRxTzc0U0U3RUtYSDFGRlF6a2N3dnB1WXY4aE02dkZKNjBtWkxhZ3VHb0l1SFN5R1JUaVM0eFZka3ZHS3JQdExkZEVpdS1jeDVMWjJOdmNUWXpTTFdzeDhIdE",
+    "sources": []
+  },
+  {
+    "id": "sk_on-2025-09-05-015",
+    "date": "2025-09-05",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "cathode_material"
+    ],
+    "impact": "neutral",
+    "title": "SK On signs 7.2GWh deal to supply US-made LFP batteries to Flatiron Energy Development - Energy-Storage.News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbmRQTkpLRWZwUlZxdzdreS1TajBEdmNiTExCZ3ZWU2U3VmxhN3pBSV9nVzJpb1lNLUFETWF3eUJwcWItdW0wb09wa19SZUl0cGd2VEp3U3ZHTEhsRXBxeGd0WVhGYTlrMXZKTkE2aF",
+    "sources": []
+  },
+  {
+    "id": "pilbara-2025-08-27-026",
+    "date": "2025-08-27",
+    "companies": [
+      "pilbara"
+    ],
+    "topics": [
+      "lithium_price"
+    ],
+    "impact": "positive",
+    "title": "Pilbara Minerals Achieves Record Spodumene Production Amidst Lithium Market Challenges - Investing News Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQUHJ0ODRIcUF0bjNoaDUzdzZsZGg1c2V6bERKRFB1S0xIR2NFbFhaVS0yMHh6Mm9YTDhKWmRweHdIU0RZZFdIU2o1c3dtLVJLZmZkeFE4N2NCVFNvYk94SU5qLXhvdw?oc=5\" targe",
+    "sources": []
+  },
+  {
+    "id": "pilbara-2025-08-25-025",
+    "date": "2025-08-25",
+    "companies": [
+      "pilbara"
+    ],
+    "topics": [
+      "lithium_price"
+    ],
+    "impact": "neutral",
+    "title": "Pilbara Minerals posts sharp profit fall as lithium prices weigh, but shares climb - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeVZNaWh2QlhqSlJyazRrbkJFUGd0R1VrVm50Tk9Ocjg0ZmtrTC1OWmJweHVQSmY4Wm1hZFM4TjJKRjdUYzdUb1RFd0VlODJFN2RtMVRQS19zLU5ON3Y0QW9ZdWhPdk1mdER5QThnST",
+    "sources": []
+  },
+  {
+    "id": "pilbara-2025-08-25-028",
+    "date": "2025-08-25",
+    "companies": [
+      "pilbara"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Pilbara Minerals Reports Full Year 2025 Earnings - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPNnNaRTl3VEEwZU1RcWp5WjZtMm5pcmE1TDdicXZBbHBycTdJc09lR3JyNHhuVHZGdTE2YVdramZGcE1mWVRHYnZuVFM3LVZiajhLZngydGJtY1FtZXFsTUlWbDd4VGtLaVR1ZWNXUn",
+    "sources": []
+  },
+  {
     "id": "unknown-2025-07-11-007",
     "date": "2025-07-11",
     "companies": [],
@@ -125,6 +602,33 @@
     "impact": "negative",
     "title": "Nevada mine delayed amid lithium price plunge - Nevada Current",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxONXpva2EzSXZfa2Jwb1JaVXBMOFRpZFJyeDhPbnY2cmdKcFhCVlU4a0wyZFNKQjdZNTVITmFvQllrRzNLajF6b3paNHMzbFRCR0VLWGNtRkhSNG4tR1Z6bFV1UXIyN3ZqZFQxNVdMcl",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-06-19-033",
+    "date": "2025-06-19",
+    "companies": [],
+    "topics": [
+      "recycling"
+    ],
+    "impact": "neutral",
+    "title": "Top 10 Leaders in EV Battery Recycling Market Today - Kings Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8yc3hmejVTVU1wSWlwWGFoU3IwZkoydVFfNEJ3QlNua1FQUVo0YXJyaG42WGJwYl9aR0Y0TmtPZ2F1MWpNNUtsVEQtNkJIMTN2NnVVSDZ3MXBNTHI0QkFEbXN2WmR3c3l0UHo1QTNOTW",
+    "sources": []
+  },
+  {
+    "id": "umicore-2025-05-26-032",
+    "date": "2025-05-26",
+    "companies": [
+      "umicore",
+      "lg_energy"
+    ],
+    "topics": [
+      "recycling"
+    ],
+    "impact": "positive",
+    "title": "Battery Recycling Market Global Outlook & Forecast Report 2025-2030, with Leading Player Profiles for Call2Recycle, Glencore, LG Energy Solution, Li-Cycle, Redwood Materials, Stena Metall and Umicore - ResearchAndMarkets.com - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiANBVV95cUxOUG9Gd0pvbzdOMk03Mmg0dHgzd0NMTHBrN2ZzVEJzMDhYYmhXd0pGcGdFc1NmYnpfY1JLU2Nad212R1QwU29WemY5QjNZVnZQN1hJUF9UVUpUa0F5T0hXeGphVVBNYzI3RkdTWDdlY2",
     "sources": []
   }
 ]

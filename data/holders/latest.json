@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T09:25:33.893322+00:00",
+  "updated_at": "2026-04-15T12:03:18.662010+00:00",
   "companies": {
     "panasonic": {
       "name": "Panasonic",
@@ -192,12 +192,6 @@
           "value": 221467
         },
         {
-          "holder": "Nbc Securities, Inc.                          ",
-          "shares": 2025,
-          "pct_held": 0.0,
-          "value": 217282
-        },
-        {
           "holder": "Winch Advisory Services LLC",
           "shares": 120,
           "pct_held": 0.0,
@@ -226,6 +220,12 @@
           "shares": 1000,
           "pct_held": 0.0,
           "value": 107300
+        },
+        {
+          "holder": "Nbc Securities, Inc.                          ",
+          "shares": 2025,
+          "pct_held": 0.0,
+          "value": 217282
         }
       ]
     },
@@ -238,7 +238,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 1222,
           "pct_held": 0.0,
-          "value": 21213
+          "value": 21165
         }
       ]
     },
@@ -251,13 +251,13 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 1258,
           "pct_held": 0.0,
-          "value": 67705
+          "value": 67655
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 13985,
           "pct_held": 0.0,
-          "value": 752672
+          "value": 752113
         }
       ]
     },
@@ -471,7 +471,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 376,
           "pct_held": 0.0,
-          "value": 34216
+          "value": 34170
         }
       ]
     }
