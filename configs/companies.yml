@@ -9,6 +9,7 @@ companies:
   position: upstream
   role: 電池製造
   description: 全球最大動力電池製造商
+  rss_url: https://news.google.com/rss/search?q="CATL"+battery&hl=en&gl=US&ceid=US:en
   downstream:
   - tesla
   - nio
@@ -25,6 +26,7 @@ companies:
   position: upstream
   role: 電池製造
   description: 韓國第一大動力電池廠
+  rss_url: https://news.google.com/rss/search?q="LG+Energy+Solution"&hl=en&gl=US&ceid=US:en
   downstream:
   - tesla
   - volkswagen
@@ -39,6 +41,7 @@ companies:
   position: upstream
   role: 電池製造
   description: 三星集團電池部門
+  rss_url: https://news.google.com/rss/search?q="Samsung+SDI"+battery&hl=en&gl=US&ceid=US:en
   downstream:
   - rivian
   - volkswagen
@@ -66,6 +69,7 @@ companies:
   position: upstream
   role: 電池製造
   description: 中國主要鋰電池製造商
+  rss_url: https://news.google.com/rss/search?q="EVE+Energy"&hl=en&gl=US&ceid=US:en
   downstream:
   - byd
 - id: sk_on
@@ -79,6 +83,7 @@ companies:
   position: upstream
   role: 電池製造
   description: SK 集團電池子公司
+  rss_url: https://news.google.com/rss/search?q="SK+On"+battery&hl=en&gl=US&ceid=US:en
   downstream:
   - volkswagen
 - id: albemarle
@@ -107,6 +112,7 @@ companies:
   position: upstream
   role: 鋰礦
   description: 智利鋰礦與化工巨頭
+  rss_url: https://news.google.com/rss/search?q="SQM"+lithium+mining&hl=en&gl=US&ceid=US:en
   downstream:
   - catl
   - lg_energy
@@ -120,6 +126,7 @@ companies:
   position: upstream
   role: 鋰礦
   description: 中國最大鋰供應商
+  rss_url: https://news.google.com/rss/search?q="Ganfeng+Lithium"&hl=en&gl=US&ceid=US:en
   downstream:
   - catl
   - byd
@@ -133,6 +140,7 @@ companies:
   position: upstream
   role: 鋰礦
   description: 澳洲鋰礦開採商
+  rss_url: https://news.google.com/rss/search?q="Pilbara+Minerals"&hl=en&gl=US&ceid=US:en
   downstream:
   - ganfeng
   - catl
@@ -146,6 +154,7 @@ companies:
   position: midstream
   role: 垂直整合
   description: 電池到整車垂直整合
+  rss_url: https://news.google.com/rss/search?q="BYD"+battery+EV&hl=en&gl=US&ceid=US:en
   upstream:
   - catl
   - eve
@@ -162,6 +171,7 @@ companies:
   position: midstream
   role: 材料回收
   description: 正極材料與電池回收
+  rss_url: https://news.google.com/rss/search?q="Umicore"+battery+materials+recycling&hl=en&gl=US&ceid=US:en
   upstream:
   - albemarle
   - ganfeng
@@ -210,6 +220,7 @@ companies:
   position: downstream
   role: 電動車
   description: 美國電動皮卡新創
+  rss_url: https://news.google.com/rss/search?q="Rivian"+electric+vehicle&hl=en&gl=US&ceid=US:en
   upstream:
   - lg_energy
   - samsung_sdi
@@ -223,6 +234,7 @@ companies:
   position: downstream
   role: 電動車
   description: 中國高端電動車品牌
+  rss_url: https://news.google.com/rss/search?q="NIO"+electric+vehicle&hl=en&gl=US&ceid=US:en
   upstream:
   - catl
 - id: volkswagen
@@ -236,6 +248,7 @@ companies:
   position: downstream
   role: 電動車
   description: 歐洲最大汽車集團電動化轉型
+  rss_url: https://news.google.com/rss/search?q="Volkswagen"+electric+vehicle&hl=en&gl=US&ceid=US:en
   upstream:
   - lg_energy
   - samsung_sdi
