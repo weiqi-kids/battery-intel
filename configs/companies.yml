@@ -50,6 +50,7 @@ companies:
   ticker: 6752.T
   market: TSE
   currency: JPY
+  rss_url: https://news.panasonic.com/global/all/feed
   position: upstream
   role: 電池製造
   description: Tesla 長期電池供應商
@@ -87,6 +88,7 @@ companies:
   ticker: ALB
   market: NYSE
   currency: USD
+  rss_url: https://investors.albemarle.com/rss/news-releases.xml
   position: upstream
   role: 鋰礦
   description: 全球最大鋰供應商
@@ -174,6 +176,7 @@ companies:
   ticker: BAS.DE
   market: XETRA
   currency: EUR
+  rss_url: https://www.basf.com/global/en/media/news-releases.rss
   position: midstream
   role: 化學材料
   description: 正極材料與電解液供應商
@@ -189,6 +192,7 @@ companies:
   ticker: TSLA
   market: NASDAQ
   currency: USD
+  rss_url: https://ir.tesla.com/rss/news-releases.xml
   position: downstream
   role: 電動車
   description: 全球電動車龍頭

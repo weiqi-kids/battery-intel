@@ -1,0 +1,30 @@
+# Battery & EV industry news feeds
+
+feeds:
+  # Industry media
+  - id: electrek
+    name: Electrek
+    url: https://electrek.co/feed/
+    description: EV, Tesla, green energy and ebike news
+  - id: insideevs
+    name: InsideEVs
+    url: https://insideevs.com/rss/news/all/
+    description: Electric vehicle news, reviews, and reports
+  - id: cnevpost
+    name: CnEVPost
+    url: https://cnevpost.com/feed/
+    description: China EV and battery industry news in English
+  - id: teslarati
+    name: Teslarati
+    url: https://www.teslarati.com/feed/
+    description: Tesla and EV industry news
+
+  # Google News topic feeds
+  - id: google_news_ev_battery
+    name: Google News - EV Battery
+    url: https://news.google.com/rss/search?q=EV+battery+lithium+CATL+BYD&hl=en
+    description: Google News aggregation for EV battery industry
+  - id: google_news_lithium
+    name: Google News - Lithium Market
+    url: https://news.google.com/rss/search?q=lithium+price+mining+market&hl=en
+    description: Google News aggregation for lithium market
