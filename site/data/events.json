@@ -1,5 +1,43 @@
 [
   {
+    "id": "unknown-2026-04-14-001",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "ev_sales"
+    ],
+    "impact": "positive",
+    "title": "Global EV sales hit 4M in Q1 2026, but growth is uneven",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/03/Kia-EV2-prices-Europe-2.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Global EV sales are still huge, ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-002",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "ev_sales"
+    ],
+    "impact": "neutral",
+    "title": "Ionna Is Teaming Up With Circle K To Boost Its EV Charging Network",
+    "summary": "Even as EV sales cool in the U.S., Ionna’s charger expansion continues to move forward aggressively.",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-13-005",
+    "date": "2026-04-13",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "lithium_price"
+    ],
+    "impact": "neutral",
+    "title": "As lithium prices skyrocket, Elon considers Tesla getting into the mining industry - Not a Tesla App",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE04TUo5ZlB6Yy1xalZsdG8zTXRpVG9QMDE2QTZXWC1iS0JqVmpKNTFhYUF0a3ptZWlsOW1kaUJrSHNESjJjME9PZVo3S0IwNGND?oc=5\" target=\"_blank\">As lithium prices s",
+    "sources": []
+  },
+  {
     "id": "tesla-2026-04-10-001",
     "date": "2026-04-10",
     "companies": [
@@ -9,6 +47,60 @@
     "impact": "neutral",
     "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
     "summary": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                            ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-13-006",
+    "date": "2026-03-13",
+    "companies": [],
+    "topics": [
+      "lithium_price"
+    ],
+    "impact": "positive",
+    "title": "Lithium price gains improve margins, prospects for unconventional supply - S&P Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQckVQZHVkbmh5U3Y0NjgyYzN1MXN1MFZNRmtKa1FQQmdYc0JkanpZRHlnNVNfOUVVem9LbVJvUWo3Nl94RjBCb0UxVU4zUTNydmpCaldySkRvajB6UDRLRkFsWW1hRUdDakgwYjc3RV",
+    "sources": []
+  },
+  {
+    "id": "catl-2026-01-30-003",
+    "date": "2026-01-30",
+    "companies": [
+      "catl",
+      "byd"
+    ],
+    "topics": [
+      "lithium_price"
+    ],
+    "impact": "neutral",
+    "title": "CATL and BYD are betting on a new type of EV battery to overcome rising lithium prices - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBJcUh1Nm9MVVRyNWRUak1IQkVKcWllQVBlNFVCTlVvZDdfenBnMWZyWUMyWHdWbWt4NnR6Nno1YnU3Y3FKZ3l4dEY5LVB2aVFmZHFaSEJZNFhtbWFxOGNmc0Qxd25yVnA0QkJCd2FZdn",
+    "sources": []
+  },
+  {
+    "id": "catl-2026-01-30-004",
+    "date": "2026-01-30",
+    "companies": [
+      "catl",
+      "byd"
+    ],
+    "topics": [
+      "lithium_price"
+    ],
+    "impact": "neutral",
+    "title": "CATL, BYD fast-track sodium-ion battery shift as lithium prices soar - CarNewsChina.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPQndsV3BHNmUwS29sV2dkaHdOYnI3dVdwZ3U2V2daRmlEaTNRd25wREdhWFZqaDlaZnprVEVYWGdZMzMwbWlxRk1GVk1yYU1RZDFaaUJ6bC1qbW96MUlpNE0xNzN1SE1zQ3NmZUpDYW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-07-11-007",
+    "date": "2025-07-11",
+    "companies": [],
+    "topics": [
+      "lithium_price"
+    ],
+    "impact": "negative",
+    "title": "Nevada mine delayed amid lithium price plunge - Nevada Current",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxONXpva2EzSXZfa2Jwb1JaVXBMOFRpZFJyeDhPbnY2cmdKcFhCVlU4a0wyZFNKQjdZNTVITmFvQllrRzNLajF6b3paNHMzbFRCR0VLWGNtRkhSNG4tR1Z6bFV1UXIyN3ZqZFQxNVdMcl",
     "sources": []
   }
 ]
