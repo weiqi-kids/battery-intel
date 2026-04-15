@@ -6,8 +6,8 @@
       "short_name": "寧德時代",
       "position": "upstream",
       "role": "電池製造",
-      "x": 0.05,
-      "y": 0.04
+      "x": 0.08,
+      "y": 0.06
     },
     {
       "id": "lg_energy",
@@ -15,8 +15,8 @@
       "short_name": "LG新能源",
       "position": "upstream",
       "role": "電池製造",
-      "x": 0.23,
-      "y": 0.04
+      "x": 0.248,
+      "y": 0.06
     },
     {
       "id": "samsung_sdi",
@@ -24,8 +24,8 @@
       "short_name": "三星SDI",
       "position": "upstream",
       "role": "電池製造",
-      "x": 0.41,
-      "y": 0.04
+      "x": 0.416,
+      "y": 0.06
     },
     {
       "id": "panasonic",
@@ -33,8 +33,8 @@
       "short_name": "松下",
       "position": "upstream",
       "role": "電池製造",
-      "x": 0.59,
-      "y": 0.04
+      "x": 0.584,
+      "y": 0.06
     },
     {
       "id": "eve",
@@ -42,8 +42,8 @@
       "short_name": "億緯鋰能",
       "position": "upstream",
       "role": "電池製造",
-      "x": 0.77,
-      "y": 0.04
+      "x": 0.752,
+      "y": 0.06
     },
     {
       "id": "sk_on",
@@ -51,8 +51,8 @@
       "short_name": "SK創新",
       "position": "upstream",
       "role": "電池製造",
-      "x": 0.95,
-      "y": 0.04
+      "x": 0.92,
+      "y": 0.06
     },
     {
       "id": "albemarle",
@@ -60,8 +60,8 @@
       "short_name": "雅保",
       "position": "upstream",
       "role": "鋰礦",
-      "x": 0.05,
-      "y": 0.3
+      "x": 0.08,
+      "y": 0.28
     },
     {
       "id": "sqm",
@@ -69,8 +69,8 @@
       "short_name": "智利化工",
       "position": "upstream",
       "role": "鋰礦",
-      "x": 0.35,
-      "y": 0.3
+      "x": 0.36,
+      "y": 0.28
     },
     {
       "id": "ganfeng",
@@ -78,8 +78,8 @@
       "short_name": "贛鋒鋰業",
       "position": "upstream",
       "role": "鋰礦",
-      "x": 0.65,
-      "y": 0.3
+      "x": 0.64,
+      "y": 0.28
     },
     {
       "id": "pilbara",
@@ -87,8 +87,8 @@
       "short_name": "Pilbara Minerals",
       "position": "upstream",
       "role": "鋰礦",
-      "x": 0.95,
-      "y": 0.3
+      "x": 0.92,
+      "y": 0.28
     },
     {
       "id": "byd",
@@ -96,8 +96,8 @@
       "short_name": "比亞迪",
       "position": "midstream",
       "role": "垂直整合",
-      "x": 0.5,
-      "y": 0.35
+      "x": 0.08,
+      "y": 0.5
     },
     {
       "id": "umicore",
@@ -114,8 +114,8 @@
       "short_name": "巴斯夫",
       "position": "midstream",
       "role": "化學材料",
-      "x": 0.5,
-      "y": 0.65
+      "x": 0.92,
+      "y": 0.5
     },
     {
       "id": "tesla",
@@ -123,7 +123,7 @@
       "short_name": "特斯拉",
       "position": "downstream",
       "role": "電動車",
-      "x": 0.05,
+      "x": 0.08,
       "y": 0.83
     },
     {
@@ -132,7 +132,7 @@
       "short_name": "Rivian",
       "position": "downstream",
       "role": "電動車",
-      "x": 0.35,
+      "x": 0.36,
       "y": 0.83
     },
     {
@@ -141,7 +141,7 @@
       "short_name": "蔚來",
       "position": "downstream",
       "role": "電動車",
-      "x": 0.65,
+      "x": 0.64,
       "y": 0.83
     },
     {
@@ -150,7 +150,7 @@
       "short_name": "福斯",
       "position": "downstream",
       "role": "電動車",
-      "x": 0.95,
+      "x": 0.92,
       "y": 0.83
     }
   ],
@@ -298,20 +298,14 @@
   ],
   "etfs": [
     {
-      "id": "etf_lit",
+      "id": "lit",
       "name": "Global X Lithium & Battery Tech ETF",
-      "ticker": "LIT",
-      "market": "NYSE",
-      "currency": "USD",
-      "description": "鋰電池產業 ETF"
+      "ticker": "LIT"
     },
     {
-      "id": "etf_batt",
+      "id": "batt",
       "name": "Amplify Lithium & Battery Technology ETF",
-      "ticker": "BATT",
-      "market": "NYSE",
-      "currency": "USD",
-      "description": "電池技術 ETF"
+      "ticker": "BATT"
     }
   ]
 }
