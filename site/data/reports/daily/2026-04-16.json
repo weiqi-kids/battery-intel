@@ -1,0 +1,166 @@
+{
+  "date": "2026-04-16",
+  "generated_at": "2026-04-16T09:24:48.511753Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-04-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Battery Maker CATL’s Profit Climbs Despite Slowing China EV Sales - WSJ",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-04-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL scores 52.45% YoY surge in Q1 2026 revenue - Gasgoo",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-04-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL shares surge on strong earnings, mining push - Latest news from Azerbaijan",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-04-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Battery Maker CATL's Profit Climbs Despite Slowing China EV Sales -- Update - marketscreener.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "ganfeng-2026-04-16-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Morning Market Movements | Ganfeng Lithium Surges Over 7%, Annual Net Profit Soars 177% Year-on-Year - 富途牛牛",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 5
+      },
+      {
+        "id": "ganfeng",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "ev_sales",
+        "count": 2
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為寧德時代、贛鋒鋰業相關動態：「Battery Maker CATL’s Profit Climbs Despite Slowing China ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Battery Maker CATL’s Profit Climbs Despite Slowing China EV Sales - WSJ（電動車銷量）",
+        "level": "green"
+      },
+      {
+        "text": "CATL scores 52.45% YoY surge in Q1 2026 revenue - Gasgoo",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
