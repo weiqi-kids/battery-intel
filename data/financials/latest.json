@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-16T09:24:45.722995Z",
-  "quarter": "2025-03-31, 2025-12-31",
+  "updated_at": "2026-04-17T09:23:11.526025Z",
+  "quarter": "2025-03-31, 2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "albemarle",
@@ -49,14 +49,14 @@
       "name": "寧德時代",
       "ticker": "300750.SZ",
       "currency": "CNY",
-      "ar": 76403264000,
-      "ar_prev": 63800375000,
-      "ar_qoq": "+20%",
-      "inventory": 94526239000,
-      "inv_prev": 72272139000,
-      "inv_qoq": "+31%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "ar": 77710096000,
+      "ar_prev": 76403264000,
+      "ar_qoq": "+2%",
+      "inventory": 108940929000,
+      "inv_prev": 94526239000,
+      "inv_qoq": "+15%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "eve",

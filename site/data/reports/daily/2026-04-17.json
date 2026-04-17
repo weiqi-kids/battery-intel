@@ -1,0 +1,164 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T09:23:14.247887Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-04-17-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CATL Q1 Earnings Beat Expectations, Shares Hit Record Highs - Pandaily",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-04-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Q1 2026 Profit Surge & 30B Yuan Mining Expansion Drive Shares Higher - News and Statistics - IndexBox",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-04-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Q1 profit jumps on strong battery demand - Tech in Asia",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "ganfeng-2026-04-17-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ganfeng Lithium Group Forecasts Return to Profitability in Q1 2026 - marketscreener.com",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "ganfeng-2026-04-17-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese lithium firm Ganfeng swings to profit - Tech in Asia",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 3
+      },
+      {
+        "id": "ganfeng",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為寧德時代、贛鋒鋰業相關動態：「CATL Q1 Earnings Beat Expectations, Shares Hit Record Hig...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CATL Q1 Earnings Beat Expectations, Shares Hit Record Highs - Pandaily",
+        "level": "green"
+      },
+      {
+        "text": "CATL Q1 2026 Profit Surge & 30B Yuan Mining Expansion Drive Shares Higher - N...",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
