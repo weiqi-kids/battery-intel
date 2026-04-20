@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T10:02:41.015373Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ganfeng-2026-04-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of America Securities: Ganfeng Lithium (01772.HK) Q1 profit significantly exceeded expectations; target price raised to HKD 92. - 富途牛牛",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "ganfeng-2026-04-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BofAS: Ganfeng Lithium (01772.HK) 1Q Profit Far Exceeds Expectations, Raises TP to HKD92 - AASTOCKS.com",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "ganfeng-2026-04-20-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BofAS: GANFENGLITHIUM (01772.HK) TP Elevated to $92 as 1Q Earnings Far Beat - AASTOCKS.com",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ganfeng",
+        "count": 3
+      }
+    ],
+    "top_topics": []
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為贛鋒鋰業相關動態：「Bank of America Securities: Ganfeng Lithium (01772.HK) Q1...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Bank of America Securities: Ganfeng Lithium (01772.HK) Q1 profit significantl...",
+        "level": "green"
+      },
+      {
+        "text": "BofAS: Ganfeng Lithium (01772.HK) 1Q Profit Far Exceeds Expectations, Raises ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
