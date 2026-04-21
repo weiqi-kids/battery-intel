@@ -1,0 +1,128 @@
+{
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T09:44:03.070949Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_sdi-2026-04-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Key facts: MBG -49% profit; 13.7M shares; Samsung SDI EV batteries - TradingView",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "ganfeng-2026-04-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Benefiting from Rising Lithium Prices, Ganfeng Lithium Expects Q1 Return to Profitability - Gasgoo",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "lithium_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "tesla-2026-04-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tesla (TSLA) Q1 2026 earnings preview: the growth story is dead",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_sdi",
+        "count": 1
+      },
+      {
+        "id": "ganfeng",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為三星SDI、贛鋒鋰業、特斯拉相關動態：「Key facts: MBG -49% profit; 13.7M shares; Samsung SDI EV ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Key facts: MBG -49% profit; 13.7M shares; Samsung SDI EV batteries - TradingView",
+        "level": "green"
+      },
+      {
+        "text": "Benefiting from Rising Lithium Prices, Ganfeng Lithium Expects Q1 Return to P...（鋰價）",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
