@@ -1,5 +1,17 @@
 [
   {
+    "id": "unknown-2026-04-23-007",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "ev_sales"
+    ],
+    "impact": "positive",
+    "title": "Europe’s EV Sales Surge Is Leaving The U.S. In The Dust",
+    "summary": "EVs are now keeping Europe’s car industry in the green, charging forward with double-digit increases in the first quarter.",
+    "sources": []
+  },
+  {
     "id": "volkswagen-2026-04-22-008",
     "date": "2026-04-22",
     "companies": [
@@ -11,6 +23,66 @@
     "impact": "neutral",
     "title": "VW’s EV offensive in China takes shape - electrive.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNcm5xUlhjcHM0UjMxYWFZMG9OSnR4Rk5idWxVa0RGMDQxNVlYR3FfWHlPY2lGUmwyNGVxLUw5U1lKYUJKMXl2Q0FrYnlmcHRKRjgwY2lhSjVxalNVWXVMTUFwVGYxYnNCT09vN2EyMS",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-001",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "lithium_price"
+    ],
+    "impact": "neutral",
+    "title": "Lithium Prices Rebound, \"Ice and Fire\" in the Supply Chain - Gasgoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdG10dFF2Qld3alRsdkJKaDN0Yi1sU1cydVBvVl9fRnJpczJaZ0FuenF3enpuYkZWTG0xLXQwcTVrblhoazc0aW5sZHduU2MteDdnLWh1S3BMRURiSkFNVVZHcmRCei1HdTN4eEJhVn",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-22-005",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Tesla (TSLA) pulled questionable levers to make Q1 2026 financials look good",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Cybertruck-charging-hero.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Tesla’s Q1 2026 earnings b",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-22-006",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla (TSLA) releases Q1 2026 financial results: slight beat on earnings",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-Q2-2025-earnings-hero.png?w=1600\" /></div><p>Tesla (TSLA) released its financial results and shareholders",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-22-008",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla (TSLA) Q1 2026 earnings results: beat on EPS and revenues",
+    "summary": "<p>Tesla (NASDAQ: TSLA) reported its earnings for the first quarter of 2026 on Wednesday afternoon. Here&#8217;s what the company reported compared to what Wall Street analysts expected. The earnings ",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-22-009",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla Earnings: financial expectations and what we should to hear about",
+    "summary": "<p>In terms of discussions, Tesla earnings calls are usually a great time to get some clarification on the company's outlook for its current and future projects.</p>\n<p>The post <a href=\"https://www.t",
     "sources": []
   },
   {
@@ -491,6 +563,18 @@
     "impact": "neutral",
     "title": "GANFENG LITHIUM (01772.HK) Expects 1Q Net Profit RMB1.6B to RMB2.1B, Turning to ProfitFinancial News - AASTOCKS.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWtUNTh2UzFLd3loakRncHFlcEJqOE9OYzROMC1DRmVNYnZ0b2NQQ2JtMXg0VUNFeGt2RE9EdkJLNWVKVnhQRXlCSWVMbUhtamhjRzBsY3c1aUFISFJwTU5talpoWWZXdW5OMXZheW",
+    "sources": []
+  },
+  {
+    "id": "ganfeng-2026-04-16-002",
+    "date": "2026-04-16",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ganfeng Lithium Expects to Swing to Profit For 1Q >002460.SZ - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNX3pvc0RTbUoycUdFSmRoSnJaM2JBejBlM1hUS3dGdUwyYlEwZ2lnZE5xaEJvSFlHelZMdGk0VWRONkU3UFlsR2VtRTlJQjVhS3lJRDRLdUZMWFZSOHJISGV6NFhzOEg2RW1mUXBwWV",
     "sources": []
   },
   {
@@ -1266,6 +1350,18 @@
     "sources": []
   },
   {
+    "id": "umicore-2025-08-03-004",
+    "date": "2025-08-03",
+    "companies": [
+      "umicore"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Umicore boosts revenue, returns to profitability - Recycling Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHdjVFh5R3c2ZmJrU2tMZXlnU1huMm9nQWtDRmJ2SlA1SFFadGE4QkNER0pnYVdSV2xQQU1MaUhnVm9lTDBuZzlWeVNka1BYNk1ORnBWNlIzWV9QT2JGV0NBU2pBeFFnRFZERzlOT2",
+    "sources": []
+  },
+  {
     "id": "unknown-2025-07-11-007",
     "date": "2025-07-11",
     "companies": [],
@@ -1339,6 +1435,20 @@
     ],
     "impact": "neutral",
     "title": "Umicore wants to build the world’s largest battery recycling plant - Chemical & Engineering News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPUm9LbXBTaFhubmlHY24wT2RHOFdBT2FJNkxZRTBqU1RmaERHYXkzOEt5alQtVXJMS3BPNDhXODlUVFNGUEVCbERWclZKOHdlMWl4ZG5qWU1hR01EUmtYdmpjTmF1enZFbHg0STRZZj",
+    "sources": []
+  },
+  {
+    "id": "umicore-2022-06-23-003",
+    "date": "2022-06-23",
+    "companies": [
+      "umicore"
+    ],
+    "topics": [
+      "recycling"
+    ],
+    "impact": "neutral",
+    "title": "Umicore wants to build the world’s largest battery recycling plant - C&EN",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPUm9LbXBTaFhubmlHY24wT2RHOFdBT2FJNkxZRTBqU1RmaERHYXkzOEt5alQtVXJMS3BPNDhXODlUVFNGUEVCbERWclZKOHdlMWl4ZG5qWU1hR01EUmtYdmpjTmF1enZFbHg0STRZZj",
     "sources": []
   }

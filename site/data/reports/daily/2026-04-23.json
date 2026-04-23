@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T09:48:59.827806Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-23-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Europe’s EV Sales Surge Is Leaving The U.S. In The Dust",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為電動車銷量相關動態：「Europe’s EV Sales Surge Is Leaving The U.S. In The Dust」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Europe’s EV Sales Surge Is Leaving The U.S. In The Dust（電動車銷量）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
