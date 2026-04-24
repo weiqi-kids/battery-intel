@@ -1,0 +1,164 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T09:48:44.097959Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pilbara-2026-04-24-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Earnings call transcript: Pilbara Minerals Q3 2026 sees record results and strategic expansion - Investing.com Australia",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "ganfeng-2026-04-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "World's Largest Lithium Mine Cuts Full-Year Output Forecast; Ganfeng Lithium (01772.HK) Gains Nearly 7% at Midday - AASTOCKS.com",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "ganfeng-2026-04-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The world's largest lithium mine has lowered its full-year production forecast. Ganfeng Lithium (01772.HK) closed up nearly 7% at midday. - 富途牛牛",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "ganfeng-2026-04-24-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GANFENGLITHIUM Rallies ~7% at Midday; World's Largest Lithium Mine Cuts Full-Yr Output Forecast - AASTOCKS.com",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-24-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PLS Group reports 86% rise in quarterly spodumene production - Mining.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "lithium_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ganfeng",
+        "count": 3
+      },
+      {
+        "id": "pilbara",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為贛鋒鋰業、Pilbara Minerals相關動態：「Earnings call transcript: Pilbara Minerals Q3 2026 sees r...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Earnings call transcript: Pilbara Minerals Q3 2026 sees record results and st...",
+        "level": "green"
+      },
+      {
+        "text": "World's Largest Lithium Mine Cuts Full-Year Output Forecast; Ganfeng Lithium ...",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
