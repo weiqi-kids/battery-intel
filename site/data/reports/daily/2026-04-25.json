@@ -1,0 +1,58 @@
+{
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T08:59:02.542973Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eve-2026-04-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EVE Energy : Q1 revenue up 61.61% and net profit up 31.35%, driven by strong battery shipments - TradingView",
+      "companies": [
+        "eve"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "eve",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為億緯鋰能相關動態：「EVE Energy : Q1 revenue up 61.61% and net profit up 31.35...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "EVE Energy : Q1 revenue up 61.61% and net profit up 31.35%, driven by strong ...",
+        "level": "green"
+      },
+      {
+        "text": "億緯鋰能為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

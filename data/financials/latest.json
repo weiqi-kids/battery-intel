@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T09:48:40.057896Z",
+  "updated_at": "2026-04-25T08:58:59.587004Z",
   "quarter": "2025-03-31, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -189,14 +189,14 @@
       "name": "特斯拉",
       "ticker": "TSLA",
       "currency": "USD",
-      "ar": 4576000000,
-      "ar_prev": 4703000000,
-      "ar_qoq": "-3%",
-      "inventory": 12392000000,
-      "inv_prev": 12276000000,
-      "inv_qoq": "+1%",
+      "ar": 3959000000,
+      "ar_prev": 4576000000,
+      "ar_qoq": "-13%",
+      "inventory": 14434000000,
+      "inv_prev": 12392000000,
+      "inv_qoq": "+16%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "umicore",
