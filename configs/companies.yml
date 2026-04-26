@@ -15,6 +15,7 @@ companies:
   - nio
   - volkswagen
   - byd
+  fetch_mode: http
 - id: lg_energy
   name: LG Energy Solution
   aliases:
@@ -31,6 +32,7 @@ companies:
   - tesla
   - volkswagen
   - rivian
+  fetch_mode: http
 - id: samsung_sdi
   name: Samsung SDI
   aliases:
@@ -45,6 +47,7 @@ companies:
   downstream:
   - rivian
   - volkswagen
+  fetch_mode: http
 - id: panasonic
   name: Panasonic
   aliases:
@@ -59,6 +62,7 @@ companies:
   description: Tesla 長期電池供應商
   downstream:
   - tesla
+  fetch_mode: http
 - id: eve
   name: EVE Energy
   aliases:
@@ -72,6 +76,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="EVE+Energy"&hl=en&gl=US&ceid=US:en
   downstream:
   - byd
+  fetch_mode: http
 - id: sk_on
   name: SK On
   aliases:
@@ -86,6 +91,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="SK+On"+battery&hl=en&gl=US&ceid=US:en
   downstream:
   - volkswagen
+  fetch_mode: http
 - id: albemarle
   name: Albemarle
   aliases:
@@ -101,6 +107,7 @@ companies:
   - catl
   - lg_energy
   - panasonic
+  fetch_mode: http
 - id: sqm
   name: SQM
   aliases:
@@ -116,6 +123,7 @@ companies:
   downstream:
   - catl
   - lg_energy
+  fetch_mode: http
 - id: ganfeng
   name: Ganfeng Lithium
   aliases:
@@ -131,6 +139,7 @@ companies:
   - catl
   - byd
   - tesla
+  fetch_mode: http
 - id: pilbara
   name: Pilbara Minerals
   aliases: []
@@ -144,6 +153,7 @@ companies:
   downstream:
   - ganfeng
   - catl
+  fetch_mode: http
 - id: byd
   name: BYD
   aliases:
@@ -161,6 +171,7 @@ companies:
   - ganfeng
   downstream:
   - tesla
+  fetch_mode: http
 - id: umicore
   name: Umicore
   aliases:
@@ -179,6 +190,7 @@ companies:
   - catl
   - lg_energy
   - samsung_sdi
+  fetch_mode: http
 - id: basf
   name: BASF
   aliases:
@@ -195,6 +207,7 @@ companies:
   downstream:
   - catl
   - lg_energy
+  fetch_mode: http
 - id: tesla
   name: Tesla
   aliases:
@@ -211,6 +224,7 @@ companies:
   - lg_energy
   - panasonic
   - ganfeng
+  fetch_mode: http
 - id: rivian
   name: Rivian
   aliases: []
@@ -224,6 +238,7 @@ companies:
   upstream:
   - lg_energy
   - samsung_sdi
+  fetch_mode: http
 - id: nio
   name: NIO
   aliases:
@@ -237,6 +252,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="NIO"+electric+vehicle&hl=en&gl=US&ceid=US:en
   upstream:
   - catl
+  fetch_mode: http
 - id: volkswagen
   name: Volkswagen
   aliases:
@@ -253,6 +269,7 @@ companies:
   - lg_energy
   - samsung_sdi
   - sk_on
+  fetch_mode: http
 etfs:
 - id: lit
   name: Global X Lithium & Battery Tech ETF
