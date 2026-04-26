@@ -1,29 +1,165 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T09:08:28.251156Z",
-  "top_events": [],
+  "generated_at": "2026-04-26T14:10:05.472828Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-04-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Says Its New EV Battery Can Charge From 10 To 98 Percent In Just 6.5 Minutes - Carscoops",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSU4td1daWDI3cVBGMFRuRkJRUUtZRmdPUEVabmgwLW1Icnl0MGlBMWM3UmhSMklvcGNUdG9TSTY4ZVVQcVdOV3dEX1IxcXNlanEzSnBGcExwNUJIcGtWc1J4WThQMk4yODJOQ3c3SVVkclo4RHp4QTNMaUtnaW9lOWZ0VXdEbWt3eElpMXBJZWdkbTJLb1pybEhvODJpbTFnemVLSWlhRG96ZmFpcy1vR2xydWdVNjg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "volkswagen-2026-04-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EV makers escalate fight for direct sales as VW-backed Scout challenges franchise laws - Automotive News",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2eUZmcmVOZ0o4cnRFUWZCTFEzUG5BNzlzczQtb0QwVnJVM2FYOEx1Vlh3SngySGVlWURVS19iZWFpN042NHgxREM1dDRFb08wWkxvel9HYW9tSll1dGVKS05MWlNQNkplcmg1TnkwSDd4aUV0UjIxaA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why not sell EVs the way Apple sells iPhones? - Automotive News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZWnlLZ1AtbDE1eGRDNDh0RjdUYVl0VUNNV0FxeFZsM3QtX2M0QUp6empvZXNjQ3lfb1pnWUJsam1IdHY5eVVtVTFMd0JNQ3BKc2kwY1Z2LWlzc0pNVW1wM3dmRmZnWTdTSGZwZ3VLMXR5SnRtSTJ6dHk5WFpOdWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nio-2026-04-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NIO Unveils ES9 Flagship SUV and Expands EV Ecosystem at Auto China 2026 - Electric Cars Report",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVmZkUzl4bmlzWlNZbVJ4c1V2Q0RsZEhfUF9iaTZxMzNYeTF6N0trbGlkRGx4aUZLMC1pMnNQUjVJRlJxTnNLa1ZmSHV4dmFhRXdNOGl3Wlc5QVh5VlJVZkZiR3BBcjVnamR0OWUzY24wMG5uaHc0TEJNalRfbTk3dGpJdVJDYUl3YWdidzlRdVJaQWN2N00zeEpfZ2F5YXpaYllibUFCdWxNbWozM2doN3RB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New bill in California senate could turn your home battery into a moneymaker",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/04/25/new-bill-in-california-senate-could-turn-your-home-battery-into-a-moneymaker/"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 7,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 0,
+      "positive": 2,
+      "neutral": 5,
       "negative": 0
     },
-    "top_companies": [],
-    "top_topics": []
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "catl",
+        "count": 1
+      },
+      {
+        "id": "volkswagen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 430,
-    "dup_title": 113,
-    "too_old": 145,
-    "gate1_blocked": 111,
-    "gate2_blocked": 48,
-    "passed": 13,
-    "pass_rate": "4.1%",
-    "gate2_block_rate": "15.1%",
+    "total_raw": 860,
+    "dup_title": 236,
+    "too_old": 282,
+    "gate1_blocked": 150,
+    "gate2_blocked": 67,
+    "passed": 125,
+    "pass_rate": "20.0%",
+    "gate2_block_rate": "10.7%",
     "gate2_samples": [
       "CATL claims 6-minute charge and 1,500km range for new electric vehicle batteries - Financial Times",
       "CATL debuts six stunning battery innovations, including 1,500km EV option and 6-minute charge - The ",
@@ -34,14 +170,14 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-26 無電池產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 7 則事件，焦點為蔚來、寧德時代、福斯相關動態：「CATL Says Its New EV Battery Can Charge From 10 To 98 Per...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
+        "text": "CATL Says Its New EV Battery Can Charge From 10 To 98 Percent In Just 6.5 Min...（電池產業通用）",
         "level": "green"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "EV makers escalate fight for direct sales as VW-backed Scout challenges franc...（電池產業通用）",
         "level": "green"
       }
     ]

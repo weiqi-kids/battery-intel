@@ -1,11 +1,11 @@
 {
-  "total_raw": 430,
-  "dup_title": 113,
+  "total_raw": 860,
+  "dup_title": 236,
   "no_date": 0,
-  "too_old": 145,
-  "gate1_fail": 111,
-  "gate2_fail": 48,
-  "passed": 13,
+  "too_old": 282,
+  "gate1_fail": 150,
+  "gate2_fail": 67,
+  "passed": 125,
   "gate2_samples": [
     "CATL claims 6-minute charge and 1,500km range for new electric vehicle batteries - Financial Times",
     "CATL debuts six stunning battery innovations, including 1,500km EV option and 6-minute charge - The ",

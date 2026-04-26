@@ -1,8 +1,26 @@
 {
   "date": "2026-04-26",
-  "total_events": 0,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 7,
+  "by_company": {
+    "catl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 7,
+      "sentiment_avg": 0.14
+    }
+  },
   "baselines_used": {
     "companies": {},
     "topics": {}

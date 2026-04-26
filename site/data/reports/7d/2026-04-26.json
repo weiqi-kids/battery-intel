@@ -4,7 +4,7 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T09:08:28.317390Z",
+  "generated_at": "2026-04-26T14:10:05.525076Z",
   "highlights": [
     {
       "rank": 1,
@@ -18,7 +18,7 @@
       "type": "emerging_relation",
       "company_a": "byd",
       "company_b": "catl",
-      "co_mention_count": 3,
+      "co_mention_count": 4,
       "rank": 2
     }
   ],
@@ -41,6 +41,12 @@
       "last_week": 4,
       "week_over_week_change": "-75%",
       "sentiment_this_week": 0.5
+    },
+    "industry_general": {
+      "this_week": 7,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.14
     }
   },
   "company_7d_summary": {
@@ -52,35 +58,45 @@
     "samsung_sdi": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 2
+      "rank": 4
     },
     "tesla": {
       "event_count": 1,
       "sentiment_avg": 0.5,
-      "rank": 3
+      "rank": 5
     },
     "volkswagen": {
-      "event_count": 1,
+      "event_count": 2,
       "sentiment_avg": 0.0,
-      "rank": 4
+      "rank": 2
     },
     "pilbara": {
       "event_count": 1,
       "sentiment_avg": 1.0,
-      "rank": 5
+      "rank": 6
     },
     "eve": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 6
+      "rank": 7
+    },
+    "catl": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nio": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 3
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 14,
+        "this": 21,
         "last": 14,
-        "change_pct": 0.0
+        "change_pct": 50.0
       }
     }
   },
@@ -117,12 +133,12 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 0,
+      "event_count": 7,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 14 則事件，重點為「CATL one-ups BYD with its new LFP EV battery ca...」。特斯拉、Pilbara Minerals表現正面，整體氣氛穩健。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 21 則事件，重點為「CATL one-ups BYD with its new LFP EV battery ca...」。蔚來、特斯拉表現正面，整體氣氛穩健。",
     "watchlist": [
       {
         "company": "贛鋒鋰業",
