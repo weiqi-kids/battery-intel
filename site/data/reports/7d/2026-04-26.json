@@ -4,7 +4,7 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T03:21:14.171782Z",
+  "generated_at": "2026-04-26T09:08:28.317390Z",
   "highlights": [
     {
       "rank": 1,
@@ -13,6 +13,13 @@
       "date": "2026-04-21",
       "title": "CATL one-ups BYD with its new LFP EV battery capable of a full recharge in just 6 minutes - Electrek",
       "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "catl",
+      "co_mention_count": 3,
+      "rank": 2
     }
   ],
   "anomalies_7d": [],

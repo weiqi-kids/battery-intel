@@ -1,16 +1,16 @@
 {
-  "total_raw": 360,
-  "dup_title": 124,
+  "total_raw": 430,
+  "dup_title": 113,
   "no_date": 0,
-  "too_old": 143,
-  "gate1_fail": 47,
-  "gate2_fail": 46,
-  "passed": 0,
+  "too_old": 145,
+  "gate1_fail": 111,
+  "gate2_fail": 48,
+  "passed": 13,
   "gate2_samples": [
-    "This new EV battery from CATL can get to an 80% charge in under 4 minutes - Fast Company",
     "CATL claims 6-minute charge and 1,500km range for new electric vehicle batteries - Financial Times",
     "CATL debuts six stunning battery innovations, including 1,500km EV option and 6-minute charge - The ",
+    "China’s CATL reveals 621-mile EV battery, under-7-minute charging to challenge BYD - Interesting Eng",
     "China’s CATL Debuts EV Battery With Speedy Six-Minute Recharge - Bloomberg.com",
-    "China’s CATL reveals 621-mile EV battery, under-7-minute charging to challenge BYD - Interesting Eng"
+    "CATL renews its battery line-up - electrive.com"
   ]
 }

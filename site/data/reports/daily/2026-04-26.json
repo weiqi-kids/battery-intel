@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:21:14.108151Z",
+  "generated_at": "2026-04-26T09:08:28.251156Z",
   "top_events": [],
   "anomalies": [],
   "topic_trends": {},
@@ -14,6 +14,24 @@
     },
     "top_companies": [],
     "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 430,
+    "dup_title": 113,
+    "too_old": 145,
+    "gate1_blocked": 111,
+    "gate2_blocked": 48,
+    "passed": 13,
+    "pass_rate": "4.1%",
+    "gate2_block_rate": "15.1%",
+    "gate2_samples": [
+      "CATL claims 6-minute charge and 1,500km range for new electric vehicle batteries - Financial Times",
+      "CATL debuts six stunning battery innovations, including 1,500km EV option and 6-minute charge - The ",
+      "China’s CATL reveals 621-mile EV battery, under-7-minute charging to challenge BYD - Interesting Eng",
+      "China’s CATL Debuts EV Battery With Speedy Six-Minute Recharge - Bloomberg.com",
+      "CATL renews its battery line-up - electrive.com"
+    ],
+    "alert": false
   },
   "llm_analysis": {
     "summary": "2026-04-26 無電池產業相關事件。市場處於平靜狀態，無重大訊號。",

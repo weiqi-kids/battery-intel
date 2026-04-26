@@ -102,6 +102,42 @@
     ]
   },
   {
+    "id": "ganfeng-2026-04-25-007",
+    "date": "2026-04-25",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Morning Market Movements | Ganfeng Lithium Surges Over 9%, Expected to Turn Profitable in Q1 - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkpnYmtpNDBfdkZrUXctRDNLVzJpZW9Ra1BKbHhvZU9MSy1SZ2Z6ZkIyelFhanNTaWFDWWRVVzFfcHFBOTFpQ3g5UGYtbUtHQXZoVHdXQTFXOGlSTG02enJFTmJYb3ZpZ3h1YldoOW",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkpnYmtpNDBfdkZrUXctRDNLVzJpZW9Ra1BKbHhvZU9MSy1SZ2Z6ZkIyelFhanNTaWFDWWRVVzFfcHFBOTFpQ3g5UGYtbUtHQXZoVHdXQTFXOGlSTG02enJFTmJYb3ZpZ3h1YldoOWMwdno2WklwZXJLbHRQTHl5Qk05YVdTYXRfNVZRaHRkR2syYklZVklCNDdMTng3RTFHcmVOTmxmX21wQXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-04-25-008",
+    "date": "2026-04-25",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "VW CEO Called the ID.4 \"Not a True Volkswagen\" Owners Who Paid $50K Have Questions - Torque News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHBXWjdsVkUwSTJyMEhLY3VETFJ1Q1B2cUZjb210WGRndXd4bDA5dWFDR3BjTFZxY1FUU2NoTUZuMmVycDd6aEJXV3RFTlp4RmhMZ3RSZmplaHVUeFY5M0VfSFpFTzktUFJUU3VJS2",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHBXWjdsVkUwSTJyMEhLY3VETFJ1Q1B2cUZjb210WGRndXd4bDA5dWFDR3BjTFZxY1FUU2NoTUZuMmVycDd6aEJXV3RFTlp4RmhMZ3RSZmplaHVUeFY5M0VfSFpFTzktUFJUU3VJS2ZKNzBHYXc4U1N1WjNCRFZXdEFndVlhM0doYUIyVTg2YVdtVzdMLUg2SG9QU2pZUC1PYzhJbmt2VmprejJqOWhINExrRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ganfeng-2026-04-24-003",
     "date": "2026-04-24",
     "companies": [
@@ -403,6 +439,60 @@
       {
         "name": "cnevpost",
         "url": "https://cnevpost.com/2026/04/24/nio-launches-special-edition-es8-onvo-l80-debut-apr-28/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-04-24-022",
+    "date": "2026-04-24",
+    "companies": [
+      "nio"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Onvo to Unveil and Open L80 Pre-Orders on April 28, Nio CEO Says - eletric-vehicles.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2tTNnlwakdfd2RlVGFKQUMydEtNS1UyVDNxUWdfV0c1SzlUMXdHekhQaDh5RjhXWVFCcDFUMlZxOVpRMUZvQ0lnRmNKd01hOG9yN2lTU1MwT1ZMSHlkNnU4R1pVOVpOMHRkc0dyOH",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2tTNnlwakdfd2RlVGFKQUMydEtNS1UyVDNxUWdfV0c1SzlUMXdHekhQaDh5RjhXWVFCcDFUMlZxOVpRMUZvQ0lnRmNKd01hOG9yN2lTU1MwT1ZMSHlkNnU4R1pVOVpOMHRkc0dyOHJNcGNKTloyQ0xBZ01yNnA3V3pWRmtUNXNGdmZtbjJIOWRsa3dpd215RlJ1RnREVTQ3LWQ4YQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-023",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "ev_sales"
+    ],
+    "impact": "negative",
+    "title": "$30 Million In EV Incentives Approved In New York",
+    "summary": "<p>When the federal EV incentives were removed because of the efforts of some Republicans, it was predicted that US EV sales would plunge. They did go into slumps for many, but not all, electric vehic",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/04/24/30-million-in-ev-incentives-approved-in-new-york/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-024",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "cathode_material"
+    ],
+    "impact": "neutral",
+    "title": "Why the effects on the Iran conflict will be felt on the US grid – This Week in Cleantech",
+    "summary": "On this episode of the This Week in Cleantech podcast, Bianca Giacobone of Latitude Media discusses how Iran's strikes on aluminum smelters in the UAE and Bahrain last month pushed prices up 11% to th",
+    "sources": [
+      {
+        "name": "renewableenergyw",
+        "url": "https://www.renewableenergyworld.com/podcasts/why-the-effects-on-the-iran-conflict-will-be-felt-on-the-us-grid-this-week-in-cleantech/",
         "type": "rss"
       }
     ]
@@ -783,6 +873,60 @@
       {
         "name": "teslarati",
         "url": "https://www.teslarati.com/tesla-hw3-trade-in-discounted-upgrade/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-04-23-024",
+    "date": "2026-04-23",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rivian starts R2 production days after tornado hits factory - Automotive World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPNzFjVVlfanRSR3pEQUZQWTZ0amVNbmVCYTlDYklHOUVmQ1BUeHFoTTc5dzB1ZEphYXUxV1QwN0ZsU085emhqSXdPU01CT00wSWxlcW9HckNGS2RCbmQxSnB2X095U3JMeXZNNXUyeW",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNzFjVVlfanRSR3pEQUZQWTZ0amVNbmVCYTlDYklHOUVmQ1BUeHFoTTc5dzB1ZEphYXUxV1QwN0ZsU085emhqSXdPU01CT00wSWxlcW9HckNGS2RCbmQxSnB2X095U3JMeXZNNXUyeW52bzFUY1JiaVMtUjcwUHpEZnloZXI5b1BYcjFIQVFSODRWbS10WmRlZ0g3UEFaZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-025",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "recycling"
+    ],
+    "impact": "neutral",
+    "title": "US battery recycling in doldrums: updates from Redwood Materials, Ascend Elements",
+    "summary": "Two US battery recycling companies, Redwood Materials, and Ascend Elements, are in less than optimal situations, with Redwood laying off 135 employees, and Ascend filing for Chapter 11 bankruptcy.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/us-battery-recycling-in-doldrums-updates-from-redwood-materials-ascend-elements/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-04-23-026",
+    "date": "2026-04-23",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Tesla reports declines in quarterly energy storage revenues and deployments",
+    "summary": "Tesla’s quarterly energy storage deployments fell 15% while revenues for its energy division dropped 12% year-over-year from Q1 2025 to Q1 2026.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/tesla-reports-declines-in-quarterly-energy-storage-revenues-and-deployments/",
         "type": "rss"
       }
     ]
@@ -1288,6 +1432,24 @@
       {
         "name": "google_news_ev_battery",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NQjVUbXpqRTVWNTFCOWRRbTduUnZhNDlpejl5aEFpZlZuVHZGTzQyX3VHMnQtQ21ueW9GQmM0QzFJVEx6UHJxQUZudXZ3c3hYYXh4T1lmMW14d0dzSWlmeFNvSDBidzlCLUhJRFRtNGpUTUxXQW9tTTRGNms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-04-22-032",
+    "date": "2026-04-22",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rivian CEO sees new electric SUV as key milestone for AI tech - Crain's Chicago Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUJIZDlSekdfWUkxMUZDbzl0OWlvQ1FST2dTWHdXNF9FMDJVVkxfTHcwNF95d1pfWDdSS0liQzl4VV9mWVpfTlV2ZldpOFZ6cFptZnZBanJJeHU3QmlidExuU2hKVnBpajhSRFBaSU",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUJIZDlSekdfWUkxMUZDbzl0OWlvQ1FST2dTWHdXNF9FMDJVVkxfTHcwNF95d1pfWDdSS0liQzl4VV9mWVpfTlV2ZldpOFZ6cFptZnZBanJJeHU3QmlidExuU2hKVnBpajhSRFBaSUVUU1hYdTBveV9NZmF4WWVaV1I5dEVuVC1LVngxVy1USGU4UVQ1YUp2R0owM2t6UUxzTXhzT3g0MlotRlVBMzUxQ29WSzhQNHZ2QkE?oc=5",
         "type": "rss"
       }
     ]
@@ -1871,6 +2033,80 @@
       {
         "name": "cnevpost",
         "url": "https://cnevpost.com/2026/04/20/catl-to-unveil-sodium-battery-fast-charging-tech-apr-21-tech-day/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-04-20-019",
+    "date": "2026-04-20",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mercedes-Benz Signs Up to $7.5B Samsung SDI Battery Deal in EV Supply Shift - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2t3NnZDbmh1RC1UU3NKZ2I5MXk5SEhlUkdsaUpBQTJTUGs1bE50N01JblJEOC1WNjlrU2tONFl5bExzRGgxQ1lYcmNJajAwVUp0Z3Via2hlZG9uNWw1d0xfWXN3emtWVzQwNEpDcm",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2t3NnZDbmh1RC1UU3NKZ2I5MXk5SEhlUkdsaUpBQTJTUGs1bE50N01JblJEOC1WNjlrU2tONFl5bExzRGgxQ1lYcmNJajAwVUp0Z3Via2hlZG9uNWw1d0xfWXN3emtWVzQwNEpDcmNRWko3bGJNZjNOMGZySkZ2c1J2NW5CaXl5MTJoNVpja1VMZG5laDM1aEsxODZmSklLS2plOXRMcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-04-20-020",
+    "date": "2026-04-20",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "cathode_material"
+    ],
+    "impact": "neutral",
+    "title": "Samsung SDI signs first EV battery supply deal with Mercedes-Benz By Reuters - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWUExZzNCa29wc1VtMEZSdFdFLTB0ZUxiYkpJNTNId1B4Z1JsSXZGX3p1WmQ3SHZNWlU1cE5zUnExekdOMTVBTGJxbVRKdEM5X1VCQzMxczVrem94al9zUUcxSUEtWHlsUDlZc1laSl",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWUExZzNCa29wc1VtMEZSdFdFLTB0ZUxiYkpJNTNId1B4Z1JsSXZGX3p1WmQ3SHZNWlU1cE5zUnExekdOMTVBTGJxbVRKdEM5X1VCQzMxczVrem94al9zUUcxSUEtWHlsUDlZc1laSlJMLXRUaFhkTHZ2RVU3YXdvRExXOFlXSjdmOXlIRVFwUkhKNmI0U245MkpFWW5BOW5QOVZFY3NZQXRUSGQ0LXlseHJrOGptUllxQVVhYlpB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-04-20-021",
+    "date": "2026-04-20",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Record-low used inventory, Samsung SDI signs EV battery deal, Gas prices peaked but relief may take time - CBT News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5Tczgtd2VmUVVXVzBWODgtc0JQZUtLSWdNSUwzemI2TlN0ZjlVaHFyc2s5a3ZVaWp1cXNSNmF1ZWZKTl9VeHN4MnNtc1h5RG1Oby1JTDRiaWZBYUJBZTBUdy1JSjhJYXFvOGRoRGVNQQ",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Tczgtd2VmUVVXVzBWODgtc0JQZUtLSWdNSUwzemI2TlN0ZjlVaHFyc2s5a3ZVaWp1cXNSNmF1ZWZKTl9VeHN4MnNtc1h5RG1Oby1JTDRiaWZBYUJBZTBUdy1JSjhJYXFvOGRoRGVNQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-04-20-022",
+    "date": "2026-04-20",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mercedes-Benz taps Samsung SDI for first-ever EV battery partnership - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSndKYXRLV19iMTVNRjBBUE5oX0hoNG1BeGJRQl91MzBnVmtxWXNHMEgxc0liNFdza2EtQ3Q1SFNlYzRUNFcxcHVDUkNGU1FrdmlSa09OSFRKcHlDd2VOVjJuTHdEdDBnbEF4NGJONE",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSndKYXRLV19iMTVNRjBBUE5oX0hoNG1BeGJRQl91MzBnVmtxWXNHMEgxc0liNFdza2EtQ3Q1SFNlYzRUNFcxcHVDUkNGU1FrdmlSa09OSFRKcHlDd2VOVjJuTHdEdDBnbEF4NGJONEpwZWVvTUZCS25NajJQV05yd25vcFA2RHFseHFGZ2NiajVocWltaVZNV21pY3AzdTVqdjNpc29rVW8?oc=5",
         "type": "rss"
       }
     ]
