@@ -1,9 +1,31 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:40:48.736810Z",
+  "generated_at": "2026-04-27T03:36:43.627885Z",
   "top_events": [
     {
       "rank": 1,
+      "event_id": "unknown-2026-04-27-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ford’s 2,200-HP electric Mustang runs 6.87-sec quarter mile, smashes EV record",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/04/26/ford-cobra-jet-2200-electric-drag-racing-record-quarter-mile/"
+    },
+    {
+      "rank": 2,
       "event_id": "catl-2026-04-27-001",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -23,51 +45,113 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLWlZM0dZbjkwRlNoTVItNElZYVFTXzFlYUJLY3J6VFJaTmthMndWd2N2V1BMQ1lTX2tsb2JLckNFU0huN0pDclJOdlVfZWEwdW01TE92ODdJbDljRm0wblVGREt2QllaQkZ5ckljOFVYNnZ0YXZLTHZsbGxsWWFtSGJKeDVEay05bDRLdENZMVdDVEstbWRxbk54Q2tmSFZnTUQ4VDRMTUY4bjdLN1Z1S0t4NTNqdjZvMjlaVWlwaTRIM3pmeTBhQmQ0VEx3OXZxeEg4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-04-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota partners with CATL to produce batteries in Indonesia, export to start later this year - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaW5PWU1LUXNQamRVVWFlNG9qc2FHQ0NQZ0wxdVktN0VIUEV2VG5RZzNpbmdJWjB1V3hnSDcxOXpsZzc4bEF4R3QyTTNQenNPeDh3NDd1WVFlTHhBTGFKUnlhOE9HUlQzakc0WV9MM3dvRlU5SDlySW1pRUJQbjZOZzJCS0ZkY2xIR0tiVkJqd1VXdnN2SW0tVUFzb04tMVNIUGltQ2Fwck5MRVE4akdJN1RhSElIOVBKNWRyM1hVdjh1SGFwVFdr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Leapmotor bets on strong orders and new models to reach 1 million deliveries",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/04/27/leapmotor-bets-on-strong-orders-new-models-1-million-deliveries/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xpeng flying car unit daily orders top 90, drawing crowds at Beijing Auto Show",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/04/27/xpeng-flying-car-unit-daily-orders-90-drawing-crowds-beijing-auto-show/"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 1,
+      "today": 5,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
+      "sentiment_today": 0.2,
       "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 1,
+    "total_events": 5,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 1,
+      "positive": 1,
+      "neutral": 4,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "catl",
-        "count": 1
+        "count": 2
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 1
+        "count": 5
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 431,
-    "dup_title": 219,
-    "too_old": 139,
-    "gate1_blocked": 40,
-    "gate2_blocked": 17,
-    "passed": 16,
-    "pass_rate": "7.5%",
-    "gate2_block_rate": "8.0%",
+    "total_raw": 864,
+    "dup_title": 449,
+    "too_old": 278,
+    "gate1_blocked": 80,
+    "gate2_blocked": 35,
+    "passed": 22,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "8.4%",
     "gate2_samples": [
       "Is Rivian Automotive, Inc. (RIVN) A Good Stock To Buy Now? - Yahoo Finance",
       "Nio’s Design Chief Says China’s Compressed Product Cycles Need ‘Good Balance’ - eletric-vehicles.com",
@@ -78,14 +162,14 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 1 則事件，焦點為寧德時代相關動態：「CATL batteries to power Hyundai’s EREV, hybrid push in Ch...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "summary": "今日共 5 則事件，焦點為寧德時代相關動態：「Ford’s 2,200-HP electric Mustang runs 6.87-sec quarter mi...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
-        "text": "CATL batteries to power Hyundai’s EREV, hybrid push in China - Korea JoongAng...（電池產業通用）",
+        "text": "Ford’s 2,200-HP electric Mustang runs 6.87-sec quarter mile, smashes EV record（電池產業通用）",
         "level": "green"
       },
       {
-        "text": "寧德時代為今日主要關注企業。",
+        "text": "CATL batteries to power Hyundai’s EREV, hybrid push in China - Korea JoongAng...（電池產業通用）",
         "level": "green"
       }
     ]

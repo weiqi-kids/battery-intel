@@ -1,16 +1,16 @@
 {
   "date": "2026-04-27",
-  "total_events": 1,
+  "total_events": 5,
   "by_company": {
     "catl": {
-      "count": 1,
+      "count": 2,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "industry_general": {
-      "count": 1,
-      "sentiment_avg": 0.0
+      "count": 5,
+      "sentiment_avg": 0.2
     }
   },
   "baselines_used": {
