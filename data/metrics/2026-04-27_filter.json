@@ -1,11 +1,11 @@
 {
-  "total_raw": 864,
-  "dup_title": 449,
+  "total_raw": 1298,
+  "dup_title": 655,
   "no_date": 0,
-  "too_old": 278,
-  "gate1_fail": 80,
-  "gate2_fail": 35,
-  "passed": 22,
+  "too_old": 416,
+  "gate1_fail": 118,
+  "gate2_fail": 51,
+  "passed": 58,
   "gate2_samples": [
     "Is Rivian Automotive, Inc. (RIVN) A Good Stock To Buy Now? - Yahoo Finance",
     "Nio’s Design Chief Says China’s Compressed Product Cycles Need ‘Good Balance’ - eletric-vehicles.com",

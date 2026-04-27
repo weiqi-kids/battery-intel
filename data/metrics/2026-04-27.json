@@ -1,16 +1,44 @@
 {
   "date": "2026-04-27",
-  "total_events": 5,
+  "total_events": 35,
   "by_company": {
     "catl": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "lg_energy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pilbara": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
       "count": 2,
       "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 8,
+      "sentiment_avg": 0.25
+    },
+    "volkswagen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.25
     }
   },
   "by_topic": {
     "industry_general": {
-      "count": 5,
-      "sentiment_avg": 0.2
+      "count": 32,
+      "sentiment_avg": 0.05
+    },
+    "cathode_material": {
+      "count": 1,
+      "sentiment_avg": 0.0
     }
   },
   "baselines_used": {
