@@ -1,0 +1,154 @@
+{
+  "date": "2026-04-27",
+  "date_range": {
+    "start": "2026-04-21",
+    "end": "2026-04-27"
+  },
+  "generated_at": "2026-04-27T01:40:48.799821Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "byd-2026-04-21-004",
+      "date": "2026-04-21",
+      "title": "CATL one-ups BYD with its new LFP EV battery capable of a full recharge in just 6 minutes - Electrek",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "catl",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "lithium_price": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "cathode_material": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ev_sales": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.5
+    },
+    "industry_general": {
+      "this_week": 8,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    }
+  },
+  "company_7d_summary": {
+    "samsung_sdi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "ganfeng": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "tesla": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 6
+    },
+    "volkswagen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "pilbara": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 7
+    },
+    "eve": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "catl": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nio": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 19,
+        "last": 17,
+        "change_pct": 11.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-21",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-22",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 5,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 19 則事件，重點為「CATL one-ups BYD with its new LFP EV battery ca...」。蔚來、特斯拉表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "贛鋒鋰業",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "寧德時代",
+        "reason": "受鋰價議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

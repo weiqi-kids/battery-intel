@@ -1,0 +1,94 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:40:48.736810Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-04-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL batteries to power Hyundai’s EREV, hybrid push in China - Korea JoongAng Daily",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLWlZM0dZbjkwRlNoTVItNElZYVFTXzFlYUJLY3J6VFJaTmthMndWd2N2V1BMQ1lTX2tsb2JLckNFU0huN0pDclJOdlVfZWEwdW01TE92ODdJbDljRm0wblVGREt2QllaQkZ5ckljOFVYNnZ0YXZLTHZsbGxsWWFtSGJKeDVEay05bDRLdENZMVdDVEstbWRxbk54Q2tmSFZnTUQ4VDRMTUY4bjdLN1Z1S0t4NTNqdjZvMjlaVWlwaTRIM3pmeTBhQmQ0VEx3OXZxeEg4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 431,
+    "dup_title": 219,
+    "too_old": 139,
+    "gate1_blocked": 40,
+    "gate2_blocked": 17,
+    "passed": 16,
+    "pass_rate": "7.5%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "Is Rivian Automotive, Inc. (RIVN) A Good Stock To Buy Now? - Yahoo Finance",
+      "Nio’s Design Chief Says China’s Compressed Product Cycles Need ‘Good Balance’ - eletric-vehicles.com",
+      "Nio’s President Denies Overlap Risk Between Five-Seat ES8 and Onvo L80 - eletric-vehicles.com",
+      "Nio SVP Kris Tomasson Begins Overseeing Design Across Three Brands - eletric-vehicles.com",
+      "This Volkswagen Jetta Electric SUV Is Real And Interesting - Motor1.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為寧德時代相關動態：「CATL batteries to power Hyundai’s EREV, hybrid push in Ch...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "CATL batteries to power Hyundai’s EREV, hybrid push in China - Korea JoongAng...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "寧德時代為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
