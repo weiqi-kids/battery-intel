@@ -1,0 +1,209 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T10:20:23.731583Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-04-28-042",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Will Sodium-Ion Batteries Revolutionize Electric Ships?",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/04/27/will-sodium-ion-batteries-revolutionize-electric-ships/"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-04-28-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CATL declines nearly 7% as the Chinese battery maker unveils $5 billion share placement - CNBC",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmRQZEZsUkhOeFFpOGhDMHRHRUFZM1g4OEFhWVdrWWowVXV0YUQ5aWgzaWNCS1FlTl9jOE9ybUhmVnY2WUt1SkJwalBDcU9pTG1Bbl9DVkFmbXZ6elhTS2JWa0dZT1lDMG9WaGwyVTdBNzYtdzVka2QzOTlCQWJyMzVQN3dNZVU3dkJUR2poOUtMVDlKY2tsNFJHT0VGVFltVkFF0gGoAUFVX3lxTE1sdzJaWlZ4REtTS1IxYVlDNVFNQkxMdnl5STJNekY1TUlvRDEyZHB3R21veWZyZkxmeTBnQ2xZcldncTh2LWN6Mm9nOEMwbG1xeVltR3pkbjJ0NmxRR1Nra0lIeTJCbklCckxlYkF6eTZoeVo5dzZkZnByeWM5dlY4SUtCajFhY1h2dDRrVG5EMmk5SG5rU09pZzZYeUpjbjdHSVhYblZxWg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_sdi-2026-04-28-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Samsung SDI narrows loss; shares jump on ESS demand - MSN",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVHhOY0EzaC1NbDd4S2l2YmhudnpCaWd2ZlcyaXFYZXU5WG9vWV9SMG1xeTVIVnJRdFdEOC10dkpOQkZNOHdqRkZMbHBEY1VQaWZ1ZjlHemhENEUyR3FQcWJRRUJ2b0d3ZmpZbmFfdFVHdEM0SmIxSmxLdEh0WjlrQW5kQVV4SzFRakZQV2E1UmdyXzNsaHRTVHdsYXRwM184YTlXVlN5czJhTWVvZmFJUk9sM2lkemt5MVEwX2lVVGpDYktQOS1ZUlh3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_sdi-2026-04-28-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Samsung SDI narrows loss on AI-driven ESS demand - The Korea Herald",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oZVhlZ0lzWWNCSkxtRmpkYTA1Vm9vUkpfRzlCeUpCYko5bU9uZ2pjbWtKblQyLWQ0QjNGeUhIZkRVX2lqV3lrZExIanVMTUJJdVNQRXZTYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_sdi-2026-04-28-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Samsung SDI narrows losses in Q1 on solid battery, materials businesses - 매일경제",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1talRpa1dhU1ZoaDUyYjB4d3lXeVVFaWxITTFzMnJBYmtIWFVPU0JoaDNLYmNMY1duMVBWeERVdmpqbVpZX21SX0JlZm1wOUZBOWltTzQxRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 47,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 49,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 40,
+      "negative": 7
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 12
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 8
+      },
+      {
+        "id": "nio",
+        "count": 3
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "rivian",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 47
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 149,
+    "too_old": 136,
+    "gate1_blocked": 28,
+    "gate2_blocked": 18,
+    "passed": 105,
+    "pass_rate": "36.6%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "‘A turning point’: CATL and HyperStrong sign 60GWh sodium-ion agreement - Energy-Storage.News",
+      "CATL's Hong Kong Shares Sink 8% On Tuesday— What's Going On? - Benzinga",
+      "CATL falls nearly 8% on US$5 billion private placement to expand renewables - South China Morning Po",
+      "Rivian is bringing software-as-a-service to the road - Financial Times",
+      "Nio pushes into chipmaking to cut reliance on Nvidia - digitimes"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 49 則事件，焦點為寧德時代、三星SDI、蔚來相關動態：「Will Sodium-Ion Batteries Revolutionize Electric Ships?」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Will Sodium-Ion Batteries Revolutionize Electric Ships?（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "CATL declines nearly 7% as the Chinese battery maker unveils $5 billion share...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

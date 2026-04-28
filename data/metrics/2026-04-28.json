@@ -1,0 +1,49 @@
+{
+  "date": "2026-04-28",
+  "total_events": 49,
+  "by_company": {
+    "catl": {
+      "count": 12,
+      "sentiment_avg": -0.08
+    },
+    "samsung_sdi": {
+      "count": 8,
+      "sentiment_avg": -0.25
+    },
+    "ganfeng": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 47,
+      "sentiment_avg": -0.06
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

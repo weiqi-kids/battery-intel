@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 28,
+  "gate2_fail": 18,
+  "passed": 105,
+  "gate2_samples": [
+    "‘A turning point’: CATL and HyperStrong sign 60GWh sodium-ion agreement - Energy-Storage.News",
+    "CATL's Hong Kong Shares Sink 8% On Tuesday— What's Going On? - Benzinga",
+    "CATL falls nearly 8% on US$5 billion private placement to expand renewables - South China Morning Po",
+    "Rivian is bringing software-as-a-service to the road - Financial Times",
+    "Nio pushes into chipmaking to cut reliance on Nvidia - digitimes"
+  ]
+}
