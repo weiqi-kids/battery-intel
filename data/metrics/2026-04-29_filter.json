@@ -1,0 +1,16 @@
+{
+  "total_raw": 437,
+  "dup_title": 167,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 33,
+  "gate2_fail": 16,
+  "passed": 93,
+  "gate2_samples": [
+    "‘A turning point’: CATL and HyperStrong sign 60GWh sodium-ion agreement - Energy-Storage.News",
+    "Samsung SDI Posts Smaller-Than-Expected Loss, Sending Shares Up - Bloomberg.com",
+    "Rivian is bringing software-as-a-service to the road - Financial Times",
+    "Stock showdown: Rivian or Lucid -- which is the better buy? - MSN",
+    "Stock Showdown: Rivian or Lucid -- Which Is the Better Buy? - AOL.com"
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T10:10:06.826017Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-04-29-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CATL and HyperStrong sign record sodium-ion battery deal as storage market scales up - digitimes",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQy12RlptMERFQW41bUJjV2xNdzVNY1o4NXNOeDZUWGUwU1ZaQnU2bHM5ZU9GSlJGN0ZlZEw3bE41djVVLVR5aFo1QU5qb1VLNmllNk1fWmc1RF9yU21HRkdwMEVxYWNmdVk3SXFRLUhxNkJYUzVVVGVVc3BHbDRPVmNHQXA3WXlzdVVhRS12VmoyQVlRcUQ1Y0hqQ0tBS1F0RUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-29-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ASX 200 Lithium Surge: PLS Hits Record High on Market Revival - Kalkine Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTFRzRnZmSGxYME1lSGpxd1dTYzZSS285X1RyaE9vR0Q3cVhzRWphZmltNXdxdGpYaTJYVHVUQjY5alRCZDNRZXJOTk5tc3hmS3pCNmZ5QVVwR3hqQ3QtZWduaTdiSTZnZU5oLUZRZVFUYzB1dEQzR1RlY2tmbFo3OTFVbS13NHlzOFdVc3hRZUxPSUNDRlNVZzM5T3Z4M0paZ3RUclNVNWJBWEo3MENnOEhn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-29-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "XPENG Releases World Model Technical Report, Powering VLA 2.0 Model R&D And Verification",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/04/28/xpeng-releases-world-model-technical-report-powering-vla-2-0-model-rd-and-verification/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-04-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Millennium, NBIM Are Said to Invest in CATL’s $5 Billion Share Sale - Bloomberg.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaDZldXlmSVdEalVSbl9zNFVpLWNMMDZTNWZhV1J1dFc0NEFFUVREdjlra3RuQW5pSS1OejJLaE92Vjc0b0VmOWlQZEs3c1VoLUk5SkwzZHh0ZW5UUEhjdlg0VVY0YkhxZENwS04ybXBzZnozbFlfekFzRGZFVHR2MlR6LUpnRGJkSFVZODZBeVdaTEg3YW1URjgweW1pcldndWF2cVFmM1Y5d1N2aDRabGo4RVlUTjg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_energy-2026-04-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution Ltd stock (KR7373220003): Is battery supply chain strength now the real test for - AD HOC NEWS",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlFIdjVwdDRZUnVLVW54eTVmQzhaXzB5YkpNN0pUd1k0MXpvQzE3RkhLeDJQQjZpeEpOdXVOcmhwc0tHTWVBQy13b0lxS1V6dzNCVjFFQ2RJV1FrMHVyWk9DQ19LZVNfblFkYWZHQVBwM0d5eDNfQnZjc0VFOGVsdk51N3hQUzdfSm5jMERIQUFxZEdSZ0d5U2U2OXJIQ0xWYk4ybW9ObWhsY0dzUnlVVEU1cW9uRHBQZDJORWVnYXlBdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "battery_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 24,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 5
+      },
+      {
+        "id": "rivian",
+        "count": 4
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "lg_energy",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      },
+      {
+        "id": "battery_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 437,
+    "dup_title": 167,
+    "too_old": 128,
+    "gate1_blocked": 33,
+    "gate2_blocked": 16,
+    "passed": 93,
+    "pass_rate": "34.4%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "‘A turning point’: CATL and HyperStrong sign 60GWh sodium-ion agreement - Energy-Storage.News",
+      "Samsung SDI Posts Smaller-Than-Expected Loss, Sending Shares Up - Bloomberg.com",
+      "Rivian is bringing software-as-a-service to the road - Financial Times",
+      "Stock showdown: Rivian or Lucid -- which is the better buy? - MSN",
+      "Stock Showdown: Rivian or Lucid -- Which Is the Better Buy? - AOL.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為福斯、Rivian、寧德時代相關動態：「CATL and HyperStrong sign record sodium-ion battery deal ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CATL and HyperStrong sign record sodium-ion battery deal as storage market sc...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "ASX 200 Lithium Surge: PLS Hits Record High on Market Revival - Kalkine Media（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
