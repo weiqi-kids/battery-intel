@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 33,
+  "gate2_fail": 14,
+  "passed": 114,
+  "gate2_samples": [
+    "Samsung SDI Posts Smaller-Than-Expected Loss, Sending Shares Up - Bloomberg",
+    "Rivian is bringing software-as-a-service to the road - Financial Times",
+    "Rivian R1S Owner Swapped Pirellis for Michelin Defenders and Lost 25% Efficiency - Torque News",
+    "NIO Presents Three Brands at Auto China 2026 - NIO - Home",
+    "Why The Volkswagen ID. Polo Has Me Excited For The Next Golf - The Autopian"
+  ]
+}

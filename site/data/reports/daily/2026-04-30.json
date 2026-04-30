@@ -1,0 +1,220 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T10:10:42.262775Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_energy-2026-04-30-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LG Energy Solution swings to Q1 loss on North America EV demand weakness - Investing.com",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbGlpLTFmY01peUU4OXRvSmtyOHIxUnVqMHhRY3JvMENqUy1GaGZmbzFoZU1FdGJsLXVfQmh2ZDZQNGFTQUVpVXdtdC1WOGEyeXRVSDlMRjhDN2owbGRSNF83MDdTSVNhNlZzYmJ4TjdpOHhrVXVlNzlObVBtUkpYZlJCSmVfaGpWcFQxekhwZjJ4OXMwZ0xtZVYzUkQyTVVWZmJOcXZ1V2RfSldSaF9PalM0eTJaTFc2Nm5JMg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_energy-2026-04-30-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LG Energy Solution Swings to Q1 Loss Despite Rising Battery Demand - Yahoo Finance",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmU0czhZS0lkWmN5Q2VoNWhqVXFVNVJPaWVNMjNWWW1qSEIyYUk1TzUzSXpKTU8zVHNEN1k3ZFI5N3FBSWRFdW10aWc5QXRtZS1ncVhtaE42a1h4aTFIaEFvSUVVMEFfY19ZMUlMRHNGNk1mb3E1TlRSTDdLdDNGZXdFMlRaOHdKR3VBRVdtSUlLaFZkZlpxNA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_energy-2026-04-30-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LG Energy Solution swings to loss amid weak North American EV demand - Reuters",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUVtYXgteHpDY2N3QkFOYzVYYU5INGVfazJGUE1FZmt5UHdBVmgybGZHejNmR3l6ck10R0k0T2NGeHBsS1ZYTDJkVld6QklRck9SeVV2TDZVcjNsTTZobGFKX3cyVHVHUlZNQ2d2RnlDZVNYUC1kbVBBVm1HUldzMTI4cHFRaTQxLXFHUlhoSXF2UXFOZnB0ZU45MFNKUTFiQ2JEN0daSl8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_energy-2026-04-30-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LG Energy Solution bets on new orders to drive Q1 loss recovery - The Korea Herald",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PVnJ2RHhaa2puT3JhVXhBRXk1RDBXQUtWd0hPb2VoVk83WU02ODBGdVpJR3FHYU11Vk9BNU1PYTVlX2tpdk5ld0pQdVZFYmlKVW5ESXdEYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_energy-2026-04-30-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LG Energy Solution eyes rebound after Q1 loss on EV, ESS expansion - The Korea Times",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUs3akdESWh6dF8wSGlEZUN2UjU1Ml9kOUFwc0F2SFZNVXdfQVBmV1lPWXBrckdNVHVQalU0alJuTGptVElvYTh0Ri1MSU5mZGxiWmg0RnVGSVhQdDZBUm9JNnR0ZDR5R2hMQ0pGajZtUVptTGx4ZktzRExzNjFkb0c4N0wtS2lpMFBaU0RwaXEyOEFCX2hiR0J5WGdZeGFMdXNvLWhpajZud1Fnamxkakg0NmlwMEtEYndYX3QzY9IBxAFBVV95cUxNaGtRUDV4LVhEZEJzVjhfMUtBelkwSG80TWR1N1BTRXR3WWFvNW15WXJZeU5FTXRzUWhtWVlOSjFRUHltV3pYdjZEUkhzendLeU8zaTZ1VmhqR2h3T3h3WS1OdExGV1VMUmowYkZLbFEwci1uakJpdTJHYUtuX0pYY0hEa3Uyd0NITTh4R2tJSXFhbVRyU2R3Zm1DWVE2Smhzbk82Zlpzd2R2ZkNXS2FfdWxNVmtwNjFrWmpZRTRUeGpxbzFN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 47,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 53,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 34,
+      "negative": 11
+    },
+    "top_companies": [
+      {
+        "id": "lg_energy",
+        "count": 13
+      },
+      {
+        "id": "volkswagen",
+        "count": 10
+      },
+      {
+        "id": "catl",
+        "count": 3
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "ganfeng",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 47
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 164,
+    "too_old": 111,
+    "gate1_blocked": 33,
+    "gate2_blocked": 14,
+    "passed": 114,
+    "pass_rate": "41.9%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Samsung SDI Posts Smaller-Than-Expected Loss, Sending Shares Up - Bloomberg",
+      "Rivian is bringing software-as-a-service to the road - Financial Times",
+      "Rivian R1S Owner Swapped Pirellis for Michelin Defenders and Lost 25% Efficiency - Torque News",
+      "NIO Presents Three Brands at Auto China 2026 - NIO - Home",
+      "Why The Volkswagen ID. Polo Has Me Excited For The Next Golf - The Autopian"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 53 則事件，焦點為LG新能源、福斯、寧德時代相關動態：「LG Energy Solution swings to Q1 loss on North America EV ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LG Energy Solution swings to Q1 loss on North America EV demand weakness - In...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "LG Energy Solution Swings to Q1 Loss Despite Rising Battery Demand - Yahoo Fi...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
