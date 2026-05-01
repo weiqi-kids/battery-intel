@@ -1,0 +1,220 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T09:50:46.571847Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-05-01-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "China's BYD eyes acquisition of part of Volkswagen’s Dresden plant - Latest news from Azerbaijan",
+      "companies": [
+        "volkswagen",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDNVUlVTSENTSHkzU1BzUUV2d041enhtbEt2NjJMOEEwdHpXWkI4Ty1sMFktLXlmN0ZGREJscWgtS1lSV0lQOElxYmVzVzBqNzZlQmlVZFJ2TWRNa2MzMER3bEhyV3FjMHViNndmMmNIY3NDaTlDNGZaeTEyTG1ONjFjWU5vMVljOXhCX1RBRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-05-01-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rivian reports a smaller-than-expected loss. It’s boosting EV capacity. - MSN",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONWFsbnFaOEhhS0RfSjl3M0lBSE9QQ2NZdUtuVE1WWERfMVpiQzRsR1J0VWxZREhmMnE2c2xYa0JDdWpxVmZfelRNbENCWUNyYXNGbEpiV1JzY3dPVEZ4dmdySlpORjluU3lqc0F5dURJTi1leE9QV1dieGxtZHdsSVJPV3FwOWtqbHpnNm9DSTYzbG1hQUpPTEpLQjZxc0QxNnBJMjhYWDJCaW5aMEtlejlTUVdrbVZja0p0S0JPTS14SlJ5RFRQS1FVc2thblBYdGJ6ZGhuWThORjlCU0gySGdZOA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-01-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Zeekr April deliveries hit record high as 9X remains strong",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/01/zeekr-apr-2026-deliveries/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-01-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Leapmotor delivers record 71,387 vehicles in April, driven by new models",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/01/leapmotor-delivers-record-71387-cars-april-2026/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-01-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Li Auto posts flat April deliveries, bets on new SUV and global markets",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/01/li-auto-delivers-34085-vehicles-april-2026/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 19,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "rivian",
+        "count": 4
+      },
+      {
+        "id": "nio",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "ganfeng",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 179,
+    "too_old": 118,
+    "gate1_blocked": 34,
+    "gate2_blocked": 18,
+    "passed": 86,
+    "pass_rate": "33.6%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Samsung SDI Posts Smaller-Than-Expected Loss, Sending Shares Up - Bloomberg.com",
+      "Rivian is bringing software-as-a-service to the road - Financial Times",
+      "Rivian Owners in Alaska May Have to Pay Thousands for Warranty Repairs - Autoblog",
+      "Rivian Expects H2 Deliveries to Nearly Double on R2 SUV and Amazon Vans - eletric-vehicles.com",
+      "NIO Inc. Reports 22.8% Year-over-Year Increase in April 2026 Vehicle Deliveries - Quiver Quantitativ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為Rivian、蔚來、寧德時代相關動態：「China's BYD eyes acquisition of part of Volkswagen’s Dres...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China's BYD eyes acquisition of part of Volkswagen’s Dresden plant - Latest n...",
+        "level": "red"
+      },
+      {
+        "text": "Rivian reports a smaller-than-expected loss. It’s boosting EV capacity. - MSN（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

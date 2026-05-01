@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 34,
+  "gate2_fail": 18,
+  "passed": 86,
+  "gate2_samples": [
+    "Samsung SDI Posts Smaller-Than-Expected Loss, Sending Shares Up - Bloomberg.com",
+    "Rivian is bringing software-as-a-service to the road - Financial Times",
+    "Rivian Owners in Alaska May Have to Pay Thousands for Warranty Repairs - Autoblog",
+    "Rivian Expects H2 Deliveries to Nearly Double on R2 SUV and Amazon Vans - eletric-vehicles.com",
+    "NIO Inc. Reports 22.8% Year-over-Year Increase in April 2026 Vehicle Deliveries - Quiver Quantitativ"
+  ]
+}
