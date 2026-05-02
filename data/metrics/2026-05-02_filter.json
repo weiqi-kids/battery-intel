@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 117,
+  "gate1_fail": 30,
+  "gate2_fail": 23,
+  "passed": 64,
+  "gate2_samples": [
+    "Samsung SDI Posts Smaller-Than-Expected Loss, Sending Shares Up - Bloomberg.com",
+    "BYD is about to unleash this 1,000+ hp drop-top electric hypercar in Europe [Images] - Electrek",
+    "This Rivian spinoff is reinventing e-bikes in California with screens, software and swappable seats ",
+    "Rivian Stock Drops After Solid Results. What Matters to Investors Is This. - Barron's",
+    "Rivian deliveries jump 20% YoY in Q1 - Auto Finance News"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T09:50:43.149688Z",
+  "updated_at": "2026-05-02T09:12:20.661016Z",
   "quarter": "2025-03-31, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -77,14 +77,14 @@
       "name": "贛鋒鋰業",
       "ticker": "1772.HK",
       "currency": "HKD",
-      "ar": 6771876033,
-      "ar_prev": 3802575206,
-      "ar_qoq": "+78%",
-      "inventory": 13001738593,
-      "inv_prev": 10348353301,
-      "inv_qoq": "+26%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "ar": 6616597836,
+      "ar_prev": 6771876033,
+      "ar_qoq": "-2%",
+      "inventory": 14533753782,
+      "inv_prev": 13001738593,
+      "inv_qoq": "+12%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "lg_energy",
@@ -133,14 +133,14 @@
       "name": "Rivian",
       "ticker": "RIVN",
       "currency": "USD",
-      "ar": 555000000,
-      "ar_prev": 203000000,
-      "ar_qoq": "+173%",
-      "inventory": 1594000000,
-      "inv_prev": 1638000000,
+      "ar": 342000000,
+      "ar_prev": 555000000,
+      "ar_qoq": "-38%",
+      "inventory": 1543000000,
+      "inv_prev": 1594000000,
       "inv_qoq": "-3%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "samsung_sdi",

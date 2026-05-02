@@ -1,0 +1,180 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T09:12:23.829299Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-05-02-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tesla launches Model 3 RWD in Canada at record-low $39,490 ($29,000 USD) from China",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/05/01/tesla-model-3-rwd-premium-canada-record-low-price-giga-shanghai/"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-05-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Unveils Six Major Innovations: Multi-Chemistry Systems to Redefine New Energy Mobility Experience - markets.businessinsider.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYlFCLW5oTmhfMFFQVlhBVWpzbWU0ckNLd1A4MVpjMmFrYnRnRnB3M0dKQUs5LWZkb0dBQlJldTJDZjVpcDRscHFWYjF4aTZlYnRKbW90SEVUT2REekdVa3J2NTFJTWhRQkxRVFVpaHIwUXRKUDd5MEhWWU5uV3ZWa2hRdEg2MThzZmI4SENSNE9Eb2JhS1YxZzAwTHlMYlY0SnBXRWdYUndIb1BkYTVudkIxM0x5bjMyQ3Z2Q01qOHN0cVdjMVlYcldCdGRCZXl5TGVVdlRZRDBlaEFUb3V1ak5HeHZ2ZURTSlNoYjVJcko4UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sporty Cars Outshine Subcompacts At The Beijing Auto Show",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/01/sporty-cars-outshine-subcompacts-at-the-beijing-auto-show/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sierra Club, Allies Applaud Approval of Accelergen’s East Side Energy Storage for Wyandotte County",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/01/sierra-club-allies-applaud-approval-of-accelergens-east-side-energy-storage-for-wyandotte-county/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kia EV6 Getting $5000–6000 Price Cut In USA!",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/01/kia-ev6-getting-5000-6000-price-cut-in-usa/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 201,
+    "too_old": 117,
+    "gate1_blocked": 30,
+    "gate2_blocked": 23,
+    "passed": 64,
+    "pass_rate": "27.4%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "Samsung SDI Posts Smaller-Than-Expected Loss, Sending Shares Up - Bloomberg.com",
+      "BYD is about to unleash this 1,000+ hp drop-top electric hypercar in Europe [Images] - Electrek",
+      "This Rivian spinoff is reinventing e-bikes in California with screens, software and swappable seats ",
+      "Rivian Stock Drops After Solid Results. What Matters to Investors Is This. - Barron's",
+      "Rivian deliveries jump 20% YoY in Q1 - Auto Finance News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為寧德時代、特斯拉相關動態：「Tesla launches Model 3 RWD in Canada at record-low $39,49...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tesla launches Model 3 RWD in Canada at record-low $39,490 ($29,000 USD) from...",
+        "level": "green"
+      },
+      {
+        "text": "CATL Unveils Six Major Innovations: Multi-Chemistry Systems to Redefine New E...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
