@@ -1,0 +1,44 @@
+{
+  "date": "2025-10-14",
+  "generated_at": "2026-05-03T02:36:10.792832Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pilbara-2025-10-14-027",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Earnings call transcript: Pilbara Minerals Q4 2025 sees revenue rise, stock uptick - Investing.com",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "pilbara",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

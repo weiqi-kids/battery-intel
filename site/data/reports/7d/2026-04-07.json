@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-07",
+  "date_range": {
+    "start": "2026-04-01",
+    "end": "2026-04-07"
+  },
+  "generated_at": "2026-05-03T02:36:18.700851Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ganfeng-2026-04-01-020",
+      "date": "2026-04-01",
+      "title": "Ganfeng Lithium 2025 Net Profit Surges 177.77% YoY - Gasgoo",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "lithium_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ganfeng": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 2
+    },
+    "eve": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 6,
+        "last": 5,
+        "change_pct": 20.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-01",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-02",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-03",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-05",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-06",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-07",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

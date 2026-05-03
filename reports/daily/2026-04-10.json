@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-10",
+  "generated_at": "2026-05-03T02:36:19.172667Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-04-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-04-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Global EV Sales Set to Hit 50% by 2030 Amid Oil Shock While CATL Leads Batteries - CarbonCredits.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "nio-2026-04-10-035",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nio Q1 2026 Earnings Preview: Profit Momentum & Growth Strategy | June 2 Report - News and Statistics - IndexBox",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 1
+      },
+      {
+        "id": "catl",
+        "count": 1
+      },
+      {
+        "id": "nio",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  }
+}

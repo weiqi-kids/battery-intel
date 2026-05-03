@@ -1,0 +1,72 @@
+{
+  "date": "2025-05-26",
+  "generated_at": "2026-05-03T02:36:08.908864Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "umicore-2025-05-26-032",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Battery Recycling Market Global Outlook & Forecast Report 2025-2030, with Leading Player Profiles for Call2Recycle, Glencore, LG Energy Solution, Li-Cycle, Redwood Materials, Stena Metall and Umicore - ResearchAndMarkets.com - Business Wire",
+      "companies": [
+        "umicore",
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [
+          "lg_energy"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "recycling"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "umicore",
+        "count": 1
+      },
+      {
+        "id": "lg_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "recycling",
+        "count": 1
+      }
+    ]
+  }
+}

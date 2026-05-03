@@ -1,0 +1,44 @@
+{
+  "date": "2026-04-03",
+  "generated_at": "2026-05-03T02:36:18.282470Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eve-2026-04-03-013",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EVE Energy Reports 2025 Revenue Growth as Multi-Segment Strategy Supports Expansion - Pandaily",
+      "companies": [
+        "eve"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "eve",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

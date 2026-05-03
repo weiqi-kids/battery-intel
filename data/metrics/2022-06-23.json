@@ -1,0 +1,21 @@
+{
+  "date": "2022-06-23",
+  "total_events": 2,
+  "by_company": {
+    "umicore": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "recycling": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

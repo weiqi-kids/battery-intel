@@ -1,0 +1,82 @@
+{
+  "date": "2025-08-25",
+  "generated_at": "2026-05-03T02:36:09.979988Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pilbara-2025-08-25-025",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pilbara Minerals posts sharp profit fall as lithium prices weigh, but shares climb - Proactive financial news",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "lithium_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "pilbara-2025-08-25-028",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pilbara Minerals Reports Full Year 2025 Earnings - Yahoo Finance",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "pilbara",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  }
+}

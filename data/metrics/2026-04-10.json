@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-10",
+  "total_events": 3,
+  "by_company": {
+    "tesla": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "catl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "ev_sales": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
