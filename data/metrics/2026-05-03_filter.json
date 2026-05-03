@@ -1,0 +1,16 @@
+{
+  "total_raw": 432,
+  "dup_title": 245,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 32,
+  "gate2_fail": 23,
+  "passed": 18,
+  "gate2_samples": [
+    "Samsung SDI Posts Smaller-Than-Expected Loss, Sending Shares Up - Bloomberg.com",
+    "BYD is about to unleash this 1,000+ hp drop-top electric hypercar in Europe [Images] - Electrek",
+    "Rivian Q1 Highlights: Double Beat, R2 Customer Deliveries In Coming Weeks - Benzinga",
+    "This Rivian spinoff is reinventing e-bikes in California with screens, software and swappable seats ",
+    "Rivian Expects H2 Deliveries to Nearly Double on R2 SUV and Amazon Vans - eletric-vehicles.com"
+  ]
+}

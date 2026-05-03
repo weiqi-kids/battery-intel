@@ -1,5 +1,45 @@
 [
   {
+    "id": "nio-2026-05-03-001",
+    "date": "2026-05-03",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Exclusive: Nio Reverses Leadership of Full-Domain OS After Ousting VP - eletric-vehicles.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFVXeXV0VVVnejZzMURXMUg5aHpySU5YS1NaMXRxNXVWbk5YQk5MWkVLMjNVdGk4TEdCaXJvNF9sQTlwUmEwdG1ZeTItTzFQQzBPa0Q2M3FMcUNTMjRhNThXZjRJZjA4dEs4RWk2V2",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFVXeXV0VVVnejZzMURXMUg5aHpySU5YS1NaMXRxNXVWbk5YQk5MWkVLMjNVdGk4TEdCaXJvNF9sQTlwUmEwdG1ZeTItTzFQQzBPa0Q2M3FMcUNTMjRhNThXZjRJZjA4dEs4RWk2V25LSGpmMVZVMnhIZVJEQmVKd0J4V2lTeGZIV21tZURKaTA5a09KNW9OdmtsX29KQVRFY09pTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-03-002",
+    "date": "2026-05-03",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top Selling Electric Vehicles in the World — March 2026",
+    "summary": "<p>Tesla wins gold and silver in a market running at different speeds. BEVs vs. PHEVs Plugin vehicle registrations were up 5% year over year (YoY) in March, ending the month at around 1.7 million unit",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/02/top-selling-electric-vehicles-in-the-world-march-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-05-02-001",
     "date": "2026-05-02",
     "companies": [
@@ -87,6 +127,162 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/05/01/kia-ev6-getting-5000-6000-price-cut-in-usa/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catl-2026-05-02-006",
+    "date": "2026-05-02",
+    "companies": [
+      "catl",
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "'The final frontier': China just showed off its world-beating EV battery tech — as CATL, BYD and Sunwoda battle to take charging times down to only five minutes to remove the last barrier to electric adoption - TechRadar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxNejRMM216cUtXUjBXRzEzakRLdFVaUmhxSnBYbjlpTXNHbWVUeGVWM25kVUYyYndSTl9LY3VXdnRDLUFLNXBsOG9zWi1rMWs0b2cxemplY1dCc2JncDVTRWZWTVZjOW1BLXZLWTJyNk",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNejRMM216cUtXUjBXRzEzakRLdFVaUmhxSnBYbjlpTXNHbWVUeGVWM25kVUYyYndSTl9LY3VXdnRDLUFLNXBsOG9zWi1rMWs0b2cxemplY1dCc2JncDVTRWZWTVZjOW1BLXZLWTJyNk54TzI5ZUxlT3RwNnc0akpibjYyZG9tZXlpaUZIaXBSSEFEUElIb1c2dHhsZU1sOU9qX2F5anpOek1oNjJxekpwWGlIWE41ak0wTTBPbmh2NzAwbHNzQlRHVUg3VlJiZTNKV2NvNW13cThFVEVWd0lLVFhBXzJsVHhiYWdZM0tRZjNtVFQzREVaLTI2YlFXTTJWT1FVdGFSU01TSEFpemluX0NSRDJvV3JqN2tpdVNGekEwMHZ4QXM3YTRJc2h4V2ZkQzZrSHRJQkdBQ2JBMVRUeUVKV1JXUDZydF80UWF4Wko0TXN4TUd5OFpGaU82YThz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-02-007",
+    "date": "2026-05-02",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Tesla Model 3’s Worst Nightmare Has Arrived In China - InsideEVs",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1JdGJUVDFmeHBOZmtMQ2hkN1NuZFNWS29ISm0wYVhSeXE3dlI1YUlrVkxCNlhKdm03Ri0wRjBISVA2aFYyaWdMeklUUzNIeVh1TkxXRVB0UmFtSVNhemk1dXREeVBfeDE4bmV1LVZNX2",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JdGJUVDFmeHBOZmtMQ2hkN1NuZFNWS29ISm0wYVhSeXE3dlI1YUlrVkxCNlhKdm03Ri0wRjBISVA2aFYyaWdMeklUUzNIeVh1TkxXRVB0UmFtSVNhemk1dXREeVBfeDE4bmV1LVZNX2FDbnFOTm1xR0Vsa0RQbmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-05-02-008",
+    "date": "2026-05-02",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian Stock Slides Overnight: Investors Look Past R2 Buzz To Amazon’s Growing Grip On Auto Revenue - Stocktwits",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkItUVVHY1V3ZUVuU2tLUjl1VWhTMG15YWdxU0MzUE52c2RPUUVmTWlFQTM5c3NKUE9KbE1ub2dkc0x0eUgyQjNtSWthM0FMSmNCRWZ6eWtaX0VjNTh3c3J0S0M1aktZNXp6clJpWm",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkItUVVHY1V3ZUVuU2tLUjl1VWhTMG15YWdxU0MzUE52c2RPUUVmTWlFQTM5c3NKUE9KbE1ub2dkc0x0eUgyQjNtSWthM0FMSmNCRWZ6eWtaX0VjNTh3c3J0S0M1aktZNXp6clJpWmp4bWhxZFV0U1Vobm40dTJnSjBraVg4M0tLWDkteTg2QU8tMjQ3MEJJbUlQZDRCUTFqWHlnVmRJSThjeHE0dHZ1Nw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-02-009",
+    "date": "2026-05-02",
+    "companies": [],
+    "topics": [
+      "ev_sales",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EVs Slashed Global Fuel Consumption Massively In 2025",
+    "summary": "As EV sales grow, the future of gas and diesel isn’t looking all that great.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/794457/evs-cut-global-oil-consumption/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-02-010",
+    "date": "2026-05-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The BMW iX3 Just Beat Every Competitor In This 620-Mile Road Trip Challenge",
+    "summary": "With just two charging stops needed, the iX3 finished the real-world test at the top of the pack.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/794416/bmw-ix3-620-mile-roadtrip-challenge-time-charging/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-02-011",
+    "date": "2026-05-02",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla Semi gets new product launch as mass manufacturing hits Plaid Mode",
+    "summary": "<p>While the 1.2 MW Megacharger handles quick 30-minute en-route boosts, the Basecharger serves as a reliable overnight solution for longer dwell times at warehouses, distribution centers, fleet yards",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-semi-new-product-launch-mass-manufacturing-plaid-mode/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-02-012",
+    "date": "2026-05-02",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla revises new Intervention Reporting system with Full Self-Driving",
+    "summary": "<p>It is the second revision to the program as Tesla is trying to make it easier to decipher driver and owner complaints, but also to make it easier to report issues within the suite for them.</p>\n<p>",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-revises-new-intervention-reporting-system-full-self-driving/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-02-013",
+    "date": "2026-05-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nissan to Produce ICE Trucks & SUVs Instead of EVs in USA",
+    "summary": "<p>The USA is becoming a true backwater nation. Following the lame, anti-EV trend that is so atypical globally right now (more on that coming later today), Nissan has decided not to produce electric v",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/02/nissan-to-produce-ice-trucks-suvs-instead-of-evs-in-usa/",
         "type": "rss"
       }
     ]
@@ -1488,6 +1684,47 @@
       {
         "name": "pv_magazine",
         "url": "https://www.pv-magazine.com/2026/05/01/totalenergies-nextnorth-reach-financial-close-on-440-mw-philippines-solar-project/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-01-075",
+    "date": "2026-05-01",
+    "companies": [
+      "tesla",
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla, Rivian, or Lucid: Which EV Stock Came Out Ahead in April? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVF2OUlqYV83UHJLUlRxRmdIb1ZSc2daQnEzamNRQU1RV004bVRLVkNURkt3ajR0cks2U3NTRWNQNFJSZVNySjlzRVllRjNXZTNHTjJwTzNJd3VEclVwa2xPLUxFWXpNODYtVGFia0",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVF2OUlqYV83UHJLUlRxRmdIb1ZSc2daQnEzamNRQU1RV004bVRLVkNURkt3ajR0cks2U3NTRWNQNFJSZVNySjlzRVllRjNXZTNHTjJwTzNJd3VEclVwa2xPLUxFWXpNODYtVGFia09jNjgwdE5YV0xNRy1KS0FZRllOY0RmNTdyWUI5c1BoZHBOVGhzTWhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-01-076",
+    "date": "2026-05-01",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen Has Finally Built An EV For The People—2026 ID. Polo Debuts - Autoguide.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNMnFmY2NJODJlYkVLTG9scGFCbkprZkJyNTE1T0tmWmpJZkg3ekFjZ2FpdEVoZlFFdWdfTk5MVWh0YTUzYWxKSExMb3dnYkJ2XzNTRUhOSWdTV0pSYzhhaFNFOVpaNFRjeWxTZVVGTk",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMnFmY2NJODJlYkVLTG9scGFCbkprZkJyNTE1T0tmWmpJZkg3ekFjZ2FpdEVoZlFFdWdfTk5MVWh0YTUzYWxKSExMb3dnYkJ2XzNTRUhOSWdTV0pSYzhhaFNFOVpaNFRjeWxTZVVGTk5iNndWV1o0emJkRXBuWlRlYVY1ZXRTYmhlV01QQ2hPTWxYQ0xEcDFURnI4UlhqSVlhWWxTZ29xbnlTTGFEMVNQUURiSmhVMzMyYXlLdFhrNlRGbXRhUWVCam1nM3Vzdw?oc=5",
         "type": "rss"
       }
     ]
@@ -3589,6 +3826,46 @@
       {
         "name": "renewableenergyw",
         "url": "https://www.renewableenergyworld.com/energy-storage/long-duration/iron-flow-and-sodium-ion-battery-manufacturers-to-join-forces/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-04-30-111",
+    "date": "2026-04-30",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian vs. Lucid: 1 of These EV Stocks Is a Far Better Bet Right Now - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOcHF3cXh4M0RtWjBUeG1ydE9Wek4tanhnUmxid1RyOU1ocjZZeW0wRVlMdEJSbm9uMnlJTThNTUVCWVh5eVJ0ZEhJZldhcjJTdjhiMkFYeFlmVkZZTnRmRFRhWkY0YmtGZXFnUW41Qj",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcHF3cXh4M0RtWjBUeG1ydE9Wek4tanhnUmxid1RyOU1ocjZZeW0wRVlMdEJSbm9uMnlJTThNTUVCWVh5eVJ0ZEhJZldhcjJTdjhiMkFYeFlmVkZZTnRmRFRhWkY0YmtGZXFnUW41QjVRbXVaVHgyeFpROE13VE1ING45eUZDTndseGhiVlM4ZE5yUmxmazBpQg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-04-30-112",
+    "date": "2026-04-30",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian Owners Are Learning The Hard Way Why Trucks Have Split Bodywork - CarBuzz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBXLXZkYWxaZlFkMWxpMHVkSThjOXJJc2E0VUVxWXVfSk9oVXhzWTRMUm5SdWpWR0EzOElORzlCSFU3cUhmNkRVWlRHYzVaWllNQXY4emxtMmNqeVFWSFlmYzJlVl9ua0VIejZjUHB4aX",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXLXZkYWxaZlFkMWxpMHVkSThjOXJJc2E0VUVxWXVfSk9oVXhzWTRMUm5SdWpWR0EzOElORzlCSFU3cUhmNkRVWlRHYzVaWllNQXY4emxtMmNqeVFWSFlmYzJlVl9ua0VIejZjUHB4aXZvMzA2TjhVMEZ2VEFETVU?oc=5",
         "type": "rss"
       }
     ]
@@ -7501,6 +7778,44 @@
     ]
   },
   {
+    "id": "ganfeng-2026-04-28-108",
+    "date": "2026-04-28",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ganfeng Lithium Group Co. Ltd. - Unsponsored ADR (GNENY) Total Expenses (TTM) - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5veWF1cVpNYy1TUW1VMmM3TkZ0Wm1yVWg0WWNKVkVCcTBEV1hHUWdQeERnZTQyMElqeHR5SS1GRWlOeU9sblg1VlE0Y1RMM0xBRU1NdnNiOGc0cmVxR2dvUnMwLTJkODJCVlRyQmZYcm",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5veWF1cVpNYy1TUW1VMmM3TkZ0Wm1yVWg0WWNKVkVCcTBEV1hHUWdQeERnZTQyMElqeHR5SS1GRWlOeU9sblg1VlE0Y1RMM0xBRU1NdnNiOGc0cmVxR2dvUnMwLTJkODJCVlRyQmZYcmw5d3Z3elZrNlZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-28-109",
+    "date": "2026-04-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lithium Africa Appoints Dr. Thomas Benson to Board of Directors - Investing News Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxONm16RzNxa0JkUkZyUDlRMElLSFFmbkUwQ3BEdnJpVy11bm1JaXQ4YmVWYjFhYTNJQW1vMnhCMWw0QW5tUVhtSmtIc0JRLVBMdEN6NlpXU05iYng5cmxIaTZCUEVqS3RXOGZtUmFhWk",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONm16RzNxa0JkUkZyUDlRMElLSFFmbkUwQ3BEdnJpVy11bm1JaXQ4YmVWYjFhYTNJQW1vMnhCMWw0QW5tUVhtSmtIc0JRLVBMdEN6NlpXU05iYng5cmxIaTZCUEVqS3RXOGZtUmFhWkFBT3dwTU0ycl9KU0JEeE9vQkNodHg0RjQtUXUtZjYtQnFaYWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-04-27-001",
     "date": "2026-04-27",
     "companies": [
@@ -9242,6 +9557,46 @@
       {
         "name": "ganfeng",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kMnZTb1JKVWtYOGVxUk9WaXoteGZPcENvS2dCVmVjOVE5cFM5R2k1N1BmZ05NcjB4YnRQeERYa2lpU0hqdDNwdjJxMnVOMmxCU0FNMlVTQVFObWZ6N29sRDd1VGg2anVPeW0tM3UzTE93NW9KbG4xamVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ganfeng-2026-04-27-092",
+    "date": "2026-04-27",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ganfeng Lithium Group Co. Ltd. - Unsponsored ADR (GNENY) Profit Margin (Quarterly) - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXNiS1ZXNDZuWUJrclQyN3hEakpUa2pDUklENElheU1waE0taE8tRUtMR0RNX3FOUlItbVByRmZ4c2I5ZEtTOFYtbzlwb2FWWl9udlJCYTJub0V5NHVhYlpnUlpmQmxfTnBYQUxSem",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXNiS1ZXNDZuWUJrclQyN3hEakpUa2pDUklENElheU1waE0taE8tRUtMR0RNX3FOUlItbVByRmZ4c2I5ZEtTOFYtbzlwb2FWWl9udlJCYTJub0V5NHVhYlpnUlpmQmxfTnBYQUxSemdCTV9HblJsX1lPNDFLbzRaeQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ganfeng-2026-04-27-093",
+    "date": "2026-04-27",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ganfeng Lithium Group Co. Ltd. - Unsponsored ADR (GNENY) Revenue (Quarterly) - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5BZXhmSEl0TUxOdFVITWRZYjh1MWRtLVNBLTlIdnpYTFlJdHoySUp4dGZLMk9FQ0p3S2NIN0VGdHNMTGs2c2R5UmRKOG8wQ0F5dUJSaDd1d1d4aTN4WUkzdk40ZFB6NjEtV3JpSl9hUX",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BZXhmSEl0TUxOdFVITWRZYjh1MWRtLVNBLTlIdnpYTFlJdHoySUp4dGZLMk9FQ0p3S2NIN0VGdHNMTGs2c2R5UmRKOG8wQ0F5dUJSaDd1d1d4aTN4WUkzdk40ZFB6NjEtV3JpSl9hUXhuZkNWNzRLdA?oc=5",
         "type": "rss"
       }
     ]
