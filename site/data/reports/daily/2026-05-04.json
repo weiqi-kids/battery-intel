@@ -1,0 +1,217 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T10:18:33.400186Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-04-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Record-breaking Beijing Auto Show highlights accelerated shift to smart EVs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/04/beijing-auto-show-highlights-accelerated-shift-to-smart-evs/"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_sdi-2026-05-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung SDI Plans Localization of ESS Battery Management Chips - thelec.net",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JMlRkTWxoYUhaN0tsWHhoS1NVTTJocFlRMlgwc3ZEMWZrRVdVTjlmeUtIUjFpNlNmTEZTd0xzVVM2Zi1FR1RmVktGTWdheG5xTS12RjQ1V01RSmRSNklESmp3RUJrUms?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sk_on-2026-05-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SK On’s $11 bn deal to supply batteries to Nissan faces collapse as EV sales in Europe on rise - KED Global",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtTUF3NGZyM2t4a3hTM3NvTUJOR0JSdklOdzZaQ3haa09KZjB2dk13X2x2RmlycW90ajNzZS1RWmE1cW5Ea1JBNnl3S0FDd21ubWpta0lGY1Q2djU3VUh0NnR3OWJtU2d4OG9kQg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sk_on-2026-05-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SK On’s $10.9 Billion Nissan Battery Deal Faces Cancellation Risk - bloomingbit",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wWTlZQ2tUU2tURUNkR3ZJRjh1OHdVYzFremRBbWhTb1IzUElhOFhTOTdsZHNkMEpWcnRxa1pjdWgzdHN6U2czRWJFb2ZuMlplQnpuRw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ganfeng-2026-05-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ganfeng Lithium (01772.HK) rose 50% in early trading. JPMorgan noted that the company's first-quarter earnings met expectations. - 富途牛牛",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFlIWmhIeVhBR3BLTVFQQ2UyOVQtdC15MHdUY1FOc0YzVDhDWFZEOFBjZ0hDYVFKdU5RZ3NEN1lrY1ZGU0xNV0xMa2tfV29uUm1WZkFLZkZqTXNTeWktRUxWT19TZGJ5WlBwSmJmcFNZU3NaeUpad3hEYS1EdHpSQnhfRFBVdW5tRmFUMkJxUlhsZFVPb1NkNTh1aGJ6MjlC?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "sk_on",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 1
+      },
+      {
+        "id": "ganfeng",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 431,
+    "dup_title": 220,
+    "too_old": 123,
+    "gate1_blocked": 34,
+    "gate2_blocked": 22,
+    "passed": 32,
+    "pass_rate": "15.2%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "Samsung SDI Posts Smaller-Than-Expected Loss, Sending Shares Up - Bloomberg.com",
+      "BYD is about to unleash this 1,000+ hp drop-top electric hypercar in Europe [Images] - Electrek",
+      "This Rivian spinoff is reinventing e-bikes in California with screens, software and swappable seats ",
+      "Rivian Tops Q1 Estimates, but Investors Rightly Remain Wary - 24/7 Wall St.",
+      "Rivian Expects H2 Deliveries to Nearly Double on R2 SUV and Amazon Vans - eletric-vehicles.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為福斯、SK創新、特斯拉相關動態：「Record-breaking Beijing Auto Show highlights accelerated ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Record-breaking Beijing Auto Show highlights accelerated shift to smart EVs（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Samsung SDI Plans Localization of ESS Battery Management Chips - thelec.net（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
