@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 35,
+  "gate2_fail": 23,
+  "passed": 65,
+  "gate2_samples": [
+    "Save up to 72% on Mango's Power E 3,500Wh CATL station, bundles, and accessories - all starting from",
+    "LG Energy Solution reports Q1 2026 results - Inspenet",
+    "Forget the Ford F-150 — Rivian May Have Quietly Built the Best Tailgating Truck in America - Autonoc",
+    "Rivian Tops Q1 Estimates, but Investors Rightly Remain Wary - 24/7 Wall St.",
+    "Rivian Expects H2 Deliveries to Nearly Double on R2 SUV and Amazon Vans - eletric-vehicles.com"
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T10:07:37.270585Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-05-05-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "EVs At 98.6% Share In Norway – Tesla Model Y Best-Seller",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/05/evs-at-98-6-share-in-norway-tesla-model-y-best-seller/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-05-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rooftop solar surges to new high in Australia on back of battery boom",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/05/rooftop-solar-surges-to-new-high-in-australian-on-back-of-battery-boom/"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-05-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL expands into Australia with deal with Zinfra for battery storage projects - pv magazine Australia",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYUNSSzgzcHNHeU9ZdGZnaHJVSThVT2dGOENxdTg2c0dCUHdtUUUtMkpnQXFjakFJbnVmd2VONUpPcGhOeU4xMC1TSHFTRDh0UE1IbHE3cU5mWVMtQmRuUm9FS0tWdU1wcS1GQ2hSZ0ltSzROendZR3YzZC1GNUZySTlhSmVnWC1NYVJpWF9pYTU1NlBQc19HOVQtLTZKRG9WcXhzU3FVVGczRmJESFl3RGVEck90WExILWVzdURkbnJoTkpRUDBn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_energy-2026-05-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OECD Flags Severe Supply-Chain Risks for Samsung Electronics, LG Energy Solution - bloomingbit",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82eHlRRWNnTmItR0JETWRSVVhBeWxxNVhJM3dpMHBCQS1aSllUWDdNaFFvVUtMbW5xRjNCYWd2dldkNm82RnRMRW91VUxDR2RoaU9Heg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NextStar Energy Opens Large-Scale Battery Plant in Windsor, Ontario - Assembly Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU21SdTA2Y2d3UVZzam1hQWxEMmh3QmRpUGZYTzVxVWtxZXZRb05LY1doUXpNSjM4ekxYRllweHJJak1GVFFUWnhHWFNJcllyMWZ3clQwSkRJQkRhR3JwNEtuMUZuSDlXZTBRdHlfcVRMMExHMmdKQWVDdjFxTjNCTW5Qem5kWlFrQ0J5YVFuMnNGSTZDcnlHT0VkY3lrSjY4cnVqUnNTWXNVT0FRRUlV?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "catl",
+        "count": 1
+      },
+      {
+        "id": "lg_energy",
+        "count": 1
+      },
+      {
+        "id": "byd",
+        "count": 1
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 182,
+    "too_old": 129,
+    "gate1_blocked": 35,
+    "gate2_blocked": 23,
+    "passed": 65,
+    "pass_rate": "25.8%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "Save up to 72% on Mango's Power E 3,500Wh CATL station, bundles, and accessories - all starting from",
+      "LG Energy Solution reports Q1 2026 results - Inspenet",
+      "Forget the Ford F-150 — Rivian May Have Quietly Built the Best Tailgating Truck in America - Autonoc",
+      "Rivian Tops Q1 Estimates, but Investors Rightly Remain Wary - 24/7 Wall St.",
+      "Rivian Expects H2 Deliveries to Nearly Double on R2 SUV and Amazon Vans - eletric-vehicles.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為特斯拉、寧德時代、LG新能源相關動態：「EVs At 98.6% Share In Norway – Tesla Model Y Best-Seller」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "EVs At 98.6% Share In Norway – Tesla Model Y Best-Seller（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rooftop solar surges to new high in Australia on back of battery boom（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
