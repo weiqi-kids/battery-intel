@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T06:01:34.434477Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-05-06-012",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Global EV battery market share in January-March 2026: CATL 40.7%, BYD 13.7%",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://cnevpost.com/2026/05/06/global-ev-battery-market-share-jan-mar-2026/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-06-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Xiaomi's updated SU7 sedan surpasses 80,000 locked-in orders in 48 days",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/06/xiaomi-updated-su7-80000-locked-in-orders-48-days/"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-05-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Sodium-Ion EV Batteries Enter Mass Production in 2026, Powering Changan’s First Commercial Sodium-Ion EV - EVTech.News",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVZfR0FucDJtT3RHN1lZSktHamQzWEFTd18zbGtFTDEwdTJhNzFxTkdtSUlPbGY1Z1AxX2dJc0RUNzRGQk56VHdtVnBGWXVYY1NxUTVuU0I3UVJiM1FlcjBaeGlMZk45SlRqakd0UkxSeUc2d2tuUE0tVktOeGE4V3lUQkE3c1B0dkpiSWM1emZqeGFuaUt4cEg2aElUR2o5RjlfbEpvb3VOVHh0QWlRT3VwdlE0TEhEVEI0ZGpiYS1DV1puMXU0NmZ3NElabXl1cGQ0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korean battery firms face US pressure as EV plans slow - Tech in Asia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkctZnlxbzZuRkZEVHlDWU40WjRBdEl6ZHVOb2I1bmpjeVc1U1dJWnpDSUpqcGQ2eWRlOGUwRFFNSzUyWnR1U1ZWMGF6RTExOXVJX08weWFpNEJwZzZOajU1NDljOXNTSUE4dmJ1a3lBOTJGcDBBYWdvMzdrTFZJOVFEU3dHcUZ1UGtaVWFDOA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rivian-2026-05-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Exclusive: Rivian developing variants of its more affordable R2 EVs - Reuters",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU1JJWTJpc1hOVE5VTHJocDUtUnV2NktGTEFZem54YXU0ZmhFVm81bnZwZG0yS0lKREEzNXJDd1Z3WmR1MVZrYTlOdnROSTVPWmk1VU5sNE9vQkNtcmE2YjB3ZXpTUTNiRk9SVkxDWXlBVDJQWTNILTFhTFpnZEtGeTVpbnVHeWowVGtxNmtrY0ZaeFRnYUpZTWZwenhkVC1yeWpfMEJkUDlQcG9LdmotSERYbGRUMmpibFJj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 13,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "rivian",
+        "count": 9
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 432,
+    "dup_title": 183,
+    "too_old": 127,
+    "gate1_blocked": 33,
+    "gate2_blocked": 23,
+    "passed": 66,
+    "pass_rate": "26.5%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "LG Energy Solution reports Q1 2026 results - Inspenet",
+      "R2: Scaling the Rivian Adventure Network - Rivian Stories",
+      "Forget the Ford F-150 — Rivian May Have Quietly Built the Best Tailgating Truck in America - Autonoc",
+      "Rivian Tops Q1 Estimates, but Investors Rightly Remain Wary - 24/7 Wall St.",
+      "Rivian opens first southwestern Pennsylvania location in former Bed Bath & Beyond space - The Busine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Rivian、寧德時代、比亞迪相關動態：「Global EV battery market share in January-March 2026: CAT...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Global EV battery market share in January-March 2026: CATL 40.7%, BYD 13.7%（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Xiaomi's updated SU7 sedan surpasses 80,000 locked-in orders in 48 days（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
