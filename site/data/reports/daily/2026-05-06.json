@@ -1,9 +1,38 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:01:34.434477Z",
+  "generated_at": "2026-05-06T10:23:15.443745Z",
   "top_events": [
     {
       "rank": 1,
+      "event_id": "byd-2026-05-06-028",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BYD overtakes Tesla and Kia as UK’s top-selling EV brand in 2026 - Latest news from Azerbaijan",
+      "companies": [
+        "byd",
+        "tesla"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY241ODQ3anRlZUFzRGI0M1g4Wkw2TzQybUtQMlJjUWV6SE1DUjd2U0ZiWVVwcmVxS3l3M0swU25kZFdRTkdLOUxXcGY5aHpxUUk0cmp4dHBsWi1aUFM4WGFWLWxOMVRlRUhZU2g4a3FSZWFCTHlrazBWQU5zTzZ5VjZVVXpnNWN5b3lncA?oc=5"
+    },
+    {
+      "rank": 2,
       "event_id": "catl-2026-05-06-012",
       "importance_score": 0.85,
       "importance_reasons": [
@@ -33,56 +62,47 @@
       "source_url": "https://cnevpost.com/2026/05/06/global-ev-battery-market-share-jan-mar-2026/"
     },
     {
-      "rank": 2,
-      "event_id": "unknown-2026-05-06-013",
-      "importance_score": 0.65,
-      "importance_reasons": [
-        "情緒極端"
-      ],
-      "title": "Xiaomi's updated SU7 sedan surpasses 80,000 locked-in orders in 48 days",
-      "companies": [],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "industry_general"
-      ],
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "source_url": "https://cnevpost.com/2026/05/06/xiaomi-updated-su7-80000-locked-in-orders-48-days/"
-    },
-    {
       "rank": 3,
-      "event_id": "catl-2026-05-06-001",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "CATL Sodium-Ion EV Batteries Enter Mass Production in 2026, Powering Changan’s First Commercial Sodium-Ion EV - EVTech.News",
+      "event_id": "byd-2026-05-06-021",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Global EV battery market share in January-March 2026: CATL 40.7%, BYD 13.7% - CnEVPost",
       "companies": [
+        "byd",
         "catl"
       ],
       "related": {
-        "customers": [],
-        "suppliers": []
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
       },
       "topics": [
         "industry_general"
       ],
       "sentiment": {
-        "label": "positive",
-        "score": 0.5
+        "label": "neutral",
+        "score": 0.0
       },
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVZfR0FucDJtT3RHN1lZSktHamQzWEFTd18zbGtFTDEwdTJhNzFxTkdtSUlPbGY1Z1AxX2dJc0RUNzRGQk56VHdtVnBGWXVYY1NxUTVuU0I3UVJiM1FlcjBaeGlMZk45SlRqakd0UkxSeUc2d2tuUE0tVktOeGE4V3lUQkE3c1B0dkpiSWM1emZqeGFuaUt4cEg2aElUR2o5RjlfbEpvb3VOVHh0QWlRT3VwdlE0TEhEVEI0ZGpiYS1DV1puMXU0NmZ3NElabXl1cGQ0?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeGF0WGxQbTFpdUI4TjFpdnAyeUlud0tpdTNLNTdQZVBxa2t4MFQ0SFdFTWlEdXYyR2QzOHVQNmFGSHJRUnFhdkhuaTA5Y2tZME55ekplSVduenYxSEV3dUtsTGluYm9ySmxESW1mVnZqYWZUclkyNkZQQkotenJCdW9B?oc=5"
     },
     {
       "rank": 4,
-      "event_id": "unknown-2026-05-06-002",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Korean battery firms face US pressure as EV plans slow - Tech in Asia",
-      "companies": [],
+      "event_id": "sk_on-2026-05-06-024",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "SK On, LG Energy Solution, and Samsung SDI Face US EV Slowdown - Asia Business Outlook",
+      "companies": [
+        "sk_on",
+        "samsung_sdi",
+        "lg_energy"
+      ],
       "related": {
         "customers": [],
         "suppliers": []
@@ -94,16 +114,19 @@
         "label": "negative",
         "score": -0.5
       },
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkctZnlxbzZuRkZEVHlDWU40WjRBdEl6ZHVOb2I1bmpjeVc1U1dJWnpDSUpqcGQ2eWRlOGUwRFFNSzUyWnR1U1ZWMGF6RTExOXVJX08weWFpNEJwZzZOajU1NDljOXNTSUE4dmJ1a3lBOTJGcDBBYWdvMzdrTFZJOVFEU3dHcUZ1UGtaVWFDOA?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnhTQk1WWExPd2gzOVBqSW8yQWdJeEFwVmt4N3IwZHNwMW92clFDRm43dXQyU1dqM29DNG9OcjYwNXBtRWx6ajQ4N3lhRGxaZVBCNEQ0S3htVVkwOXNsSE16VUFrbENWMl9pRmUxall3d3lLN0p0c0xEcmlmU3JpS2lsSXRkcEE2dk02azVkclVHNE0tU3pCZk1LZXhHODllQk1PRExMX3JBY2NOR1ZqbzVyYjQzUURX?oc=5"
     },
     {
       "rank": 5,
-      "event_id": "rivian-2026-05-06-003",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Exclusive: Rivian developing variants of its more affordable R2 EVs - Reuters",
+      "event_id": "rivian-2026-05-06-026",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Tesla Rival Lucid Eyes 2027 Affordable EV Ramp Against Model Y, Rivian R2 - Benzinga",
       "companies": [
-        "rivian"
+        "rivian",
+        "tesla"
       ],
       "related": {
         "customers": [],
@@ -116,60 +139,92 @@
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU1JJWTJpc1hOVE5VTHJocDUtUnV2NktGTEFZem54YXU0ZmhFVm81bnZwZG0yS0lKREEzNXJDd1Z3WmR1MVZrYTlOdnROSTVPWmk1VU5sNE9vQkNtcmE2YjB3ZXpTUTNiRk9SVkxDWXlBVDJQWTNILTFhTFpnZEtGeTVpbnVHeWowVGtxNmtrY0ZaeFRnYUpZTWZwenhkVC1yeWpfMEJkUDlQcG9LdmotSERYbGRUMmpibFJj?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMjVwQkFpY2hNSUlvM3ZMTFlMbVJEeTVpbnB0NU44a1JDWXB6RjBTaFZhZTVqNktkdnhzekFQd1U0c2VMbFAwYnpjR1kxbkVRcER1elF5QTBYMVdKTWpoQk9CSkhwLWV0eDVkUUt6c1FzTW9waEhfSnZDcHRnMnVONnVNclNIU3N5OXZOSG9jMlpGQ2tNQ3Fsclo4ZW9fOEF4STRVel9CMFdiV1B1MEpzaEprUTVQa0xYak9ob0laZ1pWSGNOX2NkTA?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 19,
+      "today": 34,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.07,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
       "sentiment_7d_avg": null
     }
   },
-  "supply_chain_activity": [],
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
   "stats": {
-    "total_events": 19,
+    "total_events": 36,
     "sentiment_distribution": {
-      "positive": 4,
-      "neutral": 13,
-      "negative": 2
+      "positive": 6,
+      "neutral": 25,
+      "negative": 5
     },
     "top_companies": [
       {
         "id": "rivian",
-        "count": 9
+        "count": 12
       },
       {
         "id": "catl",
-        "count": 2
+        "count": 7
       },
       {
         "id": "byd",
-        "count": 1
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "nio",
+        "count": 2
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 19
+        "count": 34
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 432,
-    "dup_title": 183,
-    "too_old": 127,
-    "gate1_blocked": 33,
-    "gate2_blocked": 23,
-    "passed": 66,
-    "pass_rate": "26.5%",
-    "gate2_block_rate": "9.2%",
+    "total_raw": 863,
+    "dup_title": 407,
+    "too_old": 258,
+    "gate1_blocked": 66,
+    "gate2_blocked": 48,
+    "passed": 84,
+    "pass_rate": "18.4%",
+    "gate2_block_rate": "10.5%",
     "gate2_samples": [
       "LG Energy Solution reports Q1 2026 results - Inspenet",
       "R2: Scaling the Rivian Adventure Network - Rivian Stories",
@@ -180,15 +235,15 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 19 則事件，焦點為Rivian、寧德時代、比亞迪相關動態：「Global EV battery market share in January-March 2026: CAT...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 36 則事件，焦點為Rivian、寧德時代、比亞迪相關動態：「BYD overtakes Tesla and Kia as UK’s top-selling EV brand ...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
+      {
+        "text": "BYD overtakes Tesla and Kia as UK’s top-selling EV brand in 2026 - Latest new...（正極材料、電池產業通用）",
+        "level": "red"
+      },
       {
         "text": "Global EV battery market share in January-March 2026: CATL 40.7%, BYD 13.7%（電池產業通用）",
         "level": "yellow"
-      },
-      {
-        "text": "Xiaomi's updated SU7 sedan surpasses 80,000 locked-in orders in 48 days（電池產業通用）",
-        "level": "green"
       }
     ]
   },

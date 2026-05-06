@@ -1,29 +1,67 @@
 {
   "date": "2026-05-06",
-  "total_events": 19,
+  "total_events": 36,
   "by_company": {
     "catl": {
-      "count": 2,
-      "sentiment_avg": -0.12
+      "count": 7,
+      "sentiment_avg": 0.11
     },
     "rivian": {
-      "count": 9,
-      "sentiment_avg": 0.06
+      "count": 12,
+      "sentiment_avg": 0.04
     },
     "byd": {
+      "count": 3,
+      "sentiment_avg": -0.25
+    },
+    "sk_on": {
       "count": 1,
-      "sentiment_avg": -0.75
+      "sentiment_avg": -0.5
+    },
+    "samsung_sdi": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "lg_energy": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "pilbara": {
+      "count": 1,
+      "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "industry_general": {
-      "count": 19,
-      "sentiment_avg": 0.07
+      "count": 34,
+      "sentiment_avg": 0.02
+    },
+    "cathode_material": {
+      "count": 1,
+      "sentiment_avg": 0.0
     }
   },
   "baselines_used": {
     "companies": {},
     "topics": {}
   },
-  "supply_chain_activity": []
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
 }

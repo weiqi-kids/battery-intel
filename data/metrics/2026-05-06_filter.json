@@ -1,11 +1,11 @@
 {
-  "total_raw": 432,
-  "dup_title": 183,
+  "total_raw": 863,
+  "dup_title": 407,
   "no_date": 0,
-  "too_old": 127,
-  "gate1_fail": 33,
-  "gate2_fail": 23,
-  "passed": 66,
+  "too_old": 258,
+  "gate1_fail": 66,
+  "gate2_fail": 48,
+  "passed": 84,
   "gate2_samples": [
     "LG Energy Solution reports Q1 2026 results - Inspenet",
     "R2: Scaling the Rivian Adventure Network - Rivian Stories",
