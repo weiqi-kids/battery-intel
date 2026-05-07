@@ -1,0 +1,16 @@
+{
+  "total_raw": 431,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 30,
+  "gate2_fail": 20,
+  "passed": 95,
+  "gate2_samples": [
+    "LG Energy Solution reports Q1 2026 results - Inspenet",
+    "Rivian confirms undisclosed R2 variants as deliveries near - Yahoo Finance",
+    "R2: Scaling the Rivian Adventure Network - Rivian Stories",
+    "Rivian opens first southwestern Pennsylvania location in former Bed Bath & Beyond space - The Busine",
+    "Rivian Might Turn Its New, Affordable R2 Electric SUV Into a Compact Pickup Truck - Yahoo Autos"
+  ]
+}

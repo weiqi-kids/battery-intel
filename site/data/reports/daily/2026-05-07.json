@@ -1,0 +1,212 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T10:29:02.168509Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-05-07-024",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Canada weighs specific EV caps for Tesla, BYD to prevent market dominance",
+      "companies": [
+        "byd",
+        "tesla"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/07/canada-weighs-specific-ev-caps-tesla-byd/"
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-05-07-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Is Xiaomi Trying to Bypass CATL and Go Solo? Could It Enter Battery Manufacturing and Become the Next BYD? - 36氪",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IMHZsYnNhQUl4U2lpamFjaU9GRXVlemFXRWZpY3lENHM2eS1oNTNTS081eHo4MlBwYkZnTHhsTHJSSU9WQXRQWnhCX1g1YS1SdmNB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "volkswagen-2026-05-07-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Volkswagen And Partners Back Rivian’s Costly Push Into EV And Autonomy - simplywall.st",
+      "companies": [
+        "volkswagen",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ1RKcDcyT1JtWmlkNFpqV1Vyd2FSZEl0d09vUzJrWEhTRl9YQ2kySWNnUGZRdENVMExBMnF0Mk1QazJkSzU2NlI5ZVo3bmJRb3BtWFdheHEyTHVNbjJ2RXBscEpDRWcxVHlDOVJUcGNqX1RIOHQ0cXQ5OTc5dEcteUpDdmdPblV5VVcyckZOZHRLekxHNmFjUEtFbXpGak0xVnlxaC1ycTF2WEFyRV9nckhnQ3NnUGUzQTJRQ3IxZnFwRDJiLVA1MXlsTHJCaXZrS19JbFln0gHbAUFVX3lxTE9xMkNKZW1Dd2FXN2lVR1BuVTE0Slh2Znl2Z1p2UGlwYmQ2cjNWNEJjTUdlZllDY0w3RjNMdDE1Y3ZmQzNCcnZIMXU4V3ZlcWxRM0o4SnpYU3NOOWhLSlUteWhQdHRGNENtTy1fNk13QjYtNXM0TGNiYkFoWHhhbkVIeG5MNWJTSFdVakl0M0REVHlOczVaQnQwSWQxejJ6akR0TDdFcWhWSVJ4d3VIQ3VQem9seWJjQTVfclZGZzJyem9XUTk4QWwzeElLWGNraHlmVjZ4QllGQUg0bw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-05-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's CATL to supply cars with its EV chassis in first overseas project in Turkey - Reuters",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1lxbGFlV2pleEt0UGJFZXBaYUdSQS05VzdzaDI2ZEVRRG9wVjkxNVRmc1RrN193MmlDT2lBRHJBU05aRVp3MnlRYWRId04wUjllY0VWQVpQMXhRNHduT2JfU01RRnFyTEpPN21QbTM2WnRfLVZ2djVtaFNabGxHZHBvMTV0MkZKVU5TNW9jc1B3MHNPMzlVRFZTdWotR1hTcDZBYmQtYi1WeUNsR3hkeVF1em5maVpsZ1JlTmd3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s EV battery giants thrive while carmakers’ profits shrink amid price wars - South China Morning Post",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzBMbWdKa194ZlhzVE1PSlhxV0lCeE5CNm9TX3dvNlhCbXRpLWRqY29CYXN3XzBLNXlWU2tDNXVzRUM5X0tmMzV3OFoxMlBpSFFEekZqV25aTUpCdzFwemhWYm8zeHdqa2hIQks4b2dhR21sa19ROHBHSU9XUGJRenFiYnZ2WkFYNmNkME5ScDFtVHVNSEZXR2NmV1FFYnczWGoyWW1fdV9Kc055UERaWjFrTXUtUENGZ0FSNzBUZDVMeF82dDlDYzRqQ2h5TDgzQUEzStIB1AFBVV95cUxOSS1HREpSY0VxMHBodzBSeldTRFNlem9rYzJ0RnRPYTlEV3Z2U0tsWWhmQ3E4TW9ZRDI5UERiaTUwTXhydFZUUG5NVk1jUjZNcTV3UmFscDBZTHNVdW9hU0cxeVhaZGxNS2RpeTI3YnY3d1NUOWxnQmt4Q0pIZFRUakhpaGxFTWxXc1ZHcWIzMW1uTmZLaFpvTEp2QUZ1Q0F1MzJyaV9EcUdpWnAwaHZtZVRraElRVURwVWdVNmhPbWlXZEkxX09QaHkwZHdKaGlLNnRNOA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 39,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 33,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 6
+      },
+      {
+        "id": "byd",
+        "count": 4
+      },
+      {
+        "id": "lg_energy",
+        "count": 3
+      },
+      {
+        "id": "ganfeng",
+        "count": 2
+      },
+      {
+        "id": "rivian",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 39
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 431,
+    "dup_title": 159,
+    "too_old": 127,
+    "gate1_blocked": 30,
+    "gate2_blocked": 20,
+    "passed": 95,
+    "pass_rate": "34.9%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "LG Energy Solution reports Q1 2026 results - Inspenet",
+      "Rivian confirms undisclosed R2 variants as deliveries near - Yahoo Finance",
+      "R2: Scaling the Rivian Adventure Network - Rivian Stories",
+      "Rivian opens first southwestern Pennsylvania location in former Bed Bath & Beyond space - The Busine",
+      "Rivian Might Turn Its New, Affordable R2 Electric SUV Into a Compact Pickup Truck - Yahoo Autos"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為寧德時代、比亞迪、LG新能源相關動態：「Canada weighs specific EV caps for Tesla, BYD to prevent ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Canada weighs specific EV caps for Tesla, BYD to prevent market dominance（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Is Xiaomi Trying to Bypass CATL and Go Solo? Could It Enter Battery Manufactu...（電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
