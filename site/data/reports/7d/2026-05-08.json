@@ -1,0 +1,178 @@
+{
+  "date": "2026-05-08",
+  "date_range": {
+    "start": "2026-05-02",
+    "end": "2026-05-08"
+  },
+  "generated_at": "2026-05-08T09:27:59.301733Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tesla-2026-05-05-043",
+      "date": "2026-05-05",
+      "title": "BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "tesla",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 139,
+      "last_week": 189,
+      "week_over_week_change": "-26%",
+      "sentiment_this_week": 0.05
+    },
+    "ev_sales": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "cathode_material": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    },
+    "lithium_price": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 16,
+      "sentiment_avg": 0.11,
+      "rank": 1
+    },
+    "tesla": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nio": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "samsung_sdi": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 11
+    },
+    "sk_on": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 9
+    },
+    "ganfeng": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "volkswagen": {
+      "event_count": 4,
+      "sentiment_avg": 0.13,
+      "rank": 8
+    },
+    "lg_energy": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "byd": {
+      "event_count": 11,
+      "sentiment_avg": -0.07,
+      "rank": 4
+    },
+    "rivian": {
+      "event_count": 15,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "pilbara": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "albemarle": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 348,
+        "last": 546,
+        "change_pct": -36.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-02",
+      "event_count": 15,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 11,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 57,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 69,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 88,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 81,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 27,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-02 ~ 2026-05-08）共 348 則事件，重點為「BYD overtakes Tesla and Kia as the best-selling...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "三星SDI",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "特斯拉",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

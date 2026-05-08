@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:27:59.224869Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-08-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "XPENG Unveils The “World Model Accelerator” X-Cache, Which Requires No Training, Is Plug-And-Play, And Boosts Inference Speed By 2.7 Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/07/xpeng-unveils-the-world-model-accelerator-x-cache-which-requires-no-training-is-plug-and-play-and-boosts-inference-speed-by-2-7-times/"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-05-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zeekr 009 refresh: 680 kW (912 hp) dual-motor power and 6C CATL Qilin battery - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2dLQ3AwSk1PUFhKVlFFaGFON2FSRnVLWlN6QnNzRFR5aEZ3YnNNVGhReExWQTlzOUJ0ay1MbFV1Q3JmODdFVFpZZ2N2b3RKZUZnWnVKZVNUXzZrWWJXZjRUcGtlZ0RtNHdlM3NLY3ptZjEwYmxWbjdrOHlSX25POWFNaldKSEJKOGotUGU5ckpwYmVZWWZ2cjdoUUFyeEVqNDYwN3BHazJ1bVJhWUVGcg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ganfeng-2026-05-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UBS Group has raised its 2026 lithium price forecast for China by 18%, while also increasing the target prices for Ganfeng Lithium (01772.HK) and Tianqi Lithium (002466.SZ). - 富途牛牛",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "lithium_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV3MwNmYzZ2J2RTg1RFNmLXlGa0EwTWhZeHBnQnl3ejdEaHBHZTQ4WDNINTNCV3BnMHBNclRBQWtwdmkxR2M1Smc5OVlxWmh5OTBFRDVjZzluVjgzNEF3RGVGdFlVVVZfU1VTTkRINjZLUFJrRlBEYURxWDQ0dGpMT3FOZ1ZRY1JkZkdQelF0MFVyZVdMWkRlLS1mV085QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ganfeng-2026-05-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UBS Raises 2026 China Lithium Price Forecast by 18%, Lifts TP for GANFENGLITHIUM (01772.HK) and TIANQI LITHIUM (002466.SZ) - AASTOCKS.com",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "lithium_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHJXWVQyakh1eHUwenp5bnNEOVpaX3BweGFFWFEtbDBGMWpvZmd4XzRBNUF6Q3A4d0Z2UmVweXFURDJpRjJIS012RWpNUFRaekdNLWMxc3VLV3RxSktYQWxkaThtNElHOGxXd0FvblBwU2RwVWc5Y21ocXRGWHlTaTRRdTJVWE5scGtvSWtiWHhteGF3U2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pilbara-2026-05-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ASX 200 Mining Update: Pilbara Minerals and Lithium Activity - Kalkine Media",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM3FXVWhGa0VkdmJQMEhzUGxKejE4Tk1CcjNlVzQxWmtDUWdJUDgxTHd6VEVlN3F1Nm02ZjZlb1ZxZWU2WEhKaWtnYW1NUE1lUmhnYUhUaERreURWRkRRQVVnOFpCSUM2YU5KcGhtZkhuajZJMURYUktMVTlrU1hTdDBfVHpMZjVma0NlNGZmMEFfZHhEdVRUX1kydTh5eDJCSEhpMlV0ZlVUZHozYTlPNw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "ganfeng",
+        "count": 2
+      },
+      {
+        "id": "catl",
+        "count": 1
+      },
+      {
+        "id": "pilbara",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "lithium_price",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 431,
+    "dup_title": 188,
+    "too_old": 121,
+    "gate1_blocked": 32,
+    "gate2_blocked": 19,
+    "passed": 71,
+    "pass_rate": "29.2%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "CATL Subsidiary CAIT Partners up with Togg on Bedrock Chassis - CATL",
+      "Togg to adopt CATL’s Bedrock Chassis - electrive.com",
+      "LG Energy Solution reports Q1 2026 results - Inspenet",
+      "Rivian gets serious about challenging Tesla FSD with latest move - thestreet.com",
+      "Taking R2 Beyond the Pavement - Rivian Stories"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為比亞迪、特斯拉、贛鋒鋰業相關動態：「XPENG Unveils The “World Model Accelerator” X-Cache, Whic...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "XPENG Unveils The “World Model Accelerator” X-Cache, Which Requires No Traini...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Zeekr 009 refresh: 680 kW (912 hp) dual-motor power and 6C CATL Qilin battery...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
