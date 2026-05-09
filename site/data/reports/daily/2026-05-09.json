@@ -1,0 +1,212 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:24:19.816273Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rivian-2026-05-09-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Better EV Stock: Tesla vs. Rivian vs. Lucid - The Motley Fool",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOXZSZVNySFVIY0lSa0RiMXBNSThuWUk1dUE0N1VhYUZQMDFySGZHN2dVai1xNnpfQU1tNENMbGxNaXdQalprVEJrLTc3ajhwT0gyNFY2S2wwejQ2TTJSSUpGanJZNHBWMUhtbnBvdkxzcnZuazhiYVp3RmVrSDRuekcybnpxV0wxRFdz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-05-09-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Better EV Stock: Tesla vs. Rivian vs. Lucid - AOL.com",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14bTctN1lIeXNGcVlvbllrYzA3X1g3TWliaXB6Zi1yV2wwT19HQV9LTm1YTzZZVV90UGZSQ0tVM2xBeVFrSk9WdkptZHZyRl9RbktKd1hEdnBsRDd1S3RvbDQycE5jcURoVERYWnFLS0JTSVZNNVlB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-09-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ryanair’s Global Emissions Are Now 50% Higher Than In 2019, The Largest Increase Worldwide",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://cleantechnica.com/2026/05/08/ryanairs-global-emissions-are-now-50-higher-than-in-2019-the-largest-increase-worldwide/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-05-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL plans 40 GWh sodium battery capacity expansion after securing world's largest order - CnEVPost",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUVBBeDg4SnhEcEgzVVk0LWFXY21BZkZTSXVMVW5nTXI2dDdLb2NFVWRVN29Ya1ZjQU9ncWdhaW13SGR5NWtIaWJlTUVZb2FIeHd0U1p0WG1FZFdhYjVDd0tBQUdBUmVmeXd6QURiU1lRRC1jeVFXeU5yY3hROHJIVzZiVEk0c191TzJQQw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_energy-2026-05-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[Gasgoo Express] Richard Yu Announces Luxeed V9 to Launch This Month; BMW Responds to LG Energy Solution Order Rumors - Gasgoo",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUFpCSUR2Nnd0cE5VbHhqUFRsbmlCUG5XMkpVT0pHWF80Z1FzdklWbUpMSkFZcmZJOFNNZUsxZTFERXBOSUF6RWUtTklPTmlrUG05RXlVYk5JcV9Vc0ZfdEMwcktFUmxQUkxpUFZDa3I4NzBhbzY5emhhaFdjcFNGRlRxWWZZWkRubm5HX3VuN0d6U3pOeUtpZUVGeHpSV2lZRFVLR1VSbE5McWtiN1V3eEUxSE1tM241ZW9Cekd0ZVF5cW55R1VFUnoteEJxVnpVWHBRaU0zN0lsa29DeE55S3NJMXhfZzBZMVNoa185MnpELTU4X1laamJUVmIxeXZrM1VjOXY3QQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "rivian",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rivian",
+        "count": 3
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "lg_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 431,
+    "dup_title": 185,
+    "too_old": 126,
+    "gate1_blocked": 30,
+    "gate2_blocked": 19,
+    "passed": 71,
+    "pass_rate": "28.9%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "CATL Subsidiary CAIT Partners up with Togg on Bedrock Chassis - CATL",
+      "LG Energy Solution reports Q1 2026 results - Inspenet",
+      "Rivian gets serious about challenging Tesla FSD with latest move - thestreet.com",
+      "Taking R2 Beyond the Pavement - Rivian Stories",
+      "R2: Scaling the Rivian Adventure Network - Rivian Stories"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為Rivian、比亞迪、寧德時代相關動態：「Better EV Stock: Tesla vs. Rivian vs. Lucid - The Motley ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Better EV Stock: Tesla vs. Rivian vs. Lucid - The Motley Fool（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Better EV Stock: Tesla vs. Rivian vs. Lucid - AOL.com（電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 431,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 30,
+  "gate2_fail": 19,
+  "passed": 71,
+  "gate2_samples": [
+    "CATL Subsidiary CAIT Partners up with Togg on Bedrock Chassis - CATL",
+    "LG Energy Solution reports Q1 2026 results - Inspenet",
+    "Rivian gets serious about challenging Tesla FSD with latest move - thestreet.com",
+    "Taking R2 Beyond the Pavement - Rivian Stories",
+    "R2: Scaling the Rivian Adventure Network - Rivian Stories"
+  ]
+}
