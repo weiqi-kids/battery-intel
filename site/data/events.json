@@ -1,5 +1,41 @@
 [
   {
+    "id": "unknown-2026-05-10-001",
+    "date": "2026-05-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chery EVs Arrive in Canada Ready of Pre-Selling Preparations",
+    "summary": "<p>Thanks to Simply Gregster EV for the footage confirming our earlier story. A walkaround video from Simply Gregster EV has provided the clearest on-the-ground evidence yet that Chinese automakers ha",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/10/chery-evs-arrive-in-canada-ready-of-pre-selling-preparations/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-10-002",
+    "date": "2026-05-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Divergence in the World EV Market — Auto China 2026 vs US Market",
+    "summary": "<p>In the video below, Larry Evans and Raymond Tribdino talk about their recent trips to the Beijing Auto Show (Auto China 2026), the vast EV offerings on the market in China, as well as the growing a",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/09/divergence-in-the-world-ev-market-auto-china-2026-vs-us-market/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-05-09-001",
     "date": "2026-05-09",
     "companies": [
@@ -467,6 +503,316 @@
       {
         "name": "pv_magazine",
         "url": "https://www.pv-magazine.com/2026/05/09/bolivia-presents-new-law-to-boost-renewables-private-investments/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catl-2026-05-09-026",
+    "date": "2026-05-09",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese EV packs CATL's 6C charging battery and 680 kW motor output - Interesting Engineering",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1U4SEFGRHluQVNyTlJWWkZqV3ZzdmhOVmdlbnR6dEFINzdQSWF0M2sybUtPZlpNR1BYVUVZZ3J0TjgyZldEaHBIMDhSY1dyWkFDMnM1U2dYRHluR2NWLUNDSm90UTdvRk13NmJTVT",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1U4SEFGRHluQVNyTlJWWkZqV3ZzdmhOVmdlbnR6dEFINzdQSWF0M2sybUtPZlpNR1BYVUVZZ3J0TjgyZldEaHBIMDhSY1dyWkFDMnM1U2dYRHluR2NWLUNDSm90UTdvRk13NmJTVTBwandfTy1hLV9Hc0RxQ0ljMlctUEJnTUNfVkJvekN0VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-05-09-027",
+    "date": "2026-05-09",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy Solution Ltd stock (KR737220003): Battery demand and earnings outlook in focus for US inve - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbndmQllnZ0VHNjhZdmtqUU1GdURqZEJ6YjFORE1lWWR4MDNldG1MLTlTMkpiR2diRGVqWS1USFhScURlbDlCb1ZCb3NsOG1jUi0yM2RXX2hwaTZCWkJUZ1RUclI1VkJkanVfbWI5cF",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbndmQllnZ0VHNjhZdmtqUU1GdURqZEJ6YjFORE1lWWR4MDNldG1MLTlTMkpiR2diRGVqWS1USFhScURlbDlCb1ZCb3NsOG1jUi0yM2RXX2hwaTZCWkJUZ1RUclI1VkJkanVfbWI5cFM0aWVRUjk3N3BTeE8xODdYeU9zX3A4WURGRm5IdDUtZ1hGdmZsU1V2NUhjYVFkRXdTN3BZeUNDLWNhZkhzZE9VaXRfNFR0VWVzN21OOE1PMkxoVk0tckE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-05-09-028",
+    "date": "2026-05-09",
+    "companies": [
+      "byd",
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Inside the Chinese EV factory built to take on Tesla and BYD - CarExpert",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHdCR0hGeHlPdzZMQ3dXbmRQT2wxRUlOUXE3UWdlZDZoaTVXaHBLdHplbFJZU245dnhvNmo2LWlNSUhlaEQ0MUYzcmZOaGlKYTlXU2NlcmlyTEJYWDNJYXlUaUpXMFFHOHZiVEEyLW",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHdCR0hGeHlPdzZMQ3dXbmRQT2wxRUlOUXE3UWdlZDZoaTVXaHBLdHplbFJZU245dnhvNmo2LWlNSUhlaEQ0MUYzcmZOaGlKYTlXU2NlcmlyTEJYWDNJYXlUaUpXMFFHOHZiVEEyLW55ZS03Z18yR1lVSU1JSzAtUE1aSDBXR0dkc3c5alJQZkxOM3VlTk56T1R1ZmtfRDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "umicore-2026-05-09-029",
+    "date": "2026-05-09",
+    "companies": [
+      "umicore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Umicore S.A. stock (BE0974320526): Battery materials and recycling focus draws investor interest - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUdtSHJTMFJ5c3NENmtrY09WdEQ4c0xHbVh4LV9STURDcVZheFlZY0JXQ1NJOHZpcGdwbDVwdkY0RVF1bGJuaG1rV3VjUXM1ZHVoeGtOSk56OHNGVGFoWUlaNkxoRndtVjZ1Wm9SQ3",
+    "sources": [
+      {
+        "name": "umicore",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUdtSHJTMFJ5c3NENmtrY09WdEQ4c0xHbVh4LV9STURDcVZheFlZY0JXQ1NJOHZpcGdwbDVwdkY0RVF1bGJuaG1rV3VjUXM1ZHVoeGtOSk56OHNGVGFoWUlaNkxoRndtVjZ1Wm9SQ3dNbVBkeTVUNDNhZFhYRS1GOXZMU2NWdTlseHJLdmQ2ZHlGVWFrRUpKdFI2Vk1DX1JYQi0tTWJhWmJLeTczQ0x4ZEtmZkNtYjF5bDZDc1NDem5Tck9KYWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-05-09-030",
+    "date": "2026-05-09",
+    "companies": [
+      "rivian",
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Better EV Stock: Tesla vs. Rivian vs. Lucid - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNN284RmozLXpySEcwZlc5ZWJqRFNjUXhpOS1uSm9IVGlPWmZybnkxR2pRLS1WVE9BZW9PbHQxSzZ3RWlBWkpJY1RFRDNuXzJ3cHNVMzVrN05BZnN5OWNNdUVNaHNuX19RZDU5WXJ2az",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN284RmozLXpySEcwZlc5ZWJqRFNjUXhpOS1uSm9IVGlPWmZybnkxR2pRLS1WVE9BZW9PbHQxSzZ3RWlBWkpJY1RFRDNuXzJ3cHNVMzVrN05BZnN5OWNNdUVNaHNuX19RZDU5WXJ2azFqMnkyN1FlbGliaEJJWTJSUXg0QzU3Ri1adEJWMHJKTkRBN2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-09-031",
+    "date": "2026-05-09",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "At under $49,000, Volkswagen’s ID.Buzz might FINALLY be priced right - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEN2T3R3bkN3eDhKY3dpLTVGTVkwT05NWG9FT0R0Um56Yk9XOFZLQU9sZmhRdzljSmwzLTExYXNtUXhYeDF0SFRMckF5em1Od08xUVhJdDI4MUdQQ3JMR3ZoRThhR01ZOEVWU2l5N0",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEN2T3R3bkN3eDhKY3dpLTVGTVkwT05NWG9FT0R0Um56Yk9XOFZLQU9sZmhRdzljSmwzLTExYXNtUXhYeDF0SFRMckF5em1Od08xUVhJdDI4MUdQQ3JMR3ZoRThhR01ZOEVWU2l5N0drdTNGeXR2WGs3SzctLXhEUEF6Qzk0Um1wWHU3aC1UaFlTQUVtOWppZi1VSUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-09-032",
+    "date": "2026-05-09",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla postpones Model S/X Signature delivery event, leaving attendees holding the bag",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Model-SX-Last-Run-Signature-hero.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Tesla has postpone",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/09/tesla-postpones-model-s-x-signature-delivery-event/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-033",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Turn your GM EV into backup battery power with a GM Energy Home System [Video]",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/02/gm-energy-1-9.webp?w=1600\" /></div><p>As a homeowner, one of the most frustrating things is when the power star",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/09/gm-car-battery-backup-gm-energy-home-system-video/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-034",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This New European Electric SUV Has A Secret From China",
+    "summary": "It will look German, may be built in Spain, but with Leapmotor’s EV architecture and battery tech.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/795383/opel-leapmotor-electric-suv-europe/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-035",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cadillac's EVs Are Stealing Tons Of Buyers From Other Brands",
+    "summary": "Cadillac has sold more than 100,000 new EVs, and three-quarters of those buyers are new to the brand.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/795368/cadillac-75-percent-buyers-new/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-036",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Reborn Freelander brand files for first model Freelander 8 in China",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/05/2026050913450772.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p>\n<p>The Freelander 8 is an extended-range SUV, measuring 5,118 mm",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/05/09/reborn-freelander-brand-files-for-freelander-8-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-037",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xpeng prepares major product offensive with multiple new filings",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/05/2026050913062117.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p>\n<p>Xpeng filed for G9L, L05, and L03 SUVs, covering both battery",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/05/09/xpeng-files-g9l-l05-l03/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-05-09-038",
+    "date": "2026-05-09",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "BYD secures 100,000-vehicle order from Car Inc in major push for flash charging",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/05/2026050911482383.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p>\n<p>BYD and Car Inc have reached a 100,000-vehicle procurement ag",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/05/09/byd-secures-100000-vehicle-order-from-car-inc/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-05-09-039",
+    "date": "2026-05-09",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio Onvo starts deliveries of 2026 L90 SUV",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/05/2026050909365853.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p>\n<p>The 2026 Onvo L90 was launched on April 21, with its starting",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/05/09/nio-onvo-starts-deliveries-2026-l90/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-05-09-040",
+    "date": "2026-05-09",
+    "companies": [
+      "nio",
+      "byd",
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla Model Y L. Why Would You Pick The Y?",
+    "summary": "<p>On my recent trip to China, I headed to a BYD dealer to test drive models, but I ended up at the wrong location. NIO, XPENG and Tesla showrooms were next door. As with many parts of my trip, I just",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/09/tesla-model-y-l-why-would-you-pick-the-y/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-041",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Indonesia’s EV Transition Not Just to Cut Emissions, More So to Cut Oil Dependence, Study Says",
+    "summary": "<p>For decades, Indonesia built its economic and social stability around subsidized fuel. Cheap gasoline and diesel became embedded in transport habits, logistics systems and household budgets. Even t",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/09/indonesias-ev-transition-not-just-to-cut-emissions-more-so-to-cut-oil-dependence-study-says/",
         "type": "rss"
       }
     ]
@@ -1739,6 +2085,47 @@
       {
         "name": "renewableenergyw",
         "url": "https://www.renewableenergyworld.com/podcasts/can-ford-revive-its-struggling-ev-program-this-week-in-cleantech/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ganfeng-2026-05-08-069",
+    "date": "2026-05-08",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ganfeng Lithium Group Co. Ltd. - Unsponsored ADR (GNENY) Peg Ratio (TTM) - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5jQkR1QVFLYjJpQUNCZE9YaXZ3c2oxMDB3M3B5VVdfaDBqWEZyTG8xUk91c0MxUEZ5TUlWellYV251cEp3ZDd3OGNvampYcF9sdXFkc1dHWmswZ2hmQ082Y3JfZ2JzQ1l0TlBVVGxuQ3",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jQkR1QVFLYjJpQUNCZE9YaXZ3c2oxMDB3M3B5VVdfaDBqWEZyTG8xUk91c0MxUEZ5TUlWellYV251cEp3ZDd3OGNvampYcF9sdXFkc1dHWmswZ2hmQ082Y3JfZ2JzQ1l0TlBVVGxuQ3ZkX0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "albemarle-2026-05-08-070",
+    "date": "2026-05-08",
+    "companies": [
+      "albemarle"
+    ],
+    "topics": [
+      "lithium_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Albemarle Earnings and Lithium Prices: Q1 2026 Recovery Explained - discoveryalert.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmVXdWVYMUJpU2hqVnR0YU5GQTBxSVJ4eXNPdmdETF91bjFZUWpGdzk5czg5SzA4clhGaHpQQWtjaS1JVUY1UzdLU0ZnaElia0Vhckt5RExlak5Oa2piVE95OXQtQ0RLZFNoNDFwWl",
+    "sources": [
+      {
+        "name": "google_news_lithium",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmVXdWVYMUJpU2hqVnR0YU5GQTBxSVJ4eXNPdmdETF91bjFZUWpGdzk5czg5SzA4clhGaHpQQWtjaS1JVUY1UzdLU0ZnaElia0Vhckt5RExlak5Oa2piVE95OXQtQ0RLZFNoNDFwWlJHQk1jTDc3RVlYZ29UVkZ2THVaam9KX3RleWoxTzcwa3g?oc=5",
         "type": "rss"
       }
     ]
@@ -3325,6 +3712,26 @@
       {
         "name": "rivian",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2drOThKVUIwOWg3STI3bXJaX1M0Rm9zemNJbDduamxnZXpVWmtJcW1GOGpjRm5SOHRtdXNPa0VHdnpNQURubHlwZTFHUU5rRmlZUWlpTDRVemRYVjc0dkllckxBXzdEYVYxaGhTVm5BanlYYU5aQVZUSVRiQ182THRMVlBacXM2eW9iWlFDdlJNWFhOQkRj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-05-07-085",
+    "date": "2026-05-07",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian eyes more EV variants as affordable R2 rollout begins - Crain's Chicago Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOYTJUaE1zbjBVRHlGazVwRV94b3pnQjZ1cVhrN09FMmY2UURGa3hNUE0xYjlFejIteVU5VFZRMjFLdkpVYmowODlqQndKOFE5QUJseVBHQTZkMEtraEg4NVBhNG1nZURjdlFTY2hzVn",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYTJUaE1zbjBVRHlGazVwRV94b3pnQjZ1cVhrN09FMmY2UURGa3hNUE0xYjlFejIteVU5VFZRMjFLdkpVYmowODlqQndKOFE5QUJseVBHQTZkMEtraEg4NVBhNG1nZURjdlFTY2hzVnppTUNhQ0c5LUIxazlZMm93X2k1WUJjZ0x4VnFhVkUxWG9mNDNEaGtubS1HcGo1YUQwU2hHcEpjSUVjZzJ3UVpmYzlTOUQ?oc=5",
         "type": "rss"
       }
     ]

@@ -12,34 +12,34 @@
     "history_complete": true
   },
   "samsung_sdi": {
-    "earliest": "2017-09-14",
+    "earliest": "2017-06-16",
     "latest": "2026-05-08",
-    "count": 2112
+    "count": 2175
   },
   "panasonic": {
-    "earliest": "2017-09-15",
+    "earliest": "2017-06-19",
     "latest": "2026-05-08",
-    "count": 2125
+    "count": 2189
   },
   "eve": {
-    "earliest": "2017-09-13",
+    "earliest": "2017-06-15",
     "latest": "2026-05-08",
-    "count": 2093
+    "count": 2157
   },
   "sk_on": {
-    "earliest": "2017-09-14",
+    "earliest": "2017-06-16",
     "latest": "2026-05-08",
-    "count": 2112
+    "count": 2175
   },
   "albemarle": {
-    "earliest": "2017-09-15",
+    "earliest": "2017-06-19",
     "latest": "2026-05-08",
-    "count": 2173
+    "count": 2235
   },
   "sqm": {
-    "earliest": "2017-09-15",
+    "earliest": "2017-06-19",
     "latest": "2026-05-08",
-    "count": 2173
+    "count": 2235
   },
   "ganfeng": {
     "earliest": "2018-10-11",
@@ -48,29 +48,29 @@
     "history_complete": true
   },
   "pilbara": {
-    "earliest": "2017-09-13",
+    "earliest": "2017-06-15",
+    "latest": "2026-05-08",
+    "count": 2253
+  },
+  "byd": {
+    "earliest": "2017-06-16",
     "latest": "2026-05-08",
     "count": 2189
   },
-  "byd": {
-    "earliest": "2017-09-14",
-    "latest": "2026-05-08",
-    "count": 2125
-  },
   "umicore": {
-    "earliest": "2017-09-13",
+    "earliest": "2017-06-15",
     "latest": "2026-05-08",
-    "count": 2212
+    "count": 2276
   },
   "basf": {
-    "earliest": "2017-09-13",
+    "earliest": "2017-06-15",
     "latest": "2026-05-08",
-    "count": 2195
+    "count": 2259
   },
   "tesla": {
-    "earliest": "2017-09-15",
+    "earliest": "2017-06-19",
     "latest": "2026-05-08",
-    "count": 2173
+    "count": 2235
   },
   "rivian": {
     "earliest": "2021-11-10",
@@ -85,14 +85,14 @@
     "history_complete": true
   },
   "volkswagen": {
-    "earliest": "2017-09-13",
+    "earliest": "2017-06-15",
     "latest": "2026-05-08",
-    "count": 2195
+    "count": 2259
   },
   "etf_lit": {
-    "earliest": "2017-09-15",
+    "earliest": "2017-06-19",
     "latest": "2026-05-08",
-    "count": 2173
+    "count": 2235
   },
   "etf_batt": {
     "earliest": "2018-06-06",

@@ -1,0 +1,107 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:42:52.500164Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chery EVs Arrive in Canada Ready of Pre-Selling Preparations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/10/chery-evs-arrive-in-canada-ready-of-pre-selling-preparations/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Divergence in the World EV Market — Auto China 2026 vs US Market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/09/divergence-in-the-world-ev-market-auto-china-2026-vs-us-market/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 219,
+    "too_old": 136,
+    "gate1_blocked": 34,
+    "gate2_blocked": 23,
+    "passed": 21,
+    "pass_rate": "9.8%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "CATL Subsidiary CAIT Partners up with Togg on Bedrock Chassis - CATL",
+      "LG Energy Solution reports Q1 2026 results - Inspenet",
+      "Rivian gets serious about challenging Tesla FSD with latest move - thestreet.com",
+      "Taking R2 Beyond the Pavement - Rivian Stories",
+      "Rivian R2 Extra Features, Other Variants, and In-House Lidar? - CleanTechnica"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為電池產業通用相關動態：「Chery EVs Arrive in Canada Ready of Pre-Selling Preparations」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Chery EVs Arrive in Canada Ready of Pre-Selling Preparations（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Divergence in the World EV Market — Auto China 2026 vs US Market（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
