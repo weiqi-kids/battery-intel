@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-11",
+  "total_events": 35,
+  "by_company": {
+    "tesla": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "byd": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "umicore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "nio": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 34,
+      "sentiment_avg": -0.01
+    },
+    "ev_sales": {
+      "count": 2,
+      "sentiment_avg": -0.38
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

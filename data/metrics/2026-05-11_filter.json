@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 32,
+  "gate2_fail": 20,
+  "passed": 56,
+  "gate2_samples": [
+    "Why Europe has become CATL’s next big bet - The Korea Herald",
+    "CATL Subsidiary CAIT Partners up with Togg on Bedrock Chassis - CATL",
+    "R2: Scaling the Rivian Adventure Network - Rivian Stories",
+    "It Sounds Like Rivian’s New R2 SUV Might Also Lead to a New Pickup Truck Variant - AOL.com",
+    "Taking R2 Beyond the Pavement - Rivian Stories"
+  ]
+}
