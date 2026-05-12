@@ -1,0 +1,212 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T10:36:35.004532Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-12-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "How hail is rewriting the solar insurance rulebook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/12/how-hail-is-rewriting-the-solar-insurance-rulebook/"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-05-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Meralco PowerGen Corp brings online first phase of 100MWh CATL battery project in Cebu, Philippines - Energy-Storage.News",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHFOX2d6aUZwMnZhaVdlTGNETTZiNUY2MEZ4MGE0Sy16Q3JnRlRydWxZM0tfNnhqVEhBekh6RFVlT2d1NDdfLV9id0ROM3lOenU2V3N0Z21ZbEtLYzFsZlpJTkQyYnRScFZZTWRVSW1RelpyR0dteUNvSEVzaGFONW1OclN5aEZhWnUwOFQtNW9Bd2JOSkdSQVM3V2RzbVpLWU94Q3RfeXl3MTRFb1BBV05DZFZOMFA0TnRETnJYNXlTaVhZQzBnN3Y3NA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-05-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ford to license CATL battery technology in major US-China EV partnership - news.cgtn.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXRwcTYyQW44M29SeWVmcTRjSExMT2VnZU1wZ3JNRWI3V3FOMFVaRFcySTlwWnJSRjNHeC15cFJMaV8yUkdCU0ZWTkkzc1NCTFhlNmxybVAzRGdzRHpTU2FOZVRaeXVEYmQ1NVVSV2R5RXRJZzBMNzA1aEkzRHU1N1FfXy00UE5PNXVraEp4dXk4ekFtazRYbXpSRVo?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-05-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Battery Maker CATL Says Assembly Of Battery Modules Began In Hungary On May 6 - TradingView",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb1FMdVVoeTgyOEFYT29Vam9kVTRsLUFkYWJMbW1TZlFMSnpOanB1VzZMdEQ0WlpqS2dVQ3RsUjVHc2pvZGFzMWp6cnRzZ19CeG0zWWhyVGs2WHFZU2daZ05FTEF5V253eThJSFNRVXBHVzBseFNZYmJOenRKSjZKdWFpTTlOd2FMc3hwVjBFYVlKdWFycGwyRGp2djFxR2I2b0taVi1xSlp3OTIzcEJOeE1DanFhR09fLWp3SEFwdDNoSGxCZFFCZ3hDTmNpUEhxWmZPU3dNUkE5MGt1aGVBeQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-05-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pakistan in talks with world’s largest EV battery maker CATL on investment cooperation — business chamber - Arab News",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sYVJvLVpQTF9YTDBuc3E5Q09OdWVlY2Fob2tVY3Q4RVFycDV5WlMwbmVRS0JPRFVkX01kczJjQjVsT1dKMFVQUlB6bGhCQ3FlcWh5TG9fZ3VoUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 29,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 6
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "lg_energy",
+        "count": 1
+      },
+      {
+        "id": "sk_on",
+        "count": 1
+      },
+      {
+        "id": "nio",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 168,
+    "too_old": 135,
+    "gate1_blocked": 29,
+    "gate2_blocked": 19,
+    "passed": 82,
+    "pass_rate": "30.9%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Why Rivian Alarm Bells Might Be Ringing - Yahoo Finance",
+      "R2: Scaling the Rivian Adventure Network - Rivian Stories",
+      "Rivian Might Turn Its New, Affordable R2 Electric SUV Into a Compact Pickup Truck - AOL.com",
+      "Taking R2 Beyond the Pavement - Rivian Stories",
+      "How Buying Nio Stock Today Could 10X Your Net Worth - The Motley Fool"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為寧德時代、特斯拉、LG新能源相關動態：「How hail is rewriting the solar insurance rulebook」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "How hail is rewriting the solar insurance rulebook（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Meralco PowerGen Corp brings online first phase of 100MWh CATL battery projec...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

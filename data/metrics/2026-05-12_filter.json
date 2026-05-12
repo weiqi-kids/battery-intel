@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 29,
+  "gate2_fail": 19,
+  "passed": 82,
+  "gate2_samples": [
+    "Why Rivian Alarm Bells Might Be Ringing - Yahoo Finance",
+    "R2: Scaling the Rivian Adventure Network - Rivian Stories",
+    "Rivian Might Turn Its New, Affordable R2 Electric SUV Into a Compact Pickup Truck - AOL.com",
+    "Taking R2 Beyond the Pavement - Rivian Stories",
+    "How Buying Nio Stock Today Could 10X Your Net Worth - The Motley Fool"
+  ]
+}
