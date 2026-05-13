@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 36,
+  "gate2_fail": 20,
+  "passed": 95,
+  "gate2_samples": [
+    "CATL Subsidiary CAIT Partners up with Togg on Bedrock Chassis - CATL",
+    "Rivian's New AI Assistant Knows What You Mean, Not Just What You Say - CNET",
+    "“Rivian Assistant” Promises to be the Best Voice Control System in a Car Yet - MotorTrend",
+    "Why Rivian Alarm Bells Might Be Ringing - Yahoo Finance",
+    "Rivian’s AI-powered voice assistant is ready to roll - The Verge"
+  ]
+}

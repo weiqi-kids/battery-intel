@@ -1,0 +1,233 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:33:20.253811Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-05-13-029",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Automakers' share in China's NEV market in April: BYD ranks first with 21.4%, Tesla falls out of top 10",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/13/automakers-share-china-nev-market-apr-2026/"
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-05-13-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "China April power battery ranking: LFP claims 81.5% share, CATL & BYD hold 63.4% - Gasgoo",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOU5ScUxuREZxRkFVdzFBZkdaS2NrVGxrM3RTUUg4R3NEb294WHVUZmpqRUhrczBLeTI2NVk1ai1NdU42VzRJalUyT01SZW5yUl95empHMVhIZ1VENWNXWEY4Q0xtUXNVbzJWaTYyRGp1V093MDRSVldvR3J6V284VWpEdVJzdlA3MGZsMUVjZ0wtMmJhUlNEVk5YNHFhRFZVVTQ4TWdQc1RuVUY1ZUROcUNIbUxIaU5pWjlrT0NhcVdzU1RONzlEOVBja24?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rivian-2026-05-13-014",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Volkswagen Brand CEO Says Rivian Software JV ‘Progressing Really Well’ - eletric-vehicles.com",
+      "companies": [
+        "rivian",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFg3N1VCSWdZSU1PN1R0Y1JtNXkzQWpYZlJkYVRrd2JMSi1RaEEwQW1YS1Q5YjRvQkR2ektIVlJ6a09HWThON0p2RW5LY0V1T0lwYkF5WTRUc0ItU2gxWldRcWdJU3BtTjk2YjctOUxCM2FvRHVZNHk1WXJUWGo5WWRMWG1uTHV2WjJlbDhyQVBneV9oSXVQT0pVSUlhOFdJUE5ZcWx3Wld6Nm1BYnRDRHd5aUlSWW9lcFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-05-13-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CATL chief scientist explains how AI accelerates battery R&D",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/13/catl-explains-how-ai-accelerates-battery-rd/"
+    },
+    {
+      "rank": 5,
+      "event_id": "nio-2026-05-13-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nio ES8 tops China's large SUV retail sales for fifth straight month",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/13/nio-es8-tops-china-large-suv-retail-fifth-month/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 43,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 36,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 7
+      },
+      {
+        "id": "byd",
+        "count": 5
+      },
+      {
+        "id": "nio",
+        "count": 4
+      },
+      {
+        "id": "lg_energy",
+        "count": 3
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 42
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 166,
+    "too_old": 118,
+    "gate1_blocked": 36,
+    "gate2_blocked": 20,
+    "passed": 95,
+    "pass_rate": "35.3%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "CATL Subsidiary CAIT Partners up with Togg on Bedrock Chassis - CATL",
+      "Rivian's New AI Assistant Knows What You Mean, Not Just What You Say - CNET",
+      "“Rivian Assistant” Promises to be the Best Voice Control System in a Car Yet - MotorTrend",
+      "Why Rivian Alarm Bells Might Be Ringing - Yahoo Finance",
+      "Rivian’s AI-powered voice assistant is ready to roll - The Verge"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 43 則事件，焦點為寧德時代、比亞迪、蔚來相關動態：「Automakers' share in China's NEV market in April: BYD ran...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Automakers' share in China's NEV market in April: BYD ranks first with 21.4%,...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "China April power battery ranking: LFP claims 81.5% share, CATL & BYD hold 63...（正極材料、電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
