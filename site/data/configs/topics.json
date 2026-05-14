@@ -1,0 +1,97 @@
+{
+  "topics": {
+    "lithium_price": {
+      "display": "鋰價",
+      "keywords": [
+        "lithium price",
+        "鋰價",
+        "碳酸鋰",
+        "氫氧化鋰",
+        "lithium carbonate",
+        "lithium hydroxide",
+        "spodumene"
+      ]
+    },
+    "battery_cost": {
+      "display": "電池成本",
+      "keywords": [
+        "battery cost",
+        "電池成本",
+        "kWh cost",
+        "cell cost",
+        "pack cost",
+        "battery price"
+      ]
+    },
+    "ev_sales": {
+      "display": "電動車銷量",
+      "keywords": [
+        "EV sales",
+        "電動車銷量",
+        "BEV sales",
+        "PHEV sales",
+        "NEV sales",
+        "新能源車"
+      ]
+    },
+    "cathode_material": {
+      "display": "正極材料",
+      "keywords": [
+        "cathode",
+        "正極材料",
+        "NCM",
+        "NCA",
+        "LFP",
+        "磷酸鐵鋰",
+        "三元材料",
+        "solid state battery",
+        "固態電池"
+      ]
+    },
+    "recycling": {
+      "display": "電池回收",
+      "keywords": [
+        "battery recycling",
+        "電池回收",
+        "urban mining",
+        "城市礦山",
+        "circular economy",
+        "second life",
+        "梯次利用"
+      ]
+    },
+    "industry_general": {
+      "display": "電池產業通用",
+      "keywords": [
+        "battery",
+        "batteries",
+        "lithium",
+        "cathode",
+        "anode",
+        "electrolyte",
+        "cell",
+        "pack",
+        "EV",
+        "charging",
+        "charger",
+        "energy storage",
+        "electric vehicle",
+        "electric car",
+        "電池",
+        "鋰電池",
+        "充電",
+        "儲能",
+        "nickel",
+        "cobalt",
+        "manganese",
+        "solid-state",
+        "電動車",
+        "新能源",
+        "powerwall",
+        "gigafactory",
+        "watt",
+        "kwh"
+      ]
+    }
+  }
+}

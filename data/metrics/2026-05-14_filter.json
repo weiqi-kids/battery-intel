@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 34,
+  "gate2_fail": 16,
+  "passed": 97,
+  "gate2_samples": [
+    "Rivian's New AI Assistant Knows What You Mean, Not Just What You Say - CNET",
+    "“Rivian Assistant” Promises to be the Best Voice Control System in a Car Yet - MotorTrend",
+    "Rivian spinoff Mind Robotics raises another $400M - The Tech Buzz",
+    "How Buying Nio Stock Today Could 10X Your Net Worth - The Motley Fool",
+    "NIO, Li Auto's Shares Rise Before New Model Releases - marketscreener.com"
+  ]
+}

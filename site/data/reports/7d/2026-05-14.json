@@ -1,0 +1,183 @@
+{
+  "date": "2026-05-14",
+  "date_range": {
+    "start": "2026-05-08",
+    "end": "2026-05-14"
+  },
+  "generated_at": "2026-05-14T10:23:25.744276Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tesla-2026-05-13-079",
+      "date": "2026-05-13",
+      "title": "BYD surpasses Tesla as world’s top energy storage deployer",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nio",
+      "company_b": "tesla",
+      "co_mention_count": 5,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 195,
+      "last_week": 139,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.03
+    },
+    "lithium_price": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ev_sales": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "cathode_material": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 17,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "ganfeng": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "pilbara": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "byd": {
+      "event_count": 20,
+      "sentiment_avg": -0.02,
+      "rank": 1
+    },
+    "tesla": {
+      "event_count": 17,
+      "sentiment_avg": -0.06,
+      "rank": 3
+    },
+    "albemarle": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "lg_energy": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 7
+    },
+    "rivian": {
+      "event_count": 7,
+      "sentiment_avg": -0.14,
+      "rank": 6
+    },
+    "nio": {
+      "event_count": 16,
+      "sentiment_avg": 0.09,
+      "rank": 4
+    },
+    "umicore": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "volkswagen": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "sk_on": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "eve": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 442,
+        "last": 412,
+        "change_pct": 7.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-08",
+      "event_count": 71,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 42,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 22,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 89,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 84,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 99,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 35,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-08 ~ 2026-05-14）共 442 則事件，重點為「BYD surpasses Tesla as world’s top energy stora...」。電池產業通用、正極材料、鋰價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "贛鋒鋰業",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 20 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

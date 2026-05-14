@@ -1,5 +1,668 @@
 [
   {
+    "id": "catl-2026-05-14-001",
+    "date": "2026-05-14",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CATL's stock price rose as Ford entered the battery energy storage system market, with technology licensing from CATL. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU80c0JpRWs1a1VibmdBdXpiT3FSR2dEWnRZUk9mZEFsaTlISjNqdExTMG8zZUV0dWRCXzhwT2F1Rk5ONklyZ28yN1VrYkp1LTAzRlpNSGh6eDV5V3FoSWdYOVRLckFxX01VOE9uMz",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU80c0JpRWs1a1VibmdBdXpiT3FSR2dEWnRZUk9mZEFsaTlISjNqdExTMG8zZUV0dWRCXzhwT2F1Rk5ONklyZ28yN1VrYkp1LTAzRlpNSGh6eDV5V3FoSWdYOVRLckFxX01VOE9uMzFmYnFlYTZPVFBXcWNSaWo3OU5jZTZSYzVBcWh2ZTNBTktLMTIxcVI0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-05-14-002",
+    "date": "2026-05-14",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "LG Energy Solution Ltd stock (KR7373220003): Battery maker expands US production amid EV demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWJidGdFV2RYVXZxRC04dW1jRzdNb09zVm9uTjRsOGdKNDA3VEtVR0dTVDhEeXlGdHlGRTBTLVgtX0ZFTFViYkgyTTAzRmdpb3ZrQlp1YjlDVXZXcXlFZVRPYUx5VjJ6bWFGNGRZZl",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWJidGdFV2RYVXZxRC04dW1jRzdNb09zVm9uTjRsOGdKNDA3VEtVR0dTVDhEeXlGdHlGRTBTLVgtX0ZFTFViYkgyTTAzRmdpb3ZrQlp1YjlDVXZXcXlFZVRPYUx5VjJ6bWFGNGRZZlFYQ0JCVFpOTm16MUxCVy1GY1JpZFJVRVIwVjkwRDJVM0E5SjlMQXhKOTg0TEZZMzU4cXFrMHZicndFOGE2bEdPZGEtQkhxQVp4MTVlMGR5RU41Vzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eve-2026-05-14-003",
+    "date": "2026-05-14",
+    "companies": [
+      "eve"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese battery maker Eve Energy lands India deal - Tech in Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVpZZmQ4VWlIVnhxX3otOGF3MHFRRHBxMkhRRGd6enVmYWVVblY0QjlnZlZiQzNzVXNXN0pPVE9XYmVjUE0teFpKZFd6Q3k0Y3U4NDE2dTdXTVRfWC1jVVFwUTRRaHhGbk9maU5rZE",
+    "sources": [
+      {
+        "name": "eve",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVpZZmQ4VWlIVnhxX3otOGF3MHFRRHBxMkhRRGd6enVmYWVVblY0QjlnZlZiQzNzVXNXN0pPVE9XYmVjUE0teFpKZFd6Q3k0Y3U4NDE2dTdXTVRfWC1jVVFwUTRRaHhGbk9maU5rZENnNDFvWHlwbTFGd1djVEtUaV9LNFFrQkZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-14-004",
+    "date": "2026-05-14",
+    "companies": [
+      "tesla",
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Tesla, BYD, others deny they were summoned by Chinese regulators over battery locking concerns - The Cool Down",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEUtZnp3MXFVb2FZOUpxekFKUVhza1RRX2hsLWpTN0YxbnUwdk1VZXBSeXJkdzFPaThCdnc0MUxiZXR4SGZXLWJmc3FaR1RUTUlsckJ1ejVMeXBncTk5RHJ2X09Cb2x6X3g1RWNMRF",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEUtZnp3MXFVb2FZOUpxekFKUVhza1RRX2hsLWpTN0YxbnUwdk1VZXBSeXJkdzFPaThCdnc0MUxiZXR4SGZXLWJmc3FaR1RUTUlsckJ1ejVMeXBncTk5RHJ2X09Cb2x6X3g1RWNMRFdxU2pxSGo3eDBBT0E2T1VqVDVnaW5mVkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-05-14-005",
+    "date": "2026-05-14",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Norwegian battery company teams up with Chinese giant BYD on green shipping - Scandasia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkEwRDZoRTVpV1dub09GSVp0dXRzN0JvODJzX0x0NExTZ0UzWVZ0cFZyQ1Y4ME9fM2Y3b0lBNW00YTdENHJUZ1ZFa3c1VEdIMzMyRFBwdE5EZkVXUUFfSlphOGVFbUh5ZXVLOXc4bW",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkEwRDZoRTVpV1dub09GSVp0dXRzN0JvODJzX0x0NExTZ0UzWVZ0cFZyQ1Y4ME9fM2Y3b0lBNW00YTdENHJUZ1ZFa3c1VEdIMzMyRFBwdE5EZkVXUUFfSlphOGVFbUh5ZXVLOXc4bW5iRktmWVhnTU5UckFudmVkWHBuRzVZdkdLN05kbFNuS2lscXM1RHV2S3ZOT0F5bHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-05-14-006",
+    "date": "2026-05-14",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio Firefly gets system update to boost motor power and prepare for fifth-gen swap stations - CnEVPost",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPR19TTV9MakkyazFsTnpRVVZ3ZkRJX2ZzcWpYSGkzRV8yNUxmcklqYU1uOTh6cTUtTktkd2E0ZHQxOWo5MHVyN1QwSWhQbmwwYzdaSDNXWUoyOThmcDhFbWZfcWp3amNtRVRiNE1BeW",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR19TTV9MakkyazFsTnpRVVZ3ZkRJX2ZzcWpYSGkzRV8yNUxmcklqYU1uOTh6cTUtTktkd2E0ZHQxOWo5MHVyN1QwSWhQbmwwYzdaSDNXWUoyOThmcDhFbWZfcWp3amNtRVRiNE1BeWtqZzJpWjhTc0h3MDAtbFNnS0RoR2xpTjRzclQzdWdBTS0wQ3ZjWUlzM0RFNndCSmNHdEplRG1yN0hEdXhNMjRoRA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-05-14-007",
+    "date": "2026-05-14",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio’s Firefly Brand Adds Battery Swap Support in Latest Software Update - eletric-vehicles.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGhrZmFSanRkX3NRMVVaTXh1czZjbWlIa1J3YW53MHVMYkgxVFhsaDhZNWkxLVRiUDh2bmtDY3pqOWZDUnk3MUxib2RjNC1FbFRGN3Z1VzVVdnpJbnd0M3NyaGItTmdjMVVIVmJNM2",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGhrZmFSanRkX3NRMVVaTXh1czZjbWlIa1J3YW53MHVMYkgxVFhsaDhZNWkxLVRiUDh2bmtDY3pqOWZDUnk3MUxib2RjNC1FbFRGN3Z1VzVVdnpJbnd0M3NyaGItTmdjMVVIVmJNM2xwczBHUTJmNVc0ZHliamJkTFN4TFJOZE1SR0Z0UE1xNTVGak44dU1ySGVBTV81VkVpVFJYWTdxVWZnU2tMY1JxLWN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-05-14-008",
+    "date": "2026-05-14",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NIO's Second Model Starts Generating Revenue to Sustain the Business - eu.36kr.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE53cUdSRFBNaGRHdWlCSW5oS1hmbUJOS1FReFNwcHotTFNSemFqWTJqV29zS2c0RU90NGpILUUtSXhrd1FKM0gza1IyZ2dIUnR3STNv?oc=5\" target=\"_blank\">NIO's Second Mo",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53cUdSRFBNaGRHdWlCSW5oS1hmbUJOS1FReFNwcHotTFNSemFqWTJqV29zS2c0RU90NGpILUUtSXhrd1FKM0gza1IyZ2dIUnR3STNv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-14-009",
+    "date": "2026-05-14",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen Golf EV Won't Be Here Until 2030, At Least - Motor1.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA4OFhnMGhzZnl3OHVPcXdrV3VCYnNJaDRmVkJiaTBGOGJPdmpxYzFOaXJHdUlxeTNJcFdkM2U3LVYzc0l2QjJBMzRWRjhvVHlLZ2Jsek96NTlzSm1ubGNia19iTVVqQy14Y2VuQ2RTSz",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4OFhnMGhzZnl3OHVPcXdrV3VCYnNJaDRmVkJiaTBGOGJPdmpxYzFOaXJHdUlxeTNJcFdkM2U3LVYzc0l2QjJBMzRWRjhvVHlLZ2Jsek96NTlzSm1ubGNia19iTVVqQy14Y2VuQ2RTSzRvbEdtWkNULUZoSm9xUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-14-010",
+    "date": "2026-05-14",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen’s Golf EV Gets Pushed Back To The End Of The Decade - Yahoo Autos",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOR2NYVFBZNEVMcXVvOWpfNXQyb1NzUUQ2a2JnWEdjckM4cHdRM2EwRlFTendyYXpYaUpsS2ZmeGJXTVRXUzRYZU4xV0pTQl9uYThxOXZGallmcWZNV1RRRWpRb0xGazZNMXdqc3JCOD",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2NYVFBZNEVMcXVvOWpfNXQyb1NzUUQ2a2JnWEdjckM4cHdRM2EwRlFTendyYXpYaUpsS2ZmeGJXTVRXUzRYZU4xV0pTQl9uYThxOXZGallmcWZNV1RRRWpRb0xGazZNMXdqc3JCODEtVF9HS3JxSnFBU1VEZVhzSTdMdEIyeWJrYVRHRzlGaWhZM3RyYlY4Z0p5VDBIQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-14-011",
+    "date": "2026-05-14",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Xpeng in talks to buy Volkswagen factory in Europe - Sowetan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRTlobEtmazBzbzZnQUw2UzZtTkxrVkZtUm9PS3ZBbThFYzJKWjhQSGFoc1M0anFSdWt1aUVZdWdxbHNULTF2QjhldFdseFdoOVdFcVdTc01JQjlfaU1pMUprVy1HT1VfbGZnLWtSU0",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTlobEtmazBzbzZnQUw2UzZtTkxrVkZtUm9PS3ZBbThFYzJKWjhQSGFoc1M0anFSdWt1aUVZdWdxbHNULTF2QjhldFdseFdoOVdFcVdTc01JQjlfaU1pMUprVy1HT1VfbGZnLWtSU0NQb3A1M014bU9DcnFwcFFZb1RDTGJYNGRGb2kzazlGdGU3RlUyc05BSk1fbDRMQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-012",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Juiced launches 60+ MPH electric dirt bike for $2,499, and the e-moto market may never be the same",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/juiced-nomadix-e-moto-header.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Juiced Bikes is officially b",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/13/juiced-launches-60-mph-electric-dirt-bike-for-2499-and-the-e-moto-market-may-never-be-the-same/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-013",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Honda Lost $9 Billion On EVs. Now, It’s Betting On Hybrid SUVs And Sedans",
+    "summary": "Japan’s second-largest carmaker reported its first annual loss in nearly 70 years after scrapping its EV plans.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/795846/honda-loss-hybrids/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-14-014",
+    "date": "2026-05-14",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen’s Golf EV Gets Pushed Back To The End Of The Decade",
+    "summary": "The electric Golf was supposed to debut in 2028. Now, VW’s CEO said the company “doesn't need it” that quickly.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/795838/volkswagen-golf-ev-delayed-decade-end/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-015",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese EVs Are Landing In Canada. Over Half Of Canadians Would Buy One",
+    "summary": "Price, quality, and value for money are the main reasons Canadians lean toward buying a Chinese car, a new survey shows.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/795820/canadians-want-chinese-evs-survey/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-016",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China's next major auto show approaches following record-breaking Beijing event",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/05/2026051406105059.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p>\n<p>Following the record-breaking Beijing Auto Show, the Shenzhen",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/05/14/china-next-major-auto-show-approaches-shenzhen/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-05-14-017",
+    "date": "2026-05-14",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio Firefly gets system update to boost motor power and prepare for fifth-gen swap stations",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/05/2026051405514786.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p>\n<p>The software update boosts the peak motor power of older Fire",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/05/14/nio-firefly-gets-system-update-boost-motor-power-prepare-5th-gen-swap-stations/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-14-018",
+    "date": "2026-05-14",
+    "companies": [
+      "tesla",
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top automakers by China NEV exports in April: BYD 130,042 units, Chery 57,910",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/05/2026051403265425.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p>\n<p>BYD contributed 32.0% of China's NEV exports in April, while ",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/05/14/top-automakers-china-nev-exports-apr-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-019",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "ev_sales",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's early May NEV sales rebound from April lows despite yearly drop",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/05/2026051402194343.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p>\n<p>China NEV retail sales rose 27% sequentially in the first 10 ",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/05/14/china-early-may-nev-sales-rebound-from-april-lows/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-14-020",
+    "date": "2026-05-14",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xpeng in talks to buy VW plant for Europe expansion",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/05/2026051401343358.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p>\n<p>Xpeng is seeking to acquire European facilities as capacity a",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/05/14/xpeng-in-talks-buy-vw-plant-europe-expansion/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-05-14-021",
+    "date": "2026-05-14",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD to introduce Shark pickup to Fang Cheng Bao lineup in China this year",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/05/2026051400553380.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p>\n<p>BYD launched the Shark in Mexico in May 2024, a rare move for",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/05/14/byd-to-introduce-shark-to-fang-cheng-bao-lineup-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-022",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "INDIA Roundup: ACME Solar, IndiGrid commission Rajasthan & Gujarat BESS projects, GE Vernova wins pumped hydro contract",
+    "summary": "Battery storage and pumped hydro projects in India, in this edition of news in brief from around the world in energy storage.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/india-roundup-acme-solar-indigrid-commission-rajasthan-gujarat-bess-projects-ge-vernova-wins-pumped-hydro-contract/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-023",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Akaysha Energy bags EPBC Act approval for 1,600MWh battery storage system in Victoria, Australia",
+    "summary": "Developer Akaysha Energy has received federal environmental clearance for its 400MW/1,600MWh Glenrowan battery energy storage system (BESS) in Victoria, with the project deemed \"not a controlled actio",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/akaysha-energy-bags-epbc-act-approval-for-1600mwh-battery-storage-system-in-victoria-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-024",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Battery Breakthrough Initiative hit as Australia cuts AU$1.3 billion in clean energy funding",
+    "summary": "Australia has clawed back AU$1.3 billion (US$940 million) in uncommitted clean energy manufacturing funding, with the Solar Sunshot Program and Battery Breakthrough Initiative among the programmes hit",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/battery-breakthrough-initiative-hit-as-australia-cuts-au1-3-billion-in-clean-energy-funding/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-025",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From night to noon: France’s reactors are now bending for European solar",
+    "summary": "Hourly ENTSO-E data show the summer midday-to-evening gap in French nuclear output has grown nearly eightfold since 2019. The reactors have adapted. The rest of the European power system has some catc",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/14/from-night-to-noon-frances-reactors-are-now-bending-for-european-solar/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-026",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solomon Islands plans first large-scale solar project",
+    "summary": "The Solomon Islands Electricity Authority and Asian Development Bank have signed an agreement aimed at developing the country’s first large-scale solar project.",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/14/solomon-islands-plans-first-large-scale-solar-project/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-027",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Genex cuts Bulli Creek solar to 300 MW, adds 1.7 GWh storage",
+    "summary": "Genex has announced plans to reconfigure the first stage of its 2.5 GW Bulli Creek multi-stage development in Australia from a 775 MW solar farm to 300 MW, adding a 425 MW / 1,700 MWh battery energy s",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/14/genex-cuts-bulli-creek-solar-to-300-mw-adds-1-7-gwh-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-028",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI model uses cloud type and cover to predict solar power swings",
+    "summary": "A machine learning model uses cloud type and cloud cover to predict rapid changes in surface solar irradiance, including short-term “ramp” events that affect grid stability. When tested across 15 glob",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/14/ai-model-uses-cloud-type-and-cover-to-predict-solar-power-swings/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-029",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US solar makers accuse Toyo and Origin Solar of duty evasion in Ethiopia",
+    "summary": "Eight US solar manufacturers have filed an anti-circumvention complaint with the US Department of Commerce, alleging that solar cells and modules assembled in Ethiopia using Chinese-origin components ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/14/us-solar-makers-accuse-toyo-and-origin-solar-of-ethiopia-duty-evasion/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-030",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar approaches 3 TW, but the industry faces new challenges",
+    "summary": "Global solar PV capacity reached around 2,974 GW by end-2025, with nearly 698 GW added in 2025. The sector, however, is shifting from rapid deployment to integration challenges, as high penetration ra",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/14/solar-approaches-3-tw-but-the-industry-faces-new-challenges/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-031",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India’s storage market shifts from tenders to execution",
+    "summary": "Ratul Puri, chairman of Hindustan Power, tells <b>pv magazine</b> that India’s battery energy storage system (BESS) market is moving from aggressive tendering toward large-scale project execution, as ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/14/indias-storage-market-shifts-from-tenders-to-execution/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-032",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Plug-and-play control framework for adjusting panel tilt in agrivoltaics",
+    "summary": "A Cornell University research team developed a control framework that simultaneously considers past and future conditions when determining solar panel tilt angle. The researchers told <b>pv magazine</",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/14/plug-and-play-control-framework-for-adjusting-panel-tilt-in-agrivoltaics/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-033",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Very low cost rooftop solar and batteries slashes domestic energy cost – Part 1: Australia",
+    "summary": "Rooftop solar in Australia provides the cheapest, cleanest and most reliable domestic energy in history.",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/14/very-low-cost-rooftop-solar-and-batteries-slashes-domestic-energy-cost-part-1-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-034",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Datang plans 14.6 GW renewables cluster in China",
+    "summary": "The massive renewable energy complex will include 8 GW of solar, 4 GW of wind, 2.04 GW/8.16 GWh of energy storage, and 2.64 GW of coal-fired power. The project is planned to be located in China’s Inne",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/14/datang-plans-14-6-gw-renewables-cluster-in-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-035",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Armenia allows construction of energy storage systems",
+    "summary": "Amendments to Armenia’s Energy Law permits the development of energy storage systems for the first time, subject to licensing. Systems smaller than 1 MW, or those above 1 MW designed for self-consumpt",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/14/armenia-allows-construction-of-energy-storage-systems/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-05-13-001",
     "date": "2026-05-13",
     "companies": [
@@ -826,6 +1489,1088 @@
       {
         "name": "pv_magazine",
         "url": "https://www.pv-magazine.com/2026/05/13/u-s-solar-developer-seeks-connection-to-wrong-powerline-delays-project-five-years/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catl-2026-05-13-044",
+    "date": "2026-05-13",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CATL Launches New Battery Module Assembly Line in Debrecen - Batteries News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm9vc05uNS14TnhTZm5mSmRLRmJTdkdOSDdEN2Q4bmxxSC1jX2FvaEljVUJ0eko0c2xEaEVGUzNyOWRTSHVNbFYybTZZWmFqZlJhX2dYby1hT1RlTFNzTTZmamJKWG5rNUU2NzEyLT",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm9vc05uNS14TnhTZm5mSmRLRmJTdkdOSDdEN2Q4bmxxSC1jX2FvaEljVUJ0eko0c2xEaEVGUzNyOWRTSHVNbFYybTZZWmFqZlJhX2dYby1hT1RlTFNzTTZmamJKWG5rNUU2NzEyLThYM1hoT0toTTYwTEZsQzVURlNtaDRlQVlQUlM4VkRB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-05-13-045",
+    "date": "2026-05-13",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy Solution Launches Open Innovation Program to Discover Battery Startups - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvX0Ztbm5nSU1PWWJDcjQxWHkzMkVPYjA4VmRpMDg3cHZMYlc2Vk9qdUxEVFNNTmktUm83ellkd0tLZEpFLXB4UjctNHNydGNpSXVkTWsxeTVSZGh0aGdRa0VncS0xTmc?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvX0Ztbm5nSU1PWWJDcjQxWHkzMkVPYjA4VmRpMDg3cHZMYlc2Vk9qdUxEVFNNTmktUm83ellkd0tLZEpFLXB4UjctNHNydGNpSXVkTWsxeTVSZGh0aGdRa0VncS0xTmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-05-13-046",
+    "date": "2026-05-13",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Exclusive: Samsung SDI’s $3.5B joint battery project with GM ‘paused’ amid EV slowdown - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdXpJNGlBSVNVeGQ0MERGNC1oWFU1QjJRLXhKOHJfSEJibXoyNGFWTGpaZHBOa2tGZlVIakp2eDRIVy04MEt1bXEwVi1JOEI0V1prTGVOeVlvYzlfQkhfVjRwLXloOGlxUzl3Xy1GVU",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdXpJNGlBSVNVeGQ0MERGNC1oWFU1QjJRLXhKOHJfSEJibXoyNGFWTGpaZHBOa2tGZlVIakp2eDRIVy04MEt1bXEwVi1JOEI0V1prTGVOeVlvYzlfQkhfVjRwLXloOGlxUzl3Xy1GVUljUXBYOHVoZFBFSEd3eVZvU2VkX0t6SW52eERoNV9lQXVwa0RrSXJJcUhKc1dKZmxNVC1EVm5yQVEwZnpMdmRvWjZvZHZkNWxsaEJTelBGci1QMjFSeFNTa0VTY3dvbDgtbXJXR1Z2X2dGV1p5dk5VT1pKYkJkb1ZsNTJYVUN0MUs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eve-2026-05-13-047",
+    "date": "2026-05-13",
+    "companies": [
+      "eve"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EVE Energy Signs 8GWh Order with India's GNEPL - Gasgoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRXRDM0ZSd2phNVVGWFBaeHRTa3QxSUdxNjBONnFDam9aSEZqN1Q5aHY3TE1kOU5VX1dDOFFTaTVzVXdpeElvSVRmRnl1YTFrX3c4M2h3MjlUQ3U1WWxJU0VlT0tTWjRleGt3Y3daR2",
+    "sources": [
+      {
+        "name": "eve",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRXRDM0ZSd2phNVVGWFBaeHRTa3QxSUdxNjBONnFDam9aSEZqN1Q5aHY3TE1kOU5VX1dDOFFTaTVzVXdpeElvSVRmRnl1YTFrX3c4M2h3MjlUQ3U1WWxJU0VlT0tTWjRleGt3Y3daR292b0g1VGhfQUU4Y2hrX2FYNUNlenZiTVZoM2FMWkpNbmN4ZWhNUFFNRlVHZUZibG1sdHdvODdCLXE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eve-2026-05-13-048",
+    "date": "2026-05-13",
+    "companies": [
+      "eve"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Indian energy firm Godawari signs battery deal with China’s Eve Energy, as demand for energy storage grows - Trade Finance Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVVNhVmFHYTBCTzlQaS1WZXZTNkFDRmZ6OGMyb1hnaURfSFN5b0JBdWk1WkFTOWRkck45Y0xiWl9KbUs4QTNLdm9jcGhHSDJvazFHUFNOeUhYbFBjak92Yjcwc190b2J2aFpFQk1Ddj",
+    "sources": [
+      {
+        "name": "eve",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVVNhVmFHYTBCTzlQaS1WZXZTNkFDRmZ6OGMyb1hnaURfSFN5b0JBdWk1WkFTOWRkck45Y0xiWl9KbUs4QTNLdm9jcGhHSDJvazFHUFNOeUhYbFBjak92Yjcwc190b2J2aFpFQk1DdjBKY01kUFdYdENrNlZ3LUp5VmU5OW1ZRHZTYmlvZWxjRUljUUNHUlk1eWMyNVJFQmk0Ul93RjdnN014S0FQb29idEpHSUZjbXlVTkxFd1NtSkpWQzVISkR4R1Z5dktNZVZTZlFmbzYyYVZvUG1WQVR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ganfeng-2026-05-13-049",
+    "date": "2026-05-13",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Blackrock's Long Position In H-Shares Of Ganfeng Lithium Decreases To 6.54% On May 7, HKEX Says - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWmlvTTJQemk3cTNmd2VVWjBTUThGYjZtOWNaVWRnVTQxMlhnVmRGaHNDZy0xWklXRGZuV2ZPbnhlcFhxbFRnZGVqbVVvM3lScDB0ZHAyOHdvdzhVTmFpbGc4U21oWnZLZUh2QkxZU0",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWmlvTTJQemk3cTNmd2VVWjBTUThGYjZtOWNaVWRnVTQxMlhnVmRGaHNDZy0xWklXRGZuV2ZPbnhlcFhxbFRnZGVqbVVvM3lScDB0ZHAyOHdvdzhVTmFpbGc4U21oWnZLZUh2QkxZU08zYlh1bWF0QXlDeW4tSGRscGpScUJ4OGt0eDJ1QjhHalVKNENleERQUm1KRGdlSE94cHpDTUlZNjc5dTl0X0QtaVV6RHgyNmhIaVBNT09tN2RSYjg5cVNNX2JaZGlGUEEzOHd4Y2tVWVFlRWpxckp4Rnc2SmNFZjhRZWJfYkJXMHhQVTRTWFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ganfeng-2026-05-13-050",
+    "date": "2026-05-13",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BlackRock's long position in H-shares of Ganfeng Lithium decreases to 6.54% on May 7, HKEX says - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY3lpZmlmdXBfUC1IaUVYZW4tNURkYkU5UFI1NTgxbEJOb2U0U0VtN2VZYUZtTUtNWEY0ZEFsV045N2ltaVVham9CMUZQcVVGZ3p3ajJTR21HR0ZOTThnNzNiZ0JrNkU5VkZqcXJ1LW",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY3lpZmlmdXBfUC1IaUVYZW4tNURkYkU5UFI1NTgxbEJOb2U0U0VtN2VZYUZtTUtNWEY0ZEFsV045N2ltaVVham9CMUZQcVVGZ3p3ajJTR21HR0ZOTThnNzNiZ0JrNkU5VkZqcXJ1LW1uSzYtZ0tOY0h6WjBBRVUwQ2NaZEU0U3hCdGxZRjdmZVQ2b0E0TDltM0hidkNZejBlLUZxbmVWa3NfOHFuRFhZMVZraTdydGpoTmNaVGJjd1g1NTFBN2lLU2ZURl9lQTZsdHZXYkFIMXBYNG1YenE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ganfeng-2026-05-13-051",
+    "date": "2026-05-13",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ganfeng Lithium (01772.HK) was reduced by Baillie Gifford & Co. by 2,497,100 shares. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZzRNclpuM2s1WkR0SjJVS3AtWEt6X3RNVWc1YUtGR0l3QXVaYTdKZllXS1dmVGhhZU9vaGp6b252ZkF4a2Fkc29uVi0yVnhWSFFUejRPSGhzZXhpMEZHMlFfSUhTMGpLMEJfdGlKWG",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZzRNclpuM2s1WkR0SjJVS3AtWEt6X3RNVWc1YUtGR0l3QXVaYTdKZllXS1dmVGhhZU9vaGp6b252ZkF4a2Fkc29uVi0yVnhWSFFUejRPSGhzZXhpMEZHMlFfSUhTMGpLMEJfdGlKWGRUY2NRREdrMHlkR0lzQUZDeVE4UTRPY0x3eHc2RkNNYl8yQklpMUJYUmU5eV9CQTh0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-05-13-052",
+    "date": "2026-05-13",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD’s $10,300 EV Gets LiDAR While America Still Treats It Like Luxury Tech - Autoblog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVE5RT0wtX2M3eF9zdXZzZldWVWo3d2pFSmI4TlpCVHdNbEYwd3M5dm5LRnMySW14bGhoNmNTRkE0REhvRk8xWlRaZzVUbF93U01QaXRsYTlLb2tUOHl0VWRGVE1NeHZsZjBueU9Lbm",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVE5RT0wtX2M3eF9zdXZzZldWVWo3d2pFSmI4TlpCVHdNbEYwd3M5dm5LRnMySW14bGhoNmNTRkE0REhvRk8xWlRaZzVUbF93U01QaXRsYTlLb2tUOHl0VWRGVE1NeHZsZjBueU9Lbms5Z0FjYThSWHRFTGU1VURuazVKY29hcVNYNTFXdFVaM2xyN19KZGVFSWozS2lDcGtyR09R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "umicore-2026-05-13-053",
+    "date": "2026-05-13",
+    "companies": [
+      "umicore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Umicore S.A. stock (BE0974320526): BEL20 stalwart eyes battery materials growth - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOWXZ3R2VadEZ6WGxMeUZ3MWh5a0xORnpVN0NqNmhoTVhMN0cwU3lqTHJaVXhHb1BqWkNiUF8wUnZ5T1BXX2VTRlM2SnNZRXBfZjZqX1NLZ0MtV3NuQXBYS1ZKZ2tEdmdxYjUxNUpIUj",
+    "sources": [
+      {
+        "name": "umicore",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWXZ3R2VadEZ6WGxMeUZ3MWh5a0xORnpVN0NqNmhoTVhMN0cwU3lqTHJaVXhHb1BqWkNiUF8wUnZ5T1BXX2VTRlM2SnNZRXBfZjZqX1NLZ0MtV3NuQXBYS1ZKZ2tEdmdxYjUxNUpIUjkzMHlxS29MbmNRb1JFSjNpQWJwdWp3eUxNVnF5dU83NEdia0FWOWIxYVlFOWtCVnNEVjhsNVVYRzRjTXhNSjlCZXBoTHRQRFh4Wm50UXBaeG91N2ptd1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-05-13-054",
+    "date": "2026-05-13",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian R2 Configurator Button Briefly Appears on Website Before Removal - eletric-vehicles.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnRtMEtvbERjWUMzVzFwaHplTWRZY0pXZmdjT09UUldfdWhnNFB3VVlSOVd6S0hfaTFRZzBFcWl0S1Y3MW9nNlRkbUJYTEgwd1V6bWRxdlEwUHVqbFVsd3VlRVJmeVd4ZlhkaHgxbF",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnRtMEtvbERjWUMzVzFwaHplTWRZY0pXZmdjT09UUldfdWhnNFB3VVlSOVd6S0hfaTFRZzBFcWl0S1Y3MW9nNlRkbUJYTEgwd1V6bWRxdlEwUHVqbFVsd3VlRVJmeVd4ZlhkaHgxbFMzLXpPWjJCT2xYeDF0bzdkWXhvSkZiajFhNlRYT3ZaNFkycUYzeGZhZUJxZ0xlS0c3cVBtbkFLWkFobnds?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-13-055",
+    "date": "2026-05-13",
+    "companies": [
+      "tesla",
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian R2 Arrival Signals a Massive Shift as the Startup Challenges Tesla for EV Dominance - Torque News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPZkRBd1VyREhMdFhVdWJKQ0JwRGszVklfamM0RkF3NHJhWGRmbU9jLVhWb1o3QTh6SVNkWE9YZzBISmgyVGYxMTdTbXFDR21BUF9rcDQyQ0tTSDZrSy1wamNGU0k3OU5LQXpyMEdPa2",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZkRBd1VyREhMdFhVdWJKQ0JwRGszVklfamM0RkF3NHJhWGRmbU9jLVhWb1o3QTh6SVNkWE9YZzBISmgyVGYxMTdTbXFDR21BUF9rcDQyQ0tTSDZrSy1wamNGU0k3OU5LQXpyMEdPa2dDam8tem83Rl9xa255R1d2RC1zQ3c5cV9rVkVlQ29fSHFzU1c0VUNQNHR1TXctaEZUaFVIZjhkekR5UHBOYk9V?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-05-13-056",
+    "date": "2026-05-13",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian adds a new onboard AI assistant to its latest software update - Ars Technica",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb1lSenhZeTlXanlOdE5mZHFyYmV1NTBMTEVqSnR2dHdaSlRTV1ZoXzVjN0loYXVwWVRyUUd4WVpaTVYxVUpmVEdzZHlHUkcySzVDTGp5RTk4T1FsS1N5Zi1MMHZZLUpxNDdveWtXMz",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb1lSenhZeTlXanlOdE5mZHFyYmV1NTBMTEVqSnR2dHdaSlRTV1ZoXzVjN0loYXVwWVRyUUd4WVpaTVYxVUpmVEdzZHlHUkcySzVDTGp5RTk4T1FsS1N5Zi1MMHZZLUpxNDdveWtXMzU1S181NHh0Mmd6TlBFb3EzalZNM2JjeS1BbG43aUd6RzlGS1lqM2J1WS1SX2N0TDMyRGNQZ0tfU05wQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-13-057",
+    "date": "2026-05-13",
+    "companies": [
+      "tesla",
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio Swapped 1 Million EV Batteries in a Week While Tesla Owners Waited 30 Minutes to Charge. Is NIO Stock a Buy? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdTNTMGg0TWVyYmR1TTBLSGh4RC1ubDhvUkpiNHdnbnp4WS03VzhOV1hfc0JUQTVsMnFnU1pBSndMdlFrTkVfX2VOazRuSmVoQXlFUWFUUDBMQ2xVLTRhZXdJUnRkU1RZZ09ZaXZhRk",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdTNTMGg0TWVyYmR1TTBLSGh4RC1ubDhvUkpiNHdnbnp4WS03VzhOV1hfc0JUQTVsMnFnU1pBSndMdlFrTkVfX2VOazRuSmVoQXlFUWFUUDBMQ2xVLTRhZXdJUnRkU1RZZ09ZaXZhRkR2LVdBN1dTS2hlTWZVZGxhcUlYc2JTNUJFMkw5MU9XSDhlT2FPQnQ1Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-13-058",
+    "date": "2026-05-13",
+    "companies": [
+      "tesla",
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lucid Jumps 9%, NIO Rallies 7%, Tesla Rises 4% as EV Stocks Get Charged Up - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBjZUpjbFd6c0R1WFlSenhic1dpV1I3eWh0TGJEbnJrSEYzTzZKU1lKZHlfVTFSYVRlRGF1b1U4bFRfWFJyUWtqUTZFTWZwT1FrVnZoRkNSQjZ5VXRWN1F1dnN6V0czenAwVVdnc1dBZT",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjZUpjbFd6c0R1WFlSenhic1dpV1I3eWh0TGJEbnJrSEYzTzZKU1lKZHlfVTFSYVRlRGF1b1U4bFRfWFJyUWtqUTZFTWZwT1FrVnZoRkNSQjZ5VXRWN1F1dnN6V0czenAwVVdnc1dBZTRKa1FBT09KWHI1OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-05-13-059",
+    "date": "2026-05-13",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NIO’s Recovery Looks Like a Changing Story. That Keeps Me Bullish - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONlN6RWNlakhmLWNGTTdvNGlEeE9MMnFEWEVoRjloek9UNldMOXVHT3JfR1NBcVFtZVVndUhITm0xQ1ZXWkNsSU94eEJZdml1bFZKU0JtVmFIMDhEZHRMX1o4ZTJSU19uTzRzM3oycX",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlN6RWNlakhmLWNGTTdvNGlEeE9MMnFEWEVoRjloek9UNldMOXVHT3JfR1NBcVFtZVVndUhITm0xQ1ZXWkNsSU94eEJZdml1bFZKU0JtVmFIMDhEZHRMX1o4ZTJSU19uTzRzM3oycXd0OTZiQnA3eG5tNV93VWwxLTk4LTNndGJMU1V3TG9mQWg2b2lBUlpjeQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-13-060",
+    "date": "2026-05-13",
+    "companies": [
+      "tesla",
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio Swapped 1 Million EV Batteries in a Week While Tesla Owners Waited 30 Minutes to Charge. Is NIO Stock a Buy? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9TUjljaHU4Ujg3NlJIeDBSZ3F2SHF1Y1AzR0prRnJHUEVFMUhXWXNFM2pJRE5GZmFlTGttMmViU056TkdwU2wtNlczRnhjbW42cTZmRlVIeExDMFVEWmxCQTgxZVI0cXFYM2NqWHFZOU",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TUjljaHU4Ujg3NlJIeDBSZ3F2SHF1Y1AzR0prRnJHUEVFMUhXWXNFM2pJRE5GZmFlTGttMmViU056TkdwU2wtNlczRnhjbW42cTZmRlVIeExDMFVEWmxCQTgxZVI0cXFYM2NqWHFZOUxRZm82aXBKT1JR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-13-061",
+    "date": "2026-05-13",
+    "companies": [
+      "tesla",
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lucid Jumps 9%, NIO Rallies 7%, Tesla Rises 4% as EV Stocks Get Charged Up - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWVUUG5WUzZoaEV2UnN3WkJGTHdVMGN6V2xNVXVBNWhKMEUyaGFpU0R2LU9BeUR2OHRhMXQ3cy1fMVIyUHFKWUF0QVhMTFpKa2pkX3hfTXZCVUQ4N3pSSlRuUEx2ZnA1TUVkM1J2LV",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWVUUG5WUzZoaEV2UnN3WkJGTHdVMGN6V2xNVXVBNWhKMEUyaGFpU0R2LU9BeUR2OHRhMXQ3cy1fMVIyUHFKWUF0QVhMTFpKa2pkX3hfTXZCVUQ4N3pSSlRuUEx2ZnA1TUVkM1J2LV9MTjcySEw2aUZvYmJobEstU3JGMlBjUEhUU19DSlZobEhOSnctN1ZoSUVvam1OZTlEVS1yMm1UdHUzR1dlaTN6UTJEYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-05-13-062",
+    "date": "2026-05-13",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio Is Winning As China Just Crossed 60% EV Penetration (First Time Ever!) 🚀 (gXf4p69zZI) - Fathom Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA0b2xGQjBNdzhwWkltQW1sdkV3eThyLTI4cjViWEtJaGlMOWpweDFoN2xqNDM3cnNIX01BTUw5dldNWFdEVEE1V0Y1WjhuMm1RM2NKYm4zcm03ZVhGVWJ2eEZGczI0MXY1aXp4cDFuRW",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0b2xGQjBNdzhwWkltQW1sdkV3eThyLTI4cjViWEtJaGlMOWpweDFoN2xqNDM3cnNIX01BTUw5dldNWFdEVEE1V0Y1WjhuMm1RM2NKYm4zcm03ZVhGVWJ2eEZGczI0MXY1aXp4cDFuRWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-13-063",
+    "date": "2026-05-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese EV startup Xpeng in talks with Volkswagen to buy European factory, FT reports - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0V5U3lFRTZZSl9FZXBvb25kcTlwOG5iSVk0WDBVMHFXcWM0T053RmUwNElVemYyTUI2eS1zbTFURUVaQzRXV2dkVVE5UkpQM3pTYkpqWWZPRWlLZ0xmSXdCOUJsNjlGaU1qWDQwdE",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0V5U3lFRTZZSl9FZXBvb25kcTlwOG5iSVk0WDBVMHFXcWM0T053RmUwNElVemYyTUI2eS1zbTFURUVaQzRXV2dkVVE5UkpQM3pTYkpqWWZPRWlLZ0xmSXdCOUJsNjlGaU1qWDQwdEF0cHR1NjQ4SEhYZnotdnBOYXZLOHZkQVJ4R0JlRlZaRjZHS0pYQkNxMlV5NllkS1BSZE56RGpuNkIwS2NwckEyQ2dQc1BGWm5uSkxzUm5jd21VcEZW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-13-064",
+    "date": "2026-05-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen is about to reveal the first electric GTI - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB4MmJJLUNJV1gtdHhRcEl2ZllzZ2N3SUd1bEw4cXljZ2hva2NDOTBJUVFIWWd1YmhnS2N1WGtKZEQ0cF83TThRdkZLaHc0UmZ6eDhjeER6UVUzcnlSRHpnNnhaaEgtQ1J1Tlc0bTQ5ZF",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4MmJJLUNJV1gtdHhRcEl2ZllzZ2N3SUd1bEw4cXljZ2hva2NDOTBJUVFIWWd1YmhnS2N1WGtKZEQ0cF83TThRdkZLaHc0UmZ6eDhjeER6UVUzcnlSRHpnNnhaaEgtQ1J1Tlc0bTQ5ZFhyMjFCNUww?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-13-065",
+    "date": "2026-05-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xpeng in talks with VW about buying a factory in Europe - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOUWxUOE4zLUgwcUNDMDFfc0VDZFFpdTJqaTJ3OTR5cEJZMDN4VlB3XzJXOWlGeVo5TXg1S3NkTzR3Wk5JYl9GWU5ENzkxRVVVTzI1Y0ZhNGppbEFIQjYxRDdqR1BfOWJQNmY0bXBrdD",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUWxUOE4zLUgwcUNDMDFfc0VDZFFpdTJqaTJ3OTR5cEJZMDN4VlB3XzJXOWlGeVo5TXg1S3NkTzR3Wk5JYl9GWU5ENzkxRVVVTzI1Y0ZhNGppbEFIQjYxRDdqR1BfOWJQNmY0bXBrdDdzbHpYSDd2NU5GM1A5Vk43Qi1sN18?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-13-066",
+    "date": "2026-05-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen CEO Says Electric Golf Is Unnecessary – For Now - Autoblog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFgzSjliemZ1VGwwX2hEdk1FMUU1RXdDRlhhcXlSWEZOQU5NNEpHZUN5LXk1Q3JBTURBajVMUll4MFFJeTRncWF0WUg5bEctdDVDSnZMX1Q5eVdWVkVhWmo3RzcwV3ExWlRjRVEyY0",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFgzSjliemZ1VGwwX2hEdk1FMUU1RXdDRlhhcXlSWEZOQU5NNEpHZUN5LXk1Q3JBTURBajVMUll4MFFJeTRncWF0WUg5bEctdDVDSnZMX1Q5eVdWVkVhWmo3RzcwV3ExWlRjRVEyY0Z5MFJlNlQwMWZJay0ycVgzd3JUQl83STB5MmlrU2hackY5dnp2YTBveC0zUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-13-067",
+    "date": "2026-05-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Xpeng Eyes A European Factory Deal With Volkswagen - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOckJNTmpMX0Mwd0hFWS15QTNNRVNiWHdtM1AwS0J3OE04b3gyanQzaUprT1hZbFNpcWxSeE81NHdUWFMxRXA1bEs5YkZobTB0RDRSZVdZLU04ZDVKb2F2UlAtNkV1RHE2Tmk2bngxWX",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOckJNTmpMX0Mwd0hFWS15QTNNRVNiWHdtM1AwS0J3OE04b3gyanQzaUprT1hZbFNpcWxSeE81NHdUWFMxRXA1bEs5YkZobTB0RDRSZVdZLU04ZDVKb2F2UlAtNkV1RHE2Tmk2bngxWXlPeGhTdHBEQUtudk9GdGpwZTRrT1F2Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-13-068",
+    "date": "2026-05-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen Says We Don't Need An Electric Golf Right Now - Autoguide.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNd3p3NE5DcVg4dTN0U29HWTBYdERVdHk1U2ZGUnNQQmp6STZEV0pkalhVTzcyZHg1Z05ZbVJxUnF2UU80SmhjR1JERGlhT09FSkl3OFNqSnVYa1ZuWTIzeV9WRUJ0UGlHdVdhTExjVn",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd3p3NE5DcVg4dTN0U29HWTBYdERVdHk1U2ZGUnNQQmp6STZEV0pkalhVTzcyZHg1Z05ZbVJxUnF2UU80SmhjR1JERGlhT09FSkl3OFNqSnVYa1ZuWTIzeV9WRUJ0UGlHdVdhTExjVnBNenY2YU1GQTIweURxeEhEM09nRmd2RkdsNFZQcDM5LWw3SjJmWEx0X1RNRFktZTZ0eDY3TnI4TW5aVTdSZXFnZnlTSGwxdmd1Nkxza0R3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-13-069",
+    "date": "2026-05-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen Golf EV won't arrive until end of decade, CEO confirms - Autocar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPMzN5dElxcDRTUVJXUGMyV055QlU1V0l1TzJpSzVCTy1oTWI1TTJjQURCdmItQ0pmbDBMOFBlaDdhSzFuTThfaVdUQlk3V09zMDdKbnppbzYxNV9LNmRwTC14TlRSeUpjMElpNjB3NW",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMzN5dElxcDRTUVJXUGMyV055QlU1V0l1TzJpSzVCTy1oTWI1TTJjQURCdmItQ0pmbDBMOFBlaDdhSzFuTThfaVdUQlk3V09zMDdKbnppbzYxNV9LNmRwTC14TlRSeUpjMElpNjB3NWc2R0lBdWx5YXNyNTktTmVTREY2c0FGZ0dpc2c4SHhFTWhiRUVsNXBmN2pxTzZyTVVURUMzZ3pobw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-13-070",
+    "date": "2026-05-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Volkswagen delays the Golf EV again — Will we ever see it launch? - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd0NBTlBnd2hWTmtaLUs4YmNvZkNnRFI3RVJhdU1sREtBa0ZHazdGa00yTy02Z3pOSGViQkJ0R2ItZm1Eb0VMczZzRkhrRlJnOHhsc1VweklzS2NDR2N5LW90cFluU3pMZndUZU94N0",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd0NBTlBnd2hWTmtaLUs4YmNvZkNnRFI3RVJhdU1sREtBa0ZHazdGa00yTy02Z3pOSGViQkJ0R2ItZm1Eb0VMczZzRkhrRlJnOHhsc1VweklzS2NDR2N5LW90cFluU3pMZndUZU94N05ob0V0X2RwZ1Q1OHRoNXZMNnFPSkRYalVLSU5j?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-071",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "With 100 JCB e-machines on-hand, this UK rental fleet makes it EZ to go EV",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/jcb-e-tech_rental.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>An equipment rental company in the UK i",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/13/with-100-jcb-e-machines-on-hand-this-uk-rental-fleet-makes-it-ez-to-go-ev/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-072",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kia launches a ‘full-scale attack’ as its first EV storms into Japan’s forbidden land",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2025/10/Kia-first-EV-Japan-2.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Kia officially entered the forbidde",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/13/kia-launches-full-scale-attack-first-ev-japan/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-13-073",
+    "date": "2026-05-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen is about to reveal the first electric GTI",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/02/Volkswagen-electric-hot-hatch.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>After five decades, <a hre",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/13/volkswagen-reveal-first-electric-gti/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-074",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toyota launches the bZ4X Touring, its most powerful non-GR vehicle with 367 miles range",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/Toyota-bZ4X-Touring-EV-prices.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>The all-electric bZ4X Tour",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/13/toyota-launches-bz4x-touring-most-powerful-non-gr-ev/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-075",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Data centers are cutting power to homes, driving homeowners to solar and batteries",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/Residential-solar-vs-datacenters.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>A Nevada utility just t",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/13/data-centers-grid-strain-driving-residential-solar-battery-demand/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-13-076",
+    "date": "2026-05-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Volkswagen delays the Golf EV again — Will we ever see it launch?",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/03/Volkswagen-Golf-EV-first-look-1.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>The all-electric Golf wi",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/13/volkswagen-delays-golf-ev-again-will-it-ever-launch/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-077",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Waymo expands robotaxi coverage more than 20% — larger than Rhode Island",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/Waymo-market-expansion.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Waymo announced a major expansion",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/13/waymo-expands-coverage-1400-square-miles-11-cities/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-05-13-078",
+    "date": "2026-05-13",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD eyes Stellantis EU plant takeover as EV demand spikes, confirms ‘other companies too’",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/BYD-Stellantis-plant-EV.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>BYD wants to take over underutil",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/13/byd-eyes-stellantis-eu-plant-ev-sales-surge-others-too/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-13-079",
+    "date": "2026-05-13",
+    "companies": [
+      "tesla",
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "BYD surpasses Tesla as world’s top energy storage deployer",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/BYD-surpasses-Tesla-in-storage.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>BYD has overtaken Tesla t",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/13/byd-surpasses-tesla-energy-storage-bess-benchmark-2025/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-080",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scientists Just Discovered A Secret To Make Your EV Battery Live Years Longer",
+    "summary": "A new AI-powered battery management system can squeeze thousands of extra miles out of EV batteries.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/795781/ai-powered-ev-battery-charging-system/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-05-13-081",
+    "date": "2026-05-13",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "BYD expands flash charging lineup with new Fang Cheng Bao off-road SUVs",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/05/2026051313064727.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p>\n<p>Fang Cheng Bao launched the flash charging editions of the Ba",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/05/13/byd-expands-flash-charging-lineup-new-fang-cheng-bao-suvs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-082",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Huawei, JAC and Stellantis in talks to build Maserati EV, report says",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/05/2026051311431886.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p>\n<p>Co-developed models will include a domestic Maextro version a",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/05/13/huawei-jac-stellantis-in-talks-build-maserati-ev/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-083",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China auto exports seen topping 10 million units as global lead widens",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/05/2026051310582553.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p>\n<p>China's auto exports reached 3.13 million units from January ",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/05/13/china-auto-exports-seen-topping-10-million-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-13-084",
+    "date": "2026-05-13",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla gathers 93,000 FSD miles in a country where FSD isn’t approved – here’s how",
+    "summary": "<p>Tesla has quietly logged an impressive 93,000 miles (roughly 150,000 km) of autonomous driving at its Giga Berlin factory—using Full Self-Driving (FSD) in a country where the technology remains una",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-gathers-93000-fsd-miles-country-where-fsd-isnt-approved-heres-how/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-13-085",
+    "date": "2026-05-13",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elon Musk reveals how SpaceX is always on board Air Force One",
+    "summary": "<p>Musk confirmed Tuesday that Starlink internet is live and kicking on Air Force One. Responding with a simple “Yup!” to a post showing him and Nvidia CEO Jensen Huang aboard the presidential jet en ",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/elon-musk-reveals-spacex-always-on-board-air-force-one/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-13-086",
+    "date": "2026-05-13",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SpaceX unveils sweeping Starship V3 upgrades ahead of May 19 launch",
+    "summary": "<p>SpaceX has released a detailed list of changes for Starship Version 3, the next iteration of its fully reusable super-heavy-lift vehicle. Scheduled for its maiden flight as early as May 19 from Sta",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/spacex-unveils-sweeping-starship-v3-upgrades-ahead-may-19-launch/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-087",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Galileo CEO on ‘completely different’ development market, meeting PPA demand and where in Europe it will transact next",
+    "summary": "We catch up with Ingmar Wilhelm, co-founder and CEO of developer and IPP Galileo, after the firm commissioned its first own-operate renewable energy project. ",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/galileo-ceo-on-completely-different-development-market-meeting-ppa-demand-and-where-in-europe-it-will-transact-next/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-088",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US ROUNDUP: BESS project updates from Spearmint, Polaris, and Clearway in Texas, Puerto Rico and Utah",
+    "summary": "In this US news roundup, battery energy storage system (BESS) project updates from Spearmint Energy in Texas, Polaris Renewable Energy in Puerto Rico, and Clearway Energy Group in Utah.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/us-roundup-bess-project-updates-from-spearmint-polaris-and-clearway-in-texas-puerto-rico-and-utah/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-089",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Florida Farmers Struggle — And The Reasons Why Are Complex",
+    "summary": "<p>In early February 2026, Florida experienced a rare and historic multi-day freeze &#8212; it broke cold weather records across the state. From the Everglades agricultural area to central and souther",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/13/florida-farmers-struggle-and-the-reasons-why-are-complex/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-090",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Alsym Partners With Juniper For 500 MWh Of Sodium-Ion Grid-Scale Battery Storage",
+    "summary": "<p>Alsym Energy partners with Juniper to bring 500 MWh of sodium-ion energy storage systems to California and other states. </p>\n<p>The post <a href=\"https://cleantechnica.com/2026/05/13/alsym-partner",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/13/alsym-partners-with-juniper-for-500-mwh-of-sodium-ion-grid-scale-battery-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-05-13-091",
+    "date": "2026-05-13",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Explainer: How The First 3 Chinese EV Makers Are Complying To Canadian Automobile Compliance Policies",
+    "summary": "<p>This article is a reply to a question my nephew, who works as an executive in one of Canada&#8217;s largest car dealerships. His question came after reading my first article on this series about Ch",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/13/explainer-how-the-first-3-chinese-ev-makers-are-complying-to-canadian-automobile-compliance-policies/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-092",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "€1 Billion To Be Invested In German Electric Truck Charging",
+    "summary": "<p>The German Ministry of Transport recently announced it will invest €1 billion to develop more commercial electric truck charging infrastructure in Germany. The funding will be spread out over four ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/13/e1-billion-to-be-invested-in-german-electric-truck-charging/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-13-093",
+    "date": "2026-05-13",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla’s Unsupervised Robotaxi Count IS Growing",
+    "summary": "<p>We have written several times about Tesla&#8217;s massively missed targets for robotaxi rollout, including an article yesterday highlighting some of the problems making the service inadequate and l",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/13/tesla-is-rolling-out-more-unsupervised-robotaxis/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-094",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The BIG Problem With The US Auto Market & EV Adoption",
+    "summary": "<p>Those of us who know electric vehicles well, and who spend a lot of time reading (and perhaps writing) about electric vehicles, and who have driven EVs for years, can talk at length about why it&#8",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/13/a-big-problem-with-the-us-auto-market-ev-adoption/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-095",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dubai, London Heathrow, & Los Angeles Airports Produce Three Times As Much CO2 As The Entire City Of Paris",
+    "summary": "<p>Airports in Europe account for more emissions than Latin America, the Middle East and Africa combined. NEW research from global affairs thinktank ODI Global, in partnership with T&#38;E (Transport ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/13/dubai-london-heathrow-los-angeles-airports-produce-three-times-as-much-co2-as-the-entire-city-of-paris/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-096",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "4 Measures EU Governments Can Deploy Now to Protect Drivers from the Oil Price Shock",
+    "summary": "<p>Four demand-side measures could save EU car drivers €30–74 billion per year. The shock at the pump The US-Israel war on Iran has sent oil prices to levels not seen since the 2022 energy crisis. Wit",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/13/4-measures-eu-governments-can-deploy-now-to-protect-drivers-from-the-oil-price-shock/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-097",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rooftop heat pump tech with metal-organic framework dehumidification tested by Amazon",
+    "summary": "Amazon has conducted a six-month field trial of a rooftop heat pump system developed by U.S. startup Transaera at one of its logistics facilities. The system uses metal–organic framework (MOF)–based d",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/13/rooftop-heat-pump-tech-with-metal-organic-framework-dehumidification-tested-by-amazon/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-098",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ARTsolar challenges local content compliance in South African solar tenders",
+    "summary": "A High Court in South Africa ordered the country’s Ministry of Mineral Resources and Energy to deliver full documentation relating to three solar tenders awarded in 2021 and 2022 to local solar manufa",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/13/artsolar-challenges-local-content-compliance-in-south-african-solar-tenders/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-099",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Growatt launches C&I storage system with 95% depth of discharge",
+    "summary": "Dubbed RISE 261H-XH, the system is available in 50 kW, 63 kW, 85 kW, and 125 kW output configurations. It supports 100% three-phase unbalanced load in backup mode and delivers 160% rated AC overload c",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/13/growatt-launches-ci-storage-system-with-95-depth-of-discharge/",
         "type": "rss"
       }
     ]
@@ -2317,6 +4062,100 @@
       {
         "name": "renewableenergyw",
         "url": "https://www.renewableenergyworld.com/power-grid/evolution-of-the-utility-industry-ieee-pes-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-080",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GM-LG's restart date at Ohio battery plant uncertain - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPc3V4cVdzTWhINVcyN0FjcmFtbl8tLUx1RF9KYnR5a3hCM1J4WHJJMF9EamJ4dWZEQVdrWlNXdHhtbFd1VDluWjZJbHZmT2t4QmlVWjE1QkQ1bTh0N2lBNk1MOXNrVDJLOEU5dUVBNC",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc3V4cVdzTWhINVcyN0FjcmFtbl8tLUx1RF9KYnR5a3hCM1J4WHJJMF9EamJ4dWZEQVdrWlNXdHhtbFd1VDluWjZJbHZmT2t4QmlVWjE1QkQ1bTh0N2lBNk1MOXNrVDJLOEU5dUVBNC1kdEpvUTVJdHBUOE5jNzA0eC05dUNhT091c0VuZktBWVhTYW51U0hMVngtNXlySVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-05-12-081",
+    "date": "2026-05-12",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rivian rolls out ‘Hey Rivian’ AI assistant with full vehicle control - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkFjRV9rVExPclpFZ3NUYlpGNXhIWkpTeUEzbXN2NVlXQ29ORVYyOGI4dUxXZnhIQVFSOWM2a2ZFOUUzbF9ySUNxSUVnTi02THplNFdWbFVTaGxieDBMVjVwX21qSTdEb18xcVlRZz",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkFjRV9rVExPclpFZ3NUYlpGNXhIWkpTeUEzbXN2NVlXQ29ORVYyOGI4dUxXZnhIQVFSOWM2a2ZFOUUzbF9ySUNxSUVnTi02THplNFdWbFVTaGxieDBMVjVwX21qSTdEb18xcVlRZzhrRXdta0RyX0w1cTAxaGxCSENLdzc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-05-12-082",
+    "date": "2026-05-12",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Rivian R1T Towed a 30-Foot Camper to Prescott, but the Real Test Was Charging After the Campground Said No - Torque News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkJIcFp6eXdlTjctLThXYWhnTGRmVmQ1TUVyVFhzTmhaUzF0alY0a2ZoWlJIOHRLY1Vjalg4a28wdXhkQjROS05ybXdLV0pKZ0JIblFQU21VTlVGQ2pQaDYteXBldVRFaFNLOUdIYW",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkJIcFp6eXdlTjctLThXYWhnTGRmVmQ1TUVyVFhzTmhaUzF0alY0a2ZoWlJIOHRLY1Vjalg4a28wdXhkQjROS05ybXdLV0pKZ0JIblFQU21VTlVGQ2pQaDYteXBldVRFaFNLOUdIYWFVVHJrX1ZxbzNEYTk3OHAwRnNteEE5X2QxOGxTblE3U0lUTFBCTURCX1cyU2wtV1QteERpbmNLQmZnWXNKZGxxN0w2VlEtWTlvYUdz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-05-12-083",
+    "date": "2026-05-12",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian releases debut video of R1T Electric Adventure Vehicle - Rivian Newsroom - Rivian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPNklFejEwM2xwX2w4VlMzVVp1VGxwTXZXSmJJaERuT0NEZnN6TXRRLXJVNThDeHdPZ1BSeV9jQTJ5Tk5oME5GTlNIem9MVkhlUW9GUXRWd2lNZFpuM09hR3RuNlN5N1Z1TUVkc1h3al",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNklFejEwM2xwX2w4VlMzVVp1VGxwTXZXSmJJaERuT0NEZnN6TXRRLXJVNThDeHdPZ1BSeV9jQTJ5Tk5oME5GTlNIem9MVkhlUW9GUXRWd2lNZFpuM09hR3RuNlN5N1Z1TUVkc1h3alVRNEZZUjFYeWViMEl2MHFOVTVYRnpfbDVFSVplNHAxakNZT3NielhLNndTR3ZuVEloYkxmTjhRaWVBRG8yV3dVM1VDQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-12-084",
+    "date": "2026-05-12",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla and SpaceX get latest synopsis from Wall Street legend Ron Baron",
+    "summary": "<p>In a wide-ranging appearance on CNBC’s Squawk Box on May 12, legendary investor Ron Baron, founder, CEO, and portfolio manager of Baron Capital, reaffirmed his deep conviction in Elon Musk’s two fl",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/legendary-investor-ron-baron-tesla-tsla-spacex-stock-buys-continue/",
         "type": "rss"
       }
     ]
@@ -4401,6 +6240,26 @@
       {
         "name": "sk_on",
         "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNWFpfb3FMRFAtWEc4UW1ha3RuT3lEWVJXVWdTNlRRSGxOQ1BwMTVCb0I0YlQ5VDNmV1IwOXBxeGZaejZxZUN5VHJicmRJa1FRM2ZXQ2xPTDJPbkUtemZfNm0xX0cyZ0VlUTMyS0lWTDV0S2VQdDNrVkhmejFHaGNpYkVfZExIb2JvbjUwWmw4eW9Ma0tNZEptVzVhSmNDUFJIdGdyMEdkQzJ5VFdzSURDUFFkWWdocmowWDY3aW92WnpUX0YwN0FQSEdxajU5b3p2dVpCcTA2YWp1VU1vMHEyUFU5WnFCLTVWN21KMnNNeS1MeENUVnhpem9IeVhsLUx0YXBxS0Z0U1Jzck1RaFhpeFhBX1VwUXJSY1dyLVNfbzV0TEpIRnB5NlJqTFNTWjNzcE42ejBJNEZ6TUdaWUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-10-022",
+    "date": "2026-05-10",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen’s First Electric GTI Might Make EV Hot Hatches Exciting Again - Yahoo Autos",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkhoeV9sVC1wdXkwT0lqekhuRlNsSEZPRzgyWnVUMjlPbUhhYWoweFdUY0FMV2x0NHE1R1FIcTZNd0I1TWR2a3p1X2Y1Um5FQkJZbFUtUXVkNXlNVWkzeVhsZVlETG54TkxXNzlJbm",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkhoeV9sVC1wdXkwT0lqekhuRlNsSEZPRzgyWnVUMjlPbUhhYWoweFdUY0FMV2x0NHE1R1FIcTZNd0I1TWR2a3p1X2Y1Um5FQkJZbFUtUXVkNXlNVWkzeVhsZVlETG54TkxXNzlJbmZzZ0NBak55VTRTZXRuN0hVZ0JUV3UwNy02V0VTaEpHWGVWbXdRRDh0RUJoMUpZMml3cnctZA?oc=5",
         "type": "rss"
       }
     ]
