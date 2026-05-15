@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 32,
+  "gate2_fail": 20,
+  "passed": 82,
+  "gate2_samples": [
+    "BYD Just Shipped More Cars Overseas Than Tesla Probably Sold Worldwide - Autoblog",
+    "3 Reasons Why the Rivian R2 May Not Be the Company’s Savior - Autoblog",
+    "Rivian's New AI Assistant Knows What You Mean, Not Just What You Say - CNET",
+    "“Rivian Assistant” Promises to be the Best Voice Control System in a Car Yet - MotorTrend",
+    "Rivian’s AI-powered voice assistant is ready to roll - The Verge"
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:29:16.804780Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-05-15-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "What does BYD overtaking Tesla in battery storage mean for the global energy industry? - Latest news from Azerbaijan",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUEo4bEtGMGpwRkNUa19rRkp4RnJPczRlVGdzWWNZa3RqR1VkOUFLUmFOMlVLdGdJV0xSTERWYzRCdXVFOUs5OUU4LU1oVHdTZzIyZFNqMFhaTURjWFpSQ1hGZ3YtbkE2ZlVRMWMwcWI5dmtudkI2ampSNGtmY0luemVaRV9kbG04aGJEU0U2bUFYYWljaEo5S3JFQTdzc0pCaS1BakxYbnU5UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-15-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Fraunhofer ISE achieves 31.3% record solar-to-hydrogen efficiency in photovoltaic electrolysis",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/15/fraunhofer-ise-achieves-31-3-record-solar-to-hydrogen-efficiency-in-photovoltaic-electrolysis/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Global auto giants plug into China's battery power - China Daily - Global Edition",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN0RRbGJaOXV5U05RNVdod0ZJbW9hbFo0X01jN2lrTW55ZnkxLXByYUh4VVFobXNNaVliSkxNY2U2ZW0wdC1iV1p3UGIxaGRXUjV1bmJZdk9wZVRvYTNCWG4teDdxdnNEMTF2THhhRzNad2NLX3kxX2ExcEZZaWRvLV9B?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "System-level BESS manufacturing defects cause ‘hidden risk’ for developers, Intertek CEA says - Energy-Storage.News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ21rRENRSk5jOUJtMG9vSXR0cFNJSnVvU21HQzM0LXN2WmNTaVBqWVdDV01CbkU5YWFmRXRkYzhmUkViYXRVY0tmRWZKTkxndVNaRkxxaUFmODVEWHJoZURUYUNtbml1V3Fva2R0ckl0NUM3eVNzQW1DWXhDQ0xYaWRMWUY2QUJSVVh4azhVT1MwTFJHZXNIVEg5dGxqTm5NdERSNE5jeDlrN3Q5SHQ1ZXdHdEZhbFRucUl4bFI1SDU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_sdi-2026-05-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GM And Samsung SDI Battery Plant Construction On Pause - GM Authority",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYjRhRDlTNFlodndpQ005cUtkUWQwRkRjcXFYN1oyUWFGRjRyc3R1S3d4bVY0RllhSk8yYXRXc2l5NGRGUnJnVElwOEVRM3F2cm9JQThITnZsZXBpelprYVBjNnNHUUJ1WlZ3ZlYxdHZaaXRLZ05wNW9pc1o5UFlWY2k0SjhXOW1BLXR0Q0dHSmYyMU4zVkNGYTZMRkHSAZwBQVVfeXFMTWI0YUQ5UzRZaHZ3aUNNOXFLZFFkMEZEY3FxWDdaMlFhRkY0cnN0dUt3eG1WNEZZYUpPMmF0V3NpeTRkRlJyZ1RJcDhFUTNxdnJvSUE4SE52bGVwaXpaa2FQYzZzR1FCdVpWd2ZWMXR2Wml0S2dOcDVvaXNaOVBZVmNpNEo4VzltQS10dENHR0pmMjFOM1ZDRmE2TEZB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 27,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 1
+      },
+      {
+        "id": "eve",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 198,
+    "too_old": 106,
+    "gate1_blocked": 32,
+    "gate2_blocked": 20,
+    "passed": 82,
+    "pass_rate": "34.2%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "BYD Just Shipped More Cars Overseas Than Tesla Probably Sold Worldwide - Autoblog",
+      "3 Reasons Why the Rivian R2 May Not Be the Company’s Savior - Autoblog",
+      "Rivian's New AI Assistant Knows What You Mean, Not Just What You Say - CNET",
+      "“Rivian Assistant” Promises to be the Best Voice Control System in a Car Yet - MotorTrend",
+      "Rivian’s AI-powered voice assistant is ready to roll - The Verge"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為比亞迪、福斯、蔚來相關動態：「What does BYD overtaking Tesla in battery storage mean fo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "What does BYD overtaking Tesla in battery storage mean for the global energy ...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Fraunhofer ISE achieves 31.3% record solar-to-hydrogen efficiency in photovol...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
