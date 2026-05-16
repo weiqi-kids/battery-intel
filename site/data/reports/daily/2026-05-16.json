@@ -1,0 +1,205 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:44:58.174011Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-05-16-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen battery wins - CarNewsChina.com",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY0h6cWtxWjJRYlpsRktldU9kMXBGQjR1VEpZblFTdUdENkdEVDNKUUh6R1lZcnkyYUJ4X1ViRU9FTG1qOHczX0pTZVFXU3BtOFJ6eFFkaHdNNG9oT2l1VDlCT1NBcG81YVpTdzgyRl9ieDVXZm5tMVNNVkUwbGlvWjJLTXh1U0pESTVOVmpMLUNteXZZN1JPM0phTXh6WWZJaTAta1kycUtRdHVJaFZYY1dXcGVILWFqZkZGNQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-05-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Starts Battery Module Assembly in Hungary, Eyes Full Production - Автомобильный портал 32CARS.RU",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMG5DOXVSVTBPRWl4SlRSNzF5TDVCUjQ2dlJTbVhxV0FZeHJoQkk2ZWVtNWpRa3NJbkNWUG5iQnN4S3FLU1dWYWF6R0hBcW4yNWFyMXNITHlvY3V6aFdGY1pwYjRRd2dEQnUtalpidWozV01XaXpvd3Q4MXAyVDVvMWp1N3VZNXhGZFA1TTRRSldvMU9zbkRmNlJBZWhyQnp2c2dOaHpKdVp1VHFuOWfSAa4BQVVfeXFMUDBuQzl1UlUwT0VpeEpUUjcxeUw1QlI0NnZSU21YcVdBWXhyaEJJNmVlbTVqUWtzSW5DVlBuYkJzeEtxS1NXVmFhekdIQXFuMjVhcjFzSEx5b2N1emhXRmNacGI0UXdnREJ1LWpaYnVqM1dNV2l6b3d0ODFwMlQ1bzFqdTd1WTV4RmRQNU00UUpXbzFPc25EZjZSQWVockJ6dnNnTmh6SnVadVRxbjln?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_energy-2026-05-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution Ltd stock (KR7373220003): battery maker updates investors on growth strategy - AD HOC NEWS",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkw1TEdlcEs5dFZWVl95akdCU2s0S3ZIY0tTYVpYZV94WWEwaVdoYWhONnh6QWNsWExTRHBuQVhVLUZhZlhibl8zNTJvNGxxbW9LZ0Jtamxmdm9jbjBzRjZKTVZNVzlaLXVFRnBIRjA4MUNNZHBwVk1KNXMzaDFFeTlRT2ZCaHlUUXpWSWFXY0VITjVLdHplS2RfNEZoZXFfVmNQcW0zRGJ5Y2k2ZEpmN0tNOFRwY2pudDFjbjZCNA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ganfeng-2026-05-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ganfeng Lithium Group stock (CNE1000031W9): lithium producer in focus after recent developments - AD HOC NEWS",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeld6RDFYNnR3bGJVS0Z6dlRCcm0xcURvS3dHWUswT3d3SGkyb1JNSU9WQm9qVGRCR0dPMVVHZGVvRWN6YnJ5XzRKOWtTN1cyVFYxdmRFQ01JU2dGTk93bVBJblVXNzBKMW5uaUl3TDZVRWJ4THdnWTlHVU53cnpjMUlsd1Z1amN5UzR2Mzh2aDNudmlkQUFvSTNSTHFNTDlzTW1XekVfcmdoTDZGekhzV1hJSlo5Vl9hZXlRV0Q3UlZJQzg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "byd-2026-05-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BYD admits severe battery shortage as flash‑charge EV demand overwhelms production - CarNewsChina.com",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMjZ4QTZoYVkxZlpjNHN5R3pVY0tkVW5xVmlzQ2VBRHpHdjAyT3B4ODE5SlNONGJMMWdoN19oX1piWWJTQ2RCVnZKZUk4YlgtLWZDTDlxSjNRSHJhTWlsUUgzeVQ1OUdTMUwtVUNzS2EyT1VYc0NZUFZ0VU5uSDAzYnpDWGpyVkZrX2NVaVBtVHpzcHRYTXU4czRVWWRBdF9wSnFBNkVlSE5jb29PNmNqUmdpS2FEcVpJeVNn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 5
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "lg_energy",
+        "count": 1
+      },
+      {
+        "id": "ganfeng",
+        "count": 1
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 201,
+    "too_old": 111,
+    "gate1_blocked": 29,
+    "gate2_blocked": 26,
+    "passed": 67,
+    "pass_rate": "28.8%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "Rivian's $45k R2 SUV is delayed until 2027. Here's why. - USA Today",
+      "Rivian opens R2 configurator: here are all the options and pricing - Electrek",
+      "The Rivian R2 Configurator Is Out, And The Cheapest One I’d Buy Costs $57,245 - The Autopian",
+      "3 Reasons Why the Rivian R2 May Not Be the Company’s Savior - Autoblog",
+      "Rivian’s New AI Assistant Can Do What Tesla’s Grok Still Can’t - Autoblog"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為比亞迪、寧德時代、LG新能源相關動態：「CATL, BYD headline China’s inaugural Golden Lithium Award...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CATL, BYD headline China’s inaugural Golden Lithium Awards with next‑gen batt...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "CATL Starts Battery Module Assembly in Hungary, Eyes Full Production - Автомо...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

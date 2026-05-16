@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 29,
+  "gate2_fail": 26,
+  "passed": 67,
+  "gate2_samples": [
+    "Rivian's $45k R2 SUV is delayed until 2027. Here's why. - USA Today",
+    "Rivian opens R2 configurator: here are all the options and pricing - Electrek",
+    "The Rivian R2 Configurator Is Out, And The Cheapest One I’d Buy Costs $57,245 - The Autopian",
+    "3 Reasons Why the Rivian R2 May Not Be the Company’s Savior - Autoblog",
+    "Rivian’s New AI Assistant Can Do What Tesla’s Grok Still Can’t - Autoblog"
+  ]
+}
