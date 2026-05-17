@@ -1,0 +1,174 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T09:51:18.004439Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Gina Rinehart plots new Australian lithium mine as prices soar - AFR",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkxPeUwzcHNrNWtFdC1XYjZlcDNVNHNqSDJIVlFJTDJLT1ozSWptdkFScV9rYkNWbl9CdGFSbW9RdExrYWVFOWx1VjJYS08yN0RDSzAzZzdxM3hBV00xY3FjQ2UyQVh4NnBVQnp5RHdyQkw5bEdzOGVqUnhwNGFndkhvN0hLbUt0bFpsc3NhUzVfNVpLb18teHdBVUJqUk5UV0RzY2NaWHJsa0p0NjBnNU5iYjdIZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Does Lithium Argentina's Latest Resource Update Mean for Cauchari-Olaroz - Kavout",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORkhISTA2Q25Vd0lVbDZZZVRXcFgxeENsZ3VhclE2cDIzbkRpajdaZnZIbW84N1haeGpqTUxrYU9ERXljSVIwRXNPendQT1pEQk8wZWNiTVhyenk5SVltYWFnVWVSS0hYdTRJTUN0ejVIcE1LVjA4OTVORndMSUlpN2huOG5aOWJiZ1V3SWs1UHdtX2Q0eVdEMThlVWUxRkVDWHlmcHdveXhXV2RSMU41QU5B?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "byd-2026-05-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BYD’s robot-run factory in China builds an EV in under a minute - The Kathmandu Post",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVzNKbUlncDJlYlFBZHBpVFpxR2czQ0lyb0ZhTW5udGJzME1UaW9JRzkwMWVfOUpaRm9yekU2MDVfRnVIc25lcklLaEtXcXZMTWtaM2llY0hndVlPOWtUX21kZ0dVNFRuSHlYNG9PN3JoN1p5c21RZDFDS25ueXFhNk5yVGN2Qm5jRGpUNzU2ZXVKSjhtdzIyODE1cFFHeURpbmtBbFl2SV9VZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Our New Jaecoo J5 Battery Electric Vehicle!",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/16/our-new-jaecoo-j5-battery-electric-vehicle/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US Plan To Allocate Water From The Colorado River Will Severely Impact California, Arizona, & Nevada",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/16/us-plan-to-allocate-water-from-the-colorado-river-will-severely-impact-california-arizona-nevada/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 227,
+    "too_old": 120,
+    "gate1_blocked": 33,
+    "gate2_blocked": 22,
+    "passed": 32,
+    "pass_rate": "15.5%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Rivian's $45K R2 SUV is delayed until 2027. Here's why - USA Today",
+      "Rivian opens R2 configurator: here are all the options and pricing - Electrek",
+      "The Rivian R2 Configurator Is Out, And The Cheapest One I’d Buy Costs $57,245 - The Autopian",
+      "3 Reasons Why the Rivian R2 May Not Be the Company’s Savior - Autoblog",
+      "Rivian May Have Bigger Plans For The R2 Than Expected - Yahoo Autos"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為比亞迪相關動態：「Gina Rinehart plots new Australian lithium mine as prices...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Gina Rinehart plots new Australian lithium mine as prices soar - AFR（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "What Does Lithium Argentina's Latest Resource Update Mean for Cauchari-Olaroz...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
