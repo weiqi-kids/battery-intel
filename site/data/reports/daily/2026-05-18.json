@@ -1,0 +1,220 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T11:49:56.595935Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-05-18-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Beyond CATL and BYD: China’s massive battery fair reveals shift from EV hype to manufacturing dominance - CarNewsChina.com",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbWdJMGE0bzVhSnZiQ1FINWFvcW5GUlZOdld3S2w5RWc3ODV0NXhqOVFyS20zX282dkFZbW1Dd1lwX0dzakV4Rm0xQ281N3VOcGdsalNBdGgxUFhsYmZ1MFBuT1ZQV3lrY01kc3R2MGVEcVZ5ZWI0eG9kbjA2czZoZXNvdnlvN0duaDJIckxRU1otc0t2T1hTTllra0kxRmVWX1N3TDg1SFNnYXAyNEFVejhOSXhhd1RuWEQ3alM5RUczVzFXX1dPZjFQSlFpbmFiQ0tDSA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-18-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Leapmotor Hong Kong shares plunge to 2-month low as Q1 loss widens",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/18/leapmotor-hk-shares-plunge-q1-loss-widens/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-18-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Li Auto shares plunge in Hong Kong after updated L9 SUV launch",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/18/li-auto-shares-plunge-hk-after-updated-l9-launch/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-18-031",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Australia hits 400,000 home battery installations with 11.2GWh capacity in under a year",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.energy-storage.news/australia-hits-400000-home-battery-installations-with-11-2gwh-capacity-in-under-a-year/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-18-037",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Japanese scientists achieve world record 25.14% efficiency for perovskite-CIGS tandem solar cell",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/18/japanese-scientists-achieve-world-record-25-14-efficiency-for-perovskite-cigs-tandem-solar-cell/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 31,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 5
+      },
+      {
+        "id": "lg_energy",
+        "count": 4
+      },
+      {
+        "id": "nio",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 222,
+    "too_old": 111,
+    "gate1_blocked": 29,
+    "gate2_blocked": 23,
+    "passed": 48,
+    "pass_rate": "22.7%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "CATL, Xiamen city step up cooperation on zero-carbon tech city, low-altitude economy deployment - Ga",
+      "Rivian's $45K R2 SUV is delayed until 2027. Here's why - USA Today",
+      "Rivian opens R2 configurator: here are all the options and pricing - Electrek",
+      "The Rivian R2 Configurator Is Out, And The Cheapest One I’d Buy Costs $57,245 - The Autopian",
+      "Rivian May Have Bigger Plans For The R2 Than Expected - Yahoo Autos"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為比亞迪、LG新能源、蔚來相關動態：「Beyond CATL and BYD: China’s massive battery fair reveals...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Beyond CATL and BYD: China’s massive battery fair reveals shift from EV hype ...（正極材料、電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Leapmotor Hong Kong shares plunge to 2-month low as Q1 loss widens（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 29,
+  "gate2_fail": 23,
+  "passed": 48,
+  "gate2_samples": [
+    "CATL, Xiamen city step up cooperation on zero-carbon tech city, low-altitude economy deployment - Ga",
+    "Rivian's $45K R2 SUV is delayed until 2027. Here's why - USA Today",
+    "Rivian opens R2 configurator: here are all the options and pricing - Electrek",
+    "The Rivian R2 Configurator Is Out, And The Cheapest One I’d Buy Costs $57,245 - The Autopian",
+    "Rivian May Have Bigger Plans For The R2 Than Expected - Yahoo Autos"
+  ]
+}
