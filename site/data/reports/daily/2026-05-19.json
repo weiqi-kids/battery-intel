@@ -1,0 +1,233 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T11:25:08.492683Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-19-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Xiaomi’s upcoming YU7 GT just beat every SUV ever around Nürburgring",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/05/18/xiaomi-a-smartphone-company-sets-nurburgring-suv-record-with-its-yu7-ev/"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-05-19-034",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nio's charging station network surpasses 5,000 in China",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/19/nio-charging-station-network-surpasses-5000-china/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-19-036",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Xiaomi YU7 GT breaks Nürburgring SUV record ahead of official launch",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/19/xiaomi-yu7-gt-breaks-nurburgring-suv-record/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-19-047",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Electricity Generation from Solar Could Exceed Coal in ERCOT for the First Time in 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/19/electricity-generation-from-solar-could-exceed-coal-in-ercot-for-the-first-time-in-2026/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-19-049",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The Big ICE Meltdown — April’s China EV Sales Report",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/18/the-big-ice-meltdown-aprils-china-ev-sales-report/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 52,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    },
+    "battery_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 55,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 46,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 9
+      },
+      {
+        "id": "lg_energy",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "rivian",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 52
+      },
+      {
+        "id": "battery_cost",
+        "count": 1
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 432,
+    "dup_title": 184,
+    "too_old": 102,
+    "gate1_blocked": 26,
+    "gate2_blocked": 20,
+    "passed": 100,
+    "pass_rate": "40.3%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "LG Energy Solution, Honda partner to penetrate Vietnam's e-motorcycle market - Yonhap News Agency",
+      "LG Energy Solution Teams Up With Honda to Tap Vietnam E-Motorcycle Market - Seoul Economic Daily",
+      "The Rivian R2 Configurator Is Out, And The Cheapest One I’d Buy Costs $57,245 - The Autopian",
+      "Rivian May Have Bigger Plans For The R2 Than Expected - Yahoo Autos",
+      "Rivian's $45K R2 SUV is delayed until 2027. Here's why - USA Today"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 55 則事件，焦點為寧德時代、LG新能源、特斯拉相關動態：「Xiaomi’s upcoming YU7 GT just beat every SUV ever around ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Xiaomi’s upcoming YU7 GT just beat every SUV ever around Nürburgring（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Nio's charging station network surpasses 5,000 in China（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電池成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

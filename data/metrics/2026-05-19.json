@@ -1,0 +1,57 @@
+{
+  "date": "2026-05-19",
+  "total_events": 55,
+  "by_company": {
+    "catl": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "lg_energy": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "tesla": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ganfeng": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "umicore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 52,
+      "sentiment_avg": 0.13
+    },
+    "battery_cost": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "ev_sales": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
