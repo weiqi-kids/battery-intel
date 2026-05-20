@@ -1,0 +1,172 @@
+{
+  "date": "2026-05-20",
+  "date_range": {
+    "start": "2026-05-14",
+    "end": "2026-05-20"
+  },
+  "generated_at": "2026-05-20T10:56:06.168638Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "volkswagen-2026-05-14-061",
+      "date": "2026-05-14",
+      "title": "XPeng in talks to buy a Volkswagen plant in Europe as exports surge 62%",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 208,
+      "last_week": 200,
+      "week_over_week_change": "+4%",
+      "sentiment_this_week": 0.04
+    },
+    "ev_sales": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.19
+    },
+    "cathode_material": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": -0.25
+    },
+    "battery_cost": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "lithium_price": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "lg_energy": {
+      "event_count": 13,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    },
+    "eve": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 9
+    },
+    "tesla": {
+      "event_count": 11,
+      "sentiment_avg": -0.05,
+      "rank": 5
+    },
+    "byd": {
+      "event_count": 26,
+      "sentiment_avg": -0.09,
+      "rank": 1
+    },
+    "nio": {
+      "event_count": 14,
+      "sentiment_avg": 0.07,
+      "rank": 3
+    },
+    "volkswagen": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 6
+    },
+    "samsung_sdi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "rivian": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "ganfeng": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "umicore": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 436,
+        "last": 502,
+        "change_pct": -13.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-14",
+      "event_count": 93,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 81,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 32,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 83,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 95,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 39,
+      "sentiment_avg": -0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-14 ~ 2026-05-20）共 436 則事件，重點為「XPeng in talks to buy a Volkswagen plant in Eur...」。億緯鋰能表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LG新能源",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "特斯拉",
+        "reason": "本週出現 11 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

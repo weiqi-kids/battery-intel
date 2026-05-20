@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 34,
+  "gate2_fail": 15,
+  "passed": 81,
+  "gate2_samples": [
+    "Former Data Center-Laggard VNET Seizes China's AI Moment With CATL Tie-up - Benzinga",
+    "LG Energy Solution, Honda partner to penetrate Vietnam's e-motorcycle market - Yonhap News Agency",
+    "Why Is Pilbara Minerals (ASX:PLS) Share Price Falling Today? - Kalkine",
+    "BYD Blade 2.0 survives 8‑hour violent teardown: bloggers grind, saw, hammer with no fire - CarNewsCh",
+    "Rivian delays arrival of cheapest R2 electric SUV - PressReader"
+  ]
+}
