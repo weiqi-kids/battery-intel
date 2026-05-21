@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T00:44:03.604752Z",
+  "updated_at": "2026-05-21T09:17:01.340080Z",
   "quarter": "2025-03-31, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -21,14 +21,14 @@
       "name": "巴斯夫",
       "ticker": "BAS.DE",
       "currency": "EUR",
-      "ar": 8325000000,
-      "ar_prev": 11225000000,
-      "ar_qoq": "-26%",
-      "inventory": 12058000000,
-      "inv_prev": 13631000000,
-      "inv_qoq": "-12%",
+      "ar": 11518000000,
+      "ar_prev": 8325000000,
+      "ar_qoq": "+38%",
+      "inventory": 12908000000,
+      "inv_prev": 12058000000,
+      "inv_qoq": "+7%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "byd",
@@ -147,28 +147,28 @@
       "name": "三星SDI",
       "ticker": "006400.KS",
       "currency": "KRW",
-      "ar": null,
-      "ar_prev": 2145831382000,
-      "ar_qoq": "N/A",
-      "inventory": null,
-      "inv_prev": 2936331872800,
-      "inv_qoq": "N/A",
+      "ar": 2145831382000,
+      "ar_prev": 2582663810000,
+      "ar_qoq": "-17%",
+      "inventory": 2936331872800,
+      "inv_prev": 2669063201100,
+      "inv_qoq": "+10%",
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2025-12-31"
     },
     {
       "id": "sk_on",
       "name": "SK創新",
       "ticker": "096770.KS",
       "currency": "KRW",
-      "ar": null,
-      "ar_prev": 6103542380000,
-      "ar_qoq": "N/A",
-      "inventory": null,
-      "inv_prev": 9558632028000,
-      "inv_qoq": "N/A",
+      "ar": 6103542380000,
+      "ar_prev": 6105315282000,
+      "ar_qoq": "-0%",
+      "inventory": 9558632028000,
+      "inv_prev": 9160319881000,
+      "inv_qoq": "+4%",
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2025-12-31"
     },
     {
       "id": "sqm",
@@ -217,14 +217,14 @@
       "name": "福斯",
       "ticker": "VOW3.DE",
       "currency": "EUR",
-      "ar": 66528000000,
-      "ar_prev": 91055000000,
-      "ar_qoq": "-27%",
-      "inventory": 51775000000,
-      "inv_prev": 58717000000,
-      "inv_qoq": "-12%",
+      "ar": 92324000000,
+      "ar_prev": 66528000000,
+      "ar_qoq": "+39%",
+      "inventory": 58158000000,
+      "inv_prev": 51775000000,
+      "inv_qoq": "+12%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     }
   ]
 }
