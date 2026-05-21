@@ -1,0 +1,217 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T11:31:42.198450Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pilbara-2026-05-21-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Pilbara Minerals (ASX:PLS) Stock Rally Continues After Record Quarter: Time to Stay Alert or Stay Invested? - Kalkine",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZWZiMV9xMkcza0I4UngyUEdyYTd3eDJtSFNWU1pIa3NrVFJXSDNtcHA4RGRSb2w4WmhzYi1hbEZQVEVrLWJhU0VnT0t3b3VOZTd3bmNTdlh6QUt1Zks0Rm4xdHluNGFzWHhFb2pLcFJmUzhCa3hsazBGV05veWptZkZyaHhQbzRELTBBYW94V3VNZ29ReGZicTJGRjZ4cW5ZWklIUTJDZFNXQ2VWb2xMTDZvZGRXbDV3UXhxYnREUXhZRVNuZ2RBT0JOdkczZ1dZNTlN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-21-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SEIA: AI is fueling a massive US energy storage boom",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/05/20/seia-ai-is-fueling-a-massive-us-energy-storage-boom/"
+    },
+    {
+      "rank": 3,
+      "event_id": "tesla-2026-05-21-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SpaceX just filed for the IPO everyone was waiting for",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.teslarati.com/spacex-s1-ipo-filing/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-05-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Grenergy taps CATL to supply 1.5 GWh of batteries for Spanish projects - Renewables Now",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONngtcEJubmg0Um5femd5amhLT3QyVzM4cUxkN0p2QzdXS3JzQ25CeUNKMnU0d1hpbTJHY1NCT2hLTkpoYUQzZ08zV3VrdS1CWE5VTFU3dHZXdUVxYWIzYjJtUzJXSDFzdl8zNzNRaXBpZmRMb0pSWkMyZUZjTWxsUWpmX1V0Mm0yWFlYcC1lZHE2ZnFZTWtiQURBUWh5WDc4VFloLXJ2em5yU0sxczNj?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sk_on-2026-05-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SK On, Ford end U.S. EV battery joint venture in Kentucky - Korea JoongAng Daily",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcmJqYzl4MlVqVGJ1UDdJSnlYUW9tSU05ZXdHXzV5cERoMVBfOUNoTnppYmt2WVM1VWFBYVozNzNtVkdrRHJRamxyem9YeUgyQ3ZvZW5yZElobF9qamVQM0JVNUJna3pvOHZVazJMbXUtbkplbVdxUVJSXy1sOTFJU2pSOUplemF6NW5xZG1vRlh0SVVYZ09hU3RSTmtxX1lCNDQyWDJEQUVncmxVc2N1dDdqZlVES203R3UwdGYtVGZyOWw5Zkc4SkdlNk05QQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 45,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 47,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 39,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "sk_on",
+        "count": 6
+      },
+      {
+        "id": "nio",
+        "count": 6
+      },
+      {
+        "id": "ganfeng",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 5
+      },
+      {
+        "id": "byd",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 45
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 184,
+    "too_old": 100,
+    "gate1_blocked": 35,
+    "gate2_blocked": 23,
+    "passed": 94,
+    "pass_rate": "37.3%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "LG Energy Solution, Honda partner to penetrate Vietnam's e-motorcycle market - The Korea Times",
+      "SK On completes BlueOval SK split with Ford - The Korea Herald",
+      "Why Is Pilbara Minerals (ASX:PLS) Share Price Falling Today? - Kalkine",
+      "Rivian Has The Perfect Opening - CleanTechnica",
+      "Rivian Stock’s Path To 10x Growth - Forbes"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 47 則事件，焦點為SK創新、蔚來、贛鋒鋰業相關動態：「Pilbara Minerals (ASX:PLS) Stock Rally Continues After Re...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Pilbara Minerals (ASX:PLS) Stock Rally Continues After Record Quarter: Time t...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "SEIA: AI is fueling a massive US energy storage boom（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
