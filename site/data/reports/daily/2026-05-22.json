@@ -1,0 +1,211 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T10:55:28.779379Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-22-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SAIC to hit 100 million vehicle delivery milestone by end of May",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/22/saic-100-million-vehicle-delivery-milestone-end-may/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's tech grip forces India's renewable energy ambitions into structural dependence on Beijing's battery supply chains - digitimes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQWRoM0d4Wnptb1R5bGdSbHhLd2dzWS1MdndPYTlYMjRwdlNXbTRJbHdOYjJNMkJ2eVRzNjZkUm9rSkptaGJlWWlCX0V2ZEVkNC1zSDJGaTFDdXVoUERaNk9peThTbnFLc1QyQWVrRjdlcnlQMEdybHNDYnB6b3lsR2gwQnZHNHBoNUVadVVhb1ROamd4aDY5dENpMl9xWnlPbW85Q2ZR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sk_on-2026-05-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SK On takes full control of its Tennessee battery plant - Just Auto",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ2x5RVJ6Y2tQeWxUUTVSRGxIYVlZaGd5ZUhDallBRjR5RWZJOF80VUpsYnhuU2pES3BMd0tyRzIwQkxCcTZobnJaRFJxRVNyd2xhaDdCQ3JNTUpTcmRtbXRNMm1mNmplM1Z0S0ZNMzlENF9YWkVpV09Ka2xTZHJncnoyMU9taWN5Mk9XTGlrc0o?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sk_on-2026-05-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SK On Converts Tennessee Battery Plant Into Solely Owned U.S. Entity - thelec.net",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MTmJMYWFCc0pwMlNfYnBDc2RaVlVDQVFiZWtsR1czbFlnbHQ3cHlfVzZWLTNTUTB6cVh5eXNneHRPeUN6dE1OU3V2dmZvbmJRR29HU3dacjhDZmlYTFZaR1VTdjZLc2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ganfeng-2026-05-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BlackRock, Inc's long position on H-shares of Ganfeng Lithium decreases to 6.92% on May 18 from 7.80% - HKEX - marketscreener.com",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQk9NQlZ1OVllbmYxVnV5dVJUZWVzZlRTdDNJZG5aUjBEc1ZQb3BUS1NKbEdSTmRRc3ltRzJfVHQ4bHVPVnlocjRxb1BhTXFXa2lFTGlzejUtdHBGckdRbGczVExrMmlSZUQxbEdMY2pmZ2F5NUctZ2tTVkhjQ3drNTViRUpFUWRNX1ViVHgwc3N1eGtwYmZTNWxjT3dGZnNNWkZiZVBEbFBlTlFPMEVfc1ZrZGowSGdlbC1ud0ZjeDJaWXFBTUdRWG5WS2hJQkdyRm1aTXZlaVJBSlluRXhsUDIxYXY5Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 20,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 5
+      },
+      {
+        "id": "sk_on",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 194,
+    "too_old": 90,
+    "gate1_blocked": 35,
+    "gate2_blocked": 21,
+    "passed": 95,
+    "pass_rate": "39.4%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "CATL and Tencent Back $10M-Tonne Carbon Credit Push Amid Global Market Slowdown - CarbonCredits.com",
+      "LG Energy Solution, Honda partner to penetrate Vietnam's e-motorcycle market - The Korea Times",
+      "SK On completes BlueOval SK split with Ford - The Korea Herald",
+      "Why Is Pilbara Minerals (ASX:PLS) Share Price Falling Today? - Kalkine",
+      "Rivian Has The Perfect Opening - CleanTechnica"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為蔚來、SK創新、比亞迪相關動態：「SAIC to hit 100 million vehicle delivery milestone by end...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SAIC to hit 100 million vehicle delivery milestone by end of May（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China's tech grip forces India's renewable energy ambitions into structural d...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

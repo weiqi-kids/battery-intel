@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 35,
+  "gate2_fail": 21,
+  "passed": 95,
+  "gate2_samples": [
+    "CATL and Tencent Back $10M-Tonne Carbon Credit Push Amid Global Market Slowdown - CarbonCredits.com",
+    "LG Energy Solution, Honda partner to penetrate Vietnam's e-motorcycle market - The Korea Times",
+    "SK On completes BlueOval SK split with Ford - The Korea Herald",
+    "Why Is Pilbara Minerals (ASX:PLS) Share Price Falling Today? - Kalkine",
+    "Rivian Has The Perfect Opening - CleanTechnica"
+  ]
+}

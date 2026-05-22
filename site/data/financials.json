@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-21T11:31:38.175556Z",
-  "quarter": "2025-03-31, 2025-12-31, 2026-03-31",
+  "updated_at": "2026-05-22T10:55:24.776689Z",
+  "quarter": "2025-03-31, 2025-06-30, 2025-12-31",
   "companies": [
     {
       "id": "albemarle",
@@ -126,17 +126,17 @@
       "name": "蔚來",
       "ticker": "NIO",
       "currency": "USD",
-      "ar": 1394445000,
-      "ar_prev": 1304186000,
-      "ar_qoq": "+7%",
+      "ar": 1159560000,
+      "ar_prev": 1394445000,
+      "ar_qoq": "-17%",
       "ar_period": "QoQ",
-      "inventory": 8530854000,
-      "inv_prev": 7477682000,
-      "inv_qoq": "+14%",
+      "inventory": 8579710000,
+      "inv_prev": 8530854000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "panasonic",
