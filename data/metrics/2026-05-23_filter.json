@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 33,
+  "gate2_fail": 25,
+  "passed": 63,
+  "gate2_samples": [
+    "SK On completes BlueOval SK split with Ford - The Korea Herald",
+    "Pilbara Minerals stock (AU000000PLS0): Market position and US exposure - AD HOC NEWS",
+    "Why Is Pilbara Minerals (ASX:PLS) Share Price Falling Today? - Kalkine",
+    "BMW iX3, Rivian R2, Volvo EX60: How Do These Next-Gen Electric SUVs Compare? - Cars.com",
+    "Rivian Stock’s Path To 10x Growth - Forbes"
+  ]
+}
