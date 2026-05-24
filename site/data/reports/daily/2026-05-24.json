@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T09:59:22.396293Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-05-24-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "The R2 Will Help Rivian Bridge the Gap With Tesla in Autonomous Driving Capabilities - autoevolution",
+      "companies": [
+        "tesla",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb2g5X2JKOFJZZGh1QzVZbF9BTlVsY1VQQXZMNGdIdlpzTnh1TW90aVhiRTg0MWhsY3dob296STJVeEZNM0JaajFIRnlGWUE2eW9adFM4V1JtOGVISHlVR1p1a25za3hYUzc2TFlUTmkyZV9pa05EeWx3NVh2VHRkamlzQkpOTG14ejNZZ0tjNWZpOFIyeHZVdVZiZjBDV3otNWJ4RW95T2J0dGlROFhpQUtpQkJNOXVOcWxqUnMwMGhtbF9rMlkxNExYVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_sdi-2026-05-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Foreign investors bet on Samsung SDI amid battery revival hopes - The Korea News Plus",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fTk4tRVdtVHU2LUk5ektULUhsM1F3M0ZrZXdETDk1NE0wVDkzbVhUZVlpTTVNdlZFMkQ0VUQ4SGJvQ2F4YUpMa3ZtRnFGLUV0TWtzbk1XV0pRMTVyUzg5dFQ1cXFLNGV4ZVhvbXpnX0YwYkNfLW5n?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tesla-2026-05-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Here’s Lucid’s Affordable Crossover Next To A Tesla Model Y",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/796800/lucid-cosmos-tesla-model-y/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "$1,523 to Fuel Toyota C-HR vs. $205 to Energize Kia EV6",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/23/1523-to-fuel-toyota-c-hr-vs-205-to-energize-kia-ev6/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 1
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 255,
+    "too_old": 97,
+    "gate1_blocked": 34,
+    "gate2_blocked": 21,
+    "passed": 29,
+    "pass_rate": "16.0%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "SK On completes BlueOval SK split with Ford - The Korea Herald",
+      "Pilbara Minerals stock (AU000000PLS0): Market position and US exposure - AD HOC NEWS",
+      "Why Is Pilbara Minerals (ASX:PLS) Share Price Falling Today? - Kalkine",
+      "BMW iX3, Rivian R2, Volvo EX60: How Do These Next-Gen Electric SUVs Compare? - Cars.com",
+      "Rivian R2 to Get Amazon Music ‘Soon,’ YouTube Music to Follow - eletric-vehicles.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為特斯拉、三星SDI、Rivian相關動態：「The R2 Will Help Rivian Bridge the Gap With Tesla in Auto...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "The R2 Will Help Rivian Bridge the Gap With Tesla in Autonomous Driving Capab...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Foreign investors bet on Samsung SDI amid battery revival hopes - The Korea N...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

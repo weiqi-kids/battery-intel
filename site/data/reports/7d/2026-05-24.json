@@ -1,0 +1,177 @@
+{
+  "date": "2026-05-24",
+  "date_range": {
+    "start": "2026-05-18",
+    "end": "2026-05-24"
+  },
+  "generated_at": "2026-05-24T09:59:22.540151Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tesla-2026-05-23-026",
+      "date": "2026-05-23",
+      "title": "The 100% Electric VW ID. Polo GTI",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "cathode_material": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 212,
+      "last_week": 192,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.05
+    },
+    "battery_cost": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "ev_sales": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.19
+    },
+    "lithium_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "byd": {
+      "event_count": 20,
+      "sentiment_avg": -0.06,
+      "rank": 2
+    },
+    "lg_energy": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 5
+    },
+    "samsung_sdi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "nio": {
+      "event_count": 22,
+      "sentiment_avg": 0.09,
+      "rank": 1
+    },
+    "tesla": {
+      "event_count": 17,
+      "sentiment_avg": -0.09,
+      "rank": 3
+    },
+    "ganfeng": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "umicore": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "rivian": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "volkswagen": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 9
+    },
+    "sk_on": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 8
+    },
+    "pilbara": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 497,
+        "last": 500,
+        "change_pct": -0.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-18",
+      "event_count": 85,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 97,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 87,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 119,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 76,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 29,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-05-24",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-18 ~ 2026-05-24）共 497 則事件，重點為「The 100% Electric VW ID. Polo GTI」。Pilbara Minerals表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 20 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "LG新能源",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
