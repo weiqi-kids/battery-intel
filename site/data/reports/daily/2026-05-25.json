@@ -1,0 +1,234 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:57:07.153481Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-05-25-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BYD and Tesla battery teardowns show different paths - Dealerfloor",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb2d4alNZRmNpM3V1Q25SdHV3VUtwWHkwRUxpeUNyYXRRN3pLdVRDSGVsNG1rTVNfNnI5bEVNZzg3dERBalhCb0lSenhxWEF1dnpHaHJXTS1BME5GTkhKWk5EUE03SjVvaEtCSjRTY0xwa0xJZHBFd0JKZ1pGemZJU1VCR2FucG1IaVJqdVBPbmNxSllfNnVxWDJPeHo?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-05-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL launches China's first standardized light truck battery swap ecosystem - CnEVPost",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUExuWUxoX0dFOS1jVGdQUTA0NlJOcVVDaU1zcGo4d2JnY2ZzbzRmWl9CRm1vWnktVjFVWGdLT0c1dHg5NkV5ZWdsdXZBNnk5cnduY3NObkwwYTFTNXliYkh2LUs4Qi1UQkhaWUg5ZXJEV2sybWl0SjBzWFRTN0lzcnJickt5Tmt6VGZaVGJJcUpHMXFyVHJWckhLMEVxUFV3RUFrd1NaWGFDNkU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_energy-2026-05-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution Leads AI-Driven Battery Manufacturing - Let's Data Science",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUHFQSDhraE5BM2NmbmR5d09wMlRKTGoxa0pZSC15WElJclA1SGwwYmlIeWtnQVUycnY4dHdBNlFLcGlidGkxblI2bEpudmk1VG15VHVtcDJMcHlvY0FieHpxZUJtWXU4YmVGNHRNSzdhcGxrbGxwUEc1UGstakRPOUZDbkV5M182QXBzaWd5MXB5MEpzMnRxRUZUT2RzOFU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_energy-2026-05-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution leads battery industry's shift to AI-driven manufacturing - The Korea Times",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcExQQ1FhQ0p4eTZlZkdsdkNoMEtLZWJlYjFwYkpGYjdNbTl6dW5IR3NOS0oxaDRDSlBVWndRdHRlQWpTWndrM1pNaEdKT1RqV2hvZWN3ak5oYXFPYUVzZlZhaDVYVXJQUDQwakJzTndIc1p1SjN1VzU2YXk1aXludVpkZWtNUGJfZHFZX1czRmRIUEQ0WG1VWXUyRVVBT3FJaHVOM2FDbWJYcGFhNmpuX2hnbDJxTmVSX3lYUV83MzdiTW0weWh2SUhIZGXSAdIBQVVfeXFMUEFzX0VQZ3pNMkNFaXRfb3JRQk50ZUd4Q0t3VHdOMnd6RVJJTEV5WnVIM3NRZ1dZS3IySVNvZ1ZSVzgxRUd4OVVDblFDUXRCZ2c5RXBQU2szVGh3MDJyeDR3UkRrLUFkZ1lnRV94UDNKNW5wcWQxRXliYnZrdjBlNExKUU1BWUFiQjU2cGVpVjRhWWwyVUxyWl9UdnFfRGo5eXl6eE02NmlpNTB3M1Z5ZzRFdXh4VkpBXzBIOUd3UFVrNkMwcHZLZzhrLVZfSVMtNE9R?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The 21st week of 2026 IR52 Jang Young-sil went to the 'pouch-type battery for high energy density hi.. - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UdGo2Z2tiQWV1VlRPTGdHajVwMXo4TnZIRFc5VzkxRnRraVAzbzFYMFYxVUdxNUlDeFoyNUZrYVhJaHY5WWJOYkUxTQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 26,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 5
+      },
+      {
+        "id": "nio",
+        "count": 5
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "lg_energy",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 237,
+    "too_old": 100,
+    "gate1_blocked": 33,
+    "gate2_blocked": 21,
+    "passed": 43,
+    "pass_rate": "21.8%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "SK On completes BlueOval SK split with Ford - The Korea Herald",
+      "Why Is Pilbara Minerals (ASX:PLS) Share Price Falling Today? - Kalkine",
+      "BYD probed by Hungarian police over suspected environmental rule breach - Automotive News",
+      "BMW iX3, Rivian R2, Volvo EX60: How Do These Next-Gen Electric SUVs Compare? - Cars.com",
+      "Rivian R2 to Get Amazon Music ‘Soon,’ YouTube Music to Follow - eletric-vehicles.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為比亞迪、蔚來、福斯相關動態：「BYD and Tesla battery teardowns show different paths - De...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BYD and Tesla battery teardowns show different paths - Dealerfloor（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "CATL launches China's first standardized light truck battery swap ecosystem -...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

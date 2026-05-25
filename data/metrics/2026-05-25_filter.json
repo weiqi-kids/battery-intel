@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 237,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 33,
+  "gate2_fail": 21,
+  "passed": 43,
+  "gate2_samples": [
+    "SK On completes BlueOval SK split with Ford - The Korea Herald",
+    "Why Is Pilbara Minerals (ASX:PLS) Share Price Falling Today? - Kalkine",
+    "BYD probed by Hungarian police over suspected environmental rule breach - Automotive News",
+    "BMW iX3, Rivian R2, Volvo EX60: How Do These Next-Gen Electric SUVs Compare? - Cars.com",
+    "Rivian R2 to Get Amazon Music ‘Soon,’ YouTube Music to Follow - eletric-vehicles.com"
+  ]
+}
