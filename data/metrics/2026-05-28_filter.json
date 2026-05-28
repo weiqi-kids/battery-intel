@@ -1,0 +1,16 @@
+{
+  "total_raw": 422,
+  "dup_title": 110,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 31,
+  "gate2_fail": 20,
+  "passed": 163,
+  "gate2_samples": [
+    "CATL targets 30,000 swap stations, with Kandi as core equipment supplier - Stock Titan",
+    "SK On completes BlueOval SK split with Ford - The Korea Herald",
+    "BYD Co. Ltd. - Britannica",
+    "US auto safety regulator opens probe into nearly 115,000 Rivian vehicles - Reuters",
+    "Rivian Pushes R2 Canadian Details to 2027, When Deliveries Begin - eletric-vehicles.com"
+  ]
+}

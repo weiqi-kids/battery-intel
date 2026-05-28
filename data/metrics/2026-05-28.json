@@ -1,0 +1,41 @@
+{
+  "date": "2026-05-28",
+  "total_events": 46,
+  "by_company": {
+    "catl": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lg_energy": {
+      "count": 14,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 41,
+      "sentiment_avg": -0.04
+    },
+    "cathode_material": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "battery_cost": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

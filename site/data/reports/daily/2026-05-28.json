@@ -1,0 +1,226 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:42:16.362012Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-28-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Xpeng reports wider Q1 loss but forecasts strong Q2 delivery rebound",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/28/xpeng-q1-2026-earnings/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-28-034",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "RoboSense robotics LiDAR shipments surpass automotive for first time",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/28/robosense-robotics-lidar-shipments-surpass-automotive/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-28-039",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The BLUETTI FridgePower: Real-World Review — UPDATES",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/27/the-bluetti-fridgepower-real-world-review/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-05-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Battery giant CATL unveils world’s largest energy storage testbed in Xiamen, China - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ1JDWTQyNGV1RnZQcU55MGh5NnFGM2IxWVV4TGM5MFl3OWtnREpWeGNoVnhrVUd2MFFEOERlWGJaTjJpZU8tZnBfVWVPR3FfVFlwbXFNZXVDR0s4akFjU0txcUpQaHZFRnltNkg5T1lVbWdSWk0yZ3dxOV9iblAwMHJmVW9fOERXLXh3X1hsSEsyYVJJY05vd1RsenpBSWYwX1hESm9tYjlrUVBJOFk5ZDZiWDlhSTI4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-05-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Kandi Technologies' CATL Partnership a Game-Changer for its Battery Swap Business - Kavout",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaG4tdmoxRXhDZDNnTEp4VUNPM0lNSndBUXdOLURqV2xDblVLVk5BT052NzFNdTYwUWVhY29lYmhYUTQ0dWZ5LUVBTWxMcFhidnN1RDg2RmNpMzNROVQ2c2QxME5BdHVSRmg4d2xCNzBxSS1neEt2Y2NiVVRlbmUxa3FsRHoySUZaa0U2Q3lhM0JkTXZqQVp2UHJWcmNxZU9JS0JaY1UxUGIycUljUkVHckE0QTM2QWJaelE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "battery_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 46,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 40,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "lg_energy",
+        "count": 14
+      },
+      {
+        "id": "nio",
+        "count": 10
+      },
+      {
+        "id": "rivian",
+        "count": 4
+      },
+      {
+        "id": "catl",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 41
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      },
+      {
+        "id": "battery_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 422,
+    "dup_title": 110,
+    "too_old": 98,
+    "gate1_blocked": 31,
+    "gate2_blocked": 20,
+    "passed": 163,
+    "pass_rate": "52.2%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "CATL targets 30,000 swap stations, with Kandi as core equipment supplier - Stock Titan",
+      "SK On completes BlueOval SK split with Ford - The Korea Herald",
+      "BYD Co. Ltd. - Britannica",
+      "US auto safety regulator opens probe into nearly 115,000 Rivian vehicles - Reuters",
+      "Rivian Pushes R2 Canadian Details to 2027, When Deliveries Begin - eletric-vehicles.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 46 則事件，焦點為LG新能源、蔚來、Rivian相關動態：「Xpeng reports wider Q1 loss but forecasts strong Q2 deliv...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Xpeng reports wider Q1 loss but forecasts strong Q2 delivery rebound（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "RoboSense robotics LiDAR shipments surpass automotive for first time（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電池成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
