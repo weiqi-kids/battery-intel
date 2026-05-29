@@ -1,0 +1,202 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:34:00.086815Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rivian-2026-05-29-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rivian R2 matches Tesla Model Y efficiency despite bigger, heavier body - Electrek",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnVlaGZMeVpmZ2diN1ZMWFBJbWQwS29yQlBPWG1mdmJDYjVtYmgzT05lVXQ4d3dvOHdvd0xPTTYtTF9SeEx2S3o0cndCd3RXbDJNWU9PMldBbWhNWUxmNzlRQXF5TVFiRXUxc1IwUzBHRlM3Q1QyaWNYWmpLOHdQRGRhdW8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-05-29-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Volkswagen deepens Rivian bet as lagging EV demand threatens $1.75 billion hit - Yahoo Finance",
+      "companies": [
+        "rivian",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXVpNGtqQkZESUxrdEthcnYteWVKRGhnVHJGUTliNGxNbGxEMEFXcExGai0yZ2xUOUJIOENlTlJURG5LOHYzc2IyblpyYTlJY1o5bDdmSTlueDJFTUZINEhTeVh4QURpR0FZNGZDUXgyNzE2b25mTUQ2eFVuZnZlNnBlMnZzSWVWLUlNZWRZTTlERXd3VVJCTnR1RTJnOUJTMDlsUERfWE9qQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_energy-2026-05-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution's shares surge as much as 16% after landing major US battery storage deal - MSN",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMy16X0ZGYzdjMV9Ld29GZU4tb3FJbUpQWHBBNDNiMUdRQkdaY1BvQ0dKS1hqSy1vSC1pdnVUVWU0MHFxWUEyUXJxMUxMc1lyU1lQYWY1R1pJdjZNM25MRjkyTW12ckRKYkVsR3N1ZDkyU0NUT2VTV3VDb3dYeXM2LV9Hamh4eXUyOFU1cy1xb0RIdTJRdGtqVERDY1VBY1JzUlgwZ05xSngxdV9RRHZESUt0dzAwR3NCcHc3YXJKc3hEYklydnBRX21BQ0hlM1pNOHBZX0ZkZHdUM0st?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_energy-2026-05-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution to supply ESS batteries to U.S. DTE Energy - 매일경제",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KYjlYTXVVSXNlQmJqejJpbUgzai02cVk5eVRJTmZ6eWphX2Z4cXNhbV8taGlKSHhXUXFNQkY0UjZTVTFpcGV1cUlmYm5LX2lhbEdFN2lBbw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Midcap Stocks (ASX:PLS, ASX:MIN, ASX:IGO) Driving ASX 200 Battery Metals Momentum? - Kalkine Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFRBcWQtaFhOQkhBZlNveDhlR0hvc1k1NDRHcHJLbEVMZjQ1bThJOVVmVDRqQmR3REVuZjFVTUJjazUwNENqeUZtV29KWkVQaklJbE5iWlhwaFBmUFctZmJfNnVyWW43dXotYlFtdnNXblNIYVNzSjVDVzZJdzQzS1puM3NoQmRiU1BtMHd0ckYyY1ZLbC1HZXZjanVQMmpLU3hveFZ5OHdEVE8yOVhZZVJ1UDZKaWxSZl9J?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 36,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 9
+      },
+      {
+        "id": "tesla",
+        "count": 6
+      },
+      {
+        "id": "rivian",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "lg_energy",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 41
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 164,
+    "too_old": 83,
+    "gate1_blocked": 29,
+    "gate2_blocked": 20,
+    "passed": 110,
+    "pass_rate": "45.5%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "CATL raises another 5 billion yuan to fuel growth - Gasgoo",
+      "BYD Co. Ltd. - Britannica",
+      "BYD's new Great Han, with 621-mile range and a 5-minute charge, spotted ahead of debut - Yahoo Autos",
+      "US auto safety regulator opens probe into nearly 115,000 Rivian vehicles - Reuters",
+      "Rivian will deliver the first R2 SUVs on June 9 - TechCrunch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為蔚來、特斯拉、Rivian相關動態：「Rivian R2 matches Tesla Model Y efficiency despite bigger...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rivian R2 matches Tesla Model Y efficiency despite bigger, heavier body - Ele...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Volkswagen deepens Rivian bet as lagging EV demand threatens $1.75 billion hi...（電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

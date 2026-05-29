@@ -1,0 +1,16 @@
+{
+  "total_raw": 406,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 29,
+  "gate2_fail": 20,
+  "passed": 110,
+  "gate2_samples": [
+    "CATL raises another 5 billion yuan to fuel growth - Gasgoo",
+    "BYD Co. Ltd. - Britannica",
+    "BYD's new Great Han, with 621-mile range and a 5-minute charge, spotted ahead of debut - Yahoo Autos",
+    "US auto safety regulator opens probe into nearly 115,000 Rivian vehicles - Reuters",
+    "Rivian will deliver the first R2 SUVs on June 9 - TechCrunch"
+  ]
+}
