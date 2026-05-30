@@ -1,0 +1,174 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T10:04:23.090307Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-05-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL to mass-produce Sodium-Ion Batteries in 2026, targets 600 km range - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcVNNSWRQMHFOXzlyVWZxTFlObWs0TlduMENVY29vanozejQ5VnNmZ2VBRzQtOGVIRGdlcmxBaHpUcERwMWlYOThLN1ZMc1djZDVOSkNWcjVDb3hQZ2l1ZlMycTVaclAteURqQjFuTXNCc1h4Z0RfVWE5WHpqR2lCeERZSUJteVlrdmdiakI1bkJIVkJWMS00Y3N3QmJRSENYOEd6VlBTdjVmM3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Seres to launch new auto brand in June with ByteDance involvement, report says",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/05/30/seres-to-launch-new-auto-brand-in-june/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Buick Electra L7 BEV Looks Awesome — But Only For China",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/29/the-buick-electra-l7-bev-looks-awesome-but-only-for-china/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How the Industrial Accelerator Act Can Help Avoid More Battery Factories Going Bust",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/29/how-the-industrial-accelerator-act-can-help-avoid-more-battery-factories-going-bust/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-30-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lessons from the solar frontier",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/30/lessons-from-the-solar-frontier-2/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 226,
+    "too_old": 98,
+    "gate1_blocked": 28,
+    "gate2_blocked": 19,
+    "passed": 54,
+    "pass_rate": "27.1%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "CATL raises another 5 billion yuan to fuel growth - Gasgoo",
+      "BYD's new Great Han, with 621-mile range and a 5-minute charge, spotted ahead of debut - Yahoo Autos",
+      "Want to try the Rivian R2? Here's how you can secure a test drive - USA Today",
+      "US auto safety regulator opens probe into nearly 115,000 Rivian vehicles - Reuters",
+      "Rivian Wants to Model Special Color Releases After ‘Sneaker Drops’ - The Drive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為寧德時代相關動態：「CATL to mass-produce Sodium-Ion Batteries in 2026, target...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "CATL to mass-produce Sodium-Ion Batteries in 2026, targets 600 km range - Car...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Seres to launch new auto brand in June with ByteDance involvement, report says（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

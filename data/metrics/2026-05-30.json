@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-30",
+  "total_events": 8,
+  "by_company": {
+    "catl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 8,
+      "sentiment_avg": -0.06
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

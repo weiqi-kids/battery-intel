@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 226,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 28,
+  "gate2_fail": 19,
+  "passed": 54,
+  "gate2_samples": [
+    "CATL raises another 5 billion yuan to fuel growth - Gasgoo",
+    "BYD's new Great Han, with 621-mile range and a 5-minute charge, spotted ahead of debut - Yahoo Autos",
+    "Want to try the Rivian R2? Here's how you can secure a test drive - USA Today",
+    "US auto safety regulator opens probe into nearly 115,000 Rivian vehicles - Reuters",
+    "Rivian Wants to Model Special Color Releases After ‘Sneaker Drops’ - The Drive"
+  ]
+}
