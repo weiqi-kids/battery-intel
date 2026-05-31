@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 243,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 30,
+  "gate2_fail": 19,
+  "passed": 28,
+  "gate2_samples": [
+    "BYD's new Great Han, with 621-mile range and a 5-minute charge, spotted ahead of debut - Yahoo Autos",
+    "Want to try the Rivian R2? Here's how you can secure a test drive - USA Today",
+    "US auto safety regulator opens probe into nearly 115,000 Rivian vehicles - Reuters",
+    "Rivian Wants to Model Special Color Releases After ‘Sneaker Drops’ - The Drive",
+    "Rivian under investigation over rear suspension failures on R1 models - TechCrunch"
+  ]
+}

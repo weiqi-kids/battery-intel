@@ -1,5 +1,101 @@
 [
   {
+    "id": "ganfeng-2026-05-31-001",
+    "date": "2026-05-31",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Macquarie lifts Li Auto rating as Ganfeng claims battery leap - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbV9HenBiaXNnYUZDWWFoZVViNV9uZXhkUEw4TjAzX0RHMEJpVkYwSFZOczRDa0oxWGwxbXh4NzJGbURuZXJfRUlrazV4UjhQcnZscnVUem9wSDFRV2pobmFyVnpCbWMteFliTFBiWD",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbV9HenBiaXNnYUZDWWFoZVViNV9uZXhkUEw4TjAzX0RHMEJpVkYwSFZOczRDa0oxWGwxbXh4NzJGbURuZXJfRUlrazV4UjhQcnZscnVUem9wSDFRV2pobmFyVnpCbWMteFliTFBiWDRGOHpmMWx6ZktGeDV2SG53NkRwbmtDYkQwZFNUZkFVOVk3ZkFsZ2szTW80TWRteGZGMmZpbkFZTUluYTUyZUpIU3lFVTlFYU9VUjNXQXdXSGlTRzR5ZFVieUZfRlNVM1N2SkdxWW5B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-05-31-002",
+    "date": "2026-05-31",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rivian R1S Rear-Ended by Audi A4 at Roughly 35 MPH Leaves Owner Impressed With Rivian’s Crash Protection - Torque News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGxJb1BvYzRFT1N6ZFJFa254X0pNOThNRWlIN1BFRTJfREJYTG01bk0yUWlkTmlLTjNaOGdKZlZORFlrU0JkeXYzWlo3N1pfZFByVVpmOUhfcmFnYktnbmo2VjBxMTU3dVlKYVNfQU",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGxJb1BvYzRFT1N6ZFJFa254X0pNOThNRWlIN1BFRTJfREJYTG01bk0yUWlkTmlLTjNaOGdKZlZORFlrU0JkeXYzWlo3N1pfZFByVVpmOUhfcmFnYktnbmo2VjBxMTU3dVlKYVNfQUpMUzNIdE5nZ2JrRDBLWG1nckRmUV9XRDdXcTEtQ1IzWXZXU0dZOURUX1FRY1FfZDJnY0k5RWthZGgwN1NwQXBES2FvQnlTMks4eFcxWXl0Q09hR00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-003",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Onvo L60 Is Revamped, And This $29,950 Electric SUV Just Became One of the Smartest Buys in China’s Crowded EV Market - Torque News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNUHlkNlNfMVQtdVZKb0lsVTNRZWdudFl4dHFuYjNhUWtFbnVtTVVoTmNRZ0ZPRXR1c1BpejNYMXJFSTFiRGpST0hDV3gyRlJEZjlTdzNaUTZ0OVhVRkZwd3hWLUVDSDVQa2R2REZ2WV",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUHlkNlNfMVQtdVZKb0lsVTNRZWdudFl4dHFuYjNhUWtFbnVtTVVoTmNRZ0ZPRXR1c1BpejNYMXJFSTFiRGpST0hDV3gyRlJEZjlTdzNaUTZ0OVhVRkZwd3hWLUVDSDVQa2R2REZ2WVdVdVIwY1VPZ0EtemtfSGdtN0EtSTJvaDlONFZpMEdlMk85aEFycnE1YWY4aGhsVXZacWVNTnlQaFY2NHFMbVlkZzQ3SkJsZ2pabmNNY2lB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-31-004",
+    "date": "2026-05-31",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EV charging patent from Elektros draws review by Volkswagen lawyers - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVG9ZM05FdV9xM3dBRmdkQ09qa0JFbGpoVUhtbVFyUW1ZSnEyalBiVS1WYVN2dDBrLUFIMllvd0FjdGZkelp0VGQyUVFVOWVkVXMxNFUxZTdjQjk1RHJKQUlyUWJoVjVmTy12YmpaQ2",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVG9ZM05FdV9xM3dBRmdkQ09qa0JFbGpoVUhtbVFyUW1ZSnEyalBiVS1WYVN2dDBrLUFIMllvd0FjdGZkelp0VGQyUVFVOWVkVXMxNFUxZTdjQjk1RHJKQUlyUWJoVjVmTy12YmpaQ2k3dVN5aUQ0cnNXNEtoSEVDd3BQSThqRWVORFd6M0I4elhOZHdOV1dqRkpxYzRmbkZkcWd5bkpRcXRScjNFa2l5aWZIZzd3Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-31-005",
+    "date": "2026-05-31",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen lawyers to review Elektros' multi-port EV charging patent - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWhON290MlNBTjZkcGozelc0Q0xzN3d6UXpHSVdiMVFNNzZIZ3YwODBQT0hJcVVHaTN6dkFEODFMT3MtNml0QVdHN0c5cDBQa0s5Mjk3dWIyeVZ4LWNFZEgwMzZ6YTVOTGVzeUJUMk",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWhON290MlNBTjZkcGozelc0Q0xzN3d6UXpHSVdiMVFNNzZIZ3YwODBQT0hJcVVHaTN6dkFEODFMT3MtNml0QVdHN0c5cDBQa0s5Mjk3dWIyeVZ4LWNFZEgwMzZ6YTVOTGVzeUJUMkdfWk0tdWRRRkVMNm5sTEl6N0tyVTlOMjhDMVpRazNkRzJROUJyb1lHNjBfRUFFOVFmVUNaOVpWWVM0WEdTT0VNWjRFQTR2Q0lEekE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-05-30-001",
     "date": "2026-05-30",
     "companies": [
@@ -141,6 +237,286 @@
       {
         "name": "pv_magazine",
         "url": "https://www.pv-magazine.com/2026/05/30/inauguran-en-chile-una-planta-hibrida-con-231-mwp-solares-y-un-bess-de-200-mw-13-gwh/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-05-30-009",
+    "date": "2026-05-30",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Has SQM Turned the Corner After Its Q4 2025 Earnings Report - Kavout",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXF2Wl9HbFltLVRBZk1IVXZVYzg2RVJyWG5xaUJMcmtzRU9BR1BFMm1qcDBGaE5lR0hCcEZpZ2s3eHA3MFF5YWpYdWh4WndOeHc5bHhmSDVZbGtmQnVCUnlUZC1fX1VDMTlMN1JfcH",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXF2Wl9HbFltLVRBZk1IVXZVYzg2RVJyWG5xaUJMcmtzRU9BR1BFMm1qcDBGaE5lR0hCcEZpZ2s3eHA3MFF5YWpYdWh4WndOeHc5bHhmSDVZbGtmQnVCUnlUZC1fX1VDMTlMN1JfcHVWSzZuYzktUzlQd1hDdWIxRjdfdG1Za0hfdVc3dktsc05ybm1LeXdHWDF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-05-30-010",
+    "date": "2026-05-30",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GM has Rivian R2 Fighters on the Drawing Board in the HUMMER X Mid-Size Concepts but Isn't Sure It Will Build Them - Torque News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPempidWNha3NhQndydTdSZXd2RUlOVXE2cjNuYkQyYm03c3lFNWFQSE94c0Z1aFBleEJqWTNvcDhuSS1fRTdEU01zamg0NUlDZ0stN0dDX01uYWJ5VFM1MUpuYkN3V2ZJcVRWbDJVQk",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPempidWNha3NhQndydTdSZXd2RUlOVXE2cjNuYkQyYm03c3lFNWFQSE94c0Z1aFBleEJqWTNvcDhuSS1fRTdEU01zamg0NUlDZ0stN0dDX01uYWJ5VFM1MUpuYkN3V2ZJcVRWbDJVQk9WRHZDNl9uYThkU3VjRzBDeXVLUzZiWHJnalU4cTZpcGNvZXBMSE9xVFFuLXBYbWZwTGpUWDd0dFJwVEY0T2l3aWdaVERpTXIzOEdnRUp5b20?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-05-30-011",
+    "date": "2026-05-30",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio's Battery Swap Network Just Delivered 16% of All EV Energy in China in 5 Days. Is the Market Sleeping on This? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNYmpYNkF0OGdQcW0yMnJIV210OWVHU0tBZWFtSzc2TVpZc1Q3VmJyUmwtRWVmN2oxbHNhWkUxWGlYREtDdDZjS2pPdjlxZV9mQ090WHoyVVlCSHV4ZWYxRnVrd1pMclV1TzAyNkJJNE",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYmpYNkF0OGdQcW0yMnJIV210OWVHU0tBZWFtSzc2TVpZc1Q3VmJyUmwtRWVmN2oxbHNhWkUxWGlYREtDdDZjS2pPdjlxZV9mQ090WHoyVVlCSHV4ZWYxRnVrd1pMclV1TzAyNkJJNENnejJvdk5kOC10R0IyZVZhZ1ZvT3ItRXo3YjZpag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-05-30-012",
+    "date": "2026-05-30",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio's Battery Swap Network Just Delivered 16% of All EV Energy in China in 5 Days. Is the Market Sleeping on This? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNSjBMQ0ZaWVBOS3V3R2FCTmpvYS02ejRyRXlqVmpVcEQxRERLMy1nRXV6cHlyOUxIREtnWjJ4VGRPU3QtV2N1bFZGbWxPdmdGaFBXcWRVR21qMms4VFlLSmlZRDBwaWp2M2s3OEs2TU",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSjBMQ0ZaWVBOS3V3R2FCTmpvYS02ejRyRXlqVmpVcEQxRERLMy1nRXV6cHlyOUxIREtnWjJ4VGRPU3QtV2N1bFZGbWxPdmdGaFBXcWRVR21qMms4VFlLSmlZRDBwaWp2M2s3OEs2TURjUmxDSlBlZ2xpUUEzSnJ6RXpKZ0M4cEw4UVBKRklrbTVTMU5KZnQ3dS1yZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-30-013",
+    "date": "2026-05-30",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Sub-$20,000 Volkswagen ID.4 Proves Used EVs Are The Ultimate Bargain - InsideEVs",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5SWXl1bEc4Z1dlZlQ5VlpsQmpVOWsyZG9ZMWZjeFRBcUYxY2h5ek04VmptQ2pMVUEyMFZicVFaWVI1dDNiYkFuRzRBR210c0t0YnVIOEZtczRKMEVtem1wQ2hSLWRJd0xNNnRmb0ZneW",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SWXl1bEc4Z1dlZlQ5VlpsQmpVOWsyZG9ZMWZjeFRBcUYxY2h5ek04VmptQ2pMVUEyMFZicVFaWVI1dDNiYkFuRzRBR210c0t0YnVIOEZtczRKMEVtem1wQ2hSLWRJd0xNNnRmb0ZneWJUU3VvR3AydDlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-30-014",
+    "date": "2026-05-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla’s ‘Full Self-Driving’ fraud lawsuit gets first hearing in China — 10 owners seek $583K",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>A Beijing cou",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/30/tesla-fsd-china-lawsuit-first-hearing-10-owners/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-015",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CT keeps home solar incentive alive through 2035, batteries are the big winners",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/gm-solar_MAIN.jpg?quality=82&#038;strip=all&#038;w=1498\" /></div><p>A new bill extending home and community sol",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/30/ct-keeps-home-solar-incentive-alive-through-2035-batteries-are-the-big-winners/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-016",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tourists can experience Athabasca Glacier in this first-ever ELECTRIC Ice Explorer [video]",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/ev-on-ice.png?w=1600\" /></div><p>Built to allow up to 52 guests to explore the frozen wilderness of Alberta’s J",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/30/tourists-can-experience-athabasca-glacier-in-this-first-ever-electric-ice-explorer-video/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-05-30-017",
+    "date": "2026-05-30",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Sub-$20,000 Volkswagen ID.4 Proves Used EVs Are The Ultimate Bargain",
+    "summary": "“It has been an incredible vehicle for the money,” the new owner said after putting 10,000 miles in five months. But there was one problem.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/797303/used-vw-id4-ev-bargain-owner-review/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-30-018",
+    "date": "2026-05-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla Full Self-Driving expansion in Europe continues with new addition",
+    "summary": "<p>Tesla Full Self-Driving (Supervised) has taken yet another significant step forward in Europe. On May 29, Estonia became the third European Union country to approve the advanced driver-assistance t",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-full-self-driving-expansion-europe-continues-new-addition/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-019",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California — Lowest Wholesale Electricity Prices in USA",
+    "summary": "<p>Solar power has grown to enormous levels in California, and that solar power is keeping wholesale prices low. Wind power, water power, and solar power all mean free fuel, and free fuel means low wh",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/30/california-lowest-wholesale-electricity-prices-in-usa/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-020",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Sold More Plugin Vehicles in 2025 Than the USA Bought Vehicles of All Types!",
+    "summary": "<p>I read through hundreds if not thousands of comments every week, and sometimes our highly intelligent, tremendously informed readers share information that really makes my eyes pop. Once in a while",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/30/china-sold-more-plugin-vehicles-in-2025-than-the-usa-bought-vehicles-of-all-types/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-021",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Giant Data Center In New Mexico Will Be Powered By Fuel Cells",
+    "summary": "<p>People in southeast New Mexico are concerned about a data center that will add 10 million tons of carbon emissions to the air.</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/05/30/giant-da",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/30/giant-data-center-in-new-mexico-will-be-powered-by-fuel-cells/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-30-022",
+    "date": "2026-05-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is SpaceX & Tesla 100-Gigawatt/Year US Solar System Production Plan Realistic?",
+    "summary": "<p>Elon Musk says that he wants SpaceX and Tesla teams to work together to build 100 gigawatts of solar power manufacturing capacity in the US — cells and modules. And he wants to do that within three",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/30/is-spacex-tesla-100-gigawatt-year-us-solar-system-production-plan-realistic/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-023",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Global Floating Wind Industry Flexes Its Muscles (Including California, Too)",
+    "summary": "<p>With many gigawatts' worth of wind power surging along the West Coast, California is forging new ties with the global floating wind industry.</p>\n<p>The post <a href=\"https://cleantechnica.com/2026",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/30/floating-offshore-wind-us-california-global-norway-japan/",
         "type": "rss"
       }
     ]
@@ -1667,6 +2043,82 @@
       {
         "name": "renewableenergyw",
         "url": "https://www.renewableenergyworld.com/energy-storage/battery/nextpower-acquires-prevalon-energy-enters-battery-energy-storage-space/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-05-29-081",
+    "date": "2026-05-29",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy Solution Vertech to Supply Battery Storage Systems to DTE Energy in Michigan - battery-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOW4tYXRNSi1QMVY5SGJhRFZJU3E3Y216WmNMdHh5N0xZQklKazJwNVNjY0J5MFpiNTdaNnd2eFFDU0Fja2ppeXhRa3AwM21LekZhbVBXU3J5N21BTWtZV05VQ1pJLUdTOGIwa3AwTH",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOW4tYXRNSi1QMVY5SGJhRFZJU3E3Y216WmNMdHh5N0xZQklKazJwNVNjY0J5MFpiNTdaNnd2eFFDU0Fja2ppeXhRa3AwM21LekZhbVBXU3J5N21BTWtZV05VQ1pJLUdTOGIwa3AwTHJDOEc5Y3o3bFp3dWR5ckU2NTk1QVo1WVRnQU9kbEdLX0FobUpZdjlKbG1uWV83bkgyM2Q3SVkxdUU0VEIybjUwb0g0aFlaX203RURFRWYtUG1VVHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ganfeng-2026-05-29-082",
+    "date": "2026-05-29",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Ganfeng Lithium Co., Ltd. (01772.HK) received an increase of 855,100 shares from JPMorgan. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2RXX0U4UXNWaDFqU0NGbHUwQk8xTkdvRFJqcGNEMFRSV3A3X3lzclVDV1RfZmJVMWRySDF1cjMtQVhCZ2tXTW9lMGhydDQ3M01NQ0FFakN5ZDFaVVNEdFE2a0xlS21xSFpER0puck",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2RXX0U4UXNWaDFqU0NGbHUwQk8xTkdvRFJqcGNEMFRSV3A3X3lzclVDV1RfZmJVMWRySDF1cjMtQVhCZ2tXTW9lMGhydDQ3M01NQ0FFakN5ZDFaVVNEdFE2a0xlS21xSFpER0puckNQQjJNT0VrN3gwU1dCTEhrNTBEelFwLWgxYUxPN0h5bEpLcFJ1eUxKXzVCLWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-083",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How China's superfast charging cars are leaving American EVs in the dust | On Point with Meghna Chakrabarti - WBUR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWdzcWNLZ242VTF3TWJGWHdHbjRNT3E0UTU3cExnaGU1SC1UNFV5Q1JiMG9LYk40Q3dYRXBYVEdkMkdOVnZhN0ttUkVJRmkwdFJMeGdtV0t2NHJMaXoxVGJzZXduNFk1TnZqZ19OS1",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWdzcWNLZ242VTF3TWJGWHdHbjRNT3E0UTU3cExnaGU1SC1UNFV5Q1JiMG9LYk40Q3dYRXBYVEdkMkdOVnZhN0ttUkVJRmkwdFJMeGdtV0t2NHJMaXoxVGJzZXduNFk1TnZqZ19OS1JEMEFKd0lPWnhFUFlMRHAxYTBOXy1PbDBkakZwZzlXMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-084",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Orders For Slate’s Sub-$30K Bare-Bones EV Truck Finally Open On  June 24—But There’s A Catch",
+    "summary": "The company is taking $300 non-refundable deposits to secure a place in line for the first finished vehicles.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/797274/slate-ev-truck-preorder-price/",
         "type": "rss"
       }
     ]
@@ -3868,6 +4320,64 @@
       {
         "name": "google_news_lithium",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXctSWtUTUxSbU04V25reGZURF9zNURfWFFGQi1pSi0yMkhyVUZ2d1ZUUHl3LWREVGVza21nTEdLaWNSUWNSLUUyZ2FNM0M1ZmVEeDJfNFBmRnoxenl4TUYyTzY2Z3ZfN3pLa3JXM0pVb0F0UmFwUEYyWlJLZXNtSGVwSVRUclM0Rk5IcHRB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-05-28-116",
+    "date": "2026-05-28",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian Faces US Probe Over Part Issue Causing EVs to Swerve - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQYWlaYXZ3b0FRVk51dzZlZUdrRDVrak1tM3U3S2NybjNKaEdXNmNINVBJQjVZeXRHQnE4VGd5S3lnVWQtWTEycG9PbHdTc1dOUEJCV0daQnozM1AtbWg2bmVzY0J3S3BhUHplcGZINU",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYWlaYXZ3b0FRVk51dzZlZUdrRDVrak1tM3U3S2NybjNKaEdXNmNINVBJQjVZeXRHQnE4VGd5S3lnVWQtWTEycG9PbHdTc1dOUEJCV0daQnozM1AtbWg2bmVzY0J3S3BhUHplcGZINUtXLXFNWUFraVQwT0dFRGN0WGNMbmRRNGJSMXF2QkxYMVE3b1A0Rk45d0tuRy1nWEUwM3RDRUYteDNmX09ZLWR0cEdYNVBYUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-05-28-117",
+    "date": "2026-05-28",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rivian is setting June 9 as the first delivery date for its R2 electric SUV - qz.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4xT1Zob0hCT2JMbk12NWJJLVBnN3NYMU1lblFyNDFaT0w3czg2akh3VlBGTjl1V0RWS3VjVGp1Tkl6eHBzb2NFSk5lXy15azEySzRpSmhlV2I5YnlzWTQ5dmZkOENQOERmRTJ2OUNHSW",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xT1Zob0hCT2JMbk12NWJJLVBnN3NYMU1lblFyNDFaT0w3czg2akh3VlBGTjl1V0RWS3VjVGp1Tkl6eHBzb2NFSk5lXy15azEySzRpSmhlV2I5YnlzWTQ5dmZkOENQOERmRTJ2OUNHSWczLUJ4UjdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-05-28-118",
+    "date": "2026-05-28",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio Shares Surge After Launch of China’s Biggest Electric SUV - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPTFQ1WDZra0RGTFR4VFl3QVpjNHIzSTdNd1BEOVhOcE5faXFEejBObDVfWXJkVkxZZ2hXUktyMWVJUVhyYUVyQ2ZZbFh2azItRExEZHd6Z205Ml9wcXZBVURzMzhmLUQ0dmNhSlZEa2",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTFQ1WDZra0RGTFR4VFl3QVpjNHIzSTdNd1BEOVhOcE5faXFEejBObDVfWXJkVkxZZ2hXUktyMWVJUVhyYUVyQ2ZZbFh2azItRExEZHd6Z205Ml9wcXZBVURzMzhmLUQ0dmNhSlZEa21DQUY3dV9LYnRQaDFrNzNJMi1tczlSczNHX0w3YXlnWGdjeVlWVzhwdkxTUGpfTkhOWHU5ZXZuOXNNZHNsU0ptbG13?oc=5",
         "type": "rss"
       }
     ]
@@ -6737,6 +7247,26 @@
       {
         "name": "byd",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaUtMYlRnRE1yS2o2c0labDJsTHFsakhJT1JhcHhjTlJ0MVBpRWd2NXhhUXdmWHJyaVc4RE40eVpnYW1pb29qeGtMc3k2UW16ZS1DZmF2Tm0wVXNtWnhRMW5CcDh0MDNRWjA5WklFNDM2NHd0d0JaWW9OZ0JEaU5kcTFGMUhLcEk5MEFzNkczQVBSeVJIcW5rSWI5M283QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pilbara-2026-05-25-040",
+    "date": "2026-05-25",
+    "companies": [
+      "pilbara"
+    ],
+    "topics": [
+      "cathode_material"
+    ],
+    "impact": "neutral",
+    "title": "Pilbara Minerals shares race higher on big news - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNEEyYlREbEFPUDdXQzV4ZmlJNUFGQktLNU9xaE9OV1FUa3h6OFJVNHFKazczVlc4czRBZm5PeWRzYnlfamc1dGlkT01ERTJuMmRNcmVjZl9mck9kSUoxc2FSQTNKZkxLMDZ0M2JVR0",
+    "sources": [
+      {
+        "name": "pilbara",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNEEyYlREbEFPUDdXQzV4ZmlJNUFGQktLNU9xaE9OV1FUa3h6OFJVNHFKazczVlc4czRBZm5PeWRzYnlfamc1dGlkT01ERTJuMmRNcmVjZl9mck9kSUoxc2FSQTNKZkxLMDZ0M2JVR0x5dngzSktsWmE5WjFxZkVrYmxzal9PclJDTkxXQndQREpXVERnU3ZfTDBhaXJNc1EtdXdiVVBTZnZ6WGZVUHcyYU1VcFFyOWthN2RWM0xSZXU3MEIwd3JHY2hvNnRIVUh0R3VwVVlxU3BGVEJJeXRrQW13NTRpUVI4QW1wOTBUMGJhZ0VWZUU4VXJDSlVYSVlaSU5QbUhrcFVqdVZJd05JWVNaT19jN3k3cnVYV2d5aHNrbEwtZ3RQbEhHRjNuWEJiNWFxbzg1Z2o?oc=5",
         "type": "rss"
       }
     ]

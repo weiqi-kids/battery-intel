@@ -1,0 +1,163 @@
+{
+  "date": "2026-05-31",
+  "date_range": {
+    "start": "2026-05-25",
+    "end": "2026-05-31"
+  },
+  "generated_at": "2026-05-31T10:19:40.665066Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tesla-2026-05-25-010",
+      "date": "2026-05-25",
+      "title": "BYD and Tesla battery teardowns show different paths - Dealerfloor",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nio",
+      "company_b": "rivian",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 122,
+      "last_week": 212,
+      "week_over_week_change": "-42%",
+      "sentiment_this_week": -0.01
+    },
+    "ev_sales": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "cathode_material": {
+      "this_week": 2,
+      "last_week": 5,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.25
+    },
+    "battery_cost": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "lg_energy": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "ganfeng": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "pilbara": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "byd": {
+      "event_count": 8,
+      "sentiment_avg": -0.0,
+      "rank": 4
+    },
+    "tesla": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nio": {
+      "event_count": 24,
+      "sentiment_avg": -0.0,
+      "rank": 1
+    },
+    "volkswagen": {
+      "event_count": 6,
+      "sentiment_avg": 0.09,
+      "rank": 6
+    },
+    "rivian": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 381,
+        "last": 514,
+        "change_pct": -25.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-25",
+      "event_count": 40,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-26",
+      "event_count": 51,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-27",
+      "event_count": 60,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-28",
+      "event_count": 118,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-05-29",
+      "event_count": 84,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-05-30",
+      "event_count": 23,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-25 ~ 2026-05-31）共 381 則事件，重點為「BYD and Tesla battery teardowns show different ...」。電池產業通用、正極材料、電動車銷量為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LG新能源",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
