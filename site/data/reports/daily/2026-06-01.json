@@ -1,0 +1,226 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:41:22.796799Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-06-01-024",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BYD will pay for crashes on its FSD competitor, something Tesla never has",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/06/01/byd-gods-eye-accepts-liability-tesla-never-has/"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-06-01-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "NIO Delivers Record 37,705 EVs in May 2026 as ONVO L80 and ES9 Boost Growth - Electric Cars Report",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdS1NbXJLeGdVNGYtc0plRUdWenZYcjEtUHZ1X0o1STFpZzZlelY3akdHV3JvVmhxbWwzYkk1Tkpld25TbUt2TUZqLXhlZ29yekxzNnBZSElnOFJBWE14Q0I5dDZzWENYbzk3aEk5U2txM3FVM2UzSkY0WHpuczlWeDhhWEx1N3pncEI5NHVZSEYwNzN0MjlUNUlLV3RkSEJuQndaUGp3WVVQZVVRcDN4em1yMnQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "byd-2026-06-01-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BYD's May sales end 8-month decline as overseas volume surges",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/06/01/byd-may-2026-sales/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-01-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Geely's May sales edge up as exports hit another record",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/06/01/geely-may-2026-sales-edge-up-exports-record/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-01-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Zeekr's May deliveries hit record high as premium models drive growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://cnevpost.com/2026/06/01/zeekrs-may-2026-deliveries/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 44,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 46,
+    "sentiment_distribution": {
+      "positive": 12,
+      "neutral": 30,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 14
+      },
+      {
+        "id": "catl",
+        "count": 9
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 44
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 216,
+    "too_old": 102,
+    "gate1_blocked": 30,
+    "gate2_blocked": 19,
+    "passed": 60,
+    "pass_rate": "28.4%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "CATL Accelerates Construction of Choco-Swap Stations, Exceeding 3,000 in 2026 - Gasgoo",
+      "Rivian R2 Is Imminent: How It Stacks Up Against The Tesla Model Y - Forbes",
+      "Want to try the Rivian R2? Here's how you can secure a test drive - USA Today",
+      "Rivian R2 Matches Tesla Model Y Efficiency Despite Heavier Build - eletric-vehicles.com",
+      "Rivian under investigation over rear suspension failures on R1 models - TechCrunch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 46 則事件，焦點為蔚來、寧德時代、比亞迪相關動態：「BYD will pay for crashes on its FSD competitor, something...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BYD will pay for crashes on its FSD competitor, something Tesla never has（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "NIO Delivers Record 37,705 EVs in May 2026 as ONVO L80 and ES9 Boost Growth -...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

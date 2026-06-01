@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-01",
+  "total_events": 46,
+  "by_company": {
+    "catl": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    },
+    "nio": {
+      "count": 14,
+      "sentiment_avg": 0.09
+    },
+    "volkswagen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 44,
+      "sentiment_avg": 0.11
+    },
+    "ev_sales": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
