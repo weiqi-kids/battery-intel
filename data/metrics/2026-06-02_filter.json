@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 27,
+  "gate2_fail": 24,
+  "passed": 81,
+  "gate2_samples": [
+    "CATL Accelerates Construction of Choco-Swap Stations, Exceeding 3,000 in 2026 - Gasgoo",
+    "Pilbara Minerals Ltd stock (AU000000PLS0): shares edge higher on ASX ahead of next quarterly update ",
+    "Rivian R2 Is Imminent: How It Stacks Up Against The Tesla Model Y - Forbes",
+    "US auto safety regulator opens probe into nearly 115,000 Rivian vehicles - Reuters",
+    "The new Rivian R2 electric SUV on GTU before world debut in Utah - ABC4 Utah"
+  ]
+}

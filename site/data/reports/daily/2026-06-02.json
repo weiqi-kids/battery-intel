@@ -1,0 +1,260 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T12:08:33.548541Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-06-02-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Global EV battery market share in January-April 2026: CATL 40.1%, BYD 14.2% - CnEVPost",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1Z2a1RvZkxkcE9maHk2Q0F1RnpSWC1hdkZvVnhpYkRxbjJ6cjJmWVJDblRCV2hReFFLYVpYVE1fNEFwQy1raWVUUWctWUtoWmpfWktJZUs4eU1pMzdTWnEtZEhvNThtcjRTZjNieUg3VTk2Y2VJd2RTVnlhdFU1Y3pB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sk_on-2026-06-02-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "EVE Energy ends six-year partnership with SK On - digitimes",
+      "companies": [
+        "sk_on",
+        "eve"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0oyV3lqTmxHSmhBNWJDdmdZTFk4T0lsMFpuTVpWOG14cHVxSXFxS291ekxXcFFmektJUmloT09TX0J4SVJOdTdyemVvU29mSnJzYWE5ZEgyV2xnaWtBSmJ2VjdLV3FGb2VDcS1jbzhMSzlyWjRGQm4wQkFzMDlTTHJnbXd4MWY1a1hLM2VoZjNnWTFhS1Y2QnFHUVN2NUNyLXFR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "volkswagen-2026-06-02-016",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Tesla leads Norway sales as Toyota, Volkswagen follow in EV-heavy market - Latest news from Azerbaijan",
+      "companies": [
+        "volkswagen",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3diS2lSVmpMSTk1T29tZjhya0JtTVNVa0wzOE1YalJfekxRMm9OV2xORjliNTRuYmJmOWJySUNNcUJMSlBFS3ZfZ0ZuOF9Va2RpWXRUTElNOXo5MTJ4dmFGMnc5MTBfeWVtc29XLVZ6R0JDMFZvZEFFc3dLNUl5bHNaSE5EcjIyUXk0a05IQ1hwaE1PMEVZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "byd-2026-06-02-023",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Global EV battery market share in January-April 2026: CATL 40.1%, BYD 14.2%",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/06/02/global-ev-battery-market-share-jan-apr-2026/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-02-030",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Australia: Queensland BESS fleet pushes state to 79.5% renewables-plus-storage share",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.energy-storage.news/australia-queensland-bess-fleet-pushes-state-to-79-5-renewables-plus-storage-share/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 35,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "nio",
+        "count": 3
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 200,
+    "too_old": 95,
+    "gate1_blocked": 27,
+    "gate2_blocked": 24,
+    "passed": 81,
+    "pass_rate": "35.7%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "CATL Accelerates Construction of Choco-Swap Stations, Exceeding 3,000 in 2026 - Gasgoo",
+      "Pilbara Minerals Ltd stock (AU000000PLS0): shares edge higher on ASX ahead of next quarterly update ",
+      "Rivian R2 Is Imminent: How It Stacks Up Against The Tesla Model Y - Forbes",
+      "US auto safety regulator opens probe into nearly 115,000 Rivian vehicles - Reuters",
+      "The new Rivian R2 electric SUV on GTU before world debut in Utah - ABC4 Utah"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為特斯拉、比亞迪、蔚來相關動態：「Global EV battery market share in January-April 2026: CAT...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Global EV battery market share in January-April 2026: CATL 40.1%, BYD 14.2% -...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "EVE Energy ends six-year partnership with SK On - digitimes（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
