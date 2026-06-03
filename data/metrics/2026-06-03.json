@@ -1,0 +1,49 @@
+{
+  "date": "2026-06-03",
+  "total_events": 34,
+  "by_company": {
+    "catl": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "lg_energy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ganfeng": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "byd": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 33,
+      "sentiment_avg": -0.03
+    },
+    "lithium_price": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "ev_sales": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

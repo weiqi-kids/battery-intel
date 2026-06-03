@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 34,
+  "gate2_fail": 24,
+  "passed": 66,
+  "gate2_samples": [
+    "Rivian R2 Is Imminent: How It Stacks Up Against The Tesla Model Y - Forbes",
+    "The new Rivian R2 electric SUV on GTU before world debut in Utah - ABC4 Utah",
+    "Want to try the Rivian R2? Here's how you can secure a test drive - USA Today",
+    "Rivian R2 Matches Tesla Model Y Efficiency Despite Heavier Build - eletric-vehicles.com",
+    "NIO May Deliveries Top 37,000, Hitting Record High - Gasgoo"
+  ]
+}

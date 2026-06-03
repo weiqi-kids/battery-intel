@@ -1,0 +1,240 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:45:19.748340Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-06-03-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BYD Overtakes Tesla as Top-Selling EV Brand Overseas, Dominates UK, Australia and Brazil Markets - EVTech.News",
+      "companies": [
+        "byd",
+        "tesla"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHQ0MFFLVWtoS1ptUDhqckdTTUZycTBJdGdaQVJmUi1EeHFLU2tsYUpYOHNNRXJ3OEVkVXRWT3I1QU1BMWZBMDRKMzNXa1N3emZydHF5OGFBUExTMmdXQXhmTWphUEhuVU5BbDFzcG5IQUNUa2tCbUN4S3BlVWRIXzZ6ZzhZc0VpV1NEWGlHTGdJNjZKY2hDWWNEME9VSmF2REhMaE85NDZESnBRdHpDQkh4MnRqekY4ZUIxalRucGVTdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-06-03-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "All The Ways The Rivian R2 Performance Beats Tesla's Top Model Y - CarBuzz",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLWJlUjZRZ0EzV05uaXlVSWdWd3hvY1dwOGxLZ1haSlB3aTJySEV0ZXBrN2ZOOXhmOTdvY0hmQUNhMU9URUIwV3I4VElmMXUzUER3Ny1OcGxxWHZiN2xDSHBIdUIyOHhfcFZIZGlkY0tKN2hoeWVhMklDUkpBa21YV3U3QWg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-03-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Kia EV Sales Rise in USA",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/02/kia-ev-sales-rise-in-usa/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-06-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL sets sights on lithium-air technology with theoretical gasoline-level 12,000 Wh/kg energy density - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMkp3SE9iV2Y1SkFrVzkyeVRuOGN2UVdlaTR5d1pNM0tCOVdaN0p5ZnNqaXhLcUM3X0M2WEdzQ240Q3Q2TEgyQXlWdVcxallyQ3JUZ3F1LXptTGpHd3otS0V1Yy1wcDA3ckRiWXVheDlHMWkwSXlDRy1ybXVJMWF0MWFuUU92RDdxek4yTGlEdHA5ZHkxVTJZY0VtSDFaREdraU1mLXdvczkzblFCdVZCWXRXYVhUbWpDT29LZzVZR2d0MDFic1p1RVA2VHF4V3RvY2E2Zg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-06-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hunan Yuneng New Energy Battery Material Says CATL To Cut Up To 3% Stake - TradingView",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOW9obzZKVmZmN0lRUHRscWdJLVVnTElzc29pQjFYNkZPbUxvNmI0a040Z3poR1VoRm5jZS1TWWdab3hFYV8yeEFiX2o2R2FoWDRJLXljTmxsclhvcE9TMlRCbWVmRXE4OGJLeTFQYXh0YWtSdGdibVU2RHBBcklfMG0zYlM3azZaLXFvVS1FRUx5VHV6dDdkLWdyMG95ZzRkMThkYjhGem1HeFV3alVMWWZRR3VOLUtXREJjbEpXczNJQzBGZGRObFdKX2RFd2ZGMU5PblRQS3I?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 29,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 4
+      },
+      {
+        "id": "rivian",
+        "count": 4
+      },
+      {
+        "id": "catl",
+        "count": 3
+      },
+      {
+        "id": "ganfeng",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "lithium_price",
+        "count": 2
+      },
+      {
+        "id": "ev_sales",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 212,
+    "too_old": 91,
+    "gate1_blocked": 34,
+    "gate2_blocked": 24,
+    "passed": 66,
+    "pass_rate": "30.7%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "Rivian R2 Is Imminent: How It Stacks Up Against The Tesla Model Y - Forbes",
+      "The new Rivian R2 electric SUV on GTU before world debut in Utah - ABC4 Utah",
+      "Want to try the Rivian R2? Here's how you can secure a test drive - USA Today",
+      "Rivian R2 Matches Tesla Model Y Efficiency Despite Heavier Build - eletric-vehicles.com",
+      "NIO May Deliveries Top 37,000, Hitting Record High - Gasgoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為比亞迪、Rivian、寧德時代相關動態：「BYD Overtakes Tesla as Top-Selling EV Brand Overseas, Dom...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "BYD Overtakes Tesla as Top-Selling EV Brand Overseas, Dominates UK, Australia...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "All The Ways The Rivian R2 Performance Beats Tesla's Top Model Y - CarBuzz（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "鋰價話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
