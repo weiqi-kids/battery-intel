@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 32,
+  "gate2_fail": 22,
+  "passed": 78,
+  "gate2_samples": [
+    "ASX Short Interest Weekly (May 29th): Pilbara Minerals, Wesfarmers, Scentre, Computershare - Smartka",
+    "Morgan Stanley Ceases to Be a Substantial Holder in Pilbara Minerals - Kalkine",
+    "BYD is losing its spark - The Economist",
+    "A Few of Our R2 Favorites - Rivian Stories",
+    "Rivian R2 Is Imminent: How It Stacks Up Against The Tesla Model Y - Forbes"
+  ]
+}
