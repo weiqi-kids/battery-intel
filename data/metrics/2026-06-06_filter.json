@@ -1,0 +1,16 @@
+{
+  "total_raw": 423,
+  "dup_title": 228,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 34,
+  "gate2_fail": 22,
+  "passed": 42,
+  "gate2_samples": [
+    "ASX Short Interest Weekly (May 29th): Pilbara Minerals, Wesfarmers, Scentre, Computershare - Smartka",
+    "Morgan Stanley Ceases to Be a Substantial Holder in Pilbara Minerals - Kalkine",
+    "BYD is losing its spark - The Economist",
+    "BYD’s ‘world’s first’ 1,000-km range luxury GT is off to a hot start - Electrek",
+    "A Few of Our R2 Favorites - Rivian Stories"
+  ]
+}

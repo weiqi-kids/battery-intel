@@ -1,0 +1,178 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T10:08:52.153576Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rivian-2026-06-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "If You Buy Rivian Right Now, Could It Make You a Millionaire? - The Motley Fool",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzQ5RWZMUW82d2RLWnJJRFZocGduOVhhQzBaUnlZTWwzRWF6NEVoTnNYd1N2N0hyMFdLVDhMbl9MSTN6YzI2ZU1Fb0M5UUlubjhLSWx0SzN2Y0JnT1JfdTdvd1BSNE00Qk1qTVAwaGV4aV80UXRjMlZJS3Buemh6eWQ1VGVlMGlkRnFybVQ4dGhFb2tCTk5Ceg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-06-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rivian Boosts Production Capacity and Funding - Intellectia AI",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb2dScXZIZlpYRWRfRHpWQlJCYlpzejd1UDNoUDJSbVJ5VEtSbkwtTF9vbXhqRk9Fbk5iZENja2d1MDZNUS03Z2FtSjdvTndya0t2YnlzVFpUTndjN2drNk9rbVdid2FpTzBkSXFNUGtNWmJPcnQ3N0F5ZlBhVzFkTHEtZ1REUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Carvana’s bet on Slate is ACTUALLY a bet on itself, as the future of automotive retail",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/06/05/carvanas-bet-on-slate-is-actually-a-bet-on-itself-as-the-future-of-automotive-retail/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Would Someone Prefer Coal Power Over Solar & Wind?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/05/why-would-someone-prefer-coal-power-over-solar-wind/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-06-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Global Biofuel Demand Set to Grow by Nearly 70% as Food Prices Rise",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://cleantechnica.com/2026/06/05/global-biofuel-demand-set-to-grow-by-nearly-70-as-food-prices-rise/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rivian",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 423,
+    "dup_title": 228,
+    "too_old": 97,
+    "gate1_blocked": 34,
+    "gate2_blocked": 22,
+    "passed": 42,
+    "pass_rate": "21.5%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "ASX Short Interest Weekly (May 29th): Pilbara Minerals, Wesfarmers, Scentre, Computershare - Smartka",
+      "Morgan Stanley Ceases to Be a Substantial Holder in Pilbara Minerals - Kalkine",
+      "BYD is losing its spark - The Economist",
+      "BYD’s ‘world’s first’ 1,000-km range luxury GT is off to a hot start - Electrek",
+      "A Few of Our R2 Favorites - Rivian Stories"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Rivian、特斯拉相關動態：「If You Buy Rivian Right Now, Could It Make You a Milliona...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "If You Buy Rivian Right Now, Could It Make You a Millionaire? - The Motley Fool（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rivian Boosts Production Capacity and Funding - Intellectia AI",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,117 @@
 [
   {
+    "id": "rivian-2026-06-06-001",
+    "date": "2026-06-06",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "If You Buy Rivian Right Now, Could It Make You a Millionaire? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzQ5RWZMUW82d2RLWnJJRFZocGduOVhhQzBaUnlZTWwzRWF6NEVoTnNYd1N2N0hyMFdLVDhMbl9MSTN6YzI2ZU1Fb0M5UUlubjhLSWx0SzN2Y0JnT1JfdTdvd1BSNE00Qk1qTVAwaG",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzQ5RWZMUW82d2RLWnJJRFZocGduOVhhQzBaUnlZTWwzRWF6NEVoTnNYd1N2N0hyMFdLVDhMbl9MSTN6YzI2ZU1Fb0M5UUlubjhLSWx0SzN2Y0JnT1JfdTdvd1BSNE00Qk1qTVAwaGV4aV80UXRjMlZJS3Buemh6eWQ1VGVlMGlkRnFybVQ4dGhFb2tCTk5Ceg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-06-06-002",
+    "date": "2026-06-06",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rivian Boosts Production Capacity and Funding - Intellectia AI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPb2dScXZIZlpYRWRfRHpWQlJCYlpzejd1UDNoUDJSbVJ5VEtSbkwtTF9vbXhqRk9Fbk5iZENja2d1MDZNUS03Z2FtSjdvTndya0t2YnlzVFpUTndjN2drNk9rbVdid2FpTzBkSXFNUG",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb2dScXZIZlpYRWRfRHpWQlJCYlpzejd1UDNoUDJSbVJ5VEtSbkwtTF9vbXhqRk9Fbk5iZENja2d1MDZNUS03Z2FtSjdvTndya0t2YnlzVFpUTndjN2drNk9rbVdid2FpTzBkSXFNUGtNWmJPcnQ3N0F5ZlBhVzFkTHEtZ1REUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-06-003",
+    "date": "2026-06-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Carvana’s bet on Slate is ACTUALLY a bet on itself, as the future of automotive retail",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2025/04/Slack-EV-driving-night.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">As new ",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/05/carvanas-bet-on-slate-is-actually-a-bet-on-itself-as-the-future-of-automotive-retail/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-06-004",
+    "date": "2026-06-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Would Someone Prefer Coal Power Over Solar & Wind?",
+    "summary": "<p>As I was reading through Steve Hanley&#8217;s article on the absurd new $700 million US subsidy for old, dirty coal, the ending really struck me. Here are his final words there: &#8220;Other red st",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/05/why-would-someone-prefer-coal-power-over-solar-wind/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-06-005",
+    "date": "2026-06-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Global Biofuel Demand Set to Grow by Nearly 70% as Food Prices Rise",
+    "summary": "<p>High biofuels targets will exacerbate rising global food prices, as well as fertilisers shortages. The current scramble for biofuel feedstocks to combat high oil prices could see biofuel consumptio",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/05/global-biofuel-demand-set-to-grow-by-nearly-70-as-food-prices-rise/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-06-006",
+    "date": "2026-06-06",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EVs Take 33.0% Share In France — Tesla Model Y Leads",
+    "summary": "<p>The first quarter of 2026 saw plugin EVs take 33.0% share in France, up from 22.9% in Q1 2025. BEV share grew strongly year on year (YoY), while PHEV share was flat. Overall Q1 auto volume was 339,",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/05/evs-take-33-0-share-in-france-tesla-model-y-leads/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-05-001",
     "date": "2026-06-05",
     "companies": [],
@@ -600,6 +712,638 @@
       {
         "name": "pv_magazine",
         "url": "https://www.pv-magazine.com/2026/06/05/polish-grid-attack-reveals-cyber-insurance-gap-for-battery-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catl-2026-06-05-033",
+    "date": "2026-06-05",
+    "companies": [
+      "catl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CATL to deliver first sodium-ion storage systems in September as material costs halve - CarNewsChina.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzc4cG5ETE0yMVYyWm9FLVR4VnpaY0lneXBhTFBWWFJVYl9NRzNzaXcyNnp2T2UwTzRfTDdDbXhQSzJXdEp2OEY4NUZFNHlIb3ZVT0wwa0JiSVBUNDZJVk04bXNpN242V3RkWkFlak",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzc4cG5ETE0yMVYyWm9FLVR4VnpaY0lneXBhTFBWWFJVYl9NRzNzaXcyNnp2T2UwTzRfTDdDbXhQSzJXdEp2OEY4NUZFNHlIb3ZVT0wwa0JiSVBUNDZJVk04bXNpN242V3RkWkFlakNYY3dFUVhDZ0xNZlphaUpGSkJiTWVPcVdwaERCa2E4MGZHaE01V0thNDAyX3pGMWhNam5vam1BdEU3d3cySlNqY1VKMkhBdVNhampxa2kzUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catl-2026-06-05-034",
+    "date": "2026-06-05",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CATL Eyes Lithium-Air Tech With Theoretical Energy Density 50 Times Higher Than Li-Ion Batteries - autoevolution",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRDhnWWhqbW5UeWdVWmFvWEVlRl9vMmtEVVdGMjI0cU1pVEN1VzZjTmZ5TkIyRllTYUtXMXlHZHBkdUZjOGs3bzhyRVBCSlZReWtpNElmb0RLUTRyWmlVVGM2c1RYWXVVcXZZMjUzOD",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRDhnWWhqbW5UeWdVWmFvWEVlRl9vMmtEVVdGMjI0cU1pVEN1VzZjTmZ5TkIyRllTYUtXMXlHZHBkdUZjOGs3bzhyRVBCSlZReWtpNElmb0RLUTRyWmlVVGM2c1RYWXVVcXZZMjUzODZUY2Zud2hTNTYtWEprT0xvZ3dlTlprRjlhQTlQUEJ0NFZzT3VHakk1cHpxT3pPWXBaVGZIMHE2T0w2T0VIRGp0Nnhxd0tlbXQ1Ymo3TGFyNElFWVVuRjVHTmppcGhUMklOcXJERkxoM1BEakU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-06-05-035",
+    "date": "2026-06-05",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Here's Why Rivian Stock Jumped This Week - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQdVBHZmZWUUtBc3ZWV05MaFVGRjA4bGVraXZ3M2NXeUNweFVfSU4zUjJVNHFPUDVPN085MnR6SFh4Tkk2TElhcFlZNXJST2R1ZllzbGJuY2JZN2dlOEYtRGdaeFFabEh0cjY5QTM1Vz",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdVBHZmZWUUtBc3ZWV05MaFVGRjA4bGVraXZ3M2NXeUNweFVfSU4zUjJVNHFPUDVPN085MnR6SFh4Tkk2TElhcFlZNXJST2R1ZllzbGJuY2JZN2dlOEYtRGdaeFFabEh0cjY5QTM1VzB4WTdwQjNRUjlLNFVYT0M2cFRsbzVodnNyOXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-06-05-036",
+    "date": "2026-06-05",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon Tops 50,000 Electric Vans, More Than Half From Rivian - eletric-vehicles.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSU1aTlRWMlVKZTlsSXJqeF9EWWY2V2lYbllqaXFGU3k3ZGFDVHVsM0JSWGJVdmctZTY2YzlOMjRFaWZBei01T3dwcEtPaVN3R2xrdE93a25wMzZBbVRyTHhsSnJpSktHenlWa0M2QW",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSU1aTlRWMlVKZTlsSXJqeF9EWWY2V2lYbllqaXFGU3k3ZGFDVHVsM0JSWGJVdmctZTY2YzlOMjRFaWZBei01T3dwcEtPaVN3R2xrdE93a25wMzZBbVRyTHhsSnJpSktHenlWa0M2QWJNSHVhU3lJbVpsTGg4WTNWY20wbGliN1ZxTjk3LU4zTXEtaEdhejBfV1dzQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-06-05-037",
+    "date": "2026-06-05",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Is Rivian’s EV Story Getting Stronger Amid Market Pressure? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONzkxdjdDS2hKZkk0bkZRLVgxaTVrQ01abG5yUWk5azFDa1pxU21UWWdZZlU5NTFpLUtna29YLVM2V3VhOXh0akpEY0hFaFpvc1hmYVd3TEthQlJWX19FZnhnTVJzODAxcUJ4X21fRz",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzkxdjdDS2hKZkk0bkZRLVgxaTVrQ01abG5yUWk5azFDa1pxU21UWWdZZlU5NTFpLUtna29YLVM2V3VhOXh0akpEY0hFaFpvc1hmYVd3TEthQlJWX19FZnhnTVJzODAxcUJ4X21fRzNlODdlb0I3YXZXekNwWEV1U3lPdDRTRDFMdTBYQ1BONHlWWlptb1JhZi1OYVBHYXFqNEY2dEZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-06-05-038",
+    "date": "2026-06-05",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NIO, GigaDevice forge strategic alliance to advance automotive chip development - Gasgoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaXcyTTQ2UEp1eEF0ejNLdE8xV01FX0dvdUh6YnAxQUcxLW9SUGZWS3B4Q1pudkU5LTdWMFJTdzBXVExWT002WTFUT0VXM1JiQWFrRml2WkUtZXIyZUFzVWNLSHh4eGtwck85UUwxSH",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaXcyTTQ2UEp1eEF0ejNLdE8xV01FX0dvdUh6YnAxQUcxLW9SUGZWS3B4Q1pudkU5LTdWMFJTdzBXVExWT002WTFUT0VXM1JiQWFrRml2WkUtZXIyZUFzVWNLSHh4eGtwck85UUwxSHNUdTBxcFQtTHpIUkN0cFZWenR5eWNOYWhKX1cyaGNXUFJkdTNENGVGcWxLRTJGa3ZyY3c0b2VWV1U0ME96d1c2bU5ZeFdnejU1Vl9FRXo1cUFRV2NxcDVnZDh2ZWZLQXJmT3lmLW53?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-06-05-039",
+    "date": "2026-06-05",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Can NIO Achieve 17-18% Vehicle Margins in 2026 Amid Cost Pressures? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZGxwWUhzUkdPNXN5T2JPNFE3VnNZemYzakl0WElqa0N3R1hjcm9Gd2lqYnkwenlEdVNKU1VQekZ4Vk1PUmtHZ3VscFBiN094WXBWLVlLTk1qV0d5blpvcjdSdjVCOVh4OXJjUnNybF",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZGxwWUhzUkdPNXN5T2JPNFE3VnNZemYzakl0WElqa0N3R1hjcm9Gd2lqYnkwenlEdVNKU1VQekZ4Vk1PUmtHZ3VscFBiN094WXBWLVlLTk1qV0d5blpvcjdSdjVCOVh4OXJjUnNybFNORXVlZVpINFc1VVBxbHRRWlNWXzlSMHpUVXpDemM2aHpobFhYTGZLMXZsXy1wQ2dvcTZwSEhXVGpXQ19sVTdFbnA2MGdvcllGeHBCdFZxXzg4bW14REdJOUc2WnRIN09ERkZkMlp6YVJGNzlRaklaeVZFaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-06-05-040",
+    "date": "2026-06-05",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen’s American Reinvention Is Taking Shape - WGN Radio 720",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1FOU2xyNVJwdnZMV2Zrb3Q0eVVISkJVSGNDb0NfNGZST0tYbXlXOXNlbzdBdkxtRl9HcnM1VjdVWGdMRnY4MGdVaDM1bG5VbDZGX3kzUS1yNzlwVllIbUF4di1oMlpwdG5iUjh4Tl",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1FOU2xyNVJwdnZMV2Zrb3Q0eVVISkJVSGNDb0NfNGZST0tYbXlXOXNlbzdBdkxtRl9HcnM1VjdVWGdMRnY4MGdVaDM1bG5VbDZGX3kzUS1yNzlwVllIbUF4di1oMlpwdG5iUjh4TlhnVk5kOFp6ODZCUWduVFctZlIxaVZ6SV9a0gGOAUFVX3lxTE02YTZNWG90Q1pUOFNoNEdrWFI4VjQ2TzNqVVZVT1FwSWZENEtfdFdCbjNiQmxlT0JSWkNyU1plU0RxeEdsa2V5RXc1TTNkSVZRQm5iMFIzLWtBR3JDaHZUMGljQ0lYcFZMRVBGMnJTVXVQZ0NFWFB3NUtzcWV3TWFoeUNaYXZuS19weHZZcmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-06-05-041",
+    "date": "2026-06-05",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen legal team to review Elektros EV charging patent - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNc3owVF9NalY5MzIxY1VYRk0tbTlra2FscUtCYVpBVVJJaFlvbE5WbWI2dFZseTJ6YXFTc0xncFAtb1hXXzZUWUxTMFpNLVdIVndzcVNPNHVMeW5UTWZ2LXM4c3YyUVA3dTZMZlROdH",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc3owVF9NalY5MzIxY1VYRk0tbTlra2FscUtCYVpBVVJJaFlvbE5WbWI2dFZseTJ6YXFTc0xncFAtb1hXXzZUWUxTMFpNLVdIVndzcVNPNHVMeW5UTWZ2LXM4c3YyUVA3dTZMZlROdHdmeERWSURuREVDUnZJUEx0ZFRXbDc5bnhGblZfSUVXcUNKYjFXVnFnOVpMaWdsNkVvV2NncFd4REp0WkpxWi1nS092R2ZRc24zb2FfWW5Waw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-06-05-042",
+    "date": "2026-06-05",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen legal team to review Elektros multi-port EV patent - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMDVXTldBcnEwSVhPNXFha0VTZXd5SGdySTZXQUNtaUlvVjMxQjZvb29pNzZZbWl6ckl3ODJ1OUI1QUNfSEdxakFOMWk4R1ZQSUpCd0VJbmNDd05zTGJIRlM0cFpNRF9jb1RWT0NTNS",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMDVXTldBcnEwSVhPNXFha0VTZXd5SGdySTZXQUNtaUlvVjMxQjZvb29pNzZZbWl6ckl3ODJ1OUI1QUNfSEdxakFOMWk4R1ZQSUpCd0VJbmNDd05zTGJIRlM0cFpNRF9jb1RWT0NTNS1RRXBYX3FRbTlhTGdEZXUxZVpHMkw1dVFfMEpDVDFMUm9BSFRRZHB4Uk1PSklhVGJuakgzU0hYaXMxZ0JlVkR3S0JON2EyUmVneHBZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-06-05-043",
+    "date": "2026-06-05",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen lawyers to examine EV charging patent from Elektros - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVV0d0JsOEV4alpSdVhFeWJPWjQtS2NlVTR0VkhDUTFSaE9uVkpwcXlBdkdDeG1FRDRCN1gtMmxPelN0YkxPbjhpY3F1Zm4xTXpGVnJlWUQ0eTJjemlndGpXMmI0LUVkYXVpdW41U0",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVV0d0JsOEV4alpSdVhFeWJPWjQtS2NlVTR0VkhDUTFSaE9uVkpwcXlBdkdDeG1FRDRCN1gtMmxPelN0YkxPbjhpY3F1Zm4xTXpGVnJlWUQ0eTJjemlndGpXMmI0LUVkYXVpdW41U0dWYmUzckxDSHlSUmVHTVVPTTVXNE92TnFwV3lWMEZyZkdvV0pld3h0d2NNV05Va085SW9RTmVGdXJOTTdHbTRMTGp2YjJXbkthMWlqOWJzbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-044",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wallbox deploys its first Supernova PowerRing DC fast chargers",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/Wallbox-Supernova-PowerRing.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p class=\"wp-block-paragraph\"><a",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/05/wallbox-deploys-its-first-supernova-powerring-dc-fast-chargers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-06-05-045",
+    "date": "2026-06-05",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen’s push for more affordable EVs starts with these two",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/Volkswagen-more-affordable-EVs-3.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragra",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/05/volkswagens-more-affordable-evs-starts-with-these-two/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-06-05-046",
+    "date": "2026-06-05",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD’s ‘world’s first’ 1,000-km range luxury GT is off to a hot start",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/BYD-1000-km-range-luxury-EV.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">T",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/05/byds-worlds-first-1000-km-range-luxury-gt-off-to-hot-start/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-047",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Range Rover is finally ready to sell its first electric SUV: Here’s everything we know",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/Range-Rover-first-electric-SUV-launch-3.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/05/range-rover-finally-ready-to-sell-first-electric-suv/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-048",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Toyota finally has EVs people want to buy — Why slow down now?",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Toyota-bZ-EV-range-4.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><a href=",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/05/toyota-finally-has-evs-people-want-to-buy-why-slow-down-now/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-05-049",
+    "date": "2026-06-05",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xpeng spends $500M/year on AI training to beat Tesla FSD",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/Xpeng-AI-Dr-Liu-interview.png?w=1600\" /></div><p class=\"wp-block-paragraph\">Xpeng’s head of autonomous driving ",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/05/xpeng-vla-interview-cvpr-language-poison-tesla-fsd/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-050",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wheel-E Podcast: Monarc e-bikes launch, bike buses, more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">This week on <",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/05/wheel-e-podcast-monarc-e-bikes-launch-bike-buses-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-051",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jason Momoa’s 1920s Harleys become electric hybrids in wildest EV conversions yet",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/electrogenic-momoa-all-vehicles-e1780659929542.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/05/jason-momoa-1920s-harleys-land-rovers-electric-conversion-electrogenic/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-052",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This $199 Gadget Brings Apple CarPlay To GM EVs. But There's A Catch",
+    "summary": "Worried about General Motors EVs not having Apple CarPlay? This plug-and-play device seeks to solve that problem.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/797942/gm-evs-apple-carplay-android-auto-ev-play/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-053",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xpeng rolls off first locally assembled G6 SUV in Malaysia",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/06/2026060512475528.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p>\n<p>Xpeng has launched local production of its G6 SUV in Malaysia",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/06/05/xpeng-rolls-off-first-locally-assembled-g6-malaysia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-06-05-054",
+    "date": "2026-06-05",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio's updated ES8 set to reach 120,000th delivery milestone this month",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/06/2026060511405484.jpg\" alt=\"A third-generation ES8 on display at Nio’s F2 plant in Hefei in January 2026.\" style=\"max-width: 100%; height: a",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/06/05/nio-new-es8-to-reach-120000th-delivery-this-month/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-05-055",
+    "date": "2026-06-05",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Tesla Roadster unveiling gets pushed again, but new event details emerge",
+    "summary": "<p>Tesla has reportedly pushed the unveiling of the Roadster once again, but there are also evidently new details about the event that the company plans to show off. The Information reported this morn",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-roadster-unveiling-gets-pushed-again-new-event-details-emerge/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-05-056",
+    "date": "2026-06-05",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla Model 3 has a tasty Supercharging incentive, but it’s ending soon",
+    "summary": "<p>Tesla is offering a tasty Supercharging incentive on certain Model 3 trims, but the company has officially put a concrete end date on it, so those interested should act fast. Tesla is offering Free",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-model-3-tasty-supercharging-incentive-ending-soon/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-05-057",
+    "date": "2026-06-05",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ferrari CEO’s self-driving stance echoes Elon Musk’s — sort of",
+    "summary": "<p>Ferrari CEO Benedetto Vigna revealed that the Italian automaker&#8217;s future will not involve self-driving, a point that echoes that of Tesla CEO Elon Musk&#8217;s &#8212; sort of. You might be t",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/ferrari-ceo-self-driving-stance-echoes-elon-musk-sort-of/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-05-058",
+    "date": "2026-06-05",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla upgrades Model Y’s affordable trims with new interior features",
+    "summary": "<p>Tesla has upgraded the Model Y&#8217;s two most affordable trims, the Rear-Wheel-Drive and All-Wheel-Drive, with two new interior features that bring them level with their &#8220;Premium&#8221; sib",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-upgrades-model-y-affordable-trims-new-interior-features/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-059",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jacking Up Electricity Prices So You Don’t Have To Think — SpaceX Edition",
+    "summary": "<p>One of the stories of the year is the tremendously fast growing demand for electricity due to the insanely fast development of data centers for the whole AI Era of Wonder. In regions around the cou",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/05/jacking-up-electricity-prices-so-you-dont-have-to-think-spacex-edition/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-060",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Scores Robotics PR Win, Shanks Ball On FIFA Transport Opportunity",
+    "summary": "<p>The 2026 FIFA World Cup is going to be one of the biggest global events of the decade — as all World Cups are. It&#8217;s estimated that a whopping 1.5 billion people tuned in to watch the final ma",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/05/hyundai-scores-robotics-pr-win-shanks-ball-on-fifa-transport-opportunity/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-06-05-061",
+    "date": "2026-06-05",
+    "companies": [
+      "nio",
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese NEV Resale Value Surges 30%, Volume Up 29%",
+    "summary": "<p>Chinese NEV (BEV and PHEV) resale values are up 30%, with Chinese media noting specific rises for BYD, Nio and Denza brands. Sales volume is also up 29% as more EVs become available on the used mar",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/05/chinese-used-nev-resale-value-surges-30-volume-up-29/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-062",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Steel’s Future Starts With Demand, Scrap, And Electricity, Not Hydrogen",
+    "summary": "<p>Steel keeps getting framed as a hydrogen problem because hydrogen gives the sector a single shiny lever. Replace coal with hydrogen, keep making new iron, plug it into an electric arc furnace, and ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/05/steels-future-starts-with-demand-scrap-and-electricity-not-hydrogen/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-063",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump Doubles Down On Coal Power, Just In Time For The Midterms Elections",
+    "summary": "<p>If US President Donald Trump really wants to boost coal production, bring back coal jobs, and restore the US coal industry to its former glory -- oh, never mind. Seriously, he must be joking.</p>\n<",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/05/coal-jobs-power-plants-trump-electricity-costs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-06-05-064",
+    "date": "2026-06-05",
+    "companies": [
+      "byd",
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Reasons BYD Is Taking On Liability While Self-Driving And Tesla Isn’t",
+    "summary": "<p>We&#8217;ve had a few articles this week about BYD&#8217;s breakthrough decision to take on liability in the event of a crash when a BYD driver is using God&#8217;s Eye. A few of the comments under",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/05/reasons-byd-is-taking-on-liability-while-self-driving-and-tesla-isnt/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-065",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘Get out from behind your screen, our industry is ultimately about people’",
+    "summary": "<p>This week Women in Solar+ Europe gives voice to Kim Keats, Partner at Spain's Ekon Strategy Consulting. \"There is no substitute for speaking to colleagues, clients, investors, developers, operators",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/06/05/get-out-from-behind-your-screen-our-industry-is-ultimately-about-people/",
         "type": "rss"
       }
     ]
@@ -2073,6 +2817,24 @@
     ]
   },
   {
+    "id": "rivian-2026-06-04-078",
+    "date": "2026-06-04",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rivian: Wait For The R2 Launch (NASDAQ:RIVN) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9HQzhfX1BvcGZIWXEyN09maXdxQ3hKNy0xSlNrclF0TTljV1V5X2JkdTExUTFRdzB2UWx5emUxUkFEWm1nZWg2VEx2LTQtNUtxVWk3OG1Mb29MMi1ZRmxGQW5iRGZGYU9sQ0FXd3BkTX",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HQzhfX1BvcGZIWXEyN09maXdxQ3hKNy0xSlNrclF0TTljV1V5X2JkdTExUTFRdzB2UWx5emUxUkFEWm1nZWg2VEx2LTQtNUtxVWk3OG1Mb29MMi1ZRmxGQW5iRGZGYU9sQ0FXd3BkTXpMZTlMZXMxOXpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-06-03-001",
     "date": "2026-06-03",
     "companies": [
@@ -3192,6 +3954,45 @@
       {
         "name": "teslarati",
         "url": "https://www.teslarati.com/tesla-piggybacks-recent-supercharger-feature-update-takes-it-further/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ganfeng-2026-06-03-060",
+    "date": "2026-06-03",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "lithium_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Citi: Bullish on lithium price outlook, raises target prices for Ganfeng Lithium (01772) and Tianqi Lithium (09696) - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzU3ZWgxSUpsem14Q2JaWk0zRVdPVEdQTFhfR1hPbi13T1FoOTloZDNGeHRwMFBqM1RJT3o3U2FtVWZ2ZmljRGZ6OHowdmVvRDUtU0VONzNEa0FOTS1OSjBLaEt3X3ZyRDVvQjVTbX",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzU3ZWgxSUpsem14Q2JaWk0zRVdPVEdQTFhfR1hPbi13T1FoOTloZDNGeHRwMFBqM1RJT3o3U2FtVWZ2ZmljRGZ6OHowdmVvRDUtU0VONzNEa0FOTS1OSjBLaEt3X3ZyRDVvQjVTbXJxUjQ2TS1aT1U0T1RlejhNdTVrWVVFYXh0VUp3V05ta2t4WmJDYUxHOUl2MWhVaDlObWNJNzBB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-06-03-061",
+    "date": "2026-06-03",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SEAT & CUPRA plant in Martorell starts production of CUPRA Raval and Volkswagen ID. Polo - Volkswagen Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNR2FDbl9OczRpdTNKdEdEcTlBd1VZXzZod3ZpdUVrc1lOb0ppYUtINldiakZtTXcwemlFbmt3TU9NTzRTdWhSNC1BdHd3aEdMOHFzYmZGNklJS1ZiajlZckItdjJvY1ZJZENMbGVFSH",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNR2FDbl9OczRpdTNKdEdEcTlBd1VZXzZod3ZpdUVrc1lOb0ppYUtINldiakZtTXcwemlFbmt3TU9NTzRTdWhSNC1BdHd3aEdMOHFzYmZGNklJS1ZiajlZckItdjJvY1ZJZENMbGVFSHdHaS13ZnM4MVNWT1k4NlZwVlBMeW43eUdrV2d4MW1lLXd4YU56TE1iTUwwMXhqbVYyZTNIZ0tzSE1raU1rVG9PYjRXNWNNSTFSeDNKckU2Skw3RUdhbWk1SWk3aF9XcmR3NUN0cmhuX1JROXF6VUc1a183S3hDZzY2UkRHbVYyZGVMZ1p2Zm54ZjF4SllMOXRVRTNkc29nREM2cm91RjNnTWJ3UDlnY0FO?oc=5",
         "type": "rss"
       }
     ]
