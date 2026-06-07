@@ -1,0 +1,190 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:32:27.469363Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-06-07-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tesla Model Y Battery Tested After 16,000 Miles Of Mostly Fast Charging",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://insideevs.com/news/798001/tesla-model-y-battery-degradation/"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-06-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL’s sodium-ion storage systems set for first customer deliveries - Interesting Engineering",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDhIU1B0TTVfUW9oemlmaXlDcnZmN2k5WUwyWXdnLVdWU2FfWFpVelRwVk4xUlhvRnpMS0ZrNjlBUGRuYkhpdmRMNkVJSVRKdmxjVmViNi00U2dCdmxjZ19LWHAwZ0E0eEd5WkxCbVd2c0NnV3JuYktPUFNPZGRkZmlXc19YZXh4VWIycQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-06-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s CATL Sees Energy Storage Business Reaching 50% of Global Sales by 2030 - Egypt Oil & Gas",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTJDLU9pc3BnRzhuc09HNVdnVG1RQzFOVXZ2WmZGWlA0ZnFUc3dHZ01QVDBlaFVYRXNyNm1uX2Q2TDVJTlN2LUJqdnlySUttaUxsRlNzVzFhWFVhbFpMMW1ocWpwNEFUMG0xUEk2YTJHSkRRRzZWSmYxRk5NandqNGkzLU85TmNaSk5qWS14d1hYOE1fd2FYWVVrcDR3aDAzQ3VCeWdaMmxzb2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rivian-2026-06-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rivian Automotive, Inc. $RIVN Shares Sold by Intech Investment Management LLC - MarketBeat",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdmY0M2pScXdVOFA4c21ZaVo1SW9UclQwOThYZjF0MldBcXR2SzI1THY4RHNka3RXRFY1UWlmblBkSVJLSFpibzBlaUZPYVRCZzFDM1RsRHQtRnFfTlAxeWpJZmQ2WnNxUE1vZjdBaGxkdTZ3bnhlMklZalFjX0JMa2x5M3pLQWtZTEtNWWpmQXJqLUk0YTJEUlZjcDRJQ2FrcUM4ZjJVQUpsVl9UWFhiNEw0bXgzUzA1MVMwWmVCNzJXZ2NhT1NjTWFmWVBQcXBm?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Here are the best electric bikes you can buy at every price level in June 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/06/07/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      },
+      {
+        "id": "byd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 423,
+    "dup_title": 248,
+    "too_old": 93,
+    "gate1_blocked": 33,
+    "gate2_blocked": 21,
+    "passed": 28,
+    "pass_rate": "16.0%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "Morgan Stanley Ceases to Be a Substantial Holder in Pilbara Minerals - Kalkine",
+      "ASX Short Interest Weekly (May 29th): Pilbara Minerals, Wesfarmers, Scentre, Computershare - Smartka",
+      "Would I buy Pilbara Minerals shares? - MSN",
+      "BYD is losing its spark - The Economist",
+      "BYD’s ‘world’s first’ 1,000-km range luxury GT is off to a hot start - Electrek"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為寧德時代、Rivian、特斯拉相關動態：「Tesla Model Y Battery Tested After 16,000 Miles Of Mostly...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tesla Model Y Battery Tested After 16,000 Miles Of Mostly Fast Charging（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "CATL’s sodium-ion storage systems set for first customer deliveries - Interes...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
