@@ -1,0 +1,214 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:38:18.531748Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nio-2026-06-08-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nio exec hints average transaction price of main brand vehicles rising rapidly",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/06/08/nio-exec-hints-average-transaction-price-rising-rapidly/"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-06-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL reveals 'One Shell, Two Cells' design as 15,000-cycle sodium batteries hit 20-year target - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOEJLTkctSWs1YkdsamdIRGI5UU8ybUUxNlU4T2puRGY3dHdsVm9CTlRkbi10cmFRSmRYaWFtdVdrMkxvenVtenJyR0xPSnZuUVE1bEpGRmpJanNybkp3aDhwSEhRMndpOFRLajhPcDh4ejRoaFpMMHo5U2E0enI2akdBWDFoRWducEJncDVhS042TlJPc0x1bnV2cFRjQWwxX05rRllWdV9aMmZzYkZMcUxBWVlTbTJLSTRFTHdCMUN4UEJUenc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Lithium Reset ASX 300 Change The Debate? - Kalkine Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVJKTVBoaEktR0xnQmpTZldsWEs5QzlmOG5LbkE3UFVHZ3hQNEU1dFR4OWp1QkItRElNTDlERUpOZ2ZjaWhYOWxheENSNEhtb1BQMG5XSHZ5VV9YMElab1RQZ21DSVZUMGt1RExCSG44SnNrczVZQWd3QzdKY2d2M3luTjFqUXlMQlN1Q1VHbw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rivian-2026-06-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Here’s What Rivian Automotive Inc (RIVN) Said About the NHTSA Probe - Insider Monkey",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2RnQXZZMU10eTNteVpaa21JYkNOcnVYY3RCcnZ5WWhvd011OEZOMEdCdlZOYk52LWxmSWJNV0V6a0VFRUN6Y1ZvUGR2VGpUYXZOQXRERlNSSGhndUx6UFFqRWNidURPX3ZoVjFOLVFEeGJQdjdoWXJrVXVYWnc1S3ZhSHNCZ19UZS1FakNzOElBMXJyczB1ME0weUZjY3NXXzZYNXZVOUgtOFdy0gG0AUFVX3lxTFBiV1Itaml2SkRTTUE3UnZ0RGQ3VmJlOTNiRkd6UnNWVW5YbXJNdHF1LUREQWlFbWpCR2FOOW9Bc0lsYlkzTkZ6OElJOHFZUmViR1ZQNHlGY2JGWFBwaUdYWTMwVTNrUUVzcXJ1YWZqVlZJbnFZcFF6OGlYeFBwLURmYWdIdVIxdHlQRnNOZzhCc3ZMR01HUEtZOS1tNURlWU1ZeHNJSWJaWEU4aGVmQ2lEMnhmaQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Skoda Epiq Enters Production in Spain, Expanding Affordable EV Choices in Europe - Electric Cars Report",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmRyWVU5bVNHY1VxTHdrazVBU2pWS0hpTnZEclBoQmdBV2ZXQllqR2JoQWNnemlhR0g4aHM5UlJkalhTemhDZDA5TS1RVUdqTThpOWNBMzUtaGNGdS1uakprWGNaNFBmX3ZuLUt3b25SQ0U4Y09HQ1ZpS3dWbHh5alR1QlpLcEd4bVRqNE8yQXNZbFlMRC1mUUgwOFEtbTVSUENLOFhlM0Z1YWtHYkwyVURTMVU4eDE3bEhn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 27,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "nio",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 221,
+    "too_old": 93,
+    "gate1_blocked": 26,
+    "gate2_blocked": 23,
+    "passed": 52,
+    "pass_rate": "26.8%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Morgan Stanley Ceases to Be a Substantial Holder in Pilbara Minerals - Kalkine",
+      "ASX Short Interest Weekly (May 29th): Pilbara Minerals, Wesfarmers, Scentre, Computershare - Smartka",
+      "Would I buy Pilbara Minerals shares? - MSN",
+      "BYD is losing its spark - The Economist",
+      "BYD’s ‘world’s first’ 1,000-km range luxury GT is off to a hot start - Electrek"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為福斯、寧德時代、特斯拉相關動態：「Nio exec hints average transaction price of main brand ve...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nio exec hints average transaction price of main brand vehicles rising rapidly（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "CATL reveals 'One Shell, Two Cells' design as 15,000-cycle sodium batteries h...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

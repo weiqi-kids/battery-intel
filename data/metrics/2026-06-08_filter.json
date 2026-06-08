@@ -1,0 +1,16 @@
+{
+  "total_raw": 415,
+  "dup_title": 221,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 26,
+  "gate2_fail": 23,
+  "passed": 52,
+  "gate2_samples": [
+    "Morgan Stanley Ceases to Be a Substantial Holder in Pilbara Minerals - Kalkine",
+    "ASX Short Interest Weekly (May 29th): Pilbara Minerals, Wesfarmers, Scentre, Computershare - Smartka",
+    "Would I buy Pilbara Minerals shares? - MSN",
+    "BYD is losing its spark - The Economist",
+    "BYD’s ‘world’s first’ 1,000-km range luxury GT is off to a hot start - Electrek"
+  ]
+}
