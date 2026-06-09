@@ -1,0 +1,16 @@
+{
+  "total_raw": 423,
+  "dup_title": 191,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 29,
+  "gate2_fail": 25,
+  "passed": 96,
+  "gate2_samples": [
+    "Morgan Stanley Ceases to Be a Substantial Holder in Pilbara Minerals - Kalkine",
+    "ASX Short Interest Weekly (May 29th): Pilbara Minerals, Wesfarmers, Scentre, Computershare - Smartka",
+    "BYD is losing its spark - The Economist",
+    "BYD’s ‘world’s first’ 1,000-km range luxury GT is off to a hot start - Electrek",
+    "Umicore S.A. stock (BE0974320526): Strategy reset and electric-vehicle headwinds keep investors on a"
+  ]
+}

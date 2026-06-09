@@ -1,0 +1,234 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T11:20:53.629031Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-06-09-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "US adds BYD, Nio and EV supply chain firms to military-linked list - CnEVPost",
+      "companies": [
+        "byd",
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFR1eDh1SFJTWlNiX1llaXNLYl85TTdvN2ViNkpnYVBGR3pDb2FHREdBaGNwd0Y1eGpnVUhrTDhtUHZFc3pCeEg1VkcxVDZfNFRxS3hBaVNzSFUwby12aXFKRlEyZ01sQ3hibFhTS29oMU00d1VNeHRsNUN4UkFYLTh2ekxPNjM5bjZYM2ZNUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-06-09-030",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "US adds BYD, Nio and EV supply chain firms to military-linked list",
+      "companies": [
+        "byd",
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://cnevpost.com/2026/06/09/us-adds-byd-nioev-supply-chain-firms-to-military-list/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-09-044",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Study finds ‘significant’ agrivoltaic potential in Austria",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/09/study-finds-significant-agrivoltaic-potential-in-austria/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-09-045",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Global solar tracker market grew 19% in 2025",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/09/global-solar-tracker-market-grew-19-in-2025/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-06-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL to supply 2,400MWh of battery storage for Edify Energy’s Australian hybrid projects - Energy-Storage.News",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXhSQUJEbmczbTJxeXBQYzVBTnRjOG0xWUItR0QyZnZxQ0NfQ1htZEdGa2JENGpsV0lFNW9tdEtwSlpjOE1XWEVWZl9nT1hWUW9JLUhhZlh3eDZYYzdzRS0wQ3B5TlRKV1pWZXNNb0ZwRG5seTU5Mjk5clRDNFNoMzEzazE0Y2N3TVRvX3dHLTJ0SV8xSVBMRGN6WjRiSjFYRnhFOWhzZE10LVBsZUVSSEoyWHRvaW05NjUw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 43,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "nio",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 46,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 38,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 9
+      },
+      {
+        "id": "catl",
+        "count": 7
+      },
+      {
+        "id": "byd",
+        "count": 7
+      },
+      {
+        "id": "eve",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 43
+      },
+      {
+        "id": "ev_sales",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 423,
+    "dup_title": 191,
+    "too_old": 82,
+    "gate1_blocked": 29,
+    "gate2_blocked": 25,
+    "passed": 96,
+    "pass_rate": "41.4%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "Morgan Stanley Ceases to Be a Substantial Holder in Pilbara Minerals - Kalkine",
+      "ASX Short Interest Weekly (May 29th): Pilbara Minerals, Wesfarmers, Scentre, Computershare - Smartka",
+      "BYD is losing its spark - The Economist",
+      "BYD’s ‘world’s first’ 1,000-km range luxury GT is off to a hot start - Electrek",
+      "Umicore S.A. stock (BE0974320526): Strategy reset and electric-vehicle headwinds keep investors on a"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 46 則事件，焦點為蔚來、寧德時代、比亞迪相關動態：「US adds BYD, Nio and EV supply chain firms to military-li...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "US adds BYD, Nio and EV supply chain firms to military-linked list - CnEVPost（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "US adds BYD, Nio and EV supply chain firms to military-linked list（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
