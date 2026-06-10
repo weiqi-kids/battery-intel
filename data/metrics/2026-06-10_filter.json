@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 30,
+  "gate2_fail": 25,
+  "passed": 98,
+  "gate2_samples": [
+    "Garro sets the terms: CATL wants more than 50% of LATAM's storage - Energía Estratégica",
+    "ASX Short Interest Weekly (May 29th): Pilbara Minerals, Wesfarmers, Scentre, Computershare - Smartka",
+    "Morgan Stanley Ceases to Be a Substantial Holder in Pilbara Minerals - Kalkine",
+    "Umicore S.A. stock (BE0974320526): Strategy reset and electric-vehicle headwinds keep investors on a",
+    "Rivian begins deliveries of its highly anticipated R2 - electrive.com"
+  ]
+}

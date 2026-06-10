@@ -1,0 +1,293 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T11:42:16.635933Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-06-10-027",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Automakers' share in China's NEV exports in May: BYD ranks first with 36.7%, Tesla 4th with 9.1%",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/06/10/automakers-share-china-nev-exports-may-2026/"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-06-10-030",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Automakers' share in China's NEV market in May: BYD ranks first with 21.8%, Tesla returns to top five",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/06/10/automakers-share-china-nev-market-may-2026/"
+    },
+    {
+      "rank": 3,
+      "event_id": "nio-2026-06-10-033",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "NIO Refutes US Dept of Defense Claim That It’s Linked To The Chinese Military",
+      "companies": [
+        "nio",
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "nio",
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/09/nio-refutes-us-dept-of-defense-claim-that-its-linked-to-the-chinese-military/"
+    },
+    {
+      "rank": 4,
+      "event_id": "rivian-2026-06-10-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Tesla Vs. Rivian Reliability: It’s Not Even Close - Autoblog",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xZDExVzI0aG1mX0daNGFRMFFIcEowMWpXa2Vwa1JiM0thTmlPNktFVktmcVU2WHMwLXFzMnlVeFUzdFVsa0FtSTZBQ2RXS2U5SjJ1QWVtUUVjZjVhaEdHTTZsQkFCc0tCSXJfVEFR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-06-10-039",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "US government restricts trade with prominent Chinese storage companies",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/10/us-government-restricts-trade-with-prominent-chinese-storage-companies/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 43,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "tesla",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "byd",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 35,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 8
+      },
+      {
+        "id": "byd",
+        "count": 7
+      },
+      {
+        "id": "catl",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "lg_energy",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 43
+      },
+      {
+        "id": "recycling",
+        "count": 1
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 184,
+    "too_old": 89,
+    "gate1_blocked": 30,
+    "gate2_blocked": 25,
+    "passed": 98,
+    "pass_rate": "40.5%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "Garro sets the terms: CATL wants more than 50% of LATAM's storage - Energía Estratégica",
+      "ASX Short Interest Weekly (May 29th): Pilbara Minerals, Wesfarmers, Scentre, Computershare - Smartka",
+      "Morgan Stanley Ceases to Be a Substantial Holder in Pilbara Minerals - Kalkine",
+      "Umicore S.A. stock (BE0974320526): Strategy reset and electric-vehicle headwinds keep investors on a",
+      "Rivian begins deliveries of its highly anticipated R2 - electrive.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為蔚來、比亞迪、寧德時代相關動態：「Automakers' share in China's NEV exports in May: BYD rank...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Automakers' share in China's NEV exports in May: BYD ranks first with 36.7%, ...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Automakers' share in China's NEV market in May: BYD ranks first with 21.8%, T...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
