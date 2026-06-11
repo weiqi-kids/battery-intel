@@ -1,0 +1,257 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T12:14:05.288098Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-06-11-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Top battery makers' shares in China in May: CATL 46.14%, BYD 16.56% - CnEVPost",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwN2k5NVJYWXk5VDl1bHd1OG8yajBJLWdhS1FaN1B3cFRaLVVXeVZicUJmYWlIQ2c5NHdmQ20zQ2lFUGJLVmNzZWlTZlN1WGNKTW0ycXlBSEJwY3QxOUN0clBPamFXeHJGZFVaNnBTOWFydzVyVDk0RnFwV0JJQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-06-11-022",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Top battery makers' shares in China in May: CATL 46.14%, BYD 16.56%",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/06/11/top-battery-makers-shares-china-may-2026/"
+    },
+    {
+      "rank": 3,
+      "event_id": "tesla-2026-06-11-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "EVs At 35.2% Share In The UK – Tesla Leading BEV Brand",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/11/evs-at-35-2-share-in-the-uk-tesla-leading-bev-brand/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-11-042",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "One-year outdoor testing reveals degradation paths in perovskite tandem solar cells",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/11/one-year-outdoor-testing-reveals-degradation-paths-in-perovskite-tandem-solar-cells/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-11-044",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Study finds tandem PV has 30% lower environmental impact than crystalline silicon",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/11/study-finds-tandem-pv-has-30-lower-environmental-impact-than-crystalline-silicon/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 44,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 34,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 6
+      },
+      {
+        "id": "catl",
+        "count": 5
+      },
+      {
+        "id": "sk_on",
+        "count": 2
+      },
+      {
+        "id": "ganfeng",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 44
+      },
+      {
+        "id": "cathode_material",
+        "count": 3
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 424,
+    "dup_title": 195,
+    "too_old": 80,
+    "gate1_blocked": 30,
+    "gate2_blocked": 30,
+    "passed": 89,
+    "pass_rate": "38.9%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "Garro sets the terms: CATL wants more than 50% of LATAM's storage - Energía Estratégica",
+      "ASX Short Interest Weekly (May 29th): Pilbara Minerals, Wesfarmers, Scentre, Computershare - Smartka",
+      "Morgan Stanley Ceases to Be a Substantial Holder in Pilbara Minerals - Kalkine",
+      "Umicore S.A. stock (BE0974320526): Strategy reset and electric-vehicle headwinds keep investors on a",
+      "2027 Rivian R2 First Drive: From Normal, Is Normal - Car and Driver"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為比亞迪、寧德時代、SK創新相關動態：「Top battery makers' shares in China in May: CATL 46.14%, ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Top battery makers' shares in China in May: CATL 46.14%, BYD 16.56% - CnEVPost（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Top battery makers' shares in China in May: CATL 46.14%, BYD 16.56%（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
