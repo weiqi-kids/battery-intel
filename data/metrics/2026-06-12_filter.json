@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 210,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 35,
+  "gate2_fail": 25,
+  "passed": 72,
+  "gate2_samples": [
+    "Garro sets the terms: CATL wants more than 50% of LATAM's storage - Energía Estratégica",
+    "Umicore S.A. stock (BE0974320526): Strategy reset and electric-vehicle headwinds keep investors on a",
+    "Rivian begins deliveries of its highly anticipated R2 - electrive.com",
+    "Tested: The 2027 Rivian R2 Is Easy to Love - Road & Track",
+    "2027 Rivian R2 Deep Dive: Discovering Some Surprising Secrets with the Chief Engineer - TFLcar"
+  ]
+}

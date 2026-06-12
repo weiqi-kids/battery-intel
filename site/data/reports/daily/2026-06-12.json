@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:47:23.213364Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rivian-2026-06-12-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "RJ Scaringe said there are 2 big reasons Rivian's new R2 doesn't look like a Tesla Model Y dupe - Business Insider",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJbUloNlJNSmlEZGp6dEM4bkllNk9XLUl0bUpPb2k5a19qQjh2VkN0YXJtZVBPaGJONDZUNjVLOTNYODFpZ1pOQkNRV2N0NW9fX2Q0VjZqclZMcDU5QVdIU2lRUWhRNWFVNklJelIwRkNoME56QzV0d1N5bm9iNjg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-06-12-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SpaceX (SPCX) IPO is live today at $135: Here’s exactly what you need to know",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.teslarati.com/spacex-ipo-day-june-12-2026/"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-06-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL-BAIC battery plant rolls out its first cell - Gasgoo",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmF1QkxxTmtiU01oakZITDRxODhvOVNnb2FodmNWSWFUakJzZ0tXRmszTjVPR3dvYjh6V0RyRWYwTktCdDVRbGUxSTdrbFVTSVItQjZnQ3lZOENxV0FtV095SXJzYW0ybkJKbnBTVVJYQkE2ZXU4UV82T2dZQy13LUN2QXRRZ0Fqa0t5UHdEenBpMjQ1VTVqb3g1cUZfdjl2UXZGSGhsRE1KZ212?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-06-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL expects energy storage to become half of total business by 2030 - AL Circle",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRml0dldLcS1HVnZRbjZ5RmtXQjl5YmJhV0dkOFVCZ0V5ZUc2ZWpIdGVYc2h5YVZ4MS1TNjYzcFhsVEFzMkEyUi1SYm5ueUdVbDEzV3JvZndGR0o3bTJicXBjeklyU3JSaFhIOFZ1Q2syNFUzUzEtTVAxZTZjLS1YN3E3S0J3bHZmamRteTFBbm83bkJoNmg2NEpBTGwya2kwWHU4QTIzNnM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_energy-2026-06-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution Signs Battery Patent Licensing Deal With Sunwoda - thelec.net",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95UU5iVi1Obkk3aUNyeFc2bWY4Y2ZGSURxZzRUR1IxNV84WVhlTnlPcy05MEhvNXZkMFF3MWdQaDRnWlFScE9WYlVhZ29jVlU5NkhwMDlpbV9kWklOdHFFV0RsYXRKdm8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 28,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 7
+      },
+      {
+        "id": "lg_energy",
+        "count": 5
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 210,
+    "too_old": 85,
+    "gate1_blocked": 35,
+    "gate2_blocked": 25,
+    "passed": 72,
+    "pass_rate": "33.2%",
+    "gate2_block_rate": "11.5%",
+    "gate2_samples": [
+      "Garro sets the terms: CATL wants more than 50% of LATAM's storage - Energía Estratégica",
+      "Umicore S.A. stock (BE0974320526): Strategy reset and electric-vehicle headwinds keep investors on a",
+      "Rivian begins deliveries of its highly anticipated R2 - electrive.com",
+      "Tested: The 2027 Rivian R2 Is Easy to Love - Road & Track",
+      "2027 Rivian R2 Deep Dive: Discovering Some Surprising Secrets with the Chief Engineer - TFLcar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為蔚來、LG新能源、寧德時代相關動態：「RJ Scaringe said there are 2 big reasons Rivian's new R2 ...」。主要關注主題為電池產業通用、正極材料，市場情緒中性。",
+    "signals": [
+      {
+        "text": "RJ Scaringe said there are 2 big reasons Rivian's new R2 doesn't look like a ...",
+        "level": "yellow"
+      },
+      {
+        "text": "SpaceX (SPCX) IPO is live today at $135: Here’s exactly what you need to know",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
