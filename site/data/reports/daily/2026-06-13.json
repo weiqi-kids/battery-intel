@@ -1,0 +1,185 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:33:57.040827Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-06-13-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails - WIRED",
+      "companies": [
+        "tesla",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43ZUkydUMyNktYM0NyNE44c1BFRHR5SGRxdGhRT1dOZ0hRZ0F5MHBPTkotaTlQbHByT2pRRlhEdFowWGh6LTNqYjFqYUhDbV9PWFNGUURUZDFUZlZ2YzJibXZYS05xT0otcTFLWHNfR0tfQk5s?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China targets 40% penetration for new-energy heavy trucks by 2030",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/06/13/china-targets-40-penetration-new-energy-heavy-trucks-2030/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Geely to continue asset consolidation to strengthen main listed platform, chairman says",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/06/13/geely-asset-consolidation-strengthen-main-listed-platform/"
+    },
+    {
+      "rank": 4,
+      "event_id": "byd-2026-06-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BYD energy storage powers Hungary's largest battery project online",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/06/13/byd-energy-storage-powers-hungary-largest-battery-project-online/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UK Sprints Forward With Grid Connections for 700 Clean Energy Projects",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/12/uk-sprints-forward-with-grid-connections-for-700-clean-energy-projects/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 1
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      },
+      {
+        "id": "byd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 429,
+    "dup_title": 231,
+    "too_old": 96,
+    "gate1_blocked": 34,
+    "gate2_blocked": 21,
+    "passed": 47,
+    "pass_rate": "23.7%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Umicore S.A. stock (BE0974320526): Strategy reset and electric-vehicle headwinds keep investors on a",
+      "Rivian Roadmap: When To Expect R2T, R3/R3X, R4, R5, and RAD-Tuned Variants - MotorTrend",
+      "Rivian begins deliveries of its highly anticipated R2 - electrive.com",
+      "Tested: The 2027 Rivian R2 Is Easy to Love - Road & Track",
+      "2027 Rivian R2 Deep Dive: Discovering Some Surprising Secrets with the Chief Engineer - TFLcar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為特斯拉、Rivian、比亞迪相關動態：「Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and W...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R...",
+        "level": "yellow"
+      },
+      {
+        "text": "China targets 40% penetration for new-energy heavy trucks by 2030（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
