@@ -1,0 +1,185 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T10:53:43.487803Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-06-14-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Why BYD is building a 0.04 USD sodium battery fortress where CATL isn’t looking - CarNewsChina.com",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGVXWVhmZzVPZlNkcHRDZGc2VzJxNldkT1hmTEJiSVRtMml5WERlSGp4bm9RMnphV2tzN1I2RFVYWGtYbnhJN2NpMFVJNEtFODZqNExIdHdUZ29PcjdZWGMwaVRhYUlDb1pCNlN1Vl9aek5POXN0Nm05TWFHTDNMN0NUVUlySTd5by1hZG1nd3R6a2dmcnp2WHNiUmFDOE05MFBjdkhkQldHTU1sMnRaWHhPaDNyUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Battery stocks, which had been squeezed by the slowing growth of the electric vehicle market, are ag.. - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zRmVvUlVsTEY0S3hQRTA1NF9QMERsUjBOOUdpSEFWSWtUcmdIQk9MbXhLVmM3dmg4aE12LWUyV2lzcmtVX1dsRUhiQ3FXNVk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Buried in negative equity? These EV deals can help get you out of that gas guzzler",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/06/13/buried-in-negative-equity-these-ev-deals-can-help-get-you-out-of-that-gas-guzzler/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "From bust to boom: is this lithium rally any different? - Adelaide Now",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNzczeDdOYWpPUEJNSE9TZXVvRDhmZml0WmNSQVFYTl9zZVo3X2lQOVlkaTJSQlRsY01kZUdyUFZKWEY1TF9LRnExZW5NQU5BUUJyTzVHQVMwbE1abi13bXVLdmpkRVhudzYxTUFHcGdQOGVxLUxsTmFvV2U5bmxZT1VqdVNiY1FiZnhSVEp1TEI2NTNDLVBmQ25jLTM5Qm5kMkFHemV4VFYyNDUzQTRuX094akRsR2lYVkZPeWNFQW1PTXVjUjVEdC1nRkpkZFU0VEprUmVQM0I4Q0RuQjNUMGYzTlItN1lsZmZKQUlWX2dCUdIB9wFBVV95cUxPR1V6ZjF4c2ZIeVRQVWxpT29HZVRySmFOSU15alIyY1pKVGV1UnRYMWM0VV9nT1lYTDhzTW8xZW1Cb3FTengxaWZXSmlYQmx5bS1GSXBPTFRGeW5McThabzNKcUZhQ0FkcFVvcWZubDltME4tOEJWcnJpR2FodVJpTTEtY3pVWGpKd0w2Q3NyR3p3cG8zc3hkR0JkOU5LWEczc3hvX0lZUm1LU2JzUFJKXzA0dlBOY2hIUG44WU5DcW95M3gxcGpyWjJrZ2V3TWJTT2RqS0xZV01yMU9zSzV1UnFKNmtfNkthRzdKeVZhVHJMLXY5RC1J?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-14-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fraunhofer Wants Solar Cells On Vehicles — To Help The Grid",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/13/fraunhofer-wants-solar-cells-on-vehicles-to-help-the-grid/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 1
+      },
+      {
+        "id": "catl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 399,
+    "dup_title": 233,
+    "too_old": 94,
+    "gate1_blocked": 31,
+    "gate2_blocked": 16,
+    "passed": 25,
+    "pass_rate": "15.1%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "Umicore S.A. stock (BE0974320526): Strategy reset and electric-vehicle headwinds keep investors on a",
+      "Rivian Roadmap: When To Expect R2T, R3/R3X, R4, R5, and RAD-Tuned Variants - MotorTrend",
+      "Tested: The 2027 Rivian R2 Is Easy to Love - Road & Track",
+      "2027 Rivian R2 Deep Dive: Discovering Some Surprising Secrets with the Chief Engineer - TFLcar",
+      "Rivian Did It - Heatmap News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為比亞迪、寧德時代相關動態：「Why BYD is building a 0.04 USD sodium battery fortress wh...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Why BYD is building a 0.04 USD sodium battery fortress where CATL isn’t looki...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Battery stocks, which had been squeezed by the slowing growth of the electric...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

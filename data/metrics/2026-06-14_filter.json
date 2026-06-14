@@ -1,0 +1,16 @@
+{
+  "total_raw": 399,
+  "dup_title": 233,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 31,
+  "gate2_fail": 16,
+  "passed": 25,
+  "gate2_samples": [
+    "Umicore S.A. stock (BE0974320526): Strategy reset and electric-vehicle headwinds keep investors on a",
+    "Rivian Roadmap: When To Expect R2T, R3/R3X, R4, R5, and RAD-Tuned Variants - MotorTrend",
+    "Tested: The 2027 Rivian R2 Is Easy to Love - Road & Track",
+    "2027 Rivian R2 Deep Dive: Discovering Some Surprising Secrets with the Chief Engineer - TFLcar",
+    "Rivian Did It - Heatmap News"
+  ]
+}
