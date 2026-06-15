@@ -1,0 +1,214 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T14:27:49.705225Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-15-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Has solid state been surpassed already? Lithium-air could be the next big thing in EV batteries … how does a 1600km range sound? – EV Central - EV Central",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT3lKNVBUdUVBTFZiZW91T1dRVVZHeEpFYTNlU3dyQUI5ZldJaWFidWhQWDhQdWw5UTg4eGVMSHlGU05fblAtekZLS2pnMXVkajVaZEJpeFZxYlBVc2hnUTB6NENGdkpzQUJta3h0WHMwZ21NakQ0R2tucVlYVXl2dWlTWV9SMUhhdFpReDBGYXR4R1FBckU4dHN4eTlFUHcxUkxxX0VzVW9yaVVYeHYxVEx0X3pJSFVrbXR2Z242VTZveWd4eWlmeFZYdDE5azgwV0tqRFVFb0Jyb1U4MEdZaEhLejY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-06-15-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "A Rivian R1T Towed A Big Trailer 1,500 Miles. Despite The Range Loss, It Cost Less Than Gas - InsideEVs",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10SUNkTEttcGVDUFc3YVFKeFdmVHFLTHR5QTNIR0lKZTV2eFJmLWVreEMtdlYzZUpKcmc2SjZHZFdwalRINjFXbkRMdDl6d2tqSEZ3ODd3TjA3eDVtRWlpWmlHeEFseF91?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-15-051",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Pseudo-planar heterojunction organic solar cell achieves world record efficiency of 20.21%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/15/pseudo-planar-heterojunction-organic-solar-cell-achieves-world-record-efficiency-of-20-21/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-15-054",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Clean energy wins | Factor This Brief",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.renewableenergyworld.com/solar/clean-energy-wins-factor-this-brief-6-15/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-06-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL boss drops solid-state battery reality check: Years away from mass market - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQm9TN2puWnQ3S0IzekhvNHpsSFJodWtJUWQtYUJ5SXpsQ0RsRExESEpPYXpfeDNzQ1N5NGx3MlpKR3JuRElzTVYxMGVTVGVrQmdnbzdTcm9KY0xQNVgwamJreTF1cGVDclVWT0o4XzhuNE8tSnhDSEZkOXI4YUo1VDFUMkJ1SFdmLU0tZk9mRDUzdzZpMjJ3UWgyRTcxMjd6YUlkMDNZNUJsdXd2M2dnOUlpVU4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 50,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 54,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 43,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "lg_energy",
+        "count": 7
+      },
+      {
+        "id": "rivian",
+        "count": 5
+      },
+      {
+        "id": "eve",
+        "count": 4
+      },
+      {
+        "id": "pilbara",
+        "count": 4
+      },
+      {
+        "id": "nio",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 50
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 214,
+    "too_old": 96,
+    "gate1_blocked": 32,
+    "gate2_blocked": 13,
+    "passed": 71,
+    "pass_rate": "33.5%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "CATL Joins Partner Nio in Betting on Nuclear Fusion - eletric-vehicles.com",
+      "Umicore S.A. stock (BE0974320526): Strategy reset and electric-vehicle headwinds keep investors on a",
+      "Can Rivian Beat Tesla in the Long Term? - The Motley Fool",
+      "Rivian Roadmap: When To Expect R2T, R3/R3X, R4, R5, and RAD-Tuned Variants - MotorTrend",
+      "Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 54 則事件，焦點為LG新能源、Rivian、億緯鋰能相關動態：「Has solid state been surpassed already? Lithium-air could...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Has solid state been surpassed already? Lithium-air could be the next big thi...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "A Rivian R1T Towed A Big Trailer 1,500 Miles. Despite The Range Loss, It Cost...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

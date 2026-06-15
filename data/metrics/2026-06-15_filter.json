@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 32,
+  "gate2_fail": 13,
+  "passed": 71,
+  "gate2_samples": [
+    "CATL Joins Partner Nio in Betting on Nuclear Fusion - eletric-vehicles.com",
+    "Umicore S.A. stock (BE0974320526): Strategy reset and electric-vehicle headwinds keep investors on a",
+    "Can Rivian Beat Tesla in the Long Term? - The Motley Fool",
+    "Rivian Roadmap: When To Expect R2T, R3/R3X, R4, R5, and RAD-Tuned Variants - MotorTrend",
+    "Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators"
+  ]
+}
