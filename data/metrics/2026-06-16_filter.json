@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 34,
+  "gate2_fail": 12,
+  "passed": 73,
+  "gate2_samples": [
+    "CATL Joins Partner Nio in Betting on Nuclear Fusion - eletric-vehicles.com",
+    "Rivian Roadmap: When To Expect R2T, R3/R3X, R4, R5, and RAD-Tuned Variants - MotorTrend",
+    "Rivian R2 Offers a Spare Tire, But It Will Cost You $775 - Torque News",
+    "Can Rivian Beat Tesla in the Long Term? - The Motley Fool",
+    "NIO & TSLA See Fresh Tailwinds But Only One Stock Is Worth Owning - TradingView"
+  ]
+}

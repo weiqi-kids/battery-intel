@@ -1,72 +1,72 @@
 {
   "catl": {
     "earliest": "2018-06-11",
-    "latest": "2026-06-15",
-    "count": 1941,
+    "latest": "2026-06-16",
+    "count": 1942,
     "history_complete": true
   },
   "lg_energy": {
     "earliest": "2022-01-27",
-    "latest": "2026-06-15",
-    "count": 1066,
+    "latest": "2026-06-16",
+    "count": 1067,
     "history_complete": true
   },
   "samsung_sdi": {
-    "earliest": "2009-02-13",
-    "latest": "2026-06-15",
-    "count": 4269
+    "earliest": "2008-11-17",
+    "latest": "2026-06-16",
+    "count": 4331
   },
   "panasonic": {
-    "earliest": "2009-02-19",
-    "latest": "2026-06-15",
-    "count": 4254
+    "earliest": "2008-11-21",
+    "latest": "2026-06-16",
+    "count": 4312
   },
   "eve": {
     "earliest": "2009-10-30",
-    "latest": "2026-06-15",
-    "count": 4036,
+    "latest": "2026-06-16",
+    "count": 4037,
     "history_complete": true
   },
   "sk_on": {
-    "earliest": "2009-02-13",
-    "latest": "2026-06-15",
-    "count": 4269
+    "earliest": "2008-11-17",
+    "latest": "2026-06-16",
+    "count": 4331
   },
   "albemarle": {
-    "earliest": "2009-02-17",
+    "earliest": "2008-11-19",
     "latest": "2026-06-15",
-    "count": 4359
+    "count": 4418
   },
   "sqm": {
-    "earliest": "2009-02-17",
+    "earliest": "2008-11-19",
     "latest": "2026-06-15",
-    "count": 4359
+    "count": 4418
   },
   "ganfeng": {
     "earliest": "2018-10-11",
-    "latest": "2026-06-15",
-    "count": 1886,
+    "latest": "2026-06-16",
+    "count": 1887,
     "history_complete": true
   },
   "pilbara": {
-    "earliest": "2009-02-12",
-    "latest": "2026-06-15",
-    "count": 4384
+    "earliest": "2008-11-14",
+    "latest": "2026-06-16",
+    "count": 4445
   },
   "byd": {
-    "earliest": "2009-02-19",
-    "latest": "2026-06-15",
-    "count": 4269
+    "earliest": "2008-11-21",
+    "latest": "2026-06-16",
+    "count": 4328
   },
   "umicore": {
-    "earliest": "2009-02-12",
-    "latest": "2026-06-15",
-    "count": 4434
+    "earliest": "2008-11-14",
+    "latest": "2026-06-16",
+    "count": 4496
   },
   "basf": {
-    "earliest": "2009-02-12",
-    "latest": "2026-06-15",
-    "count": 4403
+    "earliest": "2008-11-14",
+    "latest": "2026-06-16",
+    "count": 4463
   },
   "tesla": {
     "earliest": "2010-06-29",
@@ -87,9 +87,9 @@
     "history_complete": true
   },
   "volkswagen": {
-    "earliest": "2009-02-12",
-    "latest": "2026-06-15",
-    "count": 4403
+    "earliest": "2008-11-14",
+    "latest": "2026-06-16",
+    "count": 4463
   },
   "etf_lit": {
     "earliest": "2010-07-23",

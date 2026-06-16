@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T12:58:35.341417Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-06-16-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Battery showdown: CATL, BYD, and Panasonic spark 2.20 billion USD energy war - CarNewsChina.com",
+      "companies": [
+        "catl",
+        "byd",
+        "panasonic"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVzRKMnZUT2t1NV9UMEczU3hSMHBBOGhobEMteHhpQjJuZVY0Zzd2MmtrYW9BU3Y0Qk8wbFZIOFdxNzExeTN4VlRjWGg5bjdiSm12Z1RtNEhqYlF3MXJURDBPUDNoUk96akUyelJiY0JQbVM4aDNmTGlzbGYtVlZJSXQwbFkxTHM0MU1EQzBTbU1BYk9udnJBQmR5UThVZDJZdlNwSFlnREk4cXdlX0Nv?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-06-16-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nio Founder Predicts China Car Sales Will Plunge 20% in 2026 - Caixin Global",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWER2bGh6SW1jMkRSemZucGVmQmE2UVpYN1J5ekM2UEVZbnRYWk9mRWxQc2ctZS1hMTE0S2tQNjRJa3l5THQxRS1aeE1vYmRCMXRHangzTGNXbXFCb0hhc1ppelBQNlRzdmRsTXNZeW9VanhEYTVDWUxUaXl0WlhHWFFuMXlrcVgtTXI3T3VPYmlWdmx2cnU5bmFWOF92dEJOb2Q2OS1KeVhzT2FESVhuWTdvdk8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-16-036",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Renault EV Demand Grew 50% in Some Markets from Iran War",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/15/renault-ev-demand-grew-50-in-some-markets-from-iran-war/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-16-040",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Satellite breakthrough enables accurate panel-scale temperature mapping for solar farms",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/16/satellite-breakthrough-enables-accurate-panel-scale-temperature-mapping-for-solar-farms/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-06-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL (Contemporary Amperex Technology Co., Ltd.) Business Report FY ended Dec. 2024 - marklines.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CRFJabEs2YkhkcW5OV053OXZaMV80SVRVOC1MZU5FSGRxWEZXRThWcXRJLVRxWm9fN1l3ZlFfWUJWNC1NWk0zajdhM3Rrc1FnVm42TDlPTTJSOUhwZUxR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 39,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 36,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "rivian",
+        "count": 8
+      },
+      {
+        "id": "catl",
+        "count": 6
+      },
+      {
+        "id": "nio",
+        "count": 3
+      },
+      {
+        "id": "eve",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 39
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 208,
+    "too_old": 100,
+    "gate1_blocked": 34,
+    "gate2_blocked": 12,
+    "passed": 73,
+    "pass_rate": "33.3%",
+    "gate2_block_rate": "5.5%",
+    "gate2_samples": [
+      "CATL Joins Partner Nio in Betting on Nuclear Fusion - eletric-vehicles.com",
+      "Rivian Roadmap: When To Expect R2T, R3/R3X, R4, R5, and RAD-Tuned Variants - MotorTrend",
+      "Rivian R2 Offers a Spare Tire, But It Will Cost You $775 - Torque News",
+      "Can Rivian Beat Tesla in the Long Term? - The Motley Fool",
+      "NIO & TSLA See Fresh Tailwinds But Only One Stock Is Worth Owning - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為Rivian、寧德時代、蔚來相關動態：「Battery showdown: CATL, BYD, and Panasonic spark 2.20 bil...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Battery showdown: CATL, BYD, and Panasonic spark 2.20 billion USD energy war ...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nio Founder Predicts China Car Sales Will Plunge 20% in 2026 - Caixin Global（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
