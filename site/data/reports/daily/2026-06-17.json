@@ -1,0 +1,224 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T12:20:41.143428Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ford Michigan battery plant ramps up hiring, cell manufacturing for EV - The Detroit News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcElpaTlOY0JJWHJDYkpic19oWUhhWVJJUmVWVERyVnZLbFlUZkxOZVBvZVN3TFR4QWFuVE1DamNDWE1HSFdJYVlVWHpyM1JLRFZuZVpNUEdYVzBWNF9DOFk3YmtmRG5CTG80elFyUTM4Q1JLVGRoVndpcXY1RVd0UFBYS2RFSmdzMS1rdnhfMnZ5RFY4UDdBRjFMdHpBclFoSjMwX0lsU1BYX3NuSHZ5SXVVWF9ubjFibFI0YnV0ejZvb1UwODIyZGdDM2FES2VEU0VJcFotUlNlY1pzb28zV2hLS0R3OEk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s New Sodium-Ion Battery Targets a 20-Year Lifespan and Stronger Cold-Weather Range - Bitcoin News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakdvUG9veXZXN1k5OTMya1gyZFJLMXpNMmtUX2NseGxtLWtlUWJvdndLeDJFb015ZG9VUkRqcEROa0ljUlhUdTFjWFdtbm1oNkxDWmVpeDF3NkNfY3hLSTh2ZXFHdDdYYjgyd2IyVGc3ZHVtMjU4MWRzekNfS1RvNl9yYm9tdE9tMEJKUVFaLXBGM1NXa2ZpaEM2dHVSY2dCenYxbnlFVFotZWx2TEJNbG9Sb1VEYTF4RktDTg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Farasis ties up with Germany's WLF Energy to expand storage business - CnEVPost",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHlVQ0tHei1aS3llUEJiUUlETzF2T2tqYUhIZC1sSFB2a0RzWGZMRnlrUkI0bVZSS2Y3RS1EbmYzNXNNZktZT0Z1WmhIeHJhSFktc08xbWU1Sy1sbjZEV3VUZElhNFBsQjNzUXZPYVJkVzFBeUFQTFkwd1dqNmJEN0MwUTI4U1FP?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-06-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's CATL, Bulgaria's Solarpro commission 602MWh BESS - SeeNews",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc09NTndyOTZlRXhyemtnZzJ0Vjd6WTVHWUpxXzBJbWtLcUo5VVZnOGFkWS1JYWRPRnNzNV9KWHpMTl9JZmFQLUE3dTFiSlh2WDRqZTgtUDZEalBSQ0pMcU5tdVkweUZjV0lSQ0tNQWo3cHNSMVh2TjI2YkZjYTlRRVpNQ1lnVXgwRUtpSnRTSQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-06-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL's Zeng Yuqun Pours Cold Water on Solid - State Batteries: Large - Scale Commercialization by 2030 Highly Unlikely - 36 Kr",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4d0lsRzhoaW9vcHZReWFQNHNRc24wMmNiUlloNm5tX1JVdmZydi1zdkY2M1dwSWlpV1dRVnBqZlhuSVJqeFJ5eFNta1JudzUyUUZz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 31,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 7
+      },
+      {
+        "id": "rivian",
+        "count": 4
+      },
+      {
+        "id": "ganfeng",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "sk_on",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 207,
+    "too_old": 93,
+    "gate1_blocked": 32,
+    "gate2_blocked": 13,
+    "passed": 82,
+    "pass_rate": "37.3%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Rivian’s Make-or-Break SUV Is Here. Fans Are Already Balking at the Lease Price. - WSJ",
+      "Leading the Charge: How NIO Conquers Shanghai and Hefei Markets - Torque News",
+      "NIO & TSLA See Fresh Tailwinds But Only One Stock Is Worth Owning - Yahoo Finance",
+      "CATL Joins Partner Nio in Betting on Nuclear Fusion - eletric-vehicles.com",
+      "Home solar in rural America: a storm just took out your power, now what?"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為比亞迪、Rivian、贛鋒鋰業相關動態：「Ford Michigan battery plant ramps up hiring, cell manufac...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ford Michigan battery plant ramps up hiring, cell manufacturing for EV - The ...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China’s New Sodium-Ion Battery Targets a 20-Year Lifespan and Stronger Cold-W...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 32,
+  "gate2_fail": 13,
+  "passed": 82,
+  "gate2_samples": [
+    "Rivian’s Make-or-Break SUV Is Here. Fans Are Already Balking at the Lease Price. - WSJ",
+    "Leading the Charge: How NIO Conquers Shanghai and Hefei Markets - Torque News",
+    "NIO & TSLA See Fresh Tailwinds But Only One Stock Is Worth Owning - Yahoo Finance",
+    "CATL Joins Partner Nio in Betting on Nuclear Fusion - eletric-vehicles.com",
+    "Home solar in rural America: a storm just took out your power, now what?"
+  ]
+}
