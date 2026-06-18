@@ -1,0 +1,232 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T11:53:35.088470Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-06-18-005",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "CATL’s net profit in Q1 2026 surpassed BYD, Geely, and Chery combined - CarNewsChina.com",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzhqQzROM3BLQUdXWTdsUzVUczQzaXoteW9PTnlHbXZpSVFVZVJDTWZ5Ty1GWmVaMmV0elUzOUppMVkyUWZIc0ZFaC1jM2JUMEJmT0tFY1VuTXVBcWVKYXpxZE9uYXAzXzBOQ1ZEWURuUGw3dzBzS0MxMkFfV2E5MlF5U1hGVmQ0R181NW9Qdmo1NjYxdndEOWJ3Q0RBV2RUV0dRaFlB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-18-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Solarpro installs 602 MWh battery system in Bulgaria, setting new regional record - Balkan Green Energy News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVJWcXpFYWlUcndvcUVKMnFBczI3OUxBM0c1d2JVa1B0U2paY3BlSkt6V3hMa2d1SWFtMmluZ2d3UjVuVlpOZVBiNUhhY2kzbnAwWldqQkFpbHJKQnFVa3BZU3h2TWdhZFMyWk9HVUZ5c04zMDFMR2RONWJoTXhJVjRDd0lwT3VQNEs1cnRNYXBIR09UY3hFRlFJMEpJRC1NUDl4b2JVN0tKZnNCZHpLMEpKd1FoZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-18-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China's sodium-ion push reaches heavy trucks with FAW Jiefang trial",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/06/18/china-sodium-ion-heavy-trucks-faw-jiefang-trial/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-18-041",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Oxford PV achieves 25.6% efficiency for perovskite-silicon tandem module based on shingled design",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/18/oxford-pv-achieves-25-6-efficiency-for-perovskite-silicon-tandem-module-based-on-shingled-design/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-06-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL’s new safety patents tackle EV fire risks and skyrocketing insurance bills funded by 3.28 billion USD - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ2dfNDVSZ2dPSE5HdHItV3NPVHhzRnlsd2pHVU9zTXhrVkxWMnFWcWZOdWJUVXN0dWhnMzVzTHVWaXkxSjFwRE9rbi1IN2VyMy0xVXRnUGdxTVA4ZFh6QnZjaWR5MGpTRXBjSlNhVWtCVmUxd1huMmZjclhoSVc5Qy0tZkFvZnZrUm5CbC1PVXZvZ2VjQjBTSHdMZDZlamZfeDlIR3BzbDREMUJtQVkyejRMOG5mUHotYnlDNHU3TDh1UDhyV2ZRRTRra1BUbWtDZmFTVnlKNmFLQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 45,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 48,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 41,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 5
+      },
+      {
+        "id": "catl",
+        "count": 4
+      },
+      {
+        "id": "nio",
+        "count": 4
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 45
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      },
+      {
+        "id": "recycling",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 428,
+    "dup_title": 198,
+    "too_old": 88,
+    "gate1_blocked": 33,
+    "gate2_blocked": 18,
+    "passed": 91,
+    "pass_rate": "39.6%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "CEE Roundup: EPCs complete CATL and Sungrow-supplied 600MWh Bulgaria projects - Energy-Storage.News",
+      "Samsung SDI Rebounds as Rivals’ Output Slumps - Businesskorea",
+      "Ganfeng LiEnergy secures over 30 GWh of project pipeline at SNEC Smart E, to show Full-Scenario Stor",
+      "What the automotive press has to say about Rivian’s new R2 - Crain's Chicago Business",
+      "Rivian ditches AM/FM radio tuners in its R2 and 4x4 fans aren't happy - TechRadar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 48 則事件，焦點為比亞迪、寧德時代、蔚來相關動態：「CATL’s net profit in Q1 2026 surpassed BYD, Geely, and Ch...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CATL’s net profit in Q1 2026 surpassed BYD, Geely, and Chery combined - CarNe...",
+        "level": "yellow"
+      },
+      {
+        "text": "Solarpro installs 602 MWh battery system in Bulgaria, setting new regional re...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 428,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 33,
+  "gate2_fail": 18,
+  "passed": 91,
+  "gate2_samples": [
+    "CEE Roundup: EPCs complete CATL and Sungrow-supplied 600MWh Bulgaria projects - Energy-Storage.News",
+    "Samsung SDI Rebounds as Rivals’ Output Slumps - Businesskorea",
+    "Ganfeng LiEnergy secures over 30 GWh of project pipeline at SNEC Smart E, to show Full-Scenario Stor",
+    "What the automotive press has to say about Rivian’s new R2 - Crain's Chicago Business",
+    "Rivian ditches AM/FM radio tuners in its R2 and 4x4 fans aren't happy - TechRadar"
+  ]
+}
