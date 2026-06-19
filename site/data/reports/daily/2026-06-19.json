@@ -1,0 +1,197 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T12:11:22.258599Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nio-2026-06-19-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "New Models and New Brands Gain Momentum, Rivian and NIO May Be Nearing a Performance Turning Point - NAI500",
+      "companies": [
+        "nio",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUHFzZnhTN1FnWVN1LWhuN3hFbUJBeWJXS25xdFBOVVdNNnZXRlFBOTdoZmprWWhRblBTekZDUE9pSk1oZUNiYWRiSFlNdktrMjZ0UVJjY2FwODJiYkdQcDRBdWFtejVtWlJYMTduWFhMTjg1TWdHeGxXYzByd1ZVeWZzN0t6bWpRMHF6WGJ3eUNtRG02eU5CemxyR25vdTlWbmlfeGFsc254MVZnRGhzS0FEYW9XcVZsVU01SUpOdHp6cnJFSXlPRWl3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-19-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Developing El Niño set to reshape global solar resource",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/19/developing-el-nino-set-to-reshape-global-solar-resource/"
+    },
+    {
+      "rank": 3,
+      "event_id": "ganfeng-2026-06-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ganfeng and Lithium Argentina Seek a Third Investor for Lithium Project - The China-Global South Project",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0ZMZWVfSmlYM3NOMDEyWUNqS3VQNzN3ZXo5enZRNFhDNnpISW9CTXJiTk5HcGc4aGk4QWIycE01LV93dTA3X3N5Mkt6UDAyZVZVcUU1dVZURUQyVTRvMEJ2YUwwWEZwVUJwVGZWX0p3ay13REZrTUlKdTAzVEhpMWxaYnY0amZZTldIcUVNOTdKZlNTbTl5bU9fdVZCZ2NUbEE4RUl2eDlmb1dIMjRlRjBzTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pilbara-2026-06-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pilbara Minerals’ P2000 Pilgangoora Project Secures Major Funding Boost - Discovery Alert",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaUl3T0hvUERoS3JKekUtd2ItM2NkaHVnYWs4YWh2LUdqd083R3RIeE1JVjM1dHBjZTh1UFpOYjVuY2ZRNFY3cGZic1RiNEdOZXlkMHFqbHVIUjhwV0xEem40NlNIZzBzaUxieXJ1ZHhndDl3LUdCZmx6NDh0b2tsZkFNYnlwYmFhNXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rivian-2026-06-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rivian's new charging deal could lower owners' bills while helping utilities dodge peaks - The Cool Down",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRXo4RmRjNms3aEREQmc5blhGNnJWN1VwVFNMRXVJamVjMF8zVjBlNjBtOW9vcWJrSUt2aVRGZEdQa1B3M3gwNnZVeWJTZWVtNFJDQkhkZ3E5Vzh5emtQZHNueGFyOGZLLXJjZl9ScmpNblBMZ042dGN2OXBuem1NZk5fOWpkYXdtaXB1ajAyRWNCREU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 23,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "rivian",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "ganfeng",
+        "count": 1
+      },
+      {
+        "id": "pilbara",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 428,
+    "dup_title": 225,
+    "too_old": 81,
+    "gate1_blocked": 30,
+    "gate2_blocked": 22,
+    "passed": 70,
+    "pass_rate": "34.5%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "CEE Roundup: EPCs complete CATL and Sungrow-supplied 600MWh Bulgaria projects - Energy-Storage.News",
+      "Solarpro and CATL commission 602 MWh BESS in Bulgaria - ESS News",
+      "Former CATL CTO Bob Galyen Joins EnPower Board of Directors - citybiz",
+      "Samsung SDI Rebounds as Rivals’ Output Slumps - Businesskorea",
+      "Ganfeng LiEnergy secures over 30 GWh of project pipeline at SNEC Smart E, to show Full-Scenario Stor"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為Rivian、比亞迪、贛鋒鋰業相關動態：「New Models and New Brands Gain Momentum, Rivian and NIO M...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "New Models and New Brands Gain Momentum, Rivian and NIO May Be Nearing a Perf...",
+        "level": "yellow"
+      },
+      {
+        "text": "Developing El Niño set to reshape global solar resource（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

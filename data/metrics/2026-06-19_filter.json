@@ -1,0 +1,16 @@
+{
+  "total_raw": 428,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 30,
+  "gate2_fail": 22,
+  "passed": 70,
+  "gate2_samples": [
+    "CEE Roundup: EPCs complete CATL and Sungrow-supplied 600MWh Bulgaria projects - Energy-Storage.News",
+    "Solarpro and CATL commission 602 MWh BESS in Bulgaria - ESS News",
+    "Former CATL CTO Bob Galyen Joins EnPower Board of Directors - citybiz",
+    "Samsung SDI Rebounds as Rivals’ Output Slumps - Businesskorea",
+    "Ganfeng LiEnergy secures over 30 GWh of project pipeline at SNEC Smart E, to show Full-Scenario Stor"
+  ]
+}
