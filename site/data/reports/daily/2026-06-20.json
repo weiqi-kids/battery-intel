@@ -1,0 +1,227 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T10:36:37.370055Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-06-20-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Despite All The Smack Talk, Tesla Copied BYD",
+      "companies": [
+        "byd",
+        "tesla"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/19/despite-all-the-smack-talk-tesla-copied-byd/"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-06-20-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rivian To Challenge Tesla FSD Later This Year, CEO Thinks - CleanTechnica",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamttNTNENWlJLVdNMkVUdlRzSWUxOVNWUzJZUnFyUmphc2dDeFUyZ0I4Y19iVFN4Sm1YWVQyR1hONGF6VGhMQkl2VTdXbUtuLUxZT2NDU0c4aThjREZkeFZmaG9mOVIycXFUSGN3ZFNKWWotMVJRcmlOalJiWk1xM2RJeF9HUEZlV0V0bzBuMzNzWjFUZnlfb0l3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rivian-2026-06-20-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rivian To Challenge Tesla FSD Later This Year, CEO Thinks",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/19/rivian-to-challenge-tesla-fsd-later-this-year-ceo-thinks/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-20-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Uruguay EV Sales Report: ICEV Sales Start Melting Down as BEVs Surpass 40% Share in May!",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://cleantechnica.com/2026/06/19/uruguay-ev-sales-report-icev-sales-start-melting-down-as-bevs-surpass-40-share-in-may/"
+    },
+    {
+      "rank": 5,
+      "event_id": "byd-2026-06-20-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BYD Datang Comparison Reveals Accelerating EV Progress",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/19/byd-datang-comparison-reveals-accelerating-ev-progress/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.32,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "rivian",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": []
+    }
+  ],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "rivian",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "ev_sales",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 428,
+    "dup_title": 262,
+    "too_old": 86,
+    "gate1_blocked": 24,
+    "gate2_blocked": 19,
+    "passed": 37,
+    "pass_rate": "22.3%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Samsung SDI Rebounds as Rivals’ Output Slumps - Businesskorea",
+      "Ganfeng LiEnergy secures over 30 GWh of project pipeline at SNEC Smart E, to show Full-Scenario Stor",
+      "Pilbara Minerals (ASX:PLS) Shares Slide Today – Here’s Why - Kalkine",
+      "Rivian lays off hundreds of workers days after new vehicle deliveries begin - Los Angeles Times",
+      "Rivian has bad news for hundreds of its workers - thestreet.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為特斯拉、Rivian、比亞迪相關動態：「Despite All The Smack Talk, Tesla Copied BYD」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Despite All The Smack Talk, Tesla Copied BYD（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rivian To Challenge Tesla FSD Later This Year, CEO Thinks - CleanTechnica",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

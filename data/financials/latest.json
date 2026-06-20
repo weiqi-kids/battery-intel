@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T12:11:18.516058Z",
-  "quarter": "2025-03-31, 2025-06-30, 2025-12-31",
+  "updated_at": "2026-06-20T10:36:33.967707Z",
+  "quarter": "2025-06-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "albemarle",
@@ -143,17 +143,17 @@
       "name": "松下",
       "ticker": "6752.T",
       "currency": "JPY",
-      "ar": 1316172000000,
-      "ar_prev": 1253603000000,
+      "ar": 1379750000000,
+      "ar_prev": 1316172000000,
       "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 1022225000000,
-      "inv_prev": 1211190000000,
-      "inv_qoq": "-16%",
+      "inventory": 1066123000000,
+      "inv_prev": 1022225000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-03-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "pilbara",

@@ -12,14 +12,14 @@
     "history_complete": true
   },
   "samsung_sdi": {
-    "earliest": "2008-02-21",
+    "earliest": "2007-11-23",
     "latest": "2026-06-19",
-    "count": 4525
+    "count": 4582
   },
   "panasonic": {
-    "earliest": "2008-02-27",
+    "earliest": "2007-11-29",
     "latest": "2026-06-19",
-    "count": 4498
+    "count": 4555
   },
   "eve": {
     "earliest": "2009-10-30",
@@ -28,19 +28,19 @@
     "history_complete": true
   },
   "sk_on": {
-    "earliest": "2008-02-21",
+    "earliest": "2007-11-23",
     "latest": "2026-06-19",
-    "count": 4525
+    "count": 4582
   },
   "albemarle": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-18",
-    "count": 4609
+    "count": 4669
   },
   "sqm": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-18",
-    "count": 4609
+    "count": 4669
   },
   "ganfeng": {
     "earliest": "2018-10-11",
@@ -49,24 +49,24 @@
     "history_complete": true
   },
   "pilbara": {
-    "earliest": "2008-02-20",
+    "earliest": "2007-11-22",
     "latest": "2026-06-19",
-    "count": 4636
+    "count": 4696
   },
   "byd": {
-    "earliest": "2008-02-27",
+    "earliest": "2007-11-29",
     "latest": "2026-06-18",
-    "count": 4512
+    "count": 4571
   },
   "umicore": {
-    "earliest": "2008-02-20",
+    "earliest": "2007-11-22",
     "latest": "2026-06-19",
-    "count": 4688
+    "count": 4749
   },
   "basf": {
-    "earliest": "2008-02-20",
+    "earliest": "2007-11-22",
     "latest": "2026-06-19",
-    "count": 4655
+    "count": 4714
   },
   "tesla": {
     "earliest": "2010-06-29",
@@ -87,9 +87,9 @@
     "history_complete": true
   },
   "volkswagen": {
-    "earliest": "2008-02-20",
+    "earliest": "2007-11-22",
     "latest": "2026-06-19",
-    "count": 4655
+    "count": 4714
   },
   "etf_lit": {
     "earliest": "2010-07-23",

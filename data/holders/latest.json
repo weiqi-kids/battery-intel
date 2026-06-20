@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T12:11:21.592148+00:00",
+  "updated_at": "2026-06-20T10:36:36.737882+00:00",
   "companies": {
     "panasonic": {
       "name": "Panasonic",
@@ -244,7 +244,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 1222,
           "pct_held": 0.0,
-          "value": 28228
+          "value": 27886
         }
       ]
     },
@@ -257,13 +257,13 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 2125,
           "pct_held": 0.0,
-          "value": 103795
+          "value": 104135
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 18196,
           "pct_held": 0.0,
-          "value": 888783
+          "value": 891694
         }
       ]
     },
@@ -477,13 +477,13 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 2000,
           "pct_held": 0.0,
-          "value": 160960
+          "value": 160880
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 370,
           "pct_held": 0.0,
-          "value": 29777
+          "value": 29762
         }
       ]
     }
