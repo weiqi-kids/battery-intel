@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 264,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 27,
+  "gate2_fail": 19,
+  "passed": 31,
+  "gate2_samples": [
+    "Samsung SDI Rebounds as Rivals’ Output Slumps - Businesskorea",
+    "Ganfeng LiEnergy secures over 30 GWh of project pipeline at SNEC Smart E, to show Full-Scenario Stor",
+    "Pilbara Minerals (ASX:PLS) Shares Slide Today – Here’s Why - Kalkine",
+    "Umicore Stock - analyst consensus and background on the materials group - AD HOC NEWS",
+    "Rivian lays off hundreds of workers days after new vehicle deliveries begin - Los Angeles Times"
+  ]
+}
