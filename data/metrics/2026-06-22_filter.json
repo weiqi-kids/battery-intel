@@ -1,0 +1,16 @@
+{
+  "total_raw": 408,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 28,
+  "gate2_fail": 19,
+  "passed": 65,
+  "gate2_samples": [
+    "LG Energy Solution to Join ESS Europe 2026 in Germany - Seoul Economic Daily",
+    "Samsung SDI Rebounds as Rivals’ Output Slumps - Businesskorea",
+    "Ganfeng LiEnergy secures over 30 GWh of project pipeline at SNEC Smart E, to show Full-Scenario Stor",
+    "Pilbara Minerals (ASX:PLS) Shares Slide Today – Here’s Why - Kalkine",
+    "Umicore Stock - analyst consensus and background on the materials group - AD HOC NEWS"
+  ]
+}

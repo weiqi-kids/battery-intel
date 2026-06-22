@@ -1,0 +1,230 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T13:38:42.975840Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "basf-2026-06-22-018",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "From a Canadian Mine to a German EV: Rock Tech Lithium, BASF, and Volkswagen are Reducing Dependence on China - news.financial",
+      "companies": [
+        "basf",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOV92ZVFnYzktcjZPMDFPNVdwQV9UNVQ1QUt2Z2NrVG5sekpKbFpvV1ZMbElzX29GSlNlX1BFSk1hYTBUWHhRMVJpVG5yTVQ5ZDE3X3FqZy1uR3UxV3BJek5MZkRqUTk2VkxoeGIxcTYzNnkyUXFjWU9YU3VnR0ZJelJaeThPZ0UzWmRwS2d5MU9sMkVyNW9Eanc4eDRYT01rMFltMF9KZGwzcjVEb0t6M1psdG9ZaVczMmRGdzdDT0tHYmgya1V5LVBoeWlfemFTNlhNSQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-06-22-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "MW-level flash charging competition escalates as BYD, Geely, CATL compete for industry influence - digitimes",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmNYRXJIcUlGUmZnZm9mcTQ1V0xMZ1FBRFktMUdsYjUtaWFpcUZsZXJCMVkxRUloUHZDMy05Q2s4X3FGeVozeXR0SnBSdkhsSEFCN2RsQ1plVFRNVFVCSjlZVmN0TWN6S052MkE0MG1XdFBPRHJZLTR2QllsZllaRldXNGNQY0RWMGswVVdKU25id3dnVVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ganfeng-2026-06-22-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hong Kong Stock Market Movement | CATL's Jianxiawo Lithium Mine in Yichun, Jiangxi Expected to Resume Production; Ganfeng Lithium (01772) and Tianqi Lithium (09696) Both Drop Over 5% - 富途牛牛",
+      "companies": [
+        "ganfeng",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "catl"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlp2by12dkU5Vk5iMWRXXzVTNlVKeTNEVklzc1IwMmhtcWY0QlZxX2pCS3NMUVhjeVpqQTk3VGc1bkEzY2M3ZDRPaEVxM1ZWZ3p5QVZ1ZmRoQmJ4Q3M2WUljUjRZN1ZNQUppVFQ1MU9ZcUtQamxUakJvaUxaRHE5ckdEZ0FQaEJYZUNrMExVaUw5TDZmdm5fbUFJVmhMM2c1cVBVTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_energy-2026-06-22-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LG Energy Solution Surpasses 100,000 Global Patent Applications - thelec.net",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04bVVNN1JXdXMweXNzMFVpaUM3b0hXZE02NFFHWVJnM1N1VVdzckN0SXNaVXprMkhNV3lIRXZoc0JpRmlTMHpWaTB5WmhPTy1QelF5bnpkTHFCTXJ0XzFVcXdSZ0tJN3M?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ganfeng-2026-06-22-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Intraday Movement | Ganfeng Lithium Plunges Nearly 5%, With Daily Short Interest More Than Doubling. - 富途牛牛",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXEwdEprbm5nRzVkN1FfejNIaVFKYnd3TkdkYkZEWjFyNi01UW54dGp3UXBnckNDWGx5LUJvdm1KcmJ0TWMtOXZ2Yk1QM05QTVBPMEZEOVI0UnA5YUp3eDZzeFRGSkRtSTJXMGR2TlBzLUk4c3pLVzBfbllQNi1fbDRIekFzTXdsNXNGemRkeUIyMGtsQnNsZDBHM1RwT1l1SzZaRkNBeWtWSEpN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 38,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 7
+      },
+      {
+        "id": "nio",
+        "count": 7
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "lg_energy",
+        "count": 2
+      },
+      {
+        "id": "ganfeng",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 41
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 408,
+    "dup_title": 214,
+    "too_old": 82,
+    "gate1_blocked": 28,
+    "gate2_blocked": 19,
+    "passed": 65,
+    "pass_rate": "33.5%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "LG Energy Solution to Join ESS Europe 2026 in Germany - Seoul Economic Daily",
+      "Samsung SDI Rebounds as Rivals’ Output Slumps - Businesskorea",
+      "Ganfeng LiEnergy secures over 30 GWh of project pipeline at SNEC Smart E, to show Full-Scenario Stor",
+      "Pilbara Minerals (ASX:PLS) Shares Slide Today – Here’s Why - Kalkine",
+      "Umicore Stock - analyst consensus and background on the materials group - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為寧德時代、蔚來、特斯拉相關動態：「From a Canadian Mine to a German EV: Rock Tech Lithium, B...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "From a Canadian Mine to a German EV: Rock Tech Lithium, BASF, and Volkswagen ...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "MW-level flash charging competition escalates as BYD, Geely, CATL compete for...（電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
