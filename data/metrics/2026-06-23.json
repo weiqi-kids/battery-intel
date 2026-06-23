@@ -1,0 +1,49 @@
+{
+  "date": "2026-06-23",
+  "total_events": 38,
+  "by_company": {
+    "catl": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "lg_energy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "eve": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pilbara": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 33,
+      "sentiment_avg": 0.09
+    },
+    "cathode_material": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

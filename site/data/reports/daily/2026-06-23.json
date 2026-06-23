@@ -1,0 +1,214 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T11:21:47.861730Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pilbara-2026-06-23-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Is Pilbara Minerals (ASX:PLS) Leading Lithium's Surprise Comeback? - Kalkine Media",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUVCVzdoVVRkRDdWQl9LazFlR09vX3JkWFVfX3FtZUY5N2s3TEpneXI1RW9ObG9LSVdXQTlyY0lNcC0xM0ZhTWdDTERuZHRRZUlJc0NXMFZJY2VwSnNJb3ZGUVZMTlBtYmpLeFA4ckRRcU9GUFBTWlliWFBRRGRMeGs3TElydlhITk1HR25wRmFic2NROWYzemVLM3o3ZERPMmJjdm5Zdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-23-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "How A Record-High “Energy Imbalance” Is Driving Global Warming",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/22/how-a-record-high-energy-imbalance-is-driving-global-warming/"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-06-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Debuts Battery Storage System Using New Sodium Technology - Bloomberg",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONTk5ODkzSjJLWUVKdDRJU0hDRTVueFlNRnQ5dHJYN1lsMEFJalRHVW03MkhkS1ZHZXlIMC14RHJzSVlueUJIcDhlVnJRNnJmbjZpendmdExucWs5c2xFUkRGZWt1STMzN1laQTNuOTVqTjdnV1BDOGpJVUEtTEpZYTVwMzFkM19RdU1LZkpxRHBYNDR5ZnMzeXI3Y2k5WmNIZXgwZmdMU00tYkt0U1RhRzZNaw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-06-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s CATL bets big on sodium-ion batteries amid lithium volatility - South China Morning Post",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYWZHMERxV2VIX3MySURXeXYzODJVRHE5T1kwSVFteVhydlRXUE4yM25qaUhTWGF4TlJBMXhWdzJWTUd6RGtQNEROclFUeEQ5NEZNc1lQaTNCZWJsOVZLQkdndVQwd2tCcGNrNF9lQ1NzRDRRQ29iM2lWWFozenlSNTJHZEhDQUVqYllxU2pOcUpESmhkWm13NzRBSGh5aFMzOE80dGdJS3U1V0hSQ01ocExhdTk5alBmTDRDR05OakRlaWF4ZzdWa3Q4TUpHQU5NMGVYNjRRM1hOOENkeTRLZlhnVk50eUU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-06-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Electric truck battery-swap network to be built across Europe by CATL and local utility - The Driven",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWxibkVvR01BT0NxQmFpZHZOX25aNVV4WEZvVlBRUHpmck1NVUVGeTVvdnlFN1YwWlRfd3lvT1FvbFVHVEhNblVWbFU0V3haYzA0TzJCalREYkk1WEdDV3RqaUtBY20zYjRyYkdJb0JEUmU1cXg5d3dNQVBvSXlVMTV1cnZhMlVwVk44VmhJMDZmckdZOXZUbG1PVjdHeWVVRENRUzhsblBTbmRZbndqdl9pbFQ3TGw5VHZxWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 30,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 6
+      },
+      {
+        "id": "nio",
+        "count": 5
+      },
+      {
+        "id": "pilbara",
+        "count": 3
+      },
+      {
+        "id": "lg_energy",
+        "count": 2
+      },
+      {
+        "id": "eve",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 217,
+    "too_old": 85,
+    "gate1_blocked": 28,
+    "gate2_blocked": 20,
+    "passed": 75,
+    "pass_rate": "36.1%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "CATL claims purpose-built sodium-ion BESS can help solve ‘uncertainties’ facing industry - Energy-St",
+      "Samsung SDI Rebounds as Rivals’ Output Slumps - Businesskorea",
+      "Ganfeng LiEnergy secures over 30 GWh of project pipeline at SNEC Smart E, to show Full-Scenario Stor",
+      "Pilbara Minerals (ASX:PLS) Shares Slide Today – Here’s Why - Kalkine",
+      "Umicore Stock - analyst consensus and background on the materials group - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為寧德時代、蔚來、Pilbara Minerals相關動態：「Is Pilbara Minerals (ASX:PLS) Leading Lithium's Surprise ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Is Pilbara Minerals (ASX:PLS) Leading Lithium's Surprise Comeback? - Kalkine ...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "How A Record-High “Energy Imbalance” Is Driving Global Warming（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
