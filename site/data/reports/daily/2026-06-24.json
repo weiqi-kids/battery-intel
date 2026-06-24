@@ -1,0 +1,212 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T10:54:38.644565Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-24-031",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Solar industry’s shift from silver presents potential barrier for panel recycling",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/24/solar-industrys-shift-from-silver-presents-potential-barrier-for-panel-recycling/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-24-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Catalyst breakthrough could accelerate green hydrogen production",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/24/catalyst-breakthrough-could-accelerate-green-hydrogen-production/"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-06-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Sees Its Sodium Batteries in at Least 10,000 EVs This Year - Bloomberg.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcktIUVE1WTA1NDQzcHhPcGI0RWtLMlNhRkxKM3NxSG1MM0dpd3U0OVUwbzdqeEFMRVlkQXZsSkFCdU80NWdRVDhEX25qUDExMF9IeDk3QlczUkQxWjJGMlR1b3ZXcTl2SjM1cXRZdGpVeXlqQ2pyd3FjaGZRNHhxZE9ReVdGM1FkVnIyc0ppdm1LWnBZWFBCTnEzbE9iZF9QNzMyeFQxbW5kb0pxZUlwZ1FWTXE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-06-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Is Betting On Battery Swapping Overseas And Sodium-Ion Batteries - Forbes",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYmFYZ0VOMEFyZjJULXZZc0J4UGpGbjVxclh6cFFEdEVmdFp5bXE1UDVPNzhQY0FiMUpRYmV1MVFSRDZYbXlVMkhUV2tYZ2VFdGpLeHFNUmlOTjBIT1ZaQXl3WTlocWZZZWJfMWRWd1V1UFAxRHFsMWNIM0U0bThrcTdMZk5HUWhCSUl3RzlsSUVvVENFeXk0al9yVVFWY3VTbWxuemc3bkUzZmp4c1RoZkcxUTVGU1U5ZkdfUGl6ZDM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-06-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL fights thick battery packs to lower electric performance car floors - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSEZxc3hFWXIydmoteS0yU2RJM1JTWmtVWVVUVHZ1NG5aQ1ViMWxvdjdvWDA5dEwtaU94bFVwNkxRZmhiWHdzdnRNZWpTOXdTVFBZb3ZuaUszNFdsU3cyRXZjamV4VGVLcnRITk9qdFN6NktueHpUU0FWRGk3R3pHVGNaa29xemRybWl6cUlSQmJHQ1l3Vnd3by0ybnBfWGJRVVktdnV6ZnJMRDdJeHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 24,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 7
+      },
+      {
+        "id": "lg_energy",
+        "count": 5
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "ganfeng",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 200,
+    "too_old": 87,
+    "gate1_blocked": 34,
+    "gate2_blocked": 24,
+    "passed": 81,
+    "pass_rate": "35.8%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "CATL Debuts World's First Field-Validated Sodium-Ion BESS, Bringing Sodium Storage to Commercial Rea",
+      "CATL claims purpose-built sodium-ion BESS can help solve ‘uncertainties’ facing industry - Energy-St",
+      "Samsung SDI Rebounds as Rivals’ Output Slumps - Businesskorea",
+      "Ganfeng LiEnergy secures over 30 GWh of project pipeline at SNEC Smart E, to show Full-Scenario Stor",
+      "Pilbara Minerals (ASX:PLS) Lifts P2000 Spend: Strategic Conviction or Rising Execution Risk? - simpl"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為寧德時代、LG新能源、蔚來相關動態：「Solar industry’s shift from silver presents potential bar...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Solar industry’s shift from silver presents potential barrier for panel recyc...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Catalyst breakthrough could accelerate green hydrogen production（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 34,
+  "gate2_fail": 24,
+  "passed": 81,
+  "gate2_samples": [
+    "CATL Debuts World's First Field-Validated Sodium-Ion BESS, Bringing Sodium Storage to Commercial Rea",
+    "CATL claims purpose-built sodium-ion BESS can help solve ‘uncertainties’ facing industry - Energy-St",
+    "Samsung SDI Rebounds as Rivals’ Output Slumps - Businesskorea",
+    "Ganfeng LiEnergy secures over 30 GWh of project pipeline at SNEC Smart E, to show Full-Scenario Stor",
+    "Pilbara Minerals (ASX:PLS) Lifts P2000 Spend: Strategic Conviction or Rising Execution Risk? - simpl"
+  ]
+}
