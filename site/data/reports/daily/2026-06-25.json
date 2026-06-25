@@ -1,0 +1,262 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T10:46:53.577424Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nio-2026-06-25-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nio partner beats CATL bottlenecks with 588Ah liquid solid state cells - CarNewsChina.com",
+      "companies": [
+        "nio",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "nio"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGYtSXFoQkZSYjNLQzJzS09WdHh0WlRPZTZvMFN4d1N2aW1IQlVxSU9jbTNiNHJtbU1uWWc3RG1EVXNCMmZHdmc5VlJtbS1jcWxRRFBISERNR3VyNjc2WlRqcVd5WkY3am5KRExpalBaWFY3ZkJMNE02aElKTmpaekh1dTg4Z0ViYkV6YTJSYm1nRktQam11SVhmTVZUWW9yeUwzYjg1MnkwZEk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-06-25-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "NH Securities sees LG Energy Solution rebound in H2 on ESS orders, Tesla sales - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "tesla",
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": [
+          "lg_energy"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN21KUWh0SldMR1ExWkRzaGtVWUg4TEVRWXI1NmJBVmc3WTg1eWJIZXI2WlRaSk5UQ0F0M28xTS1YWE1DbEFfbEdMN2ItY1paUVlxQTYza284YXZKd0pNZENUNjFObDhnTm1rR3htblhUSGJLVkM0MElTQlVYQ0FmWdIBlAFBVV95cUxNVFh2RkJpamgxMXN2SlBudnFvOENIZG44ZWstRDJaUTNIS3RtaFhQdkVhMnE4WlJVTXpTZFFhOGtlSDRUdkpsWFZIUGFRQzlCQ0FGQzdLNFZ4Y2k4UlRWOFlFR21MZ2NoeHROZU83Yy0xUEk2VXA1bDZZTmk3Qk5HTE9mQUxqYTBBZjZub3Bna0NTQ2ZB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-25-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hong Kong Stocks in Motion | Lithium Battery-Related Stocks Decline Collectively as Lithium Carbonate Prices Drop Nearly RMB 50,000 per Tonne in Six Weeks; Market Focuses on Jianxiawo's Resumption Progress - 富途牛牛",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "lithium_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmFiYXpuNFlHZ0dpbWhHN1hscXlCRC1QR3I3eHZhU1pQN3ZwaVFWVGhoRzdEN3pnZ1lDTWJJMHVsRU9FUk5fUnZSZTNCV2kyMW9RZ3FKUUxxRTZFZUxuS1hCU3FEeUZxQTJHaDhFQzJadlp6MjlsWklHSTFZcDlMWV9sWlZITUcwSkcwRXcwYXRFMjZpQVFzejF4a0d2UEZ2T1VuZ3lVODNtQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-25-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Storage leading growth in Denmark’s energy market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/25/storage-leading-growth-in-denmarks-energy-market/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-06-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL plans about 36 battery swap stations in Hong Kong by 2030 - CnEVPost",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR01rQldMY3dZa0FkUWVtRGhaNGJHSWUtRldKdXUwbFh1TmgzZTRCb2c2dTVCcDFMczNxQ1FkaWtJbkUydmNxdUM1Ti1pREFyZ0lGQzJhTElaTW5XYXZWMUZINGdlbjhfTHVLa1FKVGR0MVNhdGplT1JMeEU3VG5RdFVR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 31,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 7
+      },
+      {
+        "id": "pilbara",
+        "count": 3
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "cathode_material",
+        "count": 3
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 424,
+    "dup_title": 201,
+    "too_old": 88,
+    "gate1_blocked": 29,
+    "gate2_blocked": 26,
+    "passed": 80,
+    "pass_rate": "35.9%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "CATL Debuts World's First Field-Validated Sodium-Ion BESS, Bringing Sodium Storage to Commercial Rea",
+      "CATL claims purpose-built sodium-ion BESS can help solve ‘uncertainties’ facing industry - Energy-St",
+      "Pilbara Minerals (ASX:PLS) Lifts P2000 Spend: Strategic Conviction or Rising Execution Risk? - simpl",
+      "Pilbara Minerals (ASX:PLS) Shares Slide Today – Here’s Why - Kalkine",
+      "Umicore Stock - analyst consensus and background on the materials group - Ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為寧德時代、Pilbara Minerals、蔚來相關動態：「Nio partner beats CATL bottlenecks with 588Ah liquid soli...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nio partner beats CATL bottlenecks with 588Ah liquid solid state cells - CarN...（正極材料、電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "NH Securities sees LG Energy Solution rebound in H2 on ESS orders, Tesla sale...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
