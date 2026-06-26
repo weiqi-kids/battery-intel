@@ -1,0 +1,16 @@
+{
+  "total_raw": 428,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 24,
+  "gate2_fail": 27,
+  "passed": 91,
+  "gate2_samples": [
+    "CATL claims purpose-built sodium-ion BESS can help solve ‘uncertainties’ facing industry - Energy-St",
+    "CATL Debuts World's First Field-Validated Sodium-Ion BESS, Bringing Sodium Storage to Commercial Rea",
+    "Topic: LG Energy Solution Vertech - The Korea Times",
+    "Pilbara Minerals (ASX:PLS) Lifts P2000 Spend: Strategic Conviction or Rising Execution Risk? - simpl",
+    "Umicore Stock - analyst consensus and background on the materials group - Ad-hoc-news.de"
+  ]
+}

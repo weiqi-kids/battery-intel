@@ -1,0 +1,212 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T10:55:50.355970Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nio-2026-06-26-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nio Onvo L60 surpasses 100,000 cumulative deliveries",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/06/26/nio-onvo-l60-100000-deliveries/"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-06-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL targets up to 20,000 vehicles with sodium-ion batteries - electrive.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajY2RUtENUxRdklDNWZnVTZFU2RmY2ZodnBVaUdxSnRkTmUxR2I2b0JXSTNRTlZtWU1WMlFZTFAySTM4UW0yYTVEMzBxWm1tSmxTanZYZ2tIRlBRTC05MThDRTF4Y2lzTkVLZWpfc0dwOTdKendpVmdkNE96amM5NHdmVzBNMEt5TUNVODczU3lMWmMzc0ttU3YtQmQ4UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-06-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Octopus, CATL create battery swapping network for e-trucks - Mobility Plaza",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kTTBRbE1wQ205YllMV09yMERMRWR0bUJiWFlJSjBwd1VoNkZNazFfN091SUduRGoxVTFPUktCTHdSd3VZcllFN2ozZGFnU2dHN2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-06-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Galbot's Galbot S1 begins operations at CATL's factory - Gasgoo",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3l5aVFxTnQwY2ZMTVlPWEJhdW9Bc2lUYXR4Vm50Ylk1X2NPTzJZaVN6Tm1UQnl6WlZ6NjhaTzNCd09WNG5tTjFHaEJWZFdQVzhuNFFvaGpTX1JlTWRTNXZKSTkzbUh5YTI2RzBnM0FMdjU0QXRzTFR6TVoza1AxWlZiLUplaVR5eGw1eHZNNjlqVkdIaHRwUHZVZWY5VEUzZGl4UDZDYkJ0cVRZVnk4T1Q2TXU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_energy-2026-06-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kim Dong-myung leads LG Energy Solution drive to recruit global battery talent - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVENBd3ZjT1U5VGtKenZDdEU5bTEzY3FrQXZ4VjlYalpjYnduNlFXSkx0VmpPRGRNXzVvQ1dlaGJnNTRUNE5UWEU4U1N0RUJqNUhoUFdQUDhfVW5BZXNMRm1JSTZ0dGk1allnMDRYeWpDM3lXVmRYbGppZ09mRURfLWRVTWlRZ1JXRVM3UzlES2RCM1VlQXfSAZYBQVVfeXFMUFRDQXd2Y09VOVRrSnp2Q3RFOW0xM2Nxa0F2eFY5WGpaY2J3bjZRV0pMdFZqT0RkTV81b0NXZWhiZzU0VDROVFhFOFNTdEVCajVIaFBXUFA4X1VuQWVzTEZtSUk2dHRpNWpZZzA0WHlqQzN5V1ZkWGxqaWdPZkVEXy1kVU1pUWdSV0VTN1M5REtkQjNVZUF3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 35,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 8
+      },
+      {
+        "id": "catl",
+        "count": 3
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 3
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 428,
+    "dup_title": 202,
+    "too_old": 84,
+    "gate1_blocked": 24,
+    "gate2_blocked": 27,
+    "passed": 91,
+    "pass_rate": "40.3%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "CATL claims purpose-built sodium-ion BESS can help solve ‘uncertainties’ facing industry - Energy-St",
+      "CATL Debuts World's First Field-Validated Sodium-Ion BESS, Bringing Sodium Storage to Commercial Rea",
+      "Topic: LG Energy Solution Vertech - The Korea Times",
+      "Pilbara Minerals (ASX:PLS) Lifts P2000 Spend: Strategic Conviction or Rising Execution Risk? - simpl",
+      "Umicore Stock - analyst consensus and background on the materials group - Ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為蔚來、寧德時代、三星SDI相關動態：「Nio Onvo L60 surpasses 100,000 cumulative deliveries」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nio Onvo L60 surpasses 100,000 cumulative deliveries（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "CATL targets up to 20,000 vehicles with sodium-ion batteries - electrive.com（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
