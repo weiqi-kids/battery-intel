@@ -1,0 +1,200 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T10:13:12.525546Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nio-2026-06-27-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "NIO CEO: Plugin Vehicles 90% of Chinese Auto Market in 2030",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/26/nio-ceo-plugin-vehicles-90-of-chinese-auto-market-in-2030/"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-06-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL hits 0.051 USD benchmark with 175 Wh/kg Changan sodium cells - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2tCWGlFTTJCQ0xMSV9BSjZ5TEU1WUxHaTFCemhidTJRSHROZnQxZFQwb05TWWUwa3JMX0JJNHRfczlpWDR3c21iTE9veWUtZGZvRWlHZ0hlQ0x5bUxfb3R0RU5vNkljZ2xESDlsWE1aa0RCMURvSlFTWHFiNnc1UkJ1Y28xRUdJdTFWdk9abUtLQ2xXejk0NmRIdmRsbjlOMFBNaQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-06-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL — 36 Battery Swap Stations for Hong Kong, 3000 Total This Year - CleanTechnica",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVlWWWRYS1BZOGQ5cWt3X09SSFVXZUl0Yk1UWUVfQ3U2Nkxlb0d0WURmZVBTQUhjSmRLOEVjNjVLcEdaR1VCMUYtV3FVaUt3T19CcUVHMjNoWE5OUHI2ZTdEeTRjdGtNQnQ4cGFnU3g5SF9yWFpGNGh4YklkMjFLRXJGaEZJTV96b19MbXlXNGUwZUx2T2h4RGV1azBRUVlqR3FlVQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ganfeng-2026-06-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to revenue forward of Ganfeng Lithium Group Co., Ltd. Class A – SZSE:002460 - TradingView",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTVVaZzdKa3d6Sk4xN2dIcGZyUWhCMER4R2w1TFNTS2NaZExoZ3lxb1lMb0Z2YlphY0FFWm9iRGRYeUNQU0VqeWlyZmlRQy00cXc4QWNXVFctU0lCUnRvcnIwdlZWeWVWNXRlYkdXUmpSMmRUeHhfWmVpTVRhWU1ab3ZDa1dTaDFzeFd4N1RYTFkyMF9CYmxySXpOMERPY2dXellpclJSazk5cXpJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "umicore-2026-06-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Umicore focuses on long-term battery strategy, shares on Euronext Brussels - Ad-hoc-news.de",
+      "companies": [
+        "umicore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORk5nT0N2UzFhZUswY0t0QW1EMk9TWGl6Y180ajVmWXBpcThoOXFWT1hhM0djVDVDQkVLMktoUm9vRk04ZzgtUEZYaDFiMXNVSmdCTTNkaWFfMmtpd09wOWFNY2M4YlNSZXpoZm4zVkdnQVN2a3MtRlJ3RGF4MEE5M1ZsbDBuWGN5aGxYdXMtaWMyVW82SjN0U2NJMjlkU0JtelBWU3c3bWlXYXVNR0NrZTc5UEktTGpPNkgzVmxRZlNjNzF2dXhwVU5SZUk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 4
+      },
+      {
+        "id": "rivian",
+        "count": 3
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "ganfeng",
+        "count": 1
+      },
+      {
+        "id": "umicore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 428,
+    "dup_title": 234,
+    "too_old": 79,
+    "gate1_blocked": 25,
+    "gate2_blocked": 35,
+    "passed": 55,
+    "pass_rate": "28.4%",
+    "gate2_block_rate": "18.0%",
+    "gate2_samples": [
+      "CATL claims purpose-built sodium-ion BESS can help solve ‘uncertainties’ facing industry - Energy-St",
+      "Topic: LG Energy Solution Vertech - The Korea Times",
+      "Forge Nano–Samsung SDI tie-up backs Archimedes II (ATII) SPAC plan - Stock Titan",
+      "Pilbara Minerals (ASX:PLS) Lifts P2000 Spend: Strategic Conviction or Rising Execution Risk? - simpl",
+      "Pilbara Minerals Issues 618,302 Ordinary Shares Under Employee Award Plan as Total Shares on Issue R"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為寧德時代、Rivian、蔚來相關動態：「NIO CEO: Plugin Vehicles 90% of Chinese Auto Market in 2030」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "NIO CEO: Plugin Vehicles 90% of Chinese Auto Market in 2030（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "CATL hits 0.051 USD benchmark with 175 Wh/kg Changan sodium cells - CarNewsCh...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
