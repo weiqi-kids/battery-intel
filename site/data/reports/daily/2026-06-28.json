@@ -1,0 +1,186 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T10:31:32.859496Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Octopus wants 300000 electric trucks swapping batteries instead of waiting - TechRadar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZzBwV01RWl9VZlNlQlczLUZRSDdIdzNXUzVzcjJDblI1YTE0M0hBRzRLaV9KM0pBRGdkN0RUb3pOWWhkU3k2bVB4SWlGQkNTcms2MXAwQ3ZPZVNabjVEMmEtODlCakdxUWo3SnBjeUIyQkxubFVoZU1QOWhDS2oxdmxXN25wemJPWWxMTVgwYXhkWnVPLTBlNjZzd2kzWTl0c3M3a2prbWNPN2VENDV6dmFxU1d6TkNrbTI4M01XZHN5Ul9aWGU1T1pOMVlUaDItalNqc2gtT1A2bVQtUGJoaXNDOUtsX2s0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-06-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nio opens pre-orders for five-seat ES8, sets July 9 launch - CnEVPost",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14NjhNbi1zV3R6aVFZM3pZaFVZdnF3UDhIdmUwZVR0Nkxzc0xLSGdCWV9rSmdPTnBEUHVERm1aNVZqNGRYajZ3LWlYZGF2NUtLQU5YR0hXSzBDM285dEpFS1NYY0ZEWkFyd29MQkpxMFpfODlfamRMTEk5Yw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "byd-2026-06-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BYD brings plug-in hybrid push to South Korea with Sealion 6 DM-i debut",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/06/28/byd-korea-sealion-6-dm-i-debut/"
+    },
+    {
+      "rank": 4,
+      "event_id": "nio-2026-06-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nio opens pre-orders for five-seat ES8, sets July 9 launch",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://cnevpost.com/2026/06/28/nio-pre-orders-5-seat-es8-jul-9-launch/"
+    },
+    {
+      "rank": 5,
+      "event_id": "volkswagen-2026-06-28-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Volkswagen Plans To Shutter Four Factories",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/27/volkswagen-announces-plan-to-shutter-four-factories/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 1
+      },
+      {
+        "id": "volkswagen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 261,
+    "too_old": 82,
+    "gate1_blocked": 22,
+    "gate2_blocked": 35,
+    "passed": 26,
+    "pass_rate": "15.8%",
+    "gate2_block_rate": "21.2%",
+    "gate2_samples": [
+      "CATL Debuts World's First Field-Validated Sodium-Ion BESS, Bringing Sodium Storage to Commercial Rea",
+      "Price to sales forward of LG Energy Solution Ltd. – KRX:373220 - TradingView",
+      "Topic: LG Energy Solution Vertech - The Korea Times",
+      "Pilbara Minerals (ASX:PLS) Lifts P2000 Spend: Strategic Conviction or Rising Execution Risk? - simpl",
+      "Pilbara Minerals Issues 618,302 Ordinary Shares Under Employee Award Plan as Total Shares on Issue R"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為蔚來、比亞迪、福斯相關動態：「Octopus wants 300000 electric trucks swapping batteries i...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Octopus wants 300000 electric trucks swapping batteries instead of waiting - ...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Nio opens pre-orders for five-seat ES8, sets July 9 launch - CnEVPost（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
