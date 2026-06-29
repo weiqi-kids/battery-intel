@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 241,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 29,
+  "gate2_fail": 31,
+  "passed": 41,
+  "gate2_samples": [
+    "Price to sales forward of LG Energy Solution Ltd. – KRX:373220 - TradingView",
+    "Topic: LG Energy Solution Vertech - The Korea Times",
+    "Forge Nano–Samsung SDI tie-up backs Archimedes II (ATII) SPAC plan - Stock Titan",
+    "Pilbara Minerals (ASX:PLS) Lifts P2000 Spend: Strategic Conviction or Rising Execution Risk? - simpl",
+    "Pilbara Minerals Issues 618,302 Ordinary Shares Under Employee Award Plan as Total Shares on Issue R"
+  ]
+}

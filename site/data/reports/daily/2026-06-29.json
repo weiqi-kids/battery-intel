@@ -1,0 +1,217 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:39:01.750744Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-06-29-017",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "China pushes battery makers to pay suppliers within 60 days",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/06/29/china-pushes-battery-makers-pay-suppliers-60-days/"
+    },
+    {
+      "rank": 2,
+      "event_id": "pilbara-2026-06-29-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Why Is Pilbara Minerals (ASX:PLS) Leading the Latest ASX Lithium Selloff? - Kalkine Media",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMGZiV19WZG1jRFhJSXRMR09lSjFtZlVEb2xhYzNZMGd2aWs5MlJKNGlPb3Jtb01IeDEySG1xMEh4ZmkxRVJvejhRdG1Bd3lNQ29rdXhPcEx5TGdnU21vYlNzblFQN25DX3B0ZWhyR3lEZGxydXJOa0ZaRVlRcDItMVJZV2lzVUNsbEQ1d09wS0FNa3dINUtlSm9OaHpDS0hBMEdnd1JKZFFMcmU0ZllCWUZkV1VmYzhBdXJMZnZB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese EV battery makers pledge to pay suppliers more quickly - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOal95VWhVSUFGdS1uY3Zia2lfdlFXMUhmaVhULU1SUTZKR2lNTGpuWVFvNFhTMW80cWNhMEg4VDE2VGI0eWYyMnRxMFo4amd0U2pFbThsa0RlTkJlbF9DNERVbmF3enBacHRWZ2tpQVJ6d1QwdDE4eWk0YVkzQ1V5OXdnUkc1a21BQTA2VWktMU5RVlFJenU3V0YteXE1OWI0US1OdEpTNTcwcnBqanJfSEwyYWM1MC0tMzJ5YmU0WHdtTk0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China pushes battery makers to pay suppliers within 60 days - CnEVPost",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUGRWNG9acmxFR0JDQ1pxcmZLcVlWMy1IaWZTSVdrWFpmT05YRGhLWkVZdmtGUUZuVXdFRHk4UFFtU0ZsYXRhTFdJWkJfTG9VUGVzZGVhLTV1dnQ3b1UwTEk2aFVrRXpTSE9MQk90MlZza1RuaGhXUkF1OTdJaWEwWkUzdEx2NnVnbnc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-06-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL joins OEMs to develop recyclable battery framework - electrive.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVndJbUtBRFRqLS1TTjl6aGxmXzdKcXZLSTJYeklrVHp4UTVqMVpXbHluMEtZLUJzdng3MnNPeGJRejdPcjR3MW1jU184SGNZNXNmVHlrX3NKeXpVQXJQMGxFdkJzU1lfWW9IVl9lbFpubnVNSERhN0swSDRZOUswTTFKcllxZ1ZDM19iVnUyTXdlM1MwWGJKRw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 25,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 4
+      },
+      {
+        "id": "pilbara",
+        "count": 3
+      },
+      {
+        "id": "nio",
+        "count": 3
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 241,
+    "too_old": 84,
+    "gate1_blocked": 29,
+    "gate2_blocked": 31,
+    "passed": 41,
+    "pass_rate": "22.2%",
+    "gate2_block_rate": "16.8%",
+    "gate2_samples": [
+      "Price to sales forward of LG Energy Solution Ltd. – KRX:373220 - TradingView",
+      "Topic: LG Energy Solution Vertech - The Korea Times",
+      "Forge Nano–Samsung SDI tie-up backs Archimedes II (ATII) SPAC plan - Stock Titan",
+      "Pilbara Minerals (ASX:PLS) Lifts P2000 Spend: Strategic Conviction or Rising Execution Risk? - simpl",
+      "Pilbara Minerals Issues 618,302 Ordinary Shares Under Employee Award Plan as Total Shares on Issue R"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為寧德時代、Pilbara Minerals、蔚來相關動態：「China pushes battery makers to pay suppliers within 60 days」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China pushes battery makers to pay suppliers within 60 days（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Why Is Pilbara Minerals (ASX:PLS) Leading the Latest ASX Lithium Selloff? - K...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,186 @@
+{
+  "date": "2026-06-29",
+  "date_range": {
+    "start": "2026-06-23",
+    "end": "2026-06-29"
+  },
+  "generated_at": "2026-06-29T12:39:01.890138Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nio-2026-06-25-002",
+      "date": "2026-06-25",
+      "title": "Nio partner beats CATL bottlenecks with 588Ah liquid solid state cells - CarNewsChina.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 187,
+      "last_week": 201,
+      "week_over_week_change": "-7%",
+      "sentiment_this_week": 0.07
+    },
+    "cathode_material": {
+      "this_week": 8,
+      "last_week": 2,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "lithium_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -1.0
+    },
+    "ev_sales": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 31,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "lg_energy": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "eve": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "pilbara": {
+      "event_count": 10,
+      "sentiment_avg": 0.2,
+      "rank": 4
+    },
+    "byd": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "rivian": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "nio": {
+      "event_count": 24,
+      "sentiment_avg": 0.1,
+      "rank": 2
+    },
+    "ganfeng": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "volkswagen": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "tesla": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 8
+    },
+    "sk_on": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "samsung_sdi": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "sqm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "umicore": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "panasonic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 406,
+        "last": 456,
+        "change_pct": -11.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-23",
+      "event_count": 89,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 79,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-25",
+      "event_count": 85,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 81,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-27",
+      "event_count": 30,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 12,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 30,
+      "sentiment_avg": 0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-23 ~ 2026-06-29）共 406 則事件，重點為「Nio partner beats CATL bottlenecks with 588Ah l...」。電池產業通用、正極材料、鋰價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 31 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LG新能源",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Pilbara Minerals",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
