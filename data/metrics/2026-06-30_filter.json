@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 29,
+  "gate2_fail": 29,
+  "passed": 68,
+  "gate2_samples": [
+    "LG worker safety remains a concern in Holland — but growth continues - The Holland Sentinel",
+    "Price to sales forward of LG Energy Solution Ltd. – KRX:373220 - TradingView",
+    "LG Energy Solution raises NMP recycling rate to 97 percent, expands to global sites - 디지털투데이",
+    "Seojin System Signs ESS Enclosure Manufacturing Agreement With Samsung SDI - thelec.net",
+    "Pilbara Minerals (ASX:PLS) Lifts P2000 Spend: Strategic Conviction or Rising Execution Risk? - simpl"
+  ]
+}
