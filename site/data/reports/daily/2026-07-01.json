@@ -1,0 +1,243 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T11:28:12.352135Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-07-01-045",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Europe goes big: BESS projects totalling 11GWh launched by IPPs BW ESS, Greenvolt and Giga Storage",
+      "companies": [
+        "byd",
+        "tesla"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.energy-storage.news/europe-goes-big-bess-projects-totalling-11gwh-launched-by-ipps-bw-ess-greenvolt-and-giga-storage/"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-07-01-019",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Intensifying EV Market Competition: A Comparative Analysis of Rivian and Tesla - Intellectia AI",
+      "companies": [
+        "tesla",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTEtDZVlkM1ZQek92bEROcWpRbjZLRVRVX1g3alNkSEY3OGNlU0JrckdEcmgwRkRKbzUxMXpyS1BhRllQd3lWeTRvX183U0ROU3Ayb1c5UGhkeHgxMHBqZTloVHppbHQxS2tKQXFDeG9KaFp0bF8ybmwwN0ZhSi1Ud3JNaTNybTJmenRhTjg1ZHJNMDkwcHo4dXZQWUdUY2VfVFhDNklZeGtWVllYMWlMaQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "byd-2026-07-01-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BYD battery breakthrough crashes Indonesia’s nickel cartel dream - Asia Times",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU3JJWllEeUV5cl9rUm9GQXhlVDJaWW1hM0hGQi1KSEZyLUlLSWl6Yl9BOXN2M2hQY3UySmhtRkdZd3RoSVVkNnlUbU5uMjJ5THgzdGxTTkJpd05sa2kzajRFcFE4eUh5by02NFlKNWF3V3FvSkFmMnRyY0RFMUhtOW1HOUZobTNkSEo5a244amFRdHF5eUJvY2l3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "byd-2026-07-01-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BYD Accelerates Global EV Expansion as Chinese Automakers Capture Dominant Market Share - EVTech.News",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2N4WjdOcFZqdDBnYzhjSlR6U05adzRuQ2NDTUNRc194YmF2ZlFTaXF1ZTVyaHg5aDJHaVZMb2puS0FWRng0X3pxeXMwdVg4TDZ0dTFCWi1QejBUUDFiVlkxOHdTLVByWGhEWDVhdXlRMDhDUG1hSU9lUERFc0xvY1BvUUlsYl9Ea0pHdFVJQmhSeEZoUERyaDVfckVIeWU1VWFMUHIzUi1lSC1lYWZHMWl5cm9QOEVJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "byd-2026-07-01-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BYD extends recovery in June as overseas sales hit new record",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://cnevpost.com/2026/07/01/byd-jun-2026-sales/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 54,
+    "sentiment_distribution": {
+      "positive": 11,
+      "neutral": 42,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 9
+      },
+      {
+        "id": "catl",
+        "count": 8
+      },
+      {
+        "id": "byd",
+        "count": 6
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 4
+      },
+      {
+        "id": "eve",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 49
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 193,
+    "too_old": 82,
+    "gate1_blocked": 29,
+    "gate2_blocked": 25,
+    "passed": 97,
+    "pass_rate": "41.6%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "LG worker safety remains a concern in Holland — but growth continues - The Holland Sentinel",
+      "Seojin System Signs ESS Enclosure Manufacturing Agreement With Samsung SDI - thelec.net",
+      "Pilbara Minerals (ASX:PLS) Lifts P2000 Spend: Strategic Conviction or Rising Execution Risk? - simpl",
+      "Pilbara Minerals Issues 618,302 Ordinary Shares Under Employee Award Plan as Total Shares on Issue R",
+      "Sacramento's former Fry's Electronics site to get new life as Rivian showroom, service center - CBS "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 54 則事件，焦點為蔚來、寧德時代、比亞迪相關動態：「Europe goes big: BESS projects totalling 11GWh launched b...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Europe goes big: BESS projects totalling 11GWh launched by IPPs BW ESS, Green...",
+        "level": "red"
+      },
+      {
+        "text": "Intensifying EV Market Competition: A Comparative Analysis of Rivian and Tesl...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
