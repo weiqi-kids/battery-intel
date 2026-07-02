@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 26,
+  "gate2_fail": 18,
+  "passed": 95,
+  "gate2_samples": [
+    "LG worker safety remains a concern in Holland — but growth continues - The Holland Sentinel",
+    "Seojin System Signs ESS Enclosure Manufacturing Agreement With Samsung SDI - thelec.net",
+    "Sacramento's former Fry's Electronics site to get new life as Rivian showroom, service center - CBS ",
+    "NIO’s Strong Deliveries Aren’t Enough to Keep the Stock From Slumping - Barron's",
+    "Nio Owners Locked Out in China as App Crash Disables Digital Keys - eletric-vehicles.com"
+  ]
+}

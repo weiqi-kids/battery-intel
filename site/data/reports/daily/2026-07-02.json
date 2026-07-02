@@ -1,0 +1,248 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:45:01.400085Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-07-02-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BYD set to overtake Tesla again in fully electric car sales - The Business Times",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3E1MWtucWNONUVSR1B0QWlGUzBRci1pQ0g3UDlJdi1PU0pmb2VFNjZRaGJDYTA5dHluUEMxSzRnd1RnQUVQVDVMaEVuTFFLNVhJNkxwSUc1SV9iWXo2X29jZVZ4dUJuM19SMGV3SmVzRzZNZzZjMmk5N011SHdsQU4wNW9fWUo5MkR1SmtNUE5SZUVydDk0SFFsQ3NDRVNTUWc2Q2g2enh0LUpTM1JyLXQ0M056MUtXQlc0QllKeEF1UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-07-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Says Mining, Not Refining, Is Battery Making’s Big Hurdle - Bloomberg.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYUE0blpiZ19aTHFRa0xUNjRxLTBHOERlTzFJSjFKaUFQWTZyWlNQVlZOaDFTcy02LXRhcEVvakJYeEI1WkRhQ2QxWndHMmRLTERUcFhWcGUwVlFOamZlYUtiS2ZnaVhpZ3JmNE45VmVhZmJTR0NhN1JWWWhyVmhiT3E3NGw4dmNJQm9qTFltSjhSXzFjRFQ5M0NUUkN6UG9pRElrQnplN0pzcm8tOHNpWA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-07-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL says mining, not refining, is battery making’s big hurdle - Mining.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lUUtERy00Y1hpVTMxRGI0OC1jTUpGMHAwSEFnS2xpaUQ0TVdHeUVNOFhreEZSLXlBY2tSSkNJU3JLcVlULUdOSE9hYw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ford Started Building US Batteries On Chinese Tech Congress Fought Over - Carscoops",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aV09TY3k4VHlKVGZscEJ4bGlMZ0owbEpST3F0R1BaYkNTdzlmUUtvcXlvWkx4X3VkNGpyM096OTJ4RzdLSlFoSUU5QnFjeGRjQ0JrYlBjTWd1U2gwd1FPS3VFSzd1S0JsUmZtVE9LWEhvb2QyMmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-07-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL partners with J&T Express to provide battery swap services for 5,000 heavy-duty trucks - CnEVPost",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUzFvT1M0NFd0NEJiUkppMjllUUw3cGs1dnc4MEsyX013SjUzdFViaDF1bFJNcjBJNno3VklMS2FoaHE5OUxQNVI2b2RWWER5UUh3N041THNmeXFvR3F0TlczU183c0NWbDNKb0J5d0RJdVlxMkRyaUZPVUd6SndKdnNkeVpTZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 36,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 6
+      },
+      {
+        "id": "eve",
+        "count": 4
+      },
+      {
+        "id": "nio",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "rivian",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 38
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      },
+      {
+        "id": "recycling",
+        "count": 1
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 207,
+    "too_old": 81,
+    "gate1_blocked": 26,
+    "gate2_blocked": 18,
+    "passed": 95,
+    "pass_rate": "43.2%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "LG worker safety remains a concern in Holland — but growth continues - The Holland Sentinel",
+      "Seojin System Signs ESS Enclosure Manufacturing Agreement With Samsung SDI - thelec.net",
+      "Sacramento's former Fry's Electronics site to get new life as Rivian showroom, service center - CBS ",
+      "NIO’s Strong Deliveries Aren’t Enough to Keep the Stock From Slumping - Barron's",
+      "Nio Owners Locked Out in China as App Crash Disables Digital Keys - eletric-vehicles.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為寧德時代、億緯鋰能、蔚來相關動態：「BYD set to overtake Tesla again in fully electric car sal...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BYD set to overtake Tesla again in fully electric car sales - The Business Times（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "CATL Says Mining, Not Refining, Is Battery Making’s Big Hurdle - Bloomberg.com（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
