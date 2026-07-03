@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 186,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 25,
+  "gate2_fail": 35,
+  "passed": 96,
+  "gate2_samples": [
+    "LG worker safety remains a concern in Holland — but growth continues - The Holland Sentinel",
+    "Why Is Pilbara Minerals (ASX:PLS) Back in Focus Across the ASX 200? - Kalkine Media",
+    "Tesla Model Y L vs BYD Sealion 8: Specs and Price Comparison (2026) - zecar",
+    "Umicore business overview and strategic position in global materials markets - Ad-hoc-news.de",
+    "Rivian raises 2026 delivery outlook while Lucid misses Wall Street expectations for second quarter -"
+  ]
+}

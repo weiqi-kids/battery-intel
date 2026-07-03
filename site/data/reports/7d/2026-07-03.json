@@ -1,0 +1,182 @@
+{
+  "date": "2026-07-03",
+  "date_range": {
+    "start": "2026-06-27",
+    "end": "2026-07-03"
+  },
+  "generated_at": "2026-07-03T10:40:33.734621Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "byd-2026-06-30-035",
+      "date": "2026-06-30",
+      "title": "How bidirectional EV charging works — and why VW, BMW, BYD want to capitalize on the technology - Automotive News",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 206,
+      "last_week": 199,
+      "week_over_week_change": "+4%",
+      "sentiment_this_week": 0.08
+    },
+    "cathode_material": {
+      "this_week": 4,
+      "last_week": 8,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.12
+    },
+    "lithium_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "recycling": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ev_sales": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 28,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "ganfeng": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "umicore": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "rivian": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "nio": {
+      "event_count": 24,
+      "sentiment_avg": 0.19,
+      "rank": 2
+    },
+    "byd": {
+      "event_count": 18,
+      "sentiment_avg": 0.22,
+      "rank": 3
+    },
+    "volkswagen": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 9
+    },
+    "lg_energy": {
+      "event_count": 9,
+      "sentiment_avg": -0.06,
+      "rank": 6
+    },
+    "samsung_sdi": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "pilbara": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 5
+    },
+    "panasonic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "tesla": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "eve": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 423,
+        "last": 471,
+        "change_pct": -10.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-27",
+      "event_count": 31,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 67,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 72,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 107,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 91,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 42,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-27 ~ 2026-07-03）共 423 則事件，重點為「How bidirectional EV charging works — and why V...」。比亞迪表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 28 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Rivian",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "蔚來",
+        "reason": "本週出現 24 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

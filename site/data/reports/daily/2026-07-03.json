@@ -1,0 +1,277 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:40:33.590514Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rivian-2026-07-03-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Tesla, BYD, or Rivian: Which Stock Currently Has the EV Crown? - The Motley Fool",
+      "companies": [
+        "rivian",
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbjhPcTBhZktKaE1kTzRjcW5VeGctS2RsbGdabGdrbi1tS1J4WlBuVXRhQjdPTDJBQktnMF9MQXJiX1BkSVgxdktBbWRBTlNwcFhWTU5sY1JqWHd0UUN3OU5MdU11QUVmdzVyWVFOR1JxWU5ZZ0t2bjZZUGFaRDE5ZHU1OURwS0g4QmpkVVBid294dDRpQm00?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-07-03-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Tesla, BYD, or Rivian: Which Stock Currently Has the EV Crown? - Yahoo Finance",
+      "companies": [
+        "rivian",
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNE1iSGxOWnpfMUo1UWQ2THFKdVgyeVRNem1jZUN0NWllLUdTZE5ld0RsUmtUU09YQ2ZzaEIzdzh2M3NvWTJKdVhfQU9sLWo1N3VmWGlSX0l4RzdvMGhpNTl1blliZVhSMzBUWmhfS0N6X1o5TC15X0tiektBdE80MUJ3bDl4Qnl5dmxtSWlPTlhuYUo4ZVB4UEZEeEMwdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-07-03-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Global EV battery market share in January-May 2026: CATL 40.2%, BYD 14.4% - CnEVPost",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMWczcm5Gd1UxNFhhMGI3eXJTWktiSDVZRUNFMnBrRWZHaU9pVDRoSjkyelJ4Zkx3QmU0SDZoTl9OSDNZS3ZwSmk0aDQzUlR2NVZra2hqNkR6VE9OaXVSWHJhZXJMVEx1S0ZvaFdvN3VYZkhockhJdUE1NVVyZDJFMExn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-07-03-023",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Global EV battery market share in January-May 2026: CATL 40.2%, BYD 14.4%",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/07/03/global-ev-battery-market-share-jan-may-2026/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-07-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL says battery storage will surge from 2% to half its sales in about a decade - The Cool Down",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0V1N0I3MjB4SnRscTJoX191WnpoelNnMHlhUUd1YnlLMlNKcl9xV0ozZXRwYXpGOTVnYS0zRTFWZVNEMDhVN3hMZzdCVUF1bmVDNkpBbWtES2hBTVR4SEJMdG40YzBwNWhsc1g5Szk2c2pmMzVCcFRKYTc2TV80em95SUlib19VMzFodA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "rivian",
+      "to": "tesla",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "byd",
+      "to": "rivian",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "byd",
+      "to": "tesla",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 39,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 5
+      },
+      {
+        "id": "lg_energy",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 5
+      },
+      {
+        "id": "catl",
+        "count": 4
+      },
+      {
+        "id": "rivian",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 42
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 186,
+    "too_old": 84,
+    "gate1_blocked": 25,
+    "gate2_blocked": 35,
+    "passed": 96,
+    "pass_rate": "40.0%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "LG worker safety remains a concern in Holland — but growth continues - The Holland Sentinel",
+      "Why Is Pilbara Minerals (ASX:PLS) Back in Focus Across the ASX 200? - Kalkine Media",
+      "Tesla Model Y L vs BYD Sealion 8: Specs and Price Comparison (2026) - zecar",
+      "Umicore business overview and strategic position in global materials markets - Ad-hoc-news.de",
+      "Rivian raises 2026 delivery outlook while Lucid misses Wall Street expectations for second quarter -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為比亞迪、LG新能源、特斯拉相關動態：「Tesla, BYD, or Rivian: Which Stock Currently Has the EV C...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tesla, BYD, or Rivian: Which Stock Currently Has the EV Crown? - The Motley Fool（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Tesla, BYD, or Rivian: Which Stock Currently Has the EV Crown? - Yahoo Finance（電池產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
