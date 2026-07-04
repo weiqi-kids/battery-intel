@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 241,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 27,
+  "gate2_fail": 30,
+  "passed": 49,
+  "gate2_samples": [
+    "LG worker safety remains a concern in Holland — but growth continues - The Holland Sentinel",
+    "Umicore business overview and strategic position in global materials markets - Ad-hoc-news.de",
+    "Rivian gets approval for first Scottsdale service facility in Mack Innovation Park - The Business Jo",
+    "A Rivian R2 Owner Signed First, Then Found Scratches, Panel Gaps, And Broken Gloveboxes - Torque New",
+    "Rivian deliveries top estimates as R2 SUV sales start - Transport Topics"
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T10:14:35.803701Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-07-04-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BYD Overtakes Tesla in Q2 2026 Global EV Sales - ACKO Drive",
+      "companies": [
+        "byd",
+        "tesla"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYRnhQNzVaQWRoOVRHWGVzdGpuRG1DNVNNYTdlUi1Hd19La0MtejNIRjQ1c2JHQktzT1laSUxXbkZtd0dnZFFabklEbjdhRlRUa0UtVno2RFhtelZoSWxsMkxtSzB4RDk4Tlk3bjZQaFg4OGRGYktvWVRCM3hmaDg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_sdi-2026-07-04-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hyundai to Begin Mass Production of Europe-Exclusive Ioniq 3 in August, First Model with Samsung SDI Batteries to Counter BYD's Offensive - finance.biggo.com",
+      "companies": [
+        "samsung_sdi",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zSXR2VEZlMFpTLS1RVV9qVWRKQkplQ2pOQzNaNkxWOVdham00ZnFTUEJjWjNvMlhjLU9vcE5IdEwwNU9rQVcyOUt2WDlidVFHdENSMEhiRm5la1RnQm5qLXFOb3lVSUJTWVo3WkhoTFI3cEEzNkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-07-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Sells Battery Cells Like Consumer Goods - Batteries News",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IRzJCdVYyeFRPa3BaWlVtX0pSRmJYZGNpb2tndW85RmlORW5mWFJSRVN4VnhERWs2ZTRhczRBUjVEV0ZHeGhKRW5sYkt3UnJYYlU4aXZKSXE2VWV0UU8xakx4NjNRWWU2dmJ5Y2pMOU9YLU5oTTJQMFhzTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea's LG, Honda start Ohio storage battery output - upi.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb3hycU1nV2hkVWhvMG1JaThxQXpfUVFDQklsRUVrUlN4bGx6WmEtMHhtN291V1JHcU1PbGc5N3EzcXVtcmNYMEZlS29BSEw4RjRsMVZualFyZXhWNFFxekNPMlVtNFc0S2wwRjNpRVl6eHB6eFpVNjRCOWxCSWNaVERPMGlQeWhuZVliZzVuZDlMa3Z5YU9OYV9aUE9LVVVBZzAyNE90UlMyeXU30gGyAUFVX3lxTE80TDRmRXZqcnpITDhEVFBLd0tndHAxRUt3SHNpZXdyVGN2clVMT3NoM0VjUlRqUldSdkxJVTdfOFhOUXhZenRGbzFrZXk0SExpcFF1Ml9TMFg5RW4xQzRxd2tLd2ZkYmRhT25PeEIzYmhaNHlCaXkwTzI3ZG5JNlA0TUFLMnBmQ1FSMEk5Z21Cc2JiRDFweHN1ZXZuaTE5NU95ZlJjbGotdXdhdkxiZk94eXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Industrial sector still lags on Asian representation, says Lee - Nikkei Asia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnlYS3BkeFBpdzB2WGd4UEZSNlBoc2l4bmxLdTR1aU13ODJvZE1oMzhxaEdKQzVsdEVmcFAxb1lLMV9XcFRfSkJDUlBQU2xBbkxqZG9Fb2VDcGg1QTg5QmlNeFloOG4yWHM2c202bU4wU3J4cDczUm9LcUcySW9oUnRfTk9Td21tQ1Q2OV90Mk9LazhmVG0wX1F6dmJNZnB2UTZHMmRWNXd5RmxGSTFj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "catl",
+        "count": 1
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 241,
+    "too_old": 79,
+    "gate1_blocked": 27,
+    "gate2_blocked": 30,
+    "passed": 49,
+    "pass_rate": "26.5%",
+    "gate2_block_rate": "16.2%",
+    "gate2_samples": [
+      "LG worker safety remains a concern in Holland — but growth continues - The Holland Sentinel",
+      "Umicore business overview and strategic position in global materials markets - Ad-hoc-news.de",
+      "Rivian gets approval for first Scottsdale service facility in Mack Innovation Park - The Business Jo",
+      "A Rivian R2 Owner Signed First, Then Found Scratches, Panel Gaps, And Broken Gloveboxes - Torque New",
+      "Rivian deliveries top estimates as R2 SUV sales start - Transport Topics"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為比亞迪、寧德時代、三星SDI相關動態：「BYD Overtakes Tesla in Q2 2026 Global EV Sales - ACKO Drive」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BYD Overtakes Tesla in Q2 2026 Global EV Sales - ACKO Drive（電動車銷量、電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai to Begin Mass Production of Europe-Exclusive Ioniq 3 in August, First...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
