@@ -1,0 +1,203 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:18:55.648748Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rivian-2026-07-05-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rivian Just Raised Its 2026 Outlook While Tesla Stock Stumbled. Is the Electric Vehicle Underdog Finally a Buy? - AOL.com",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8teTZGOHpBUXNJZmVNX1paV25SOVp6QjhkS29LX2xqdmxuYXdxNVgweHIyaXJ5VFVkekNpY0c3VEtHUU5kbUpoLUxYcGpqaGttdExIekY0bU4ydFJZX0dRWG1SaEctZFRIMXM3dkVYcWRjVW1rRXF5RTF1VTJyWW8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-07-05-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nio's Firefly brand to hit 70,000th delivery milestone soon",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/07/05/nio-firefly-to-hit-70000th-delivery/"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-07-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "First Heavy-Duty Humanoid Robot Powered by CATL Batteries Goes Live in CATL Factory - markets.businessinsider.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLVFtWmp5di15TGwzQ3NaWlBJbTYzNGRuS0tmbXNKVWxiMXdLRTR6RTB4ckREMmRLNVY0M2N1M19YQm9vbVBaS2UzWUZMamYtbUZfMlZma3RRV2dMZThBLVF6bHBFbVNoZUp3elBneEdUNG54UlV5N2t2bWVTLUtCblBDaGJxMG9iZE1NSzVXc2pmckRkSDV4NW5VS3pnaE9kV0l3QU1jeVRLdEltVHpYZzgxb2p5bHBoVlJoOUNEMTI2MUEzbjhWQlFmWGlsOGtDa0FVRU10NWZ4dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_sdi-2026-07-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung SDI Supplies AI Data Center Battery Cells to Taiwan's Simplo Technology - thelec.net",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXYmVWaGhVZkdEbjl6OWMwSE1VSHFhdm16b0F6TnlIRlloQmFFTk1rSXdVc2JlUzZzdVNZUGJ0b0NsYkp5cEl6T2VEdzJpRUNTZ0tfUTFtb0x0NXVSUTVQbGZ3Y0p2UEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "byd-2026-07-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Takes on BYD Head-On in Europe: Ioniq 3 Mass Production Begins, Samsung Battery Alliance Activates - finance.biggo.com",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82aU1IcHEtTjZreGwyblFsemxmbmJaR3h1LVNkU3ZUNVBnSlB1MTdNR2FyTl81NDZnV2J3ay1OTlNybExTcUNLOE5sYnZ2M25pN3hyaDdMUDN3anJqWjZEaGZUZ3ltWmFQOHY3dXBRbWs2UFJtUkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_sdi",
+        "count": 2
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "catl",
+        "count": 1
+      },
+      {
+        "id": "byd",
+        "count": 1
+      },
+      {
+        "id": "eve",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 258,
+    "too_old": 76,
+    "gate1_blocked": 28,
+    "gate2_blocked": 27,
+    "passed": 37,
+    "pass_rate": "22.0%",
+    "gate2_block_rate": "16.1%",
+    "gate2_samples": [
+      "CATL Debuts World's First Field-Validated Sodium-Ion BESS, Bringing Sodium Storage to Commercial Rea",
+      "LG worker safety remains a concern in Holland — but growth continues - The Holland Sentinel",
+      "Umicore S.A. outlines its role in clean mobility and recycling. Investors weigh the long-term batter",
+      "Umicore business overview and strategic position in global materials markets - AD HOC NEWS",
+      "Rivian deliveries top estimates as R2 SUV sales start - Transport Topics"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為三星SDI、蔚來、寧德時代相關動態：「Rivian Just Raised Its 2026 Outlook While Tesla Stock Stu...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rivian Just Raised Its 2026 Outlook While Tesla Stock Stumbled. Is the Electr...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nio's Firefly brand to hit 70,000th delivery milestone soon（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

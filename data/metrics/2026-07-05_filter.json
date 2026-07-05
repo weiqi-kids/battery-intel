@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 258,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 28,
+  "gate2_fail": 27,
+  "passed": 37,
+  "gate2_samples": [
+    "CATL Debuts World's First Field-Validated Sodium-Ion BESS, Bringing Sodium Storage to Commercial Rea",
+    "LG worker safety remains a concern in Holland — but growth continues - The Holland Sentinel",
+    "Umicore S.A. outlines its role in clean mobility and recycling. Investors weigh the long-term batter",
+    "Umicore business overview and strategic position in global materials markets - AD HOC NEWS",
+    "Rivian deliveries top estimates as R2 SUV sales start - Transport Topics"
+  ]
+}
