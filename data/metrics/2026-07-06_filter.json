@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 242,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 29,
+  "gate2_fail": 25,
+  "passed": 52,
+  "gate2_samples": [
+    "CATL Debuts World's First Field-Validated Sodium-Ion BESS, Bringing Sodium Storage to Commercial Rea",
+    "Seojin System Signs ESS Enclosure Manufacturing Agreement With Samsung SDI - thelec.net",
+    "Umicore S.A. outlines its role in clean mobility and recycling. Investors weigh the long-term batter",
+    "Umicore business overview and strategic position in global materials markets - AD HOC NEWS",
+    "Rivian stock spikes following latest update - thestreet.com"
+  ]
+}

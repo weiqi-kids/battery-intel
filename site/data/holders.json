@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T10:18:54.981385+00:00",
+  "updated_at": "2026-07-06T12:08:05.577727+00:00",
   "companies": {
     "panasonic": {
       "name": "Panasonic",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 40099,
           "pct_held": 0.0,
-          "value": 181327678
+          "value": 182731143
         }
       ]
     },
@@ -157,13 +157,13 @@
           "holder": "Winch Advisory Services LLC",
           "shares": 106,
           "pct_held": 0.0,
-          "value": 5268
+          "value": 5238
         },
         {
           "holder": "Curio Wealth, LLC                          ",
           "shares": 49,
           "pct_held": 0.0,
-          "value": 2435
+          "value": 2421
         }
       ]
     },
@@ -176,7 +176,7 @@
           "holder": "Nbc Securities, Inc.                          ",
           "shares": 1000,
           "pct_held": 0.0,
-          "value": 5230
+          "value": 5139
         }
       ]
     },
@@ -189,49 +189,49 @@
           "holder": "Nbc Securities, Inc.                          ",
           "shares": 2025,
           "pct_held": 0.0,
-          "value": 170302
+          "value": 169695
         },
         {
           "holder": "Ascentis Independent Advisors",
           "shares": 30,
           "pct_held": 0.0,
-          "value": 2522
+          "value": 2514
         },
         {
           "holder": "Winch Advisory Services LLC",
           "shares": 120,
           "pct_held": 0.0,
-          "value": 10091
+          "value": 10056
         },
         {
           "holder": "Mirae Asset Global Investments Co., Ltd.",
           "shares": 140689,
           "pct_held": 0.0,
-          "value": 11831944
+          "value": 11789738
         },
         {
           "holder": "Strengthening Families & Communities, LLC                          ",
           "shares": 600,
           "pct_held": 0.0,
-          "value": 50459
+          "value": 50280
         },
         {
           "holder": "Curio Wealth, LLC                          ",
           "shares": 56,
           "pct_held": 0.0,
-          "value": 4709
+          "value": 4692
         },
         {
           "holder": "Kelly (Lawrence W.) & Associates Inc.",
           "shares": 6000,
           "pct_held": 0.0,
-          "value": 504599
+          "value": 502800
         },
         {
           "holder": "Ascentis Wealth Management, LLC",
           "shares": 2064,
           "pct_held": 0.0,
-          "value": 173582
+          "value": 172963
         }
       ]
     },
@@ -244,7 +244,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 1222,
           "pct_held": 0.0,
-          "value": 26101
+          "value": 25955
         }
       ]
     },
@@ -257,13 +257,13 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 2125,
           "pct_held": 0.0,
-          "value": 101532
+          "value": 101086
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 18196,
           "pct_held": 0.0,
-          "value": 869404
+          "value": 865583
         }
       ]
     },
@@ -477,13 +477,13 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 2000,
           "pct_held": 0.0,
-          "value": 149320
+          "value": 150639
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 370,
           "pct_held": 0.0,
-          "value": 27624
+          "value": 27868
         }
       ]
     }

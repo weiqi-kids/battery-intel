@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-06",
+  "total_events": 32,
+  "by_company": {
+    "catl": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "samsung_sdi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pilbara": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "byd": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "umicore": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "rivian": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 29,
+      "sentiment_avg": 0.05
+    },
+    "ev_sales": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "lithium_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
