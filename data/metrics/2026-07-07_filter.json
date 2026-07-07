@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 26,
+  "gate2_fail": 22,
+  "passed": 104,
+  "gate2_samples": [
+    "CATL partners with CarbonScape to advance deployment of bio-based graphite materials - PULPAPERnews.",
+    "There are mixed prospects in the stock market over whether Samsung SDI's performance will rebound in",
+    "TNR Gold chair: Altius, McEwen, Ganfeng, Lundin and BHP support royalty-focused growth strategy - Ya",
+    "Umicore S.A. outlines its role in clean mobility and recycling. Investors weigh the long-term batter",
+    "Umicore business overview and strategic position in global materials markets - AD HOC NEWS"
+  ]
+}

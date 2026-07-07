@@ -1,0 +1,233 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T11:11:57.272186Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rivian-2026-07-07-037",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "California snubs Tesla in its newly passed EV incentive that favors Rivian and Lucid",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.teslarati.com/california-snubs-tesla-in-its-newly-passed-ev-incentive-that-favors-rivian-and-lucid/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-07-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LG Energy Q2 operating profit plunges 77% on EV slowdown - The Korea Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNWxoMm1XSkdpZzRya0tmU2I5Z2xBVFZiWkdnZXA5eEhBOEZQeHlKZXlUcGk4emh0Zy00ZThnM1RLTnlaOGxJd0NxM3VSeXFlc000SEdFOERicTMtNE1nV0VabzJjSE1KSFBBRmluR3V6Y0pEYjNSU0EwVkpFenQ4VVpNU09pLUdEQVdIclhqWlRNOHhFb1p6LUFfLVhrUmJpZGl4ZS0weWJWaW1fSnBWVzJGb0lUZnfSAbcBQVVfeXFMUDVsaDJtV0pHaWc0cmtLZlNiOWdsQVRWYlpHZ2VwOXhIQThGUHh5SmV5VHBpOHpodGctNGU4ZzNUS055WjhsSXdDcTN1UnlxZXNNNEhHRThEYnEzLTRNZ1dFWm8yY0hNSkhQQUZpbkd1emNKRGIzUlNBMFZKRXp0OFVaTVNPaS1HREFXSHJYalpUTTh4RW9aei1BXy1Ya1JiaWRpeGUtMHliVmltX0pwVlcyRm9JVGZ3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-07-051",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Recycling of spin-triplet excitons enables 20.5% efficiency in organic solar cell",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/07/recycling-of-spin-triplet-excitons-enables-20-5-efficiency-in-organic-solar-cell/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-07-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL’s new LCV battery tries to close charge gap with ICE - Automotive World",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2M3Ui1TMlV6NGZJSVZfb2V5bXNzUVlHcnZaY0owX0x0dHUxNE9nMmxQQ09TZ0VzaDNRclNSWHFyUWd5SFhaNHZ6TDEzZng0cE9wTEo4RnNwQlRhMmpqbkdnczF3WkRuUnVrMkh0c1ZWd00xTkJzc194RW56bm5vQ1R6QUd6RVhBNVJkaG5yU21JU3VLWmNHWHl3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-07-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL targets fuel-like turnaround for electric logistics fleets with TIANXING II battery - Gasgoo",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORW80RDdjMXBiOGRqZmJfbHRwS3J1R3pORWFkalZYZENMeXFUT283LVI5MEhoRE1TYlNqalNSRWJQdXpoYVowMDJCamZ3OUczRm04WmhocWhOeUJlTlBlc1BKbkxfT0NBaXo0cWlZaGhaU0xiV3BKdHg3RW1pdzE0cW1FLWNGRkxXT0NLa0lsdDB5SmQzcWZMM1dET1RQeVlybWJSb0cyZkdGLVJMMmw3TllnY19IcGlrRGo4bGdnZEZKc3htY0p6ZXd4VFJSdVAwcEt1WDdBQ1hmeHJjblBkVERB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 46,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 53,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 45,
+      "negative": 7
+    },
+    "top_companies": [
+      {
+        "id": "lg_energy",
+        "count": 9
+      },
+      {
+        "id": "rivian",
+        "count": 6
+      },
+      {
+        "id": "nio",
+        "count": 5
+      },
+      {
+        "id": "catl",
+        "count": 3
+      },
+      {
+        "id": "pilbara",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 46
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 197,
+    "too_old": 76,
+    "gate1_blocked": 26,
+    "gate2_blocked": 22,
+    "passed": 104,
+    "pass_rate": "45.6%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "CATL partners with CarbonScape to advance deployment of bio-based graphite materials - PULPAPERnews.",
+      "There are mixed prospects in the stock market over whether Samsung SDI's performance will rebound in",
+      "TNR Gold chair: Altius, McEwen, Ganfeng, Lundin and BHP support royalty-focused growth strategy - Ya",
+      "Umicore S.A. outlines its role in clean mobility and recycling. Investors weigh the long-term batter",
+      "Umicore business overview and strategic position in global materials markets - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 53 則事件，焦點為LG新能源、Rivian、蔚來相關動態：「California snubs Tesla in its newly passed EV incentive t...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "California snubs Tesla in its newly passed EV incentive that favors Rivian an...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "LG Energy Q2 operating profit plunges 77% on EV slowdown - The Korea Times（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
