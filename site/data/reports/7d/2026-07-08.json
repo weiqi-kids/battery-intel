@@ -1,0 +1,177 @@
+{
+  "date": "2026-07-08",
+  "date_range": {
+    "start": "2026-07-02",
+    "end": "2026-07-08"
+  },
+  "generated_at": "2026-07-08T10:22:34.555629Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "byd-2026-07-03-052",
+      "date": "2026-07-03",
+      "title": "China’s BYD surpasses Tesla to regain lead in global EV race - South China Morning Post",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 212,
+      "last_week": 199,
+      "week_over_week_change": "+7%",
+      "sentiment_this_week": 0.02
+    },
+    "cathode_material": {
+      "this_week": 6,
+      "last_week": 7,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.17
+    },
+    "recycling": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ev_sales": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "lithium_price": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 21,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "eve": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "pilbara": {
+      "event_count": 9,
+      "sentiment_avg": 0.22,
+      "rank": 7
+    },
+    "tesla": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "byd": {
+      "event_count": 16,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "umicore": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 10
+    },
+    "rivian": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "nio": {
+      "event_count": 21,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "volkswagen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "lg_energy": {
+      "event_count": 18,
+      "sentiment_avg": -0.06,
+      "rank": 3
+    },
+    "samsung_sdi": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 8
+    },
+    "ganfeng": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 456,
+        "last": 460,
+        "change_pct": -0.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-02",
+      "event_count": 105,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 83,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-04",
+      "event_count": 26,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-05",
+      "event_count": 26,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 86,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 89,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-07-08",
+      "event_count": 41,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-02 ~ 2026-07-08）共 456 則事件，重點為「China’s BYD surpasses Tesla to regain lead in g...」。贛鋒鋰業情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "贛鋒鋰業",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 21 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "億緯鋰能",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

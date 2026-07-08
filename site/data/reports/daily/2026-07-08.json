@@ -1,0 +1,240 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:22:34.413828Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-07-08-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BYD beats Tesla in global race; China market’s ‘do-or-die’ crisis: 7 EV reads - South China Morning Post",
+      "companies": [
+        "byd",
+        "tesla"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUFiTjJRT2dDam5LQ1BxMExOT1ZsQXVwb3N3NE5UUFJsdzlKUmVTRlVQOHBHNEFhRm9QbnhVWHFYRmtVN21zdTVjMVJXekdrZTB5UG9ydmd6ZmhUbl9WSmNsS1NhVGlxWFRFVmRkcVlIZGJHZkxiemYtV2lVMmJHdkhQUDZsSEd6ZG9hNGU2V2p4VFZ6YVI4cFk0bFhrUlRXeno3NExGd19nVkdMM1dCckI2dVRxVDdiNkhnREw1TUh3dFVhenN1ONIByAFBVV95cUxOUUlJOWdSaEdVOWlZSWxMYTIzR1AwVDNwQ2xGNGpBdXNReUhERTFzTzJRdmVvbEh4WnprQjJScHMyTXdpY3dVY2gxSFQtTU1raTlucHRvem5HWkE5LXVnd0c4YVk4Tm53YnpmXzhWVVNUcXFVX3RaRG8wMGttN2NsS2VkbVJzUDFCdHNDbXJqeDQxNThUa0xMSDVYeVNfakJ5dkM5bTdWS3djeTMyR29CMlFBcDJKNndZYV9pN2w3RkF6OGZtS1U3OA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-07-08-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BYD follows Nio's relief efforts with donation to disaster-hit Guangxi - CnEVPost",
+      "companies": [
+        "nio",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jUllzNEdzbE04cTR0dHhyQXYzTFdsX3k4cGZGdWh1NmRHbVNWWTlhN1B6alZEX2VTRVpDbWdLc3FpbmN5MG9kOUg0SENyUkNJT0pFWVU5a0psTVZCS0Y5MTBzTGpwQkdNQ2tNNFcxMGlCQmxE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nio-2026-07-08-025",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BYD follows Nio's relief efforts with donation to disaster-hit Guangxi",
+      "companies": [
+        "nio",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/07/08/byd-donation-disaster-hit-guangxi/"
+    },
+    {
+      "rank": 4,
+      "event_id": "ganfeng-2026-07-08-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hong Kong Stock Market Movement | Lithium mining stocks decline collectively; Tianqi Lithium (09696.HK) drops over 6%, Ganfeng Lithium (01772.HK) falls over 3% - Moomoo",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOG1JLVd3S1BOazhzM01qUUZGNE9STVVLb1ppeURiWDV0NWVJRVZTMjdKSVh3ZUEwLUFTMHU3andXenJhZ3JSVk5UUGd0RDVIWVJIQWlUcXFnTUpFSUtyM1VkX0U0S1NvWHhfbnktblZFanNzMFJFMnMxOTVDamE3Z2VQUFFqUVdkUGItM1ZLOHlkeHNvSWFXS1BCaGhrM3NQS0dNRkpfb3RVbWJVcFpBbVYwblQxU1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pilbara-2026-07-08-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Why Is Pilbara Minerals (ASX:PLS) Leading Australia's Lithium Recovery? - Kalkine Media",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGlxQWNUN3VrZVRBQndNUjVKaVpqM3J6SVJiZ091MGllcjhnX1hwX0Vzb2dEcFlWYThWUzJXcVlrZjRmTEFYeEt5UlA5OXktWE9MY29iZmcwVE9uQTlsZC1KZzNGMjZBTlhreVQ4YjhFRm1tdDVpV3g2VmNyUFRBM2VlZGN4eHdDYnluaklZX1YydFItU3FOS2tUbEo2WC1OQmNLd3hrRVZzUlRrN2c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 40,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "nio",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 33,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "lg_energy",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "nio",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "ganfeng",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 40
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 207,
+    "too_old": 76,
+    "gate1_blocked": 32,
+    "gate2_blocked": 28,
+    "passed": 82,
+    "pass_rate": "37.6%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "LG Energy Solution succeeded in turning into a surplus by announcing its preliminary performance in ",
+      "There are mixed prospects in the stock market over whether Samsung SDI's performance will rebound in",
+      "TNR Gold chair: Altius, McEwen, Ganfeng, Lundin and BHP support royalty-focused growth strategy - Ya",
+      "Why Pilbara Minerals (ASX:PLS) Shares Slipped Despite More Than Tripling in a Year - Kalkine",
+      "Pilbara Minerals (ASX:PLS) Retreats as Materials Stocks Face Broad Selling Pressure - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為LG新能源、比亞迪、蔚來相關動態：「BYD beats Tesla in global race; China market’s ‘do-or-die...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BYD beats Tesla in global race; China market’s ‘do-or-die’ crisis: 7 EV reads...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "BYD follows Nio's relief efforts with donation to disaster-hit Guangxi - CnEV...（電池產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,63 @@
+{
+  "date": "2026-07-08",
+  "total_events": 41,
+  "by_company": {
+    "catl": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lg_energy": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "ganfeng": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "pilbara": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "byd": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 40,
+      "sentiment_avg": 0.04
+    },
+    "cathode_material": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "nio",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}

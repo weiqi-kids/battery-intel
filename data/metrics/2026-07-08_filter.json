@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 32,
+  "gate2_fail": 28,
+  "passed": 82,
+  "gate2_samples": [
+    "LG Energy Solution succeeded in turning into a surplus by announcing its preliminary performance in ",
+    "There are mixed prospects in the stock market over whether Samsung SDI's performance will rebound in",
+    "TNR Gold chair: Altius, McEwen, Ganfeng, Lundin and BHP support royalty-focused growth strategy - Ya",
+    "Why Pilbara Minerals (ASX:PLS) Shares Slipped Despite More Than Tripling in a Year - Kalkine",
+    "Pilbara Minerals (ASX:PLS) Retreats as Materials Stocks Face Broad Selling Pressure - Kalkine"
+  ]
+}
