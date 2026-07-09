@@ -1,0 +1,16 @@
+{
+  "total_raw": 428,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 32,
+  "gate2_fail": 25,
+  "passed": 89,
+  "gate2_samples": [
+    "There are mixed prospects in the stock market over whether Samsung SDI's performance will rebound in",
+    "TNR Gold chair: Altius, McEwen, Ganfeng, Lundin and BHP support royalty-focused growth strategy - Ya",
+    "Pilbara Minerals (ASX:PLS) Retreats as Materials Stocks Face Broad Selling Pressure - Kalkine",
+    "PLS Shares Down 27% Since June: What Is Happening? - thebull.com.au",
+    "Why Pilbara Minerals (ASX:PLS) Shares Slipped Despite More Than Tripling in a Year - Kalkine"
+  ]
+}

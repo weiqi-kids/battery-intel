@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T10:58:23.955662Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-09-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China's June NEV sales growth accelerates as exports top 500,000 units for first time",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://cnevpost.com/2026/07/09/china-jun-2026-nev-sales-caam/"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-07-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL launches 8C ultra-fast charging battery for commercial EVs - EV Infrastructure News",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTEh5dC0wTld5LWxfM19ITEVZaWljYTUxckxCbFlWRHNFTG1pcDQyOGhvcEx3SHgtcjVCTmhDR2R3aHZaQjBtMm9TeFQ5RUhKck9fZlkzb190ZXFxZXptTG1KLWhlaFh6ZS01a2Y3c3Z1aVEtVFc0ekNPdFVQZFpraXpCY2tGdDZoMXVHdXcxRV9fd0RoeDd0WEFEdmtNSHBkWV80R0pnejdyOHhUZGhFX1F2b0k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Salt batteries are about to shake up EVs and grid storage - New Scientist",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTU2Q0g1TFdVSkdtekN4SjZ4WC1iVVp2eUh0UVF5eWtua0NOcl9yM2ZWeHpnZ0VWRXdlUTZUcG9LYVgyZEk1NXlYajg1dzRFWXFfckQ4bVYwUUx4NUY4akJSMnZIYmNTa0ZlMFNOVWE5Q1hIdXdnMzNsZTJSV2RXQldmOXMyTjNJa3pxWm1VQ2dVaFJuSjRxR0UtQy1uYUZJZ1ZFTUFn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-07-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Goldman Sachs forecasts 50% jump for CATL’s shares as energy storage takes off - South China Morning Post",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd19YS0ZOLXQ0bHMtSWhha0d1N2cyNTk2NFFrQm9HMngyX1NwUzN3OTJ4bEdHeTZwYmQ0eHJFSUxEVVNKcDlzSGJpU0hVaHNVOFVGX29TQk1Zd3o4OXg5Vm5CbUxfeDM4OW54dlMtNUVvclY1UGJzbkFOYXNCeFhsSjh1WnBWNk1Pam50azRyYTlWVFN1TzFucHBzUi1KQnZjWU5VVDNrWXBqYjhHYVZ0cUdNLXQ5cVNBdTkwRjQ4YTJiSkU2QjlpYnZsVV9yUdIBzgFBVV95cUxPd19YS0ZOLXQ0bHMtSWhha0d1N2cyNTk2NFFrQm9HMngyX1NwUzN3OTJ4bEdHeTZwYmQ0eHJFSUxEVVNKcDlzSGJpU0hVaHNVOFVGX29TQk1Zd3o4OXg5Vm5CbUxfeDM4OW54dlMtNUVvclY1UGJzbkFOYXNCeFhsSjh1WnBWNk1Pam50azRyYTlWVFN1TzFucHBzUi1KQnZjWU5VVDNrWXBqYjhHYVZ0cUdNLXQ5cVNBdTkwRjQ4YTJiSkU2QjlpYnZsVV9yUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-07-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Goldman Sachs: CATL Share Price Could Rise 50% on Energy Storage Boom - News and Statistics - IndexBox",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUV6cjJ5WGxWTEN6UGVmYXQ5ZHJJVWloZWFJSklJc3FXRHgwUDljVmRVdDA1Tm1jRDdFSndpOWxLRDNBTnozeUlRNWNuZnppUXF1akJvcmd4akFDd1JTV0VqR01SdVotYkdHaXR0TGU3YkpZRmtpNWFtbHZBZmQ2aEVuR29rcVlLSERaUmEtbFNjSHJkOF8wMnhEU3FHZnRsMFBNNw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 30,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 4
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 1
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 428,
+    "dup_title": 205,
+    "too_old": 77,
+    "gate1_blocked": 32,
+    "gate2_blocked": 25,
+    "passed": 89,
+    "pass_rate": "39.9%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "There are mixed prospects in the stock market over whether Samsung SDI's performance will rebound in",
+      "TNR Gold chair: Altius, McEwen, Ganfeng, Lundin and BHP support royalty-focused growth strategy - Ya",
+      "Pilbara Minerals (ASX:PLS) Retreats as Materials Stocks Face Broad Selling Pressure - Kalkine",
+      "PLS Shares Down 27% Since June: What Is Happening? - thebull.com.au",
+      "Why Pilbara Minerals (ASX:PLS) Shares Slipped Despite More Than Tripling in a Year - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為寧德時代、蔚來、比亞迪相關動態：「China's June NEV sales growth accelerates as exports top ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China's June NEV sales growth accelerates as exports top 500,000 units for fi...（電動車銷量、電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "CATL launches 8C ultra-fast charging battery for commercial EVs - EV Infrastr...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
