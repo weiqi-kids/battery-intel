@@ -1,0 +1,258 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T10:58:34.160674Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-07-10-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Energy Solution likely to increase battery supply for Tesla - electrive.com",
+      "companies": [
+        "tesla",
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": [
+          "lg_energy"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU2VydHpsaldyRW5RUllNclZQZTk2YjF2akdrdzJ5aFpyb21qY0FtTEJqYnpCX1N6d3pZUzVJRUVrRzNzTzlmZWZOemNHUkpWbW5HNFBoVzRZeXYxbDVrWXFxbTgwakNEWnVOS0JjRkhqYjdxMlJGdFZqOGRweFR3M3pKb0VzSGlQSHhtZHE3ai0xdjVmdjVFS0RtT2dyLURO?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-07-10-022",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Automakers' share in China NEV exports in June: BYD leads with 34.2%, Tesla 4th with 7.2%",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/07/10/automakers-share-china-nev-exports-jun-2026/"
+    },
+    {
+      "rank": 3,
+      "event_id": "tesla-2026-07-10-023",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Automakers' share in China's NEV market in June: BYD leads with 22.3%, Tesla 5th for second consecutive month",
+      "companies": [
+        "tesla",
+        "byd",
+        "nio"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/07/10/automakers-share-china-nev-market-jun-2026/"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_sdi-2026-07-10-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung SDI outduels LG Energy Solution in race for S.Korea's AI-grid battery deals - The Korea Economic Daily Global Edition",
+      "companies": [
+        "samsung_sdi",
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TejJXUmdjT01nTDBmT0h3akpfdXZ0eXpQOV9wSVh5YWFIaXhiVVVzZzE0Ynh3WlNBMlROWlUxQ0VVazk4QUdxUmRhc0JtNGk5bzVKN3hSa2VxaldHWHI2VXZDaUhmR001TjY4YQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_sdi-2026-07-10-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung SDI Secures 66% of First 'AI Power Grid ESS' Project; LG Energy Solution Selected as Operator - news.sbs.co.kr",
+      "companies": [
+        "samsung_sdi",
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TcW85Y1hJN05FS0pxc1Nhc3VKUVotOFRPWGhJTGdoTV9xRl9KYXBQTWlRaW9ESzY3a2IzTEVTVDFDS194QlZMbDFaUGdiR0xIWWJvSFZpTkVXcmRNeGFvZkdjNTlvQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_energy",
+      "to": "samsung_sdi",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "byd",
+      "to": "tesla",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 44,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 36,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 6
+      },
+      {
+        "id": "lg_energy",
+        "count": 6
+      },
+      {
+        "id": "byd",
+        "count": 5
+      },
+      {
+        "id": "nio",
+        "count": 5
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 41
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 423,
+    "dup_title": 199,
+    "too_old": 73,
+    "gate1_blocked": 30,
+    "gate2_blocked": 29,
+    "passed": 92,
+    "pass_rate": "41.1%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "LG Energy Solution secures government-backed AI grid ESS project - The Korea Herald",
+      "Samsung SDI Sweeps 66% Share in South Korea's AI Power Grid ESS Project - finance.biggo.com",
+      "Samsung SDI wins 66% of South Korea’s first AI grid ESS project - CHOSUNBIZ - Chosunbiz",
+      "Samsung SDI Takes 66% of Government Next-Generation AI ESS Project - Seoul Economic Daily",
+      "TNR Gold chair: Altius, McEwen, Ganfeng, Lundin and BHP support royalty-focused growth strategy - Ya"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 44 則事件，焦點為特斯拉、LG新能源、比亞迪相關動態：「LG Energy Solution likely to increase battery supply for ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Energy Solution likely to increase battery supply for Tesla - electrive.com（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Automakers' share in China NEV exports in June: BYD leads with 34.2%, Tesla 4...（電池產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

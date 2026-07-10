@@ -1,0 +1,16 @@
+{
+  "total_raw": 423,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 30,
+  "gate2_fail": 29,
+  "passed": 92,
+  "gate2_samples": [
+    "LG Energy Solution secures government-backed AI grid ESS project - The Korea Herald",
+    "Samsung SDI Sweeps 66% Share in South Korea's AI Power Grid ESS Project - finance.biggo.com",
+    "Samsung SDI wins 66% of South Korea’s first AI grid ESS project - CHOSUNBIZ - Chosunbiz",
+    "Samsung SDI Takes 66% of Government Next-Generation AI ESS Project - Seoul Economic Daily",
+    "TNR Gold chair: Altius, McEwen, Ganfeng, Lundin and BHP support royalty-focused growth strategy - Ya"
+  ]
+}
