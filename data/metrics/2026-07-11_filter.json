@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 226,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 26,
+  "gate2_fail": 26,
+  "passed": 77,
+  "gate2_samples": [
+    "LG Energy Solution secures government-backed AI grid ESS project - The Korea Herald",
+    "Samsung SDI Sweeps 66% Share in South Korea's AI Power Grid ESS Project - finance.biggo.com",
+    "Samsung SDI wins 66% of South Korea’s first AI grid ESS project - CHOSUNBIZ - Chosunbiz",
+    "Pilbara Minerals (ASX:PLS) Retreats as Materials Stocks Face Broad Selling Pressure - Kalkine",
+    "Why Pilbara Minerals (ASX:PLS) Shares Slipped Despite More Than Tripling in a Year - Kalkine"
+  ]
+}

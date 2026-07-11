@@ -1,0 +1,220 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:41:24.383564Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-07-11-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Volkswagen ID. Unyx 09 sporty fastback sedan exposed with 496 hp dual motor and CATL battery - CarNewsChina.com",
+      "companies": [
+        "catl",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [
+          "volkswagen"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPazNQZjNIQjlWR1ZsR25odGxQT1dMYndzMWNVaTk2RTlsNy0tbDlOeXAtc1h3UzN4ZlJYRmdiSHg5Uk5KREVyQlV6a3JoVG9jbk8xZ1NvN202cG1KRk1BcFFMOGVXUUxhZW9DZTY2OTFSb0VkX085d21uVkZyTnJxenFEeDVNaGctUWt5WktWUlN1bFZGUnRobHdCaGNSbTJkSW5TeFNlUFNTY0EtTzJMdWpBcnpoUW5ObnZicllR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-07-11-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "If You Have $1,000 to Invest in EV Stocks, Should It Go to Tesla or Rivian? - The Motley Fool",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYUtYaDVmcUhvWTVoQzAwV2haTUNjTzNjeDBpaDB0VlY5ejhsWlRxaWl0OUlQQVNQcEpReUZ1Vi1xUU9zZ3QzZnRHUEJvS001blBEbnI4RUlnOHJzYlp0Rl9iWmNuU29uS1NFWTJndVRVVGNGWlY2MnF5OXNZdXZxMFJZN0FKMXJvTVdvNG84UHhsMmpQUWg4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rivian-2026-07-11-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "If You Have $1,000 to Invest in EV Stocks, Should It Go to Tesla or Rivian? - Yahoo Finance",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUnNUc3RBcFNFbS1BQTUzRGFlQ2x2SEM2YmxNbVUySWh3N3RqbHZqUVZBY0JJZW1nSlFCQlNwbnE3NFRRMGxKRWxXcUFHcjFjV2Frcm14QWFwcG9RbU04a05FWmpQcmpEN1RRM1hyc0lLVEh4c1p5QVNXeEtDM3BaRGZvaDVabFQ1dXp3WjBwalo?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-07-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL’s 20% CarbonScape stake: biographite supply-chain notes for battery engineers - Geomechanics.io",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTE1oVld0dzFkSGROc0tMLUVzbDZ0Qms1LUVBZjQybWFrT25Jd19KMVlMTWdCVWpoQUtSRDNLSGtKMUJ5eFFXSnBfS0hrSFZPLXFucFFHTmE0U3VHRGxqZ1lZZXMtWmRhSmN3c2FxV0oyN1BaM1p1Y2hqNmJsa05MRWRvTWVYU1JzbFIzYVA3NURpV3pLanZNNXd2TlVhRjdVMXNvaGlHeFd2c0dwTk11RmFUY0RfYjBXaTQxTw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "byd-2026-07-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BYD showcases charging technology in 15,000km journey from Rome to Hong Kong - South China Morning Post",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMW02RURndVVxaWJPcFQ4UTlRU3NwQjROZ3FwUkl5U0RKWHNFMkRhME84c0NRLTZlZ1Z2QkNNRGxTZk9CbnNpUnZ4WVdBMVdwREx2bVFjRWpoN0hFZHhZUktZNXFWVFJWTXdXeHhJTTZyNFZKeUNVamx5T0dVUDVqelUyTGs2TnB3TDVSbXhNWGpKLV9BckdCWlNkSjg4eUNPUnFWTy1ISDYzSmVnZmZQeXgwUGpvM09xamNtZ01RRjV5NVdXUHQw0gHHAUFVX3lxTE5HbFJKS1VWR055dGk0S1dBYVNNQjJoR1YtdUlGRHFkNnhvVG1FeGkxUjkxTWUxaEZBYlJ6SElYT2pVTElISkdEYzFEclhMUWhVaEhhczNpdWhkc0M1bm9nOWRfc2MxTnpCQlZxNThVNVBNYjN4NWQyWjZIZ0NDSXhZVTUzM2x0bGRyQWQ0V0dxUldHQlpaQnE1dnZlcHFzQnNwNXQyNE1uaFVLaXlKdWo5WmlDWWlOTkRKazlISFp3TmNKc0tVU1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "rivian",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "rivian",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 226,
+    "too_old": 70,
+    "gate1_blocked": 26,
+    "gate2_blocked": 26,
+    "passed": 77,
+    "pass_rate": "38.7%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "LG Energy Solution secures government-backed AI grid ESS project - The Korea Herald",
+      "Samsung SDI Sweeps 66% Share in South Korea's AI Power Grid ESS Project - finance.biggo.com",
+      "Samsung SDI wins 66% of South Korea’s first AI grid ESS project - CHOSUNBIZ - Chosunbiz",
+      "Pilbara Minerals (ASX:PLS) Retreats as Materials Stocks Face Broad Selling Pressure - Kalkine",
+      "Why Pilbara Minerals (ASX:PLS) Shares Slipped Despite More Than Tripling in a Year - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為寧德時代、福斯、比亞迪相關動態：「Volkswagen ID. Unyx 09 sporty fastback sedan exposed with...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Volkswagen ID. Unyx 09 sporty fastback sedan exposed with 496 hp dual motor a...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "If You Have $1,000 to Invest in EV Stocks, Should It Go to Tesla or Rivian? -...（電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
