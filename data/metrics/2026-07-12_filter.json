@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 272,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 25,
+  "gate2_fail": 24,
+  "passed": 26,
+  "gate2_samples": [
+    "Samsung SDI Sweeps 66% Share in South Korea's AI Power Grid ESS Project - finance.biggo.com",
+    "Pilbara Minerals (ASX:PLS) Retreats as Materials Stocks Face Broad Selling Pressure - Kalkine",
+    "Why Pilbara Minerals (ASX:PLS) Shares Slipped Despite More Than Tripling in a Year - Kalkine",
+    "Umicore stock reflects steady materials strategy amid energy transition - ad-hoc-news.de",
+    "Umicore focuses on clean mobility and recycling. Strategy targets long-term growth - ad-hoc-news.de"
+  ]
+}

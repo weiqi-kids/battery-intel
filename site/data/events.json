@@ -1,5 +1,64 @@
 [
   {
+    "id": "umicore-2026-07-12-001",
+    "date": "2026-07-12",
+    "companies": [
+      "umicore"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Umicore stock holds steady as materials strategy targets clean mobility demand - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0R2STZEZ3lqOXBaUVlBQkVRRlY0M0QyRnI0NWlXMHJZLXkxQUIzSWpIYnFyVnJFNnVRSUtHRzlVYllXZGxXOG05OFI3YmRmVk9mTjVKTVNpNTdwVk9PdkNWdGcxWkM4N2RqOGRMeD",
+    "sources": [
+      {
+        "name": "umicore",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0R2STZEZ3lqOXBaUVlBQkVRRlY0M0QyRnI0NWlXMHJZLXkxQUIzSWpIYnFyVnJFNnVRSUtHRzlVYllXZGxXOG05OFI3YmRmVk9mTjVKTVNpNTdwVk9PdkNWdGcxWkM4N2RqOGRMeDJGaEswM3pCNHZNZlVVUVpFcl84OWdTcEo5RnRzd1BxRjRKNHczbkhEMUhxODJ2b2s0cjVsb2tTTFlydHp0ZkNSM0NXOG92Q0xqUVNNcTc5dE1wT1VicHRmZXNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-07-12-002",
+    "date": "2026-07-12",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen Group H1 2026 Deliveries Fall 6.3 Percent, Skoda Elroq Takes BEV Crown - autoevolution",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNYlUteWYyQ0xJWE5Zd29KeGwxa21YVGVzWnZ6QWdwaEhJc2k1MkN1N3dObkxTQXBjVzk2cWQ1SzFBYlNnYnUtZUZXc3FlZVR6VWkteWZPZkNzTDdLSlFfcFFIMXYyRUphQng0Y2RLY3",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYlUteWYyQ0xJWE5Zd29KeGwxa21YVGVzWnZ6QWdwaEhJc2k1MkN1N3dObkxTQXBjVzk2cWQ1SzFBYlNnYnUtZUZXc3FlZVR6VWkteWZPZkNzTDdLSlFfcFFIMXYyRUphQng0Y2RLY3Y4OUtwMTZFcnR5YndrUjV1NVp3enp6aElkWXhuZjRzUGdlMC02b20xOXk5Q3JCY0ZCRlNWeHN2bjVqOG8wNDFYRXdKZnVmVTJuRmZoWF9HN2lVZkNL?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-07-12-003",
+    "date": "2026-07-12",
+    "companies": [
+      "volkswagen",
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen and Xpeng Develop ID. Unyx 09, 496 HP Electric Fastback Using CATL Battery - VOI.id",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1aRm5zVXBNcTdfNy1mTTRzTTZlanNpOHBORG1heWtDV2JoemZaeXlNdmV3OF9MYTk0MkkyR2llMEY0Q1hi0gFCQVVfeXFMTXVUamVWZll2bThhSFZVaGFYcjdzVGpueDZTbDRmV0FCdV",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1aRm5zVXBNcTdfNy1mTTRzTTZlanNpOHBORG1heWtDV2JoemZaeXlNdmV3OF9MYTk0MkkyR2llMEY0Q1hi0gFCQVVfeXFMTXVUamVWZll2bThhSFZVaGFYcjdzVGpueDZTbDRmV0FCdVNPN1pudVh2VzVZd0psZThuamJ0emlqWG93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-07-11-001",
     "date": "2026-07-11",
     "companies": [
@@ -300,6 +359,294 @@
       {
         "name": "pv_magazine",
         "url": "https://www.pv-magazine.com/2026/07/11/the-hydrogen-stream-pilot-project-in-iceland-shows-geothermal-driven-h2-could-achieve-lcoh-of-1-75-kg/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-07-11-017",
+    "date": "2026-07-11",
+    "companies": [
+      "volkswagen",
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xpeng-co-developed Volkswagen ID. Unyx 09 sports sedan exposed with 496 hp and CATL battery - CarNewsChina.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPazNQZjNIQjlWR1ZsR25odGxQT1dMYndzMWNVaTk2RTlsNy0tbDlOeXAtc1h3UzN4ZlJYRmdiSHg5Uk5KREVyQlV6a3JoVG9jbk8xZ1NvN202cG1KRk1BcFFMOGVXUUxhZW9DZTY2OT",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPazNQZjNIQjlWR1ZsR25odGxQT1dMYndzMWNVaTk2RTlsNy0tbDlOeXAtc1h3UzN4ZlJYRmdiSHg5Uk5KREVyQlV6a3JoVG9jbk8xZ1NvN202cG1KRk1BcFFMOGVXUUxhZW9DZTY2OTFSb0VkX085d21uVkZyTnJxenFEeDVNaGctUWt5WktWUlN1bFZGUnRobHdCaGNSbTJkSW5TeFNlUFNTY0EtTzJMdWpBcnpoUW5ObnZicllR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-018",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai And Kia Tell 14 EV Owners To Park Away From Their Houses - Carscoops",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB4Yy16YkJHaWIwWjVWMk1jS2djRzFMY2JKVXp5VVM0VVFtcXZCX3pURzc0WjJfYmVNT1MyNFRnV3VrQWVRbHg0Q1VMWFpPbC1mZEZ3aHAwaHI0ZFJPSWEzY19aQWJQd0xNWE4zYldDaj",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4Yy16YkJHaWIwWjVWMk1jS2djRzFMY2JKVXp5VVM0VVFtcXZCX3pURzc0WjJfYmVNT1MyNFRnV3VrQWVRbHg0Q1VMWFpPbC1mZEZ3aHAwaHI0ZFJPSWEzY19aQWJQd0xNWE4zYldDajAzVFcx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-07-11-019",
+    "date": "2026-07-11",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2027 Rivian R2 vs. 2026 Subaru Trailseeker: I Drove Both Electric Adventure SUVs—Here’s My Honest Comparison Review - Autoblog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQX19yUFlqb3V6Y3kxUnR1NE54cV9VTVRJYmhYcG84WHNYazMzbHdfM0VfZzR1ZTZWQzJFMEJjY2NkdlA1NURKRWViRDExbHJxX0JKaENXSVVHeU1CMTVwMkNVbHdhR0V3YWJOSTU3OW",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX19yUFlqb3V6Y3kxUnR1NE54cV9VTVRJYmhYcG84WHNYazMzbHdfM0VfZzR1ZTZWQzJFMEJjY2NkdlA1NURKRWViRDExbHJxX0JKaENXSVVHeU1CMTVwMkNVbHdhR0V3YWJOSTU3OWtMalNqTi1hYmFucU1MUGJScDhiTTBCZTRvZFV3YXdQWmRUZ0xwNlZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-07-11-020",
+    "date": "2026-07-11",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EV maker Nio’s European dream is falling apart as it registers a mere 45 cars across Europe this year - Notebookcheck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWXFISG53QWhON3B4bWlZUndPRms4aWJfYlQ3LXZiU2VKeHpFU0cyQnQxaEM4N0phX0NsTTZJYnVaR2RkQ0RaSlNlMlphVWdPRFNEVGdIaE5kYWVDMEprSFlscHJkbHdKRFlkbnhBaF",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWXFISG53QWhON3B4bWlZUndPRms4aWJfYlQ3LXZiU2VKeHpFU0cyQnQxaEM4N0phX0NsTTZJYnVaR2RkQ0RaSlNlMlphVWdPRFNEVGdIaE5kYWVDMEprSFlscHJkbHdKRFlkbnhBaFBBdjc4bmpnUTViTnVyT29XYTd3bXpsY3V0OUNlamdRcXRQUmtucEJVQzhuY0F2RDUzYUZYTWhpMnYtaldESENBcWRKMVpLWWVTeDkxV1BkR2pKRWJOMEdEdm15dU0yRUVlOEhIN29aWlpmVVBmSGlF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-07-11-021",
+    "date": "2026-07-11",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FAW-VW files ID. AURA T6 electric SUV, launch expected in H2 - CnEVPost",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLZDd3Y3BKQzBZYVR4dGpHS0NZaDI4czRERTdCSF95T3NINEZMVlJTNnlEM3llQVh0WFVUcDdmVVU1WkYycE1hcDVsNFpYSUFXc1FFQ2FzNDB1eEctSVpOMUQ1VXpxNVE?oc=5\" targ",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLZDd3Y3BKQzBZYVR4dGpHS0NZaDI4czRERTdCSF95T3NINEZMVlJTNnlEM3llQVh0WFVUcDdmVVU1WkYycE1hcDVsNFpYSUFXc1FFQ2FzNDB1eEctSVpOMUQ1VXpxNVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-022",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "ev_sales",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toyota's EV Sales Have More Than Doubled This Year",
+    "summary": "The company used to lag behind on EVs. Now it's growing its EV sales as others falter. ",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/801340/toyota-ev-sales-doubled-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-023",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can You Extend An EV's Range With Portable Battery Banks? This Guy Is Trying It.",
+    "summary": "A DIY Extended Range EV using power banks? It's more likely than you think.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/801327/extend-range-ev-battery-pack/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-024",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "GAC-Huawei brand Aistaland files second model GX7 as brand expands beyond GT7",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/07/2026071113281887.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The Aistaland GX7 is 5,099 mm long, with pure-electric range o",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/07/11/aistaland-files-second-model-gx7/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-07-11-025",
+    "date": "2026-07-11",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FAW-VW files ID. AURA T6 electric SUV, launch expected in H2",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/07/2026071112194084.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>FAW-Volkswagen's ID. AURA T6 is built on the new CEA architect",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/07/11/faw-vw-files-id-aura-t6/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-07-11-026",
+    "date": "2026-07-11",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD Denza files all-electric N8 SUV, reviving short-lived nameplate",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/07/2026071110411181.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The plug-in hybrid Denza N8 hit the market in August 2023 and ",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/07/11/byd-denza-files-all-electric-n8-suv/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-07-11-027",
+    "date": "2026-07-11",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD files all-new Seagull with larger body, optional LiDAR",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/07/2026071110012044.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The all-new BYD Seagull is 425 mm longer at 4,205 mm, bringing",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/07/11/byd-files-all-new-seagull/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-028",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "battery_cost",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cinergy Mobile Power Debuts Smart, Clean Mobile Energy Solutions for South Africa’s Film and Live Events Industries",
+    "summary": "<p>Battery prices have fallen significantly over the past 15 years, making battery electric vehicles more competitive. Maarten Vinkhuyzen wrote that he still expects that battery prices will drop even",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/11/cinergy-mobile-power-debuts-smart-clean-mobile-energy-solutions-for-south-africas-film-and-live-events-industries/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-07-11-029",
+    "date": "2026-07-11",
+    "companies": [
+      "volkswagen",
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Waymo Expands Into Germany & Tesla Pumping Up Production While Volkswagen In Crisis",
+    "summary": "<p>The auto industry news of the week has to be Volkswagen&#8217;s apparent crisis and plan to cut four factories, half of its models, and about 100,000 employees. So, when I saw other news coming out",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/11/waymo-expands-into-germany-tesla-pumping-up-production-while-volkswagen-in-crisis/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-030",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford’s New EV Needs A Name…What Will It Be?",
+    "summary": "<p>Ford has yet to name its much-anticipated 100% electric mid-sized pickup truck for the US market, but the company's hybrid EV activity in Europe could provide a clue.</p>\n<p>The post <a href=\"https",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/11/ford-ev-universal-electric-pickup-truck-phev-europe/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-031",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Two Progressive Representatives Chart A Course Forward For America",
+    "summary": "<p>America is awash in corruption at the highest levels.To members of Congress want to end that with new legislation. </p>\n<p>The post <a href=\"https://cleantechnica.com/2026/07/11/two-progressive-rep",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/11/two-progressive-representatives-chart-a-course-forward-for-america/",
         "type": "rss"
       }
     ]
@@ -2165,6 +2512,105 @@
     ]
   },
   {
+    "id": "catl-2026-07-10-098",
+    "date": "2026-07-10",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CATL claims solid-state EV battery with 930-mile range - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYXktWjA2Z2tQdEVETjk2Wl9IRnZqQzBvTUlxdEZJQ3NweEFjelVBNkpTazRDSnk2N0RjSUlMSzNwMWVyclVpbFg1OUR3UG9SSk5CY3J2UVdwQ1ZEZTZEaE1ldGNHMEEzbEJBZkJaaU",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYXktWjA2Z2tQdEVETjk2Wl9IRnZqQzBvTUlxdEZJQ3NweEFjelVBNkpTazRDSnk2N0RjSUlMSzNwMWVyclVpbFg1OUR3UG9SSk5CY3J2UVdwQ1ZEZTZEaE1ldGNHMEEzbEJBZkJaaUJ4MEd0WW1CdUdGMkFBMXBfTkNBTU9nc0FxbXJwdTRuMHV4dFYyeTkxRTBHWUpOcEFCbmg4SklrYlVaelc5czgyY2tfNmlTMDIyQ1JsY2doWTZfWVNLVVNNTUpxLTZjZUw3bUNwU0VBLXZocm9wWEI0NVdKcmUyZ1NaSDdHeA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ganfeng-2026-07-10-099",
+    "date": "2026-07-10",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ganfeng LiEnergy Debuts at Intersolar Europe 2026, Building a Full-Chain Energy Storage Operations and Service System - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2Z2TEI4RHVTdk5tLTFPcnRLQVhnTHQwS2FhVWl5dEo5b250N1dlckN1bUhqT1ltVGNQeU1TSURnR290ZnhkcGZ1WGsxTEtBVURZRjFIWEp6M2I3OGxCd08yV3VhMl9CZmx6OWY5QV",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2Z2TEI4RHVTdk5tLTFPcnRLQVhnTHQwS2FhVWl5dEo5b250N1dlckN1bUhqT1ltVGNQeU1TSURnR290ZnhkcGZ1WGsxTEtBVURZRjFIWEp6M2I3OGxCd08yV3VhMl9CZmx6OWY5QVE4SkRFZUxHVHByZHpkQXA1cGQ5RVFKTlNlWWMzNTdtMzZsR1ZVVWJFRXR6aWdxc1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-10-100",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What's The Best EV We've Ever Tested? - InsideEVs",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE12Z01KUno5Z0hUWmNXVXloQ28wMHN6OERHeXppMEpGVHhoQmRIYS15Z1RuX0ViZkZTQjhYTmhaMG5JOXAzWm9WcHlDUmJ2bWZCNFBJeWI2aXNRQlIzLUY2eTRCWkZEWXlDbjlWWnMyRH",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12Z01KUno5Z0hUWmNXVXloQ28wMHN6OERHeXppMEpGVHhoQmRIYS15Z1RuX0ViZkZTQjhYTmhaMG5JOXAzWm9WcHlDUmJ2bWZCNFBJeWI2aXNRQlIzLUY2eTRCWkZEWXlDbjlWWnMyRHhtSEFFNm16cA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-07-10-101",
+    "date": "2026-07-10",
+    "companies": [
+      "rivian",
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian Automotive vs. Tesla: What Their Revenue Trends Tell Investors - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnZCeVVhenB5ajV3M3hoamdrRWp4ejVjS0xpT3dQdTU5eXd0NjVjNWpMZ0t3R1Bxdk52dXEtUmMzSU8zbGx6dk9hclFFRGpaMjRWWnA0SkY3UExNRHRHYVYybGhuUUNLeUtscDR4dV",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnZCeVVhenB5ajV3M3hoamdrRWp4ejVjS0xpT3dQdTU5eXd0NjVjNWpMZ0t3R1Bxdk52dXEtUmMzSU8zbGx6dk9hclFFRGpaMjRWWnA0SkY3UExNRHRHYVYybGhuUUNLeUtscDR4dVh6dTBPcmhRX25mTzRHWGFhbGh2OEI4N1hyTU1GTDdjck5YbVZsRjlHOUZ2WU1xQkg4eWNrMWdDMHh3Z2RfNEQ1OC1uQlI5TUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-07-10-102",
+    "date": "2026-07-10",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen Plans to Kill Off Half of Its Models - Design and Development Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPek5NaWlfT2VVNzY0djJ2bnRfS2FMNGJrZ0NXSjJaUXlNLTd0b21mOUZZS1RiX2ZiWDZfenlyQmRpVlBrMktod0F6cTdWYWFNd29aeS1FUm9kbmtMeDIzd09MbmtxZ3ZoeWxINzY4UG",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPek5NaWlfT2VVNzY0djJ2bnRfS2FMNGJrZ0NXSjJaUXlNLTd0b21mOUZZS1RiX2ZiWDZfenlyQmRpVlBrMktod0F6cTdWYWFNd29aeS1FUm9kbmtMeDIzd09MbmtxZ3ZoeWxINzY4UG1ZQ2VvOTV3RGt2N1I3LVZHbEowM0s2SXRFOWhqTE5WZG9oRlVZNmczV3l3QlBxN01OZ1hWWmRMQXIzNkVJN3g5alNKSzBBUUwzV3NTTEF1OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-07-09-001",
     "date": "2026-07-09",
     "companies": [
@@ -3684,6 +4130,26 @@
       {
         "name": "volkswagen",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3BxV0RLOEI4eEFvT3NjTERhUkl3eHdPaEpMdW1xdEpCaHo2X3VuRXowaF9pdUhwTnp1Sm1MR0U0S19JSVlxUnl0US1mLS1jbHRBd2U3T1E3aFFtbzhDNV9RQjhHM2RQbU9FN1hyc0luNWpRUnF1YWJJWFcteHFNXzE5clg1d3pLUHBnZ08waTI0TTVTTndYNlBCeVJRWkp0MXBHSUVEWHZ5NTlXNkRjd0E1SXBzcEQ5ZFNHN21pYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-07-09-082",
+    "date": "2026-07-09",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What This Insider Sale Means as Rivian Raises Guidance to 70,000 Vehicles - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHRLWDluTTIta0JjbUlJbDBuTVN3VHZzUzg4a2haQ09fMjZ4V2ZockV2bXJ3eVBuT1YtOFBxZmJpTk5pYUI0UnFlRE4zUmpXMjlKNUJLU0pfaVVfdE9qd1hCaXVJMVJINVg4Ymx4cT",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHRLWDluTTIta0JjbUlJbDBuTVN3VHZzUzg4a2haQ09fMjZ4V2ZockV2bXJ3eVBuT1YtOFBxZmJpTk5pYUI0UnFlRE4zUmpXMjlKNUJLU0pfaVVfdE9qd1hCaXVJMVJINVg4Ymx4cTBEcmRrMFZUNHlHdTJXcHhpMGVCdmtZXzZaZXNEREJOaWRNVC1mUDFJSlM1elRqbEN6Mi1HNUVfdXhCOTdGbkJXS1dZdVFmbE5LSEFkamstb1c?oc=5",
         "type": "rss"
       }
     ]
@@ -7199,6 +7665,26 @@
     ]
   },
   {
+    "id": "samsung_sdi-2026-07-07-096",
+    "date": "2026-07-07",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Forge Nano And Samsung Sdi Plan Battery Plant In North Carolina - megaproject.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQTk15d2cyR3FkclkyZi1LZklDRlp3Q2JRcHhfODdWdktHMW05dmRwY2o1djU1Qk5YRUt0Q21iOE85OXFUZ0Z0U1BvOV9rNW5JN3dnd19fTEUtbjRPWW5QMEwzbWlFRW80YUk1U1dzZF",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTk15d2cyR3FkclkyZi1LZklDRlp3Q2JRcHhfODdWdktHMW05dmRwY2o1djU1Qk5YRUt0Q21iOE85OXFUZ0Z0U1BvOV9rNW5JN3dnd19fTEUtbjRPWW5QMEwzbWlFRW80YUk1U1dzZFljdV9ybmhuUXlwX3NaNzZOdEI0WTBjYzFwS28za2pKeFpCRVJId2NkSTZjY1dUeS11bXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-07-06-001",
     "date": "2026-07-06",
     "companies": [
@@ -9484,6 +9970,26 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/07/04/happy-birthday-america-hope-you-find-your-way-back/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ganfeng-2026-07-05-027",
+    "date": "2026-07-05",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ETFs Investing in Ganfeng Lithium Group Co., Ltd. Class H Stocks - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUjcxblI2V3RudGxENGJyWThkVUMyNlNQaE9BZDJNeGROWVdJd2RSYkNSUkxxXzVsOFJ6RHdxMVFDbjhqRXh4UHI4ajhpd3FETlpVdHI3UkVFWDdBdGhIZQ?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUjcxblI2V3RudGxENGJyWThkVUMyNlNQaE9BZDJNeGROWVdJd2RSYkNSUkxxXzVsOFJ6RHdxMVFDbjhqRXh4UHI4ajhpd3FETlpVdHI3UkVFWDdBdGhIZQ?oc=5",
         "type": "rss"
       }
     ]

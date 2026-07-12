@@ -1,0 +1,150 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T09:54:05.696046Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-07-12-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Volkswagen and Xpeng Develop ID. Unyx 09, 496 HP Electric Fastback Using CATL Battery - VOI.id",
+      "companies": [
+        "volkswagen",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "volkswagen"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1aRm5zVXBNcTdfNy1mTTRzTTZlanNpOHBORG1heWtDV2JoemZaeXlNdmV3OF9MYTk0MkkyR2llMEY0Q1hi0gFCQVVfeXFMTXVUamVWZll2bThhSFZVaGFYcjdzVGpueDZTbDRmV0FCdVNPN1pudVh2VzVZd0psZThuamJ0emlqWG93?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "umicore-2026-07-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Umicore stock holds steady as materials strategy targets clean mobility demand - ad-hoc-news.de",
+      "companies": [
+        "umicore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0R2STZEZ3lqOXBaUVlBQkVRRlY0M0QyRnI0NWlXMHJZLXkxQUIzSWpIYnFyVnJFNnVRSUtHRzlVYllXZGxXOG05OFI3YmRmVk9mTjVKTVNpNTdwVk9PdkNWdGcxWkM4N2RqOGRMeDJGaEswM3pCNHZNZlVVUVpFcl84OWdTcEo5RnRzd1BxRjRKNHczbkhEMUhxODJ2b2s0cjVsb2tTTFlydHp0ZkNSM0NXOG92Q0xqUVNNcTc5dE1wT1VicHRmZXNB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "volkswagen-2026-07-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Volkswagen Group H1 2026 Deliveries Fall 6.3 Percent, Skoda Elroq Takes BEV Crown - autoevolution",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYlUteWYyQ0xJWE5Zd29KeGwxa21YVGVzWnZ6QWdwaEhJc2k1MkN1N3dObkxTQXBjVzk2cWQ1SzFBYlNnYnUtZUZXc3FlZVR6VWkteWZPZkNzTDdLSlFfcFFIMXYyRUphQng0Y2RLY3Y4OUtwMTZFcnR5YndrUjV1NVp3enp6aElkWXhuZjRzUGdlMC02b20xOXk5Q3JCY0ZCRlNWeHN2bjVqOG8wNDFYRXdKZnVmVTJuRmZoWF9HN2lVZkNL?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "umicore",
+        "count": 1
+      },
+      {
+        "id": "catl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 272,
+    "too_old": 79,
+    "gate1_blocked": 25,
+    "gate2_blocked": 24,
+    "passed": 26,
+    "pass_rate": "16.9%",
+    "gate2_block_rate": "15.6%",
+    "gate2_samples": [
+      "Samsung SDI Sweeps 66% Share in South Korea's AI Power Grid ESS Project - finance.biggo.com",
+      "Pilbara Minerals (ASX:PLS) Retreats as Materials Stocks Face Broad Selling Pressure - Kalkine",
+      "Why Pilbara Minerals (ASX:PLS) Shares Slipped Despite More Than Tripling in a Year - Kalkine",
+      "Umicore stock reflects steady materials strategy amid energy transition - ad-hoc-news.de",
+      "Umicore focuses on clean mobility and recycling. Strategy targets long-term growth - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為福斯、優美科、寧德時代相關動態：「Volkswagen and Xpeng Develop ID. Unyx 09, 496 HP Electric...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Volkswagen and Xpeng Develop ID. Unyx 09, 496 HP Electric Fastback Using CATL...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Umicore stock holds steady as materials strategy targets clean mobility deman...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
