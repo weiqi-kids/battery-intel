@@ -1,0 +1,197 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T11:16:45.698157Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-07-13-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Ross Gerber's 'Controversial' EV Opinion? He Prefers Tesla's Cybertruck Over His Rivian, but Criticizes FSD - Benzinga",
+      "companies": [
+        "tesla",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSlRramRkZzNsX2lrUXpCRThFMUY5OE9CMTB0d3BKWlRYcUFCaEU5VzlYdEJZUGxMNTRDdnlKQ1VyaWhHT1dKbHdFZ29Zd0ZzajdNUTRpdWhvcDJ6eV9vWllzR1VVcnh4NUVwOW00RDRCM19JQ3RjSGlTc1RwenI1dDRyRzN3UVh0NXFjLUhiYnRpWTA2dXl0T05nR1RKTXlnQkl3YmlXMWNWdUpESU1vOF9IZ2RxeG1OZWJraW1XdFpjNFBtbjMyOUVMaDhvYnJyZVViYVQ5cTUwVUVwMURGaUNEOFkxNDh0ckE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL unveils 8C battery that charges commercial EVs in under 7 minutes - YourStory.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42YXRyWEFRWGhjWE1tMUkyb2tkN3lmelhOVnVhQU5YZERWdlc4NlRLQUpwUGJVZ3BBVGRidmdkdWhjX0hkUjJkdEp4UWxxYnJPUk4wa2E4b0hYLVlzV2szNHVmWklKRW9saTRwenI0ZTlPa2ZIV19heVZZSVhZQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[Opinion] Mass Production Is Only the Beginning for Solid-State Batteries - thelec.net",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zQjh2N2toUGxHdFZCc1NaU0pBLUN5S1ZoLVVzU0JoZXlJX1dpaTV4dzJNQjRwTjNFTE1LcGRYWXFiQ0pJU3p0a0pKSk1YV0oxN1RCS2pDR056S0ZKZnRMbFVHR3lnS2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sk_on-2026-07-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Motor Group and SK On's U.S. battery joint plant begins operations... first deliveries to Metaplant - 매일경제",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44MHY0dVFacUpsOWxhREhtbC0wazZlMENvMG50TmM5OXVvYkpVeGxOMW1BcmtjZmlvTlcycmQ1c1E4QmF4NHFWbFJmSGxnbEw1RWN3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is PLS Emerging as the New Face of Lithium Stocks? - Kalkine Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWk0S0pVakdtQXRDaWt5UWxIMjJROXl2ZXlRX29hd0theTdPVkxYVVpJVmlpV1R1SWUtSk9xek1rLTR2Zi1GWHNncG1SMUVvb25OUnhHSzhfdWFIWDB5emxDMWJNN29ZLVBuRWc4UU5NWnhnNC1xbWEyMjJwc0NrOEc3aTh2TWdHNHR6a0tDYnhERHk4UW9WUjd3c3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 1
+      },
+      {
+        "id": "sk_on",
+        "count": 1
+      },
+      {
+        "id": "umicore",
+        "count": 1
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 242,
+    "too_old": 71,
+    "gate1_blocked": 28,
+    "gate2_blocked": 24,
+    "passed": 38,
+    "pass_rate": "23.6%",
+    "gate2_block_rate": "14.9%",
+    "gate2_samples": [
+      "LG Energy Solution secures government-backed AI grid ESS project - The Korea Herald",
+      "Samsung SDI Sweeps 66% Share in South Korea's AI Power Grid ESS Project - finance.biggo.com",
+      "Pilbara Minerals (ASX:PLS) Retreats as Materials Stocks Face Broad Selling Pressure - Kalkine",
+      "Why Pilbara Minerals (ASX:PLS) Shares Slipped Despite More Than Tripling in a Year - Kalkine",
+      "BYD Z9GT Sets World Record Range of 1,036 km in Cross-Continent Test - News and Statistics - IndexBo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為特斯拉、寧德時代、SK創新相關動態：「Ross Gerber's 'Controversial' EV Opinion? He Prefers Tesl...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Ross Gerber's 'Controversial' EV Opinion? He Prefers Tesla's Cybertruck Over ...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "CATL unveils 8C battery that charges commercial EVs in under 7 minutes - Your...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

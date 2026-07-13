@@ -1,0 +1,185 @@
+{
+  "date": "2026-07-13",
+  "date_range": {
+    "start": "2026-07-07",
+    "end": "2026-07-13"
+  },
+  "generated_at": "2026-07-13T11:16:45.844617Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "byd-2026-07-07-064",
+      "date": "2026-07-07",
+      "title": "Emmanuel Mwamba. . BYD (Build Your Dreams) automaker has transformed from a struggling cell phone battery maker into the world's largest electric vehicle (EV) manufacturer, surpassing Tesla in global sales and generating over $100 billion in annual reve - facebook.com",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "nio",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "lg_energy",
+      "company_b": "tesla",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 193,
+      "last_week": 203,
+      "week_over_week_change": "-5%",
+      "sentiment_this_week": 0.01
+    },
+    "cathode_material": {
+      "this_week": 7,
+      "last_week": 3,
+      "week_over_week_change": "+133%",
+      "sentiment_this_week": 0.21
+    },
+    "lithium_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "ev_sales": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.75
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "lg_energy": {
+      "event_count": 19,
+      "sentiment_avg": -0.0,
+      "rank": 1
+    },
+    "samsung_sdi": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "ganfeng": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 10
+    },
+    "pilbara": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 8
+    },
+    "rivian": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nio": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "volkswagen": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "tesla": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "byd": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "umicore": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "sk_on": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 442,
+        "last": 516,
+        "change_pct": -14.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-07",
+      "event_count": 97,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-07-08",
+      "event_count": 90,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-09",
+      "event_count": 84,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-10",
+      "event_count": 107,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-11",
+      "event_count": 32,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-12",
+      "event_count": 16,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-13",
+      "event_count": 16,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-07 ~ 2026-07-13）共 442 則事件，重點為「Emmanuel Mwamba. . BYD (Build Your Dreams) auto...」。贛鋒鋰業情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "贛鋒鋰業",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LG新能源",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
