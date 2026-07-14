@@ -1,0 +1,16 @@
+{
+  "total_raw": 422,
+  "dup_title": 192,
+  "no_date": 0,
+  "too_old": 74,
+  "gate1_fail": 25,
+  "gate2_fail": 27,
+  "passed": 104,
+  "gate2_samples": [
+    "Pilbara Minerals (ASX:PLS) Retreats as Materials Stocks Face Broad Selling Pressure - Kalkine",
+    "Why Pilbara Minerals (ASX:PLS) Shares Slipped Despite More Than Tripling in a Year - Kalkine",
+    "Umicore stock reflects steady materials strategy amid energy transition - Ad Hoc News",
+    "Umicore focuses on clean mobility and recycling. Strategy targets long-term growth - Ad Hoc News",
+    "Why I Won’t Buy A Rivian - 24/7 Wall St."
+  ]
+}

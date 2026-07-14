@@ -1,0 +1,247 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T10:02:13.343427Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-07-14-014",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "The Rivian R2 Matches the Tesla Model Y on Efficiency. That Is a Big Deal. - GreenCars",
+      "companies": [
+        "tesla",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFZubWwydVZkTEczZURPMkQwT3FXRGxjc1B4UkZ0MXRBejltSnNZU2VuMHVwMHF3VUxTdFVVNzRsSEg0Y1FQeE5zY00zVUJQWVhMcFI3Tk4wd3plSVItUUdKN0s5MmlyUjhjZHNQRDRib0t0b3dnZ25QSlpVMlk0ekUxRk5KWjU1SWJ6cVdHU01RZG1LckdlYkUwaVJGSHpUbmNubXE5aXA5VlpqUEhhRDc1Nnc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-07-14-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BYD Thailand deliveries surpass 130,000 as local plant marks second anniversary",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://cnevpost.com/2026/07/14/byd-thailand-deliveries-130000-local-plant-2nd-anniversary/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-14-034",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "France, Italy, Spain set daily solar records",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/14/france-italy-spain-set-daily-solar-records/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korean battery makers split strategies as LG expands ESS operations and Samsung leads supply - Korea JoongAng Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN0JRSGtVaXQ3b3dzX1g5WUItMV93R0dRTVA1Z08yTHZFRnRxZEYzQVFSVjN2VlZQWU8yY0hfczU3SXhoRXNURUhPYV9oWWVWbWlqdUJHRk13Nl9jeE5JTDZUTTJXUTY3Qm1PdEd4ZFZxelBWUkVLYm85QXFKTEpINnhXWlRDei1CXzhpa0xCZWo3Y0IzWUVQdWtGTHRRN0NZSjR0eUVlSnp5SXFGcHhYWnR5anVkbWNiRmVIMS13M1hMRG1wWjI4TTljRnlZN1lWS0Y4RzhtOFpwZEpTYUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_sdi-2026-07-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung SDI's UPS batteries pass global fire-blocking test - Korea JoongAng Daily",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3VXZjFlMFdQWHJtUXNhbXpKX25TNW5OMEZPQkd0dEd0R1dsb1NRMVktS2oyeTZiVWJWV1UzYnh2V05YWURIdlNROExrcFJRY2RUaFZIRkxYUzB1VjZTeEx6WkFROGdDVUVBejV6TlNULW9mTzAxMDBDQjdWUWttaS1EZFMxTHpjNmV3TDlSTVFjNW90VGdrY3I5N0daYXJHSmxYNUQyOUNVbmtpY1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 30,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "samsung_sdi",
+        "count": 8
+      },
+      {
+        "id": "rivian",
+        "count": 3
+      },
+      {
+        "id": "ganfeng",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 422,
+    "dup_title": 192,
+    "too_old": 74,
+    "gate1_blocked": 25,
+    "gate2_blocked": 27,
+    "passed": 104,
+    "pass_rate": "45.2%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "Pilbara Minerals (ASX:PLS) Retreats as Materials Stocks Face Broad Selling Pressure - Kalkine",
+      "Why Pilbara Minerals (ASX:PLS) Shares Slipped Despite More Than Tripling in a Year - Kalkine",
+      "Umicore stock reflects steady materials strategy amid energy transition - Ad Hoc News",
+      "Umicore focuses on clean mobility and recycling. Strategy targets long-term growth - Ad Hoc News",
+      "Why I Won’t Buy A Rivian - 24/7 Wall St."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為三星SDI、Rivian、贛鋒鋰業相關動態：「The Rivian R2 Matches the Tesla Model Y on Efficiency. Th...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "The Rivian R2 Matches the Tesla Model Y on Efficiency. That Is a Big Deal. - ...（正極材料）",
+        "level": "yellow"
+      },
+      {
+        "text": "BYD Thailand deliveries surpass 130,000 as local plant marks second anniversary（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
