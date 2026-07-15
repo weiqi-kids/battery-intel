@@ -1,0 +1,205 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T10:06:41.250843Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-07-15-033",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Could BYD buy Volkswagen? This German economist thinks so - CarExpert",
+      "companies": [
+        "byd",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGJ3SW5GM2ZNREg4WTN0b0RGS0dsd1NxRjcxVVpDT3dNcUgtcVJVLVlFQlBTRUtvUE8xMXB0bkJFOU9CQXpVai1yTEJlZ05WWWpialpSS3VwNXQyX2R0aEQ3RE8ySWpyTnBvYzZkX0Uza05Qa0g0Yi1pbGRvMlJQaEJJUnpXN0xQalJPY3poUFZUcE1BVDVMR2R3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-07-15-035",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Aptera Won't Build A Service Network. Here's What Owners Will Get Instead",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/801672/aptera-solar-ev-service-network/"
+    },
+    {
+      "rank": 3,
+      "event_id": "ganfeng-2026-07-15-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tianqi Lithium and Ganfeng Lithium Expect Record Earnings in First Half of 2026 - News and Statistics - IndexBox",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORDlvWHJrZzdXM1h4WFgtTEtHbHhmVXJfVks4UVNtdmRXa2htTjJVRkdHOG9lVFhHTlYtWTJfUUt0V2tWeDNiTU1hUVFfREJfSlVyMnJXOWdOTHN6R3Mta0ZIdTNubENiMEFTVWItOWJVZTVSRWhhbnZfcy1zWDJNd0g1cVNReXFXZlBnT0lNSXZsdnl3dmY5ejUxRW5CdXlO?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-15-048",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "25% of EU Power Came from Solar for the First Time in June",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/07/14/25-of-eu-power-came-from-solar-for-the-first-time-in-june/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-15-053",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ISC Konstanz study highlights atomic layer deposition as a superior approach for TOPCon UV stability",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/15/isc-konstanz-study-highlights-atomic-layer-deposition-as-a-superior-approach-for-topcon-uv-stability/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 56,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 59,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 51,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lg_energy",
+        "count": 9
+      },
+      {
+        "id": "nio",
+        "count": 5
+      },
+      {
+        "id": "sk_on",
+        "count": 4
+      },
+      {
+        "id": "ganfeng",
+        "count": 3
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 56
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 203,
+    "too_old": 61,
+    "gate1_blocked": 24,
+    "gate2_blocked": 29,
+    "passed": 108,
+    "pass_rate": "48.6%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "LG Energy Solution powers Google Arkansas solar-ESS hub to fuel AI data centers - CHOSUNBIZ - Chosun",
+      "LG Energy Solution Named Google's ESS Partner for Energy Infrastructure Project - Seoul Economic Dai",
+      "LG Energy Solution secures government-backed AI grid ESS project - The Korea Herald",
+      "Why Pilbara Minerals (ASX:PLS) Shares Slipped Despite More Than Tripling in a Year - Kalkine",
+      "Umicore stock reflects steady materials strategy amid energy transition - Ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 59 則事件，焦點為LG新能源、蔚來、SK創新相關動態：「Could BYD buy Volkswagen? This German economist thinks so...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Could BYD buy Volkswagen? This German economist thinks so - CarExpert",
+        "level": "red"
+      },
+      {
+        "text": "Aptera Won't Build A Service Network. Here's What Owners Will Get Instead（電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

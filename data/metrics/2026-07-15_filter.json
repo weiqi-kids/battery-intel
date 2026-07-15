@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 203,
+  "no_date": 0,
+  "too_old": 61,
+  "gate1_fail": 24,
+  "gate2_fail": 29,
+  "passed": 108,
+  "gate2_samples": [
+    "LG Energy Solution powers Google Arkansas solar-ESS hub to fuel AI data centers - CHOSUNBIZ - Chosun",
+    "LG Energy Solution Named Google's ESS Partner for Energy Infrastructure Project - Seoul Economic Dai",
+    "LG Energy Solution secures government-backed AI grid ESS project - The Korea Herald",
+    "Why Pilbara Minerals (ASX:PLS) Shares Slipped Despite More Than Tripling in a Year - Kalkine",
+    "Umicore stock reflects steady materials strategy amid energy transition - Ad-hoc-news.de"
+  ]
+}
