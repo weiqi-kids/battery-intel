@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 26,
+  "gate2_fail": 29,
+  "passed": 98,
+  "gate2_samples": [
+    "LG Energy Solution Powers the Future of AI with Advanced Energy Infrastructure Solutions at ees Euro",
+    "According to industry sources on July 15, Google and U.S. renewable en - Shanghai Metals Market",
+    "LG Energy Solution secures government-backed AI grid ESS project - The Korea Herald",
+    "Umicore stock holds steady as clean tech strategy shapes long term outlook - Ad Hoc News",
+    "Umicore stock reflects steady materials strategy amid energy transition - Ad Hoc News"
+  ]
+}
