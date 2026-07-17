@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T10:02:08.282085Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-07-17-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Volkswagen’s Crisis Is a Warning About Germany’s Industrial Model - semivision",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTC1GQTgyVGxHNlh5VFJVQ2o5WFBvZC16RC01alJlaWZnRjJQN3NzZnIyTnVSZXVhQ3VLUjJncDRmd28wX2VfRWRjYnptbGd6OVVObDhuNGdUZy1haTVHY0k0WVcwa1pjQTJ6T2xWdTVTb1kxc2NWUlpXZHpGRWNXTUViSXY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-17-030",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Scientists build 31%-efficient indium-free tandem perovskite silicon mini-module via reactive plasma deposition",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/17/research-breakthrough-develops-indium-free-tandem-solar-cell-with-31-efficiency/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Madrid Approves Chinese Workers for $4.7B EV Battery Plant - Briefs Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTjhRSGFiZkEwYTVhbm1VWE5XUGltd09DOVBNMU9leXRCVDFGckk3TXdVd0tBdmNGWW5LbXJ3Tngzd2dkQWhJOG5jYk1rNHZMWXUyMkEyUVdidTdyZ0UzbDFuSlVQQ3hBUEtxTFExMEhnSVRRS0xxazhqYVEySGN6c2ZCdnlJODNtd1JscXVZZmJvdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sk_on-2026-07-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai And Sk On Begin Battery Production In Georgia - megaproject.com",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT3hudnJ0aXZEakI4dFh4cnEzVVVIbkQ3U3BSdUdsdUw1d25SWHRoSGhQRlRsWXZTcXVibHpmZFhucGNpUDBpcnpabGtXVklIamk4bVlOeUd5cTVzYTBwc0xDTWdpeTdKdVRwSTAyc05GVTd0bkp4d1Y4T0tiUVRrNmd3TWlQTC0tUnNOODQ3MmJyRnFy?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pilbara-2026-07-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pilbara Minerals (ASX:PLS): Why Is It Back in the Lithium Spotlight? - Kalkine Media",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTG5EM0RQeWtKWnFzYk96NjI1VWQxM3BFanFEWEllRm0yNGwyb0xScXhtMEdMUDZmSUV3ZkhTb2JUTlVRQkt3X2hTZlFaalZiRmNvZVA0dXdWS3F3TzhZaV9MNmd4LTBQdW9ZRUJoSjQ5emJjclQyMmFhX0NURF9Wc3VjT0Z5SmFWcXFZbDNzclowZmdQbnVfQ09HNFdkLXhrbm44Q1pyZVNvZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 27,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 4
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "sk_on",
+        "count": 1
+      },
+      {
+        "id": "pilbara",
+        "count": 1
+      },
+      {
+        "id": "volkswagen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 213,
+    "too_old": 70,
+    "gate1_blocked": 21,
+    "gate2_blocked": 22,
+    "passed": 99,
+    "pass_rate": "46.7%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "CATL Receives the 2026 Volkswagen Group Award - CATL",
+      "CATL Plans European Sodium-Ion Storage Rollout With Alfen - Caixin Global",
+      "According to industry sources on July 15, Google and U.S. renewable en - Shanghai Metals Market",
+      "Umicore stock holds steady as clean tech strategy shapes long term outlook - ad-hoc-news.de",
+      "Umicore stock reflects steady materials strategy amid energy transition - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為比亞迪、蔚來、SK創新相關動態：「Volkswagen’s Crisis Is a Warning About Germany’s Industri...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Volkswagen’s Crisis Is a Warning About Germany’s Industrial Model - semivision",
+        "level": "green"
+      },
+      {
+        "text": "Scientists build 31%-efficient indium-free tandem perovskite silicon mini-mod...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

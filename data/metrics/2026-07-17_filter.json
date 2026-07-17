@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 213,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 21,
+  "gate2_fail": 22,
+  "passed": 99,
+  "gate2_samples": [
+    "CATL Receives the 2026 Volkswagen Group Award - CATL",
+    "CATL Plans European Sodium-Ion Storage Rollout With Alfen - Caixin Global",
+    "According to industry sources on July 15, Google and U.S. renewable en - Shanghai Metals Market",
+    "Umicore stock holds steady as clean tech strategy shapes long term outlook - ad-hoc-news.de",
+    "Umicore stock reflects steady materials strategy amid energy transition - ad-hoc-news.de"
+  ]
+}
