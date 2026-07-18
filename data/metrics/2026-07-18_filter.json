@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 250,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 25,
+  "gate2_fail": 22,
+  "passed": 58,
+  "gate2_samples": [
+    "CATL Receives the 2026 Volkswagen Group Award - CATL",
+    "According to industry sources on July 15, Google and U.S. renewable en - Shanghai Metals Market",
+    "Umicore stock holds steady as clean tech strategy shapes long term outlook - ad-hoc-news.de",
+    "2027 Rivian R2 | Quick Spin - MotorWeek",
+    "What Is Going on With Rivian Stock on Wednesday? - Benzinga"
+  ]
+}

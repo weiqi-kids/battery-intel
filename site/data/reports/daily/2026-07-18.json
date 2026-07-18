@@ -1,0 +1,201 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T09:37:41.647739Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-18-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Endgame: The Decline & Fall of the Western Automotive Industry",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/07/17/endgame-the-decline-fall-of-the-western-automotive-industry/"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-07-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL's new sodium battery lasts 30 years and is already replacing lithium in grid storage - Notebookcheck",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3ZCNUtLazhXR3R3NExCQkRGYmlLbXM0RTV1bUtNbUFCS2gycUpuaWViNmRfN3Ftc2ptSkl4Ymlqd3VZVTdsQnZ2cDEwRmEzM1c4TjFxNFdnZnRuTGZuVGdQUjRNazdpWGtGYk5MbnA3aWNpVjhsakRrUTc5SGl5clloUXFhdlV0SHVFWVNQVXg2Y2JUVHFRZDUzVkpoLU9vMHNMWEJURTZzYnJHN3h3MjY0WkdUX1pxWGtnMFlJZkU2Sl9FUTBqeGZDeXE2c0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's battery tax shift is a strong push for automakers to make their own cells, CPCA's Cui says - CnEVPost",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT3NyWkRnY21LcWRWeEhPZjJFUWNNaXM2aDZvdFpOcTlHb2phRHhNZ2FLRGF3aW5pQjFxcjNmamkxbVZvYmpsVHBhVjBtQ2hnMi1KZGd1eF94UE9oMUVQMTZQY0RZTVJHVzRXYlFpeTNacG93My1JZUJQT3JHR0xuaHRiN3dlcFhlRjdROEV6b3k?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Are ASX Lithium Stocks Back in Focus Despite the Recent Pullback? - Kalkine Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm1yNm1MSTE1bGJtc3hnYkhsbjF6a0JUWm5pN1F2OWZERXZBczhRQ2RwcmFKSnRZb3EySWJ5Y0JQMnFzbl9seE5hR0JsazdCQktPcjQ5QUl5bm9WdGxVLTQ4YUpzb3EzTTA1Z01QOWgwU1EtT1puY1pNVWFCbXFYNHR5aVkxY1AxWmlNa1NLUzMxbnFGOEJtM1Rfdkk5R05LQVpzOEdialVXR0ZWdVlBRA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "byd-2026-07-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BYD stock trades steady as EV and battery margins face global competition - ad-hoc-news.de",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeWk5X25NOTVHb0x1ZXdqT09QR1RfSmx4ektTWEVrdVBPMnh1SGktbnp6RF9YZjM3WDVBQ1NwWTJFYmRtcC1xVjdtRFF6OHhWS0p2N0FJSmEtaEFxak5DYmxVenRGOWhFblo3V3llZm02OWdrVnJPdjdoVlpBdUdzVWk3enI1bEhyU0VXZko2QzhDc2NZbEJYQjNtdUlBQjI4WnZqaFJwNGtHSktpUTFOX1FWN1ZXVXUtWlZpR3ZYd3ZaZGRDUXV1MUd6ZV8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "umicore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 250,
+    "too_old": 70,
+    "gate1_blocked": 25,
+    "gate2_blocked": 22,
+    "passed": 58,
+    "pass_rate": "33.1%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "CATL Receives the 2026 Volkswagen Group Award - CATL",
+      "According to industry sources on July 15, Google and U.S. renewable en - Shanghai Metals Market",
+      "Umicore stock holds steady as clean tech strategy shapes long term outlook - ad-hoc-news.de",
+      "2027 Rivian R2 | Quick Spin - MotorWeek",
+      "What Is Going on With Rivian Stock on Wednesday? - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為寧德時代、比亞迪、優美科相關動態：「Endgame: The Decline & Fall of the Western Automotive Ind...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Endgame: The Decline & Fall of the Western Automotive Industry（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "CATL's new sodium battery lasts 30 years and is already replacing lithium in ...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
