@@ -1,0 +1,114 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:55:19.347355Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "umicore-2026-07-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Umicore stock trades steady as recycling and battery materials shape earnings outlook - ad-hoc-news.de",
+      "companies": [
+        "umicore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLWsxZlctQlpZTTN1R3UxN1czcFcxS2JaZ19uaEhfRTRPM0gwbE9OWGptOVpRdTNlb3FTalJ6VVMyNS1GMmF6RWNWZjE4SEh4aTBqUnI3U2FzUDJHYjdzWk5XQ2hycjY5ZTNoTGRzRnY3NXBOWVJLOFhFT3lEVjNNeFNrMzBiMkM2Q2c0d1I3ZTVsS3NXWGpFUFNfd3VrdUVSbG8tVVk0OXFucmVuZ3g0QW9fVmlacWNVaVktbFBhanRKckplWXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New 6 passenger, 780-mile PHEV from GM has North America written all over it",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/07/18/new-6-passenger-780-mile-phev-from-gm-has-north-america-written-all-over-it/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "umicore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 424,
+    "dup_title": 285,
+    "too_old": 72,
+    "gate1_blocked": 25,
+    "gate2_blocked": 21,
+    "passed": 21,
+    "pass_rate": "15.1%",
+    "gate2_block_rate": "15.1%",
+    "gate2_samples": [
+      "According to industry sources on July 15, Google and U.S. renewable en - SMM Metal",
+      "Why Rivian Stock Fell 12% in the First Half of 2026 - The Motley Fool",
+      "Rivian Cancels R2 Delivery Over a Wrong-Colour Bumper, Buyer Says - eletric-vehicles.com",
+      "Volkswagen’s new affordable electric SUV debuts with 265 miles of range [Images] - Electrek",
+      "World premiere of the all-new electric ID. Cross: premium class in compact format - Volkswagen Newsr"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為優美科相關動態：「Umicore stock trades steady as recycling and battery mate...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Umicore stock trades steady as recycling and battery materials shape earnings...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "New 6 passenger, 780-mile PHEV from GM has North America written all over it（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
