@@ -1,0 +1,16 @@
+{
+  "total_raw": 428,
+  "dup_title": 264,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 25,
+  "gate2_fail": 19,
+  "passed": 44,
+  "gate2_samples": [
+    "According to industry sources on July 15, Google and U.S. renewable en - SMM Metal",
+    "Should You Invest $5,000 Into Rivian Stock Below $20? - The Motley Fool",
+    "Rivian Cancels R2 Delivery Over a Wrong-Colour Bumper, Buyer Says - eletric-vehicles.com",
+    "Volkswagen’s new affordable electric SUV debuts with 265 miles of range [Images] - Electrek",
+    "World premiere of the all-new electric ID. Cross: premium class in compact format - Volkswagen Newsr"
+  ]
+}

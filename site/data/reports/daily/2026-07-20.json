@@ -1,0 +1,232 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T10:56:47.626171Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-07-20-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BYD Fang Cheng Bao Tai 7 surpasses 200,000 sales in about 10 months",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/07/20/byd-fang-cheng-bao-tai-7-200000-sales/"
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-07-20-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BYD offers closer look at Qin Max, flagship of its hot-selling Qin family",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/07/20/byd-offers-closer-look-qin-max/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-20-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Australia sees record surge in solar, wind and battery projects",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/20/solar-wind-and-battery-projects-surge-to-record-high/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-07-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kandi Unit's 18-Station Batch Marks Commercial Entry Under CATL - Stock Titan",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVhZY2U5bXJQaHNQNEUxa2dLZUZRN01TTGxUcDdiZzBsYnRmTjJVVGxBWElyUW5zZlZUV1NqOXRSOHo3ZlhNWGRGalczT212UU1pV2U5a1RGcjlKLThUc0kta0xYWTFtb2J5NTU4U2h1blN2X1B4bm1uYzdES3ZyVDdicTQwOWNBU0lJMVFqLWtPRTZ2ZnNrczJFRkF0b0hMdjY0N3pyLWpVOFBqLU5OcWxUWWRQSmFwQ0tTQmx3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-07-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kandi Technologies Subsidiary China Battery Exchange Secures First Batch Heavy-Truck Battery Swap Equipment Order Under CATL Partnership - Quiver Quantitative",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQc0JzUlFCMlp5NmRRX1VQZ1hENEpVMVk4VlVURkMxWlhob0dnS0JIWW13RGpEUUVxbmdZTFgtdDViSUlxVGMzUTlDekxjTjZET2JwaGJOWVFtWUE3clh0eU01SGdub25INHViOGprNFl2eTBBLVV5TklFTTJJTHRrY3RFQklSUTZpR2FLQ0Y4TUJmbUs2MUJBZmhNYjJIdG9LdnVaSXhMWmNKbGxES3J3emthYlFhVzhHVlZRclh1ZENyY0Z4UXRqN2tHblpZMGVjTlQ0MEFKdVpEVkZGUURsN0N6Q2JYc0lwZlpoTm4yRHdSNlkybVl4c3FpR1RYdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 20,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 3
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "pilbara",
+        "count": 1
+      },
+      {
+        "id": "umicore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 428,
+    "dup_title": 264,
+    "too_old": 76,
+    "gate1_blocked": 25,
+    "gate2_blocked": 19,
+    "passed": 44,
+    "pass_rate": "26.8%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "According to industry sources on July 15, Google and U.S. renewable en - SMM Metal",
+      "Should You Invest $5,000 Into Rivian Stock Below $20? - The Motley Fool",
+      "Rivian Cancels R2 Delivery Over a Wrong-Colour Bumper, Buyer Says - eletric-vehicles.com",
+      "Volkswagen’s new affordable electric SUV debuts with 265 miles of range [Images] - Electrek",
+      "World premiere of the all-new electric ID. Cross: premium class in compact format - Volkswagen Newsr"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為寧德時代、蔚來、比亞迪相關動態：「BYD Fang Cheng Bao Tai 7 surpasses 200,000 sales in about...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BYD Fang Cheng Bao Tai 7 surpasses 200,000 sales in about 10 months（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "BYD offers closer look at Qin Max, flagship of its hot-selling Qin family（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
