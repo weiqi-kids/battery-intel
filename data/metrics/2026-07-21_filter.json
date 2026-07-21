@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 226,
+  "no_date": 0,
+  "too_old": 74,
+  "gate1_fail": 26,
+  "gate2_fail": 24,
+  "passed": 77,
+  "gate2_samples": [
+    "Alfen and CATL partner on 5 GWh sodium-ion BESS deployment across Europe - Enerdata",
+    "According to industry sources on July 15, Google and U.S. renewable en - Shanghai Metals Market",
+    "Why Are Pilbara Minerals (ASX:PLS) Shares Wobbling? - Kalkine Media",
+    "2027 Rivian Lineup: R2 SUV Is Finally Here—What’s Next? - MotorTrend",
+    "Rivian Shows Upcoming R3 and R3X Models at a Design Meet in Irvine - eletric-vehicles.com"
+  ]
+}

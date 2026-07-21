@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:29:01.162759Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nio-2026-07-21-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Shanghai contributes 11% of Nio's China retail sales in H1",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/07/21/shanghai-share-nio-retail-h1/"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-07-21-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Elon Musk sends first warning to SpaceX short sellers",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.teslarati.com/elon-musk-sends-first-warning-spacex-spcx-short-sellers/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-21-030",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The Big ICE Meltdown — June’s China EV Sales Report",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/07/20/the-big-ice-meltdown-junes-china-ev-sales-report/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Study: Kia e-Niro leads battery health ranking after high mileage - electrive.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUQ2RVhnS3ZNOTl0X1JtRDVvTWxaTW5kSG5HNVhRZjJIcDQybVdkSG93WmVCcWhLQm84MEs3QkJobDhtazVla3N1MVN0d2d0a1FMYUdOR0llQURRakxMczdWWExVWVN3NXNXMklvc1E4dVNFTXZiQTF6VVBNYUZNN3ZjNlJqS2tSUDFZTjZaMjluZVhrWlBfd1J6TndmQVZBR1h1NQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_energy-2026-07-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution to Restart Idled US EV Battery Plant - Seoul Economic Daily",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdFZVckhvb1drSG4yZ1ZIcE1hdm9NUmlLTEFRMlF5RmVENFdmU0NrRVd3M05kQ2NxQzRHX01UUU52T01OSnR6ampDXy1uQ180V0dpbjc4Q2h5Q3BHVF8wdE1IRkk2Q3pOZWZNeWVzTmFYdUxQVnNVN1JZVHB0dDFkRFlTMFlDci02WjVHcWdCa2R5Nlp5bEZXUzFzVDdPQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 29,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 6
+      },
+      {
+        "id": "volkswagen",
+        "count": 4
+      },
+      {
+        "id": "pilbara",
+        "count": 2
+      },
+      {
+        "id": "lg_energy",
+        "count": 1
+      },
+      {
+        "id": "sk_on",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "ev_sales",
+        "count": 2
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 226,
+    "too_old": 74,
+    "gate1_blocked": 26,
+    "gate2_blocked": 24,
+    "passed": 77,
+    "pass_rate": "38.3%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Alfen and CATL partner on 5 GWh sodium-ion BESS deployment across Europe - Enerdata",
+      "According to industry sources on July 15, Google and U.S. renewable en - Shanghai Metals Market",
+      "Why Are Pilbara Minerals (ASX:PLS) Shares Wobbling? - Kalkine Media",
+      "2027 Rivian Lineup: R2 SUV Is Finally Here—What’s Next? - MotorTrend",
+      "Rivian Shows Upcoming R3 and R3X Models at a Design Meet in Irvine - eletric-vehicles.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為蔚來、福斯、Pilbara Minerals相關動態：「Shanghai contributes 11% of Nio's China retail sales in H1」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Shanghai contributes 11% of Nio's China retail sales in H1（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Elon Musk sends first warning to SpaceX short sellers",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
