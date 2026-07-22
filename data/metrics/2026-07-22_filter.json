@@ -1,0 +1,16 @@
+{
+  "total_raw": 130,
+  "dup_title": 43,
+  "no_date": 0,
+  "too_old": 0,
+  "gate1_fail": 27,
+  "gate2_fail": 15,
+  "passed": 45,
+  "gate2_samples": [
+    "Kia PV5 High Roof spotted in public for the first time [Video]",
+    "NHTSA targets Tesla’s ‘Radar Saves Us’ document in FSD crash probe",
+    "Idaho just switched on a big solar farm – and a much larger one is next",
+    "Tesla’s 2026 Summer Update: auto navigation, Grok phone calls, Caraoke scoring, and more",
+    "Volkswagen enters the smart e-bike game with radar, cameras, HUD glasses, and more"
+  ]
+}

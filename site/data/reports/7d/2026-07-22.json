@@ -1,0 +1,165 @@
+{
+  "date": "2026-07-22",
+  "date_range": {
+    "start": "2026-07-16",
+    "end": "2026-07-22"
+  },
+  "generated_at": "2026-07-22T10:31:08.956595Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tesla-2026-07-20-033",
+      "date": "2026-07-20",
+      "title": "BYD Delivered 557,090 Battery-Electric Vehicles in Q2 2026. Here Is What That Means for Tesla's Global Dominance. - The Motley Fool",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 154,
+      "last_week": 198,
+      "week_over_week_change": "-22%",
+      "sentiment_this_week": 0.05
+    },
+    "cathode_material": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.13
+    },
+    "ev_sales": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 15,
+      "sentiment_avg": -0.03,
+      "rank": 1
+    },
+    "byd": {
+      "event_count": 14,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "lg_energy": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "sk_on": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "eve": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "pilbara": {
+      "event_count": 5,
+      "sentiment_avg": -0.3,
+      "rank": 5
+    },
+    "volkswagen": {
+      "event_count": 9,
+      "sentiment_avg": -0.05,
+      "rank": 4
+    },
+    "nio": {
+      "event_count": 13,
+      "sentiment_avg": 0.12,
+      "rank": 3
+    },
+    "tesla": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 7
+    },
+    "umicore": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 8
+    },
+    "rivian": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "panasonic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 357,
+        "last": 551,
+        "change_pct": -35.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-16",
+      "event_count": 96,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 71,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 29,
+      "sentiment_avg": -0.09
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 17,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 64,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 57,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 23,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-16 ~ 2026-07-22）共 357 則事件，重點為「BYD Delivered 557,090 Battery-Electric Vehicles...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Pilbara Minerals",
+        "reason": "本週情緒偏負面（-0.3），共 5 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "特斯拉",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 15 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
