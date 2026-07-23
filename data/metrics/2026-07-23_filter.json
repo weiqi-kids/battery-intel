@@ -1,0 +1,16 @@
+{
+  "total_raw": 419,
+  "dup_title": 191,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 32,
+  "gate2_fail": 27,
+  "passed": 102,
+  "gate2_samples": [
+    "Xiaomi Matches Li Auto as CATL’s Third Largest Customer, Overtakes Nio - eletric-vehicles.com",
+    "China's CATL, Bulgaria's Solarpro plan 2 GWh sodium-ion BESS in CEE - SeeNews",
+    "Alfen and CATL partner on 5 GWh sodium-ion BESS deployment across Europe - Enerdata",
+    "Why Are Pilbara Minerals (ASX:PLS) Shares Wobbling? - Kalkine Media",
+    "Umicore stock holds steady as clean tech strategy shapes long term outlook - Ad-hoc-news.de"
+  ]
+}
