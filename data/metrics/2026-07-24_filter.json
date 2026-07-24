@@ -1,0 +1,16 @@
+{
+  "total_raw": 420,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 31,
+  "gate2_fail": 24,
+  "passed": 88,
+  "gate2_samples": [
+    "Xiaomi Matches Li Auto as CATL’s Third Largest Customer, Overtakes Nio - eletric-vehicles.com",
+    "Power play: CATL wades into hydropower as China opens state projects further - South China Morning P",
+    "Alfen and CATL partner on 5 GWh sodium-ion BESS deployment across Europe - Enerdata",
+    "Why Are Pilbara Minerals (ASX:PLS) Shares Wobbling? - Kalkine Media",
+    "Why Is Pilbara Minerals (ASX:PLS) Back In Focus? - Kalkine Media"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T10:22:54.407229Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_energy-2026-07-24-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "LG Energy Solution Sues China's EVE Energy in US Over Cylindrical Battery Patents, Broadening Pressure Campaign - finance.biggo.com",
+      "companies": [
+        "lg_energy",
+        "eve"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02c2ZBSmxGVHc0TFlLMW41cTgtZFE3OHoxeGxsTTFvT0M5cnM3YUROakhtNFd3ZTFfU3QzNkxnd2JVUkpTY1Z1U3UyYlFBVnRZclIwSEM4MGlTTGplRFlBNDNIQjJGOFd6c3hfZ3g1THhvUE5DUXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-07-24-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "EVs At 41.4% Share In The UK – Tesla Leading BEV Brand",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/07/24/evs-at-41-4-share-in-the-uk-tesla-leading-bev-brand/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-24-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China TOPCon cell prices extend decline on weak demand and oversupply",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/24/china-topcon-cell-prices-extend-decline-on-weak-demand-and-oversupply/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-07-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL, Dalian Deta partner on V2G, battery swapping and government fleet electrification - Gasgoo",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONjVwcUZHSVRyUUpGOHhvQkFZWTBTMjBvd2NkRkl5bnFUTkpMMV8teUVPS0Ywc3p6TmJkbGhIR1l2RktVUEF5OU82NXhXOFo5cjZZaURBc2ZkdmEtQ0o3blFITFpxVW9yZ2dseUxLdjlqdTQxOUw0bFFETnJnTzR3clFOTnE5U2VFdU01el9zaVdRUnliN1FpVzF4YUQ5UkNBckdFcFBhc1dNdGJLVjJ4N3k5Y1VRY3dlaGc4UFByNFYzaVVna3J4ejBtUkJnSTROVEphZGR2bGMxUVJMSmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Guangdong's 167 Listed Firms Flash Bullish Signals: Electronics and Lithium Batteries Boom, $4.4 Billion Buyback Wave Anchors Valuation Confidence - finance.biggo.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsbzVDSTVUTE5Dc0FZb0VXTFZpblBUTDdlc0VBR2s2SlRoeVJUV1BPaVRuS204R1hCS2RldFZQaUxnMm5kRHA1TmpVMy1GOFlrV0licUk4cGJIZFdnZUZNbHI3Q0lMOTB5NGh4X1N5UEVkLXdROHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 27,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "lg_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 420,
+    "dup_title": 214,
+    "too_old": 63,
+    "gate1_blocked": 31,
+    "gate2_blocked": 24,
+    "passed": 88,
+    "pass_rate": "42.7%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "Xiaomi Matches Li Auto as CATL’s Third Largest Customer, Overtakes Nio - eletric-vehicles.com",
+      "Power play: CATL wades into hydropower as China opens state projects further - South China Morning P",
+      "Alfen and CATL partner on 5 GWh sodium-ion BESS deployment across Europe - Enerdata",
+      "Why Are Pilbara Minerals (ASX:PLS) Shares Wobbling? - Kalkine Media",
+      "Why Is Pilbara Minerals (ASX:PLS) Back In Focus? - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為福斯、特斯拉、寧德時代相關動態：「LG Energy Solution Sues China's EVE Energy in US Over Cyl...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Energy Solution Sues China's EVE Energy in US Over Cylindrical Battery Pat...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "EVs At 41.4% Share In The UK – Tesla Leading BEV Brand（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
