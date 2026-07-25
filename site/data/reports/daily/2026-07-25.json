@@ -1,0 +1,186 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:52:29.389894Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-25-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "New Analysis Evaluates Major U.S. Investors’ Record on Key Climate Shareholder Votes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/07/24/new-analysis-evaluates-major-u-s-investors-record-on-key-climate-shareholder-votes/"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-07-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of New York Mellon Corp Lowers Stake in Rivian Automotive, Inc. $RIVN - MarketBeat",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTVBbndlU0xvWXZkSkhqNTRqWDRDVDNsQk9JSG8zNVI0NGZ2WkI3bFZoREw5bTVNNWFCYm5ybEtvaUVUdGVTOEYxTHBzdXNqT05DT0hBZ25MT2lsTkc4b1pzTmZwd2NTLXdOczNwcnRyejljc19OZ3RvTzZWNFBRZnVfQ1UtS0dnaWFqNjlMeGhqT3Q4c1RqV1RGX05yZDJfTHBETEt1b0tBUHo0RmpweUpZWDRXRzV0SnAtN3FzTGhBVkliSnBMOUptZU8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "volkswagen-2026-07-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Volkswagen Lowers 2026 Outlook as China Pressure Deepens Europe’s Industrial Challenge - EU Today",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZnhBLV9WRmVsb3F4SUgwQ3h1aUdHcUh3VWwyZTZjZWRVZ0xLdFdkWlRXYU5vUEdDWmstV0p1LTRFRzlUb1EzMkdadjVYRFowR0h4WFpGcmhtUWxSbmI1QXVaNnk1b3ZUcWRIbzBXczJINXZnSDdNT0xpb0YwNF93emh3dW9LU2EtR0JJV2k2VG9mVFlMMExsaEVHc0dXV2QwM29LWmpLUFF6Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chery reaches 20 million sales with a third of owners outside China",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/07/25/chery-reaches-20-million-sales/"
+    },
+    {
+      "rank": 5,
+      "event_id": "tesla-2026-07-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX Starship just nailed something it’s never done before",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.teslarati.com/spacex-starship-just-nailed-something-its-never-done-before/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rivian",
+        "count": 1
+      },
+      {
+        "id": "volkswagen",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 418,
+    "dup_title": 229,
+    "too_old": 69,
+    "gate1_blocked": 30,
+    "gate2_blocked": 27,
+    "passed": 63,
+    "pass_rate": "33.3%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Sodium-ion BESS: CATL in 2GWh Eastern Europe collaboration, ESS Inc signs LOI for 500MWh of US deplo",
+      "Xiaomi Matches Li Auto as CATL’s Third Largest Customer, Overtakes Nio - eletric-vehicles.com",
+      "Why Are Pilbara Minerals (ASX:PLS) Shares Wobbling? - Kalkine Media",
+      "Why Is Pilbara Minerals (ASX:PLS) Back In Focus? - Kalkine Media",
+      "Rivian R2 vs Tesla Model Y: The Smaller SUV Has A Big Advantage - Autoblog"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Rivian、福斯、特斯拉相關動態：「New Analysis Evaluates Major U.S. Investors’ Record on Ke...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "New Analysis Evaluates Major U.S. Investors’ Record on Key Climate Shareholde...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Bank of New York Mellon Corp Lowers Stake in Rivian Automotive, Inc. $RIVN - ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

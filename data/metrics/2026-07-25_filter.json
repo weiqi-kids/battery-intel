@@ -1,0 +1,16 @@
+{
+  "total_raw": 418,
+  "dup_title": 229,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 30,
+  "gate2_fail": 27,
+  "passed": 63,
+  "gate2_samples": [
+    "Sodium-ion BESS: CATL in 2GWh Eastern Europe collaboration, ESS Inc signs LOI for 500MWh of US deplo",
+    "Xiaomi Matches Li Auto as CATL’s Third Largest Customer, Overtakes Nio - eletric-vehicles.com",
+    "Why Are Pilbara Minerals (ASX:PLS) Shares Wobbling? - Kalkine Media",
+    "Why Is Pilbara Minerals (ASX:PLS) Back In Focus? - Kalkine Media",
+    "Rivian R2 vs Tesla Model Y: The Smaller SUV Has A Big Advantage - Autoblog"
+  ]
+}
