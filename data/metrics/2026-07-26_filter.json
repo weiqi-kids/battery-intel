@@ -1,0 +1,16 @@
+{
+  "total_raw": 400,
+  "dup_title": 252,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 21,
+  "gate2_fail": 23,
+  "passed": 26,
+  "gate2_samples": [
+    "Why Are Pilbara Minerals (ASX:PLS) Shares Wobbling? - Kalkine Media",
+    "Why Is Pilbara Minerals (ASX:PLS) Back In Focus? - Kalkine Media",
+    "Rivian R2 vs Tesla Model Y: The Smaller SUV Has A Big Advantage - Autoblog",
+    "See what R2 is all about - Rivian Stories",
+    "Rivian Just Followed Lucid's Most Criticized Growth Playbook and Investors Should Take Note - The Mo"
+  ]
+}
