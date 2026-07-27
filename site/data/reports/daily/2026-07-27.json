@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:28:27.808911Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eve-2026-07-27-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "EVE Energy responds to LG Energy Solution's lawsuit: No infringement, will actively defend - ChemNet",
+      "companies": [
+        "eve",
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JRXNFNTdnM2JvZlRoRDk5VWxNMjF2SFFFWGc2cjlPSWxwRjJsRWE5Nk0tSVJta3psRXhJNFV5aHdPd1hfUmZuTTAyR0pxazV4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-07-27-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Battery Giant CATL Plans Record $5.9 Billion Share Buyback - Caixin Global",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV1gycnRDQ2lia0Q0VVFHXzcxSENnQXJoMUtKcXRSN2NLVDV4dmFXTnltZnZLQjVScEZpcVp1S3hYekxHdWlxRWVRSm43ODFaeEVwZlI5cXltNE5SWEVyZjJJUVdlUlR2Q0gzdS1DTUw2VFgzTHVZdFVSNEl6bWVObkRXVWJGeDFCWmhUcUV5NVdBT3BhcE9jLUg0MUFyT29EamQ3QUdYc3BUQ29DbklZOA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-27-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Altus Power Partners with New Leaf Energy on Development of 5 Community Solar Projects in Virginia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/07/26/altus-power-partners-with-new-leaf-energy-on-development-of-5-community-solar-projects-in-virginia/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-07-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Energy storage generates nearly 20% of CATL’s revenues in first half of 2026 - Energy-Storage.News",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3pkOXdzcWFBMGMxNGZrRmhsVlExRm15X2tneUVmLXlmQl85RWd6WlR0UlR5cThfVWNYN2NXdDZLdFpndTNqc0hybWhmZ1l2WEZwaXBOek91VXNLUkhDS3dIYnp0TG9yQkhaUjdGdGdydUo2R1NKTGlUQmRuQ1JTb0ZLcHNiU0w1UFpvai1CY3N5eW54QzlHUDE1QU42a3dnMmZFSElCclZoMVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-07-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL-Stellantis battery plant in Spain to employ average of 1,000 Chinese workers during construction - Reuters",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPclFpeVZ0UEZuQThteFVESVZ2S0VIOXlvaHY1Tk5yelpiV0E1dm1fSk81Q1ZVX3RZZjBBN1UwQzhSWUV5OU1GeWVCVDdmZzZxRXpTdFFDc2paMnZuVnJUaEtLYUFaZzdETTRzdlhrSDlGNElSdExOV19yeGltbWtaVXFQRjhxdEhoUHl1SzRieFNtdUpzUW9Zc3NudllYUGhaMENpQjVLRjRpYmFVVVRaNVp0eHZFNjJ4V0ZqOWthNUZvZHlN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 34,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 8
+      },
+      {
+        "id": "volkswagen",
+        "count": 4
+      },
+      {
+        "id": "lg_energy",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "eve",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "cathode_material",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 418,
+    "dup_title": 240,
+    "too_old": 79,
+    "gate1_blocked": 33,
+    "gate2_blocked": 21,
+    "passed": 45,
+    "pass_rate": "25.3%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "See what R2 is all about - Rivian Stories",
+      "First Trust Advisors LP Trims Position in Rivian Automotive, Inc. $RIVN - MarketBeat",
+      "Rivian Posts Second-Steepest California Sales Drop of Any Top-30 Brand - eletric-vehicles.com",
+      "2027 Rivian Lineup: R2 SUV Is Finally Here—What’s Next? - MotorTrend",
+      "Rivian Just Followed Lucid's Most Criticized Growth Playbook and Investors Should Take Note - The Mo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為寧德時代、福斯、LG新能源相關動態：「EVE Energy responds to LG Energy Solution's lawsuit: No i...」。主要關注主題為電池產業通用、正極材料，市場情緒中性。",
+    "signals": [
+      {
+        "text": "EVE Energy responds to LG Energy Solution's lawsuit: No infringement, will ac...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Battery Giant CATL Plans Record $5.9 Billion Share Buyback - Caixin Global（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

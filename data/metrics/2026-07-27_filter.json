@@ -1,0 +1,16 @@
+{
+  "total_raw": 418,
+  "dup_title": 240,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 33,
+  "gate2_fail": 21,
+  "passed": 45,
+  "gate2_samples": [
+    "See what R2 is all about - Rivian Stories",
+    "First Trust Advisors LP Trims Position in Rivian Automotive, Inc. $RIVN - MarketBeat",
+    "Rivian Posts Second-Steepest California Sales Drop of Any Top-30 Brand - eletric-vehicles.com",
+    "2027 Rivian Lineup: R2 SUV Is Finally Here—What’s Next? - MotorTrend",
+    "Rivian Just Followed Lucid's Most Criticized Growth Playbook and Investors Should Take Note - The Mo"
+  ]
+}
