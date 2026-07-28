@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T10:39:40.445001Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-07-28-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BYD Retakes Global BEV Crown From Tesla in Q2 2026: A Historic Market Shift - EVTech.News",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb1N2ZHlvMG5DeXA0NG9RQXJ2VFdPQ3I0ZG9TVk1fMUZxLUJtQ3BPU3JZLXBfOVFyOFBSRThIQU5LQzhPb2J1SVdwQUtoUUpueUU1ZkVxbUtEek11Vkx0TzlQbjlvdVVHODYzZXk0RmlhNmFoZTZxYzdWeEhxNm9tNk1Ka2Rfdk1RTFBhajZ0UVdacFVhUWppOW1JcjBxRVU3a0JqSUZTNA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-28-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hybrid Sales Rise While Battery Electric Sales Remain Lower After Tax Credit Expiration",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/07/27/hybrid-sales-rise-while-battery-electric-sales-remain-lower-after-tax-credit-expiration/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s battery makers fight over Middle East energy-storage market - South China Morning Post",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORldmcGhQdG9Md0kzT0NGTU9EdXBicV96VHBRUEhEUjVNd2hGSklJdG5KZWhHaVJtd0ZMekZkd2lNeFFGZnZUZFc4Y0xSYTRyblpRNXJnMHgyRUFGbUFibGtWVTVSOV9EME9IVFA0SkhLbHRrWFhJX3RfeWowN2lValFyUXA0UWVDNUs2RzlLU0paQ2dnbWpaVkVSYkoyUEFrUnhlNlFYcU91TEZEMS1lRmR1U3dJREIxbVBWV1dzd3ZtUdIBwgFBVV95cUxQRlc5SjB4eXo1VnNPdkMyNlZ5dElvcmZWaVpoVW81RE9uLXVEM2NFdlFFTXpxX293S2tRNmYtcEFUa2U5UVFadElLU1pXR1JQN3lJQW5YcXdIZUZvQnh6bTdQYUl0eFR1MV8yb3cxTDRlZFlaZkwwT1d4cDRMeG1RTTFPSFRrdUdUMXdWYmN3blh5Vno3Q0FIaDRPQ3Jab3RWWk5IMElQVG9QOUpxM3VXVUNzazJJcE15U0p0T0NLaHFvdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "eve-2026-07-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LGES seeks ban the import of EVE batteries into the US - Just Auto",
+      "companies": [
+        "eve"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORUZORF9IX1ZXRndiSk96ZExfdC10ZzZKVGZTU3lRS0U0T3hTc0tnWGpNUENISWFPWGJfQnVBM1ktUU5zcDVodjY3STUyV3NVZlh2WnZtUzlvMWxQVEhwM2FPTWNnamVaRklvVWhEVWQ0RV9HelVnd3VDWXhncmhmN2dFSXR5TncyOHNJNW5GSQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tesla-2026-07-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "E-Week Highlights: Ford and Geely Form Spanish Joint Venture; Tesla Q2 Net Profit Slips 5% to $1.1 Billion - Gasgoo",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPa0ZSMGNiQmdKN2RxMGJmR29tZUlGVmV1Nm9RZFA2bzNlZmI4VzdxVzdrT05hdDgzU0w0Vnd5cWV2Z3ZuRDVsZ3ZHLXUwUUhRTlhTUmUtRGJfNW1aQm0xTEJFYVRaNUtPNzE2b1ZkRkIyYWxUWW83Smd1MFczMnNJNmxQcGhwYTlEM3VqNHRvdC14UU5ybUF6WWdpQjh0TjBvd2s3Zno2c1RhOTR4ZGdIS2tSZ2JWeW1IRDl6Z1lhblAyM0JiLUNJTEt3Y3lOS3Bra0VzMThHN0FUd0ZWaUp1TDZkMUdQT1ZNSEVSSEpOalhaZ2NuY2c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 27,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 6
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "eve",
+        "count": 1
+      },
+      {
+        "id": "pilbara",
+        "count": 1
+      },
+      {
+        "id": "catl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 416,
+    "dup_title": 217,
+    "too_old": 80,
+    "gate1_blocked": 33,
+    "gate2_blocked": 20,
+    "passed": 66,
+    "pass_rate": "33.2%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Rivian Faces Fifth R2 Quality Issue 47 Days Into External Deliveries - eletric-vehicles.com",
+      "Bad News Rivian Flippers, A Day One Holder’s R2 Cleared Sticker By Just $2,015 - Carscoops",
+      "Rivian R2 Uses Up to 26.5% More Energy Than Tesla Model Y, New Test Finds - eletric-vehicles.com",
+      "See what R2 is all about - Rivian Stories",
+      "Rivian Automotive (NASDAQ:RIVN) Trading 4% Higher - Should You Buy? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為比亞迪、特斯拉、億緯鋰能相關動態：「BYD Retakes Global BEV Crown From Tesla in Q2 2026: A His...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BYD Retakes Global BEV Crown From Tesla in Q2 2026: A Historic Market Shift -...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hybrid Sales Rise While Battery Electric Sales Remain Lower After Tax Credit ...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

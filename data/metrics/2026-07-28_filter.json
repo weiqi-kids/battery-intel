@@ -1,0 +1,16 @@
+{
+  "total_raw": 416,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 33,
+  "gate2_fail": 20,
+  "passed": 66,
+  "gate2_samples": [
+    "Rivian Faces Fifth R2 Quality Issue 47 Days Into External Deliveries - eletric-vehicles.com",
+    "Bad News Rivian Flippers, A Day One Holder’s R2 Cleared Sticker By Just $2,015 - Carscoops",
+    "Rivian R2 Uses Up to 26.5% More Energy Than Tesla Model Y, New Test Finds - eletric-vehicles.com",
+    "See what R2 is all about - Rivian Stories",
+    "Rivian Automotive (NASDAQ:RIVN) Trading 4% Higher - Should You Buy? - MarketBeat"
+  ]
+}

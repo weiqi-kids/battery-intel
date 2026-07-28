@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T11:28:25.251987Z",
+  "updated_at": "2026-07-28T10:39:34.992124Z",
   "quarter": "2025-06-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "寧德時代",
       "ticker": "300750.SZ",
       "currency": "CNY",
-      "ar": 77710096000,
-      "ar_prev": 76403264000,
-      "ar_qoq": "+2%",
+      "ar": 88417984000,
+      "ar_prev": 77710096000,
+      "ar_qoq": "+14%",
       "ar_period": "QoQ",
-      "inventory": 108940929000,
-      "inv_prev": 94526239000,
-      "inv_qoq": "+15%",
+      "inventory": 130819205000,
+      "inv_prev": 108940929000,
+      "inv_qoq": "+20%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "eve",
