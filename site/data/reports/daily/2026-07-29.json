@@ -1,0 +1,226 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T10:42:59.739287Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-07-29-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BYD Overtakes Tesla Again: China’s BYD Back on Top of the EV World in Q2 2026 - EVTech.News",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjhnRm1yLS1vb0lIazF4d25yMkkwdDNHVTM4eWVRWHUxY1JxLUpXX1ZWOHhHREhQZEZ2WFVSQVpsWUM0YjFabDcxLUFtSnFfQ3d2NmlNVHlMNnVadG85RGVWSXZxV043TGk0a0lvTFhoaFF2VXZRQ1lrSjZuMW44MkFTUlBUenozOGY3OHdGQnRORGFpMUo4bU9LZzZhRnJTanZ2NnVHR3U?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-07-29-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hong Kong-listed auto stocks surge as Beijing pledges smart EV industry blueprint",
+      "companies": [
+        "nio",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/07/29/hong-kong-listed-auto-stocks-surge/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-29-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China NEV retail sales dip 2% in first 26 days of July, outperforming broader market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/07/29/china-nev-retail-first-26-days-jul-2026/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-07-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL’s energy storage revenue surges almost 88% in H1 - Renewables Now",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjNSck5wWU5JVVNYOENnZUt0b3hQSlhSODcyY0ozRjdqQVBBUkdxQ1hHdWdheTNSaHZfemtCVjFaLTIzYjZTaEJXcW5OWWk1Mnc4Zzg4TnJkeDlPSHNvVkxsZk9fLWFXQm03YjBJZzg5dWxjWkdJdXYxN2FNVUJ6M3o3SFFmUGhCaUNzZnNsYlUzb0EyVzFuWFljZXJvSjd5?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pilbara-2026-07-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is Pilbara Minerals (ASX:PLS) Back In Focus? - Kalkine Media",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMlZ2NXcxdTkyRkZTVG9maVcxX3o2RTA0WnNWazJhR3VZXzJFVW5UZWw3czIzMGV4ckd5dzBRd1pmQjVsSGNZM0lxYjVMY1JXNUhaTkJDQnVpMnViM2RnWXdZTS01UnpobWcxeVJMWTNGY2NHcW9hY0pHX3hGcGRwTkk1WDdoR3VDWTdYVkF2RmNoeFU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "battery_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "pilbara",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "rivian",
+        "count": 2
+      },
+      {
+        "id": "catl",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "battery_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 419,
+    "dup_title": 217,
+    "too_old": 81,
+    "gate1_blocked": 27,
+    "gate2_blocked": 21,
+    "passed": 73,
+    "pass_rate": "36.1%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "Inside the container: looking at CATL’s sodium-ion Tener’s specs - Energy-Storage.News",
+      "Lucid Is Now Up 33% in a Month, Easily Beating Tesla and Rivian. What Will It Take to Get LCID Stock",
+      "Rivian Faces Fifth R2 Quality Issue 47 Days Into External Deliveries - eletric-vehicles.com",
+      "Rivian R2 Uses Up to 26.5% More Energy Than Tesla Model Y, New Test Finds - eletric-vehicles.com",
+      "Should You Buy Rivian Stock Before July 30? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為Pilbara Minerals、比亞迪、Rivian相關動態：「BYD Overtakes Tesla Again: China’s BYD Back on Top of the...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BYD Overtakes Tesla Again: China’s BYD Back on Top of the EV World in Q2 2026...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hong Kong-listed auto stocks surge as Beijing pledges smart EV industry bluep...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電池成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

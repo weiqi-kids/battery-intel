@@ -1,0 +1,16 @@
+{
+  "total_raw": 419,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 27,
+  "gate2_fail": 21,
+  "passed": 73,
+  "gate2_samples": [
+    "Inside the container: looking at CATL’s sodium-ion Tener’s specs - Energy-Storage.News",
+    "Lucid Is Now Up 33% in a Month, Easily Beating Tesla and Rivian. What Will It Take to Get LCID Stock",
+    "Rivian Faces Fifth R2 Quality Issue 47 Days Into External Deliveries - eletric-vehicles.com",
+    "Rivian R2 Uses Up to 26.5% More Energy Than Tesla Model Y, New Test Finds - eletric-vehicles.com",
+    "Should You Buy Rivian Stock Before July 30? - Yahoo Finance"
+  ]
+}
