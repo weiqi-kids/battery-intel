@@ -1,5 +1,1202 @@
 [
   {
+    "id": "catl-2026-07-30-001",
+    "date": "2026-07-30",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Breakingviews - China Inc’s global push will sap CATL’s batteries - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUl5UHFDdW9HUkNHNjdNRGNrMHNvUVg5bkFqU281TVJ5b2llc0ZnRFVBbk80OWRiQmxRN0lZdzRPdjBlWkNfODVNOTlHMzh2dkVYZXZqS0ZsVXVQNmJEMmczNWlVSFFnRDhZNVJTVT",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUl5UHFDdW9HUkNHNjdNRGNrMHNvUVg5bkFqU281TVJ5b2llc0ZnRFVBbk80OWRiQmxRN0lZdzRPdjBlWkNfODVNOTlHMzh2dkVYZXZqS0ZsVXVQNmJEMmczNWlVSFFnRDhZNVJTVThoRUU2RkRpV2JOcnFmSjlWa2xaZTluc1NScVJ2ZUFlQzl4WktITHdJaFpaOFFjSkJVSzdxY3VPMlhzSTJt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catl-2026-07-30-002",
+    "date": "2026-07-30",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CATL Daily Profit Hits 240 Million Yuan, Continuing to Defend Its Global New Energy Battery Leader Iron Throne - 36Kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KZVdMVWhjbzJvYkxRWmRqa05SQ3lQV0V1ME1SNHRDRXlEODFzLVhqQXU1SS1TSWpkNmpHZnU5by1uWWs4blFFTDhVbzZ1UHg2anJr?oc=5\" target=\"_blank\">CATL Daily Prof",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KZVdMVWhjbzJvYkxRWmRqa05SQ3lQV0V1ME1SNHRDRXlEODFzLVhqQXU1SS1TSWpkNmpHZnU5by1uWWs4blFFTDhVbzZ1UHg2anJr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-003",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New battery promises six-minute charging for electric delivery vans - Trans.INFO",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQbWJZMTAwR1dtdVNSWlBhczB4WGxnN2R1OEpBRFVvSExyTHkxS05sTEtEZ25wdFBRbmNtaEpCOV84aUNwVi04QkwyWlhNRGctRHBMRkRtbjloZG94dFA1NWF4TFV0R1pPcHpwT25DNT",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbWJZMTAwR1dtdVNSWlBhczB4WGxnN2R1OEpBRFVvSExyTHkxS05sTEtEZ25wdFBRbmNtaEpCOV84aUNwVi04QkwyWlhNRGctRHBMRkRtbjloZG94dFA1NWF4TFV0R1pPcHpwT25DNThWLUYxeVZvTlV0WHVYSklaTDNGcG92WUZJTkFCOEJFd0pfR0FvYjlJXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-07-30-004",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EV demand in Europe, BESS in the US drive LG Energy Solution’s return to profit in Q2 - Energy-Storage.News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPakVEMXJhbWFHb05XX0ZkMGlyQTZSbEcwdmhfNWNwd0JRTUtMTVdBb0xIODV3RENReUlWYjE2V3cwZVdhTUpxdFdFMTRFekRWOEJSMWZEQ1RKR1F2YVlOQmRvaXhSbGlYOWdFTlUybV",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakVEMXJhbWFHb05XX0ZkMGlyQTZSbEcwdmhfNWNwd0JRTUtMTVdBb0xIODV3RENReUlWYjE2V3cwZVdhTUpxdFdFMTRFekRWOEJSMWZEQ1RKR1F2YVlOQmRvaXhSbGlYOWdFTlUybVlVQlNEQXA0bjMwQzlKVUQwWGVGc285eUlpMzdDLXpIZkpwVTE5UEtCOWRHb01uM3lNR25MOF96clpiSlBnWFZBZ2FXRFpCeTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-07-30-005",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy Solution Q2 2026 Results: Profit Rebound Driven by ESS and EV Cell Sales - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxObkVVYmhhT21jYTFJbUxvTVpuUXZXYmVaT0NpUHVWa2Q4RUVNSGQ3dksyLXY0SVJXZ3BTSkQxTkk2OWo0bTQtQjlQOFBDNFB3dGg5Q05tMkFTTHA5UlVtZUg2S1poVHZJY2dJMzJuME",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObkVVYmhhT21jYTFJbUxvTVpuUXZXYmVaT0NpUHVWa2Q4RUVNSGQ3dksyLXY0SVJXZ3BTSkQxTkk2OWo0bTQtQjlQOFBDNFB3dGg5Q05tMkFTTHA5UlVtZUg2S1poVHZJY2dJMzJuMEhEdkllNWROdlIwQkwtR3R6bDRZTE84VDZ6T0NwdUdKVXVWOXl4ZnNYUEtkYWZHTlpaYzdKVERCaGJtRWstRThzakxGSjN1WGNGRnVLRGZSYXMwSnQ5TFBZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-07-30-006",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy Solution swings back to profit as storage batteries fill EV gap - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xWXNoOGMzYUpBdGNkcjF5dTgwaXlyR3M0UDRJRXRwc2NtUTVfQ0tOTXlxYUpDSnozbDdVeWxtVjhSSmUwcVRCWmFLU2NkUGNoN01saE1mcw?oc=5\" target=\"_blank\">LG Energy",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xWXNoOGMzYUpBdGNkcjF5dTgwaXlyR3M0UDRJRXRwc2NtUTVfQ0tOTXlxYUpDSnozbDdVeWxtVjhSSmUwcVRCWmFLU2NkUGNoN01saE1mcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-07-30-007",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Energy Solution Q2 2026 slides show ESS surge, profit recovery - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1ZpbTFBUVJEdERGN1FQcHFQendWeDdPUmY3NzktVVFsSTFEMU1hUjZkbnd6Z3FfQ05nYzNpRkFnajZuVmdwYk1sREh2U0FLWlZwRWNicHJXU00xcm45MW4tRmpiM2dmUmFyekhOTH",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1ZpbTFBUVJEdERGN1FQcHFQendWeDdPUmY3NzktVVFsSTFEMU1hUjZkbnd6Z3FfQ05nYzNpRkFnajZuVmdwYk1sREh2U0FLWlZwRWNicHJXU00xcm45MW4tRmpiM2dmUmFyekhOTHhFR1l6eGZCcW1BenBLMlp5VDkzUFBhc1VLRzFrNGFoc0Z2TWRfZnpFc2d3Slk1eWJlalc3RXN3SUNYZHhMandJMTVyZWtKMjIxb3RwbEZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-008",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "LG Energy snaps two-quarter loss streak with US tax credits - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5OZFlWcHhSbzFiNkpQdUhLazNRcV9zcEd6Z3JQaVhuUGpUQVk0RW1Lb3JEWVpidFlVeVItQlltcG9VU0tMMkpocnZwU2REQU5MaWVRZEFuLVVHc2NwU204V3pXSFZTN0R4TE8w?oc=5\"",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OZFlWcHhSbzFiNkpQdUhLazNRcV9zcEd6Z3JQaVhuUGpUQVk0RW1Lb3JEWVpidFlVeVItQlltcG9VU0tMMkpocnZwU2REQU5MaWVRZEFuLVVHc2NwU204V3pXSFZTN0R4TE8w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-07-30-009",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Energy Solution Q2 profit falls 77% as ESS bottlenecks weigh - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnVDMUdiY25hSjFBVllOVWxISllxMjc4cGs0eTFXTXNWa0lXQkxnTjVtaWhDMC1MQUVBTXJmc1Ztb09rNFcxUXY3TmZfeHB2SFp5TXJRU1ptNDVjWnpKUnMyWjBTQ3VRWlpPb1Z0Zl",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnVDMUdiY25hSjFBVllOVWxISllxMjc4cGs0eTFXTXNWa0lXQkxnTjVtaWhDMC1MQUVBTXJmc1Ztb09rNFcxUXY3TmZfeHB2SFp5TXJRU1ptNDVjWnpKUnMyWjBTQ3VRWlpPb1Z0Zl9LY25LWVFUTENRUFM2TmFZVHJMVFpUUjd3cGVBM0VyZnJSdzdQRmRQNFB0Tm50RFI2VkJfR3pGakhJaDhxQ29zZ18tTkpLQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-07-30-010",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "LG Energy Solution: Q2 revenue up 15% QoQ; full-year growth over 20% expected, led by ESS and battery demand - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxNb3JkQkxRSWQ0U1lUUm1uU0xjaGk0ZkMxVkQ3OXNDYldZMVo0TnFnOUNXUTdnLTRDQTJ4S1RXckkwZG9WV3dLYm9RNkF1clZ2TTlYSW90eWVrUW1ySXBkaFlHNWJUTGY2SmJFbldUV2",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNb3JkQkxRSWQ0U1lUUm1uU0xjaGk0ZkMxVkQ3OXNDYldZMVo0TnFnOUNXUTdnLTRDQTJ4S1RXckkwZG9WV3dLYm9RNkF1clZ2TTlYSW90eWVrUW1ySXBkaFlHNWJUTGY2SmJFbldUV2VjbDN6bGhZWWlQSklzQWZlbzBtMVpFcWFGekZRSUxzUUlkWDJLWFNpb012S0lXdFhER0l6UE95UzQ5aWhMZE90Q0dRcldlbTl2MUIyR0VnallrX1ZmbFBZNFp2NVpQWWo3ODlpNkQ5U3R5NGRmSDN4Q1JSMmtoYVJROGFwSkExcmlmWlcxY2lmNjROUWUxQmU3LU9rNF9GOGRONFV5UVNFV2w2QmNSTGdRREE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-07-30-011",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Energy Solution Releases 2026 Second-Quarter Financial Results - Lelezard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qYTVUbExxQl8tNVBjdklhVWx0RmlnaTh6RWNHOGs1OG1Uek5Vc2Vhcng1c3JtbGNaQVA2NHk2SlF6QmxlLW9TOXIzdXRRMXpqa1dhZGhZaVhVUQ?oc=5\" target=\"_blank\">LG En",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qYTVUbExxQl8tNVBjdklhVWx0RmlnaTh6RWNHOGs1OG1Uek5Vc2Vhcng1c3JtbGNaQVA2NHk2SlF6QmxlLW9TOXIzdXRRMXpqa1dhZGhZaVhVUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-07-30-012",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Energy Solution swings to profit in Q2 - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXT1BwT3JlcVFFUUxrQ1EtNFFYQTU1LU4wemxQTExITDVOUnRNb3JzOWRzZGVoQms0Y0c0QjkyVWVHN3UxcWpCUlhzU3B5SUpTY1FGRS0tVQ?oc=5\" target=\"_blank\">LG Energy",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXT1BwT3JlcVFFUUxrQ1EtNFFYQTU1LU4wemxQTExITDVOUnRNb3JzOWRzZGVoQms0Y0c0QjkyVWVHN3UxcWpCUlhzU3B5SUpTY1FGRS0tVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-07-30-013",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Energy Solution (373220) Earnings: 2Q Operating Profit Hits 113.3B Won, Sales at 7.56 Trillion Won - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTEo3V0ozZDkwVWRyNGVPZ0ZEeF9FdDZjNllfN1kwUmFqM1NoY0dvSFBzOF80ME5SNlFjQmhvdVJ3djMzeTg5bjBsbWU3NEwtajljdUNXdUJlMzFEcXVUdXliQk5reTEzOGp6Q0kxbW",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTEo3V0ozZDkwVWRyNGVPZ0ZEeF9FdDZjNllfN1kwUmFqM1NoY0dvSFBzOF80ME5SNlFjQmhvdVJ3djMzeTg5bjBsbWU3NEwtajljdUNXdUJlMzFEcXVUdXliQk5reTEzOGp6Q0kxbWk1VEZXZlFyRGZTVHp2Q0NYS2EwdXQ5N1hSVXpTUEZaNVdkZTJGMm9QcHcwR3NNN2NwOHdnYl9CaHVOeTNuSktHMEZzVXRKT09vaVBIYlFKMU9sNEJfenMzVFpKU085TWo2UlhmWjBIOGMxZ0xoLVo4TXhYME9kQTIxVmRr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-014",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shift from EVs to energy storage pays off as Korea’s top battery makers return to profit - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaEFvYmtVTXQ0RDBTampuWndzeklhVHNDRHRzczU1VDIwQ1Y3NWpIbWRiVlJhZ2NqOXpqNmFpVHhHTGFKY2FEUGlVWWhTVUVxalRkR01hZWtub3Q0dE5GZ0pySHMyLWY3amdnRmtKLV",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaEFvYmtVTXQ0RDBTampuWndzeklhVHNDRHRzczU1VDIwQ1Y3NWpIbWRiVlJhZ2NqOXpqNmFpVHhHTGFKY2FEUGlVWWhTVUVxalRkR01hZWtub3Q0dE5GZ0pySHMyLWY3amdnRmtKLVB5eGNZVi1KNnhQLWlEai1JVXVzS3BCUkkxREpnbXN2MWpaYkNWYzJVVlVvN1QtTDY4eldnc2NwUUduMzNXSnAyRDVyT2l4akoydllXT2hzMll0OVM3UkFMeVUtZ0hLMjQ5Y2ZIdjF4UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-07-30-015",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "LG Energy Solution: Q2 revenue up 15% QoQ, ESS revenue quadrupled YoY, full-year growth over 20% expected - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxNOU9lWlloam43M003Z09nR0p1UGU4dTBleHpxNnBpNGdnVEE5SllxLUxkbFd4d01FaHlEX0l4bFVxQmNac0w0dmM1T1doMU5sYWpGRzl5bTRIYWJPS2xXak1UOEZyWDhfWHRaUUtkTT",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNOU9lWlloam43M003Z09nR0p1UGU4dTBleHpxNnBpNGdnVEE5SllxLUxkbFd4d01FaHlEX0l4bFVxQmNac0w0dmM1T1doMU5sYWpGRzl5bTRIYWJPS2xXak1UOEZyWDhfWHRaUUtkTTFpdF8tenRnNDBnMkQ2djdhRlM5YVdCN2pvUjdfZ0drdExKbmFHN29hb2Q4R2U1V0xreWRjdGEwQ2VRaUhZNUNuT29rNjBEWWowb21EM1l3TTg4MDUzNlRQU3VwVWoxTG5HSEZKbDdFdzl3dUlJaGs0UDRqLVlaNS12UzRsZzEtWmZ2Nkc3S01mM083OGZSbkFVTE5PcHBTV2NidFk3S0wzOUpkRDFSdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-016",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "LG Energy swings to Q2 loss on EV market slowdown - koreatimes.co.kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3prUk1Na2hnWFRjaVlzN3hISlhCRC1rOWJVemZpTTNmWkZBTzl1cGdpOXAxNlhsYWktM2NfbUdjQVpwakwzWVZjS2xVclV3NVZIZ0tMMFZ1eG1kRUxpdU51UnloaUdvN0hYbVNUeU",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3prUk1Na2hnWFRjaVlzN3hISlhCRC1rOWJVemZpTTNmWkZBTzl1cGdpOXAxNlhsYWktM2NfbUdjQVpwakwzWVZjS2xVclV3NVZIZ0tMMFZ1eG1kRUxpdU51UnloaUdvN0hYbVNUeUpkb1FBb0dLWWpMRUFqdGhHZGlNbDM2Zkg0ZDNwbmpaa01zbkhpLTdTQ2d1NlVQOGk4TXZpQUdOb3FDT3ZwOWdj0gGvAUFVX3lxTE5DemtSTU1raGdYVGNpWXM3eEhKWEJELWs5YlV6ZmlNM2ZaRkFPOXVwZ2k5cDE2WGxhaS0zY19tR2NBWnBqTDNZVmNLbFVyVXc1VkhnS0wwVnV4bWRFTGl1TnVSeWhpR283SFhtU1R5SmRvUUFvR0tZakxFQWp0aEdkaU1sMzZmSDRkM3BualprTXNuSGktN1NDZ3U2VVA4aThNdmlBR05vcUNPdnA5Z2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-07-30-017",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "LG Energy Solution: Revenue and operating profit rebounded in Q2 2026, led by ESS and EV growth, despite net loss - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxPN0xDdWFvOEZlMmVsU2JMWElmbkt4TTltSlZvcmNWcl83V0VEb1M3NlhuRDZaSmlYQnkyeGdSZ1BaRFdKNEhPdk04WTBPSHQzUVJwYzhtQWZmTnpKSExFZHNNbnJTbk8xclFNbXluSW",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPN0xDdWFvOEZlMmVsU2JMWElmbkt4TTltSlZvcmNWcl83V0VEb1M3NlhuRDZaSmlYQnkyeGdSZ1BaRFdKNEhPdk04WTBPSHQzUVJwYzhtQWZmTnpKSExFZHNNbnJTbk8xclFNbXluSW53OUJrdWREVEpkWTlrbzlsblhDaFhscWs1ZS1KNHdieExEYTdhU0JqdGxDbmdLZW5NbkF6czNuUzhIZFYwZUdfOEhEUmMzb3c4dFItcjJzSEZzRU5wOUhjazNqNEh1bmNNdUVDRmVKRjdYS3pQal81TkxLX3JWdGpzbEdMSmx2N2tDemwzQXl5YmU1R2FtUVlvRkxXd1RZT0xWWm1LY1ptcFVNdFhQbzlaWWk3Ukp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-07-30-018",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Transcript : LG Energy Solution, Ltd., Q2 2026 Earnings Call, Jul 30, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMExXdFRtNU10Wk9CcG9MZGVpdFNiMlJzMXN2Z1VKY0FNRDFwUlNTSnZ1UmF5TGVCV1lKRHV3Q0l0b2ZKRkdRUTd0eDc0cl9HZ0YxTWd2WjhLZTFhLURhREVVbXpIR01uSXlZSFBRaT",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMExXdFRtNU10Wk9CcG9MZGVpdFNiMlJzMXN2Z1VKY0FNRDFwUlNTSnZ1UmF5TGVCV1lKRHV3Q0l0b2ZKRkdRUTd0eDc0cl9HZ0YxTWd2WjhLZTFhLURhREVVbXpIR01uSXlZSFBRaTJrdDJYdHZ5RHVHZ2hSZU9MeTR2LXV1NE5iblNqblJOSnJxTWFrS0JnS3JKSzBwVmUxZjZPdEhaSUdtRHpWRWsyVGZmaFZYOEw2c0RMNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-019",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "LG Energy’s EV Battery Weakness Met ESS Growing Pains - finimize.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS194dy1qQVJ4LTZDNGd2REhvMS1NVklPWnUycTE5WS11dnRicGJFMVRmMXFVcGpzcXV5SkpZTmxKcDVYMGhZSDVTYk12WlphVXRHU1BMWThXS2VianN2TnZlRDZKc3M0a0hldkNLMk",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS194dy1qQVJ4LTZDNGd2REhvMS1NVklPWnUycTE5WS11dnRicGJFMVRmMXFVcGpzcXV5SkpZTmxKcDVYMGhZSDVTYk12WlphVXRHU1BMWThXS2VianN2TnZlRDZKc3M0a0hldkNLMkpBTm1oM0xqUkFROU9IbW5jTUhYUTllUTQ1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-07-30-020",
+    "date": "2026-07-30",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung SDI Returns to Profit in Second Quarter, Posts Operating Income of 203.8 Billion Won - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LbE5FX2s4YmJJQVhpMjE0WjZFdVAxemM4Y0lOcVhaNWZLMG14THJVTEE0UGNCbnVlSmk0UGwtb0lNei1jazRBYTM3Tm5UZ3hoczhVM1NXX2l5anU3T0dLZFkzenNVZG8?oc=5\" targ",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LbE5FX2s4YmJJQVhpMjE0WjZFdVAxemM4Y0lOcVhaNWZLMG14THJVTEE0UGNCbnVlSmk0UGwtb0lNei1jazRBYTM3Tm5UZ3hoczhVM1NXX2l5anU3T0dLZFkzenNVZG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-07-30-021",
+    "date": "2026-07-30",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung SDI posts first profit in seven quarters - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zWlpOMm9qMHBXNzBGTEhhNVVWNHE4QnFpazNoQXhYSnJmbEJMVG5sSU00dHoxZUltdFFvSk41MmYzcGNKVHkzSkJDX3cxVllSRmFUUnR6OA?oc=5\" target=\"_blank\">Samsung S",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zWlpOMm9qMHBXNzBGTEhhNVVWNHE4QnFpazNoQXhYSnJmbEJMVG5sSU00dHoxZUltdFFvSk41MmYzcGNKVHkzSkJDX3cxVllSRmFUUnR6OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-07-30-022",
+    "date": "2026-07-30",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung SDI: Q2 2026 marked a profitable turnaround with strong battery sales and robust ESS order momentum - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxPQ25WWUY1TmRQWFN4YmNKeGtxV0JoQmNFQXB2Vzd1ZEh6R1hYbDJNaF90WjdsZDdTUHVXalFVd251YjA5aEJYSmFya0tCeUM5YUZnbFhTejU3d3NUWWdnUF9ZeHBZVlBtbEZvOWxjQ2",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPQ25WWUY1TmRQWFN4YmNKeGtxV0JoQmNFQXB2Vzd1ZEh6R1hYbDJNaF90WjdsZDdTUHVXalFVd251YjA5aEJYSmFya0tCeUM5YUZnbFhTejU3d3NUWWdnUF9ZeHBZVlBtbEZvOWxjQ2NMbnZlS3o1UGRZd0dhTUNreDFUVTlfeUtzMjczNDd1Z2trcHBBNjJyUHMzaVRXUjNWT204Z25WSWt6MEVjRV9nTmNMd2R3Tm1KYTBTMGh6WlRERFpTVG56bUxxbGFfSHhEdVlheUFQUk5oLWkyOVd4OEpDcl9ZS2p6WXZ2WjJUN2l4Nks5WGxFb01tNGRsUzZ2NkxQMTg1LUVETXBJZGJLZXc3Zmk0eTBpcEt3VnFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-07-30-023",
+    "date": "2026-07-30",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung SDI swings to Q2 profit on battery sales, US tax credit - koreatimes.co.kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakRwT3ZhYjEyaHJwbGJhNkpTcjRxNjNwOW1paDY4Wm8yS1lZalJQSjZoSEN2dGpOMU54UndSVG5uSjlHRWZpWlFHaU4yY3Azc29jdGJyQjNqMjk4R3lCS3FHZlpaX0lxUU5IUmlLU0",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakRwT3ZhYjEyaHJwbGJhNkpTcjRxNjNwOW1paDY4Wm8yS1lZalJQSjZoSEN2dGpOMU54UndSVG5uSjlHRWZpWlFHaU4yY3Azc29jdGJyQjNqMjk4R3lCS3FHZlpaX0lxUU5IUmlLU0U2bUVScWtwMGF6R0Y4dUhINlBka2w5SksxajFFdWEwTkhZc0NDWnd6MkVEY2YwMVVMRmZHZm5qRFNINlA3anZGNEgxQUotQjZVNGRV0gHAAUFVX3lxTE9oNVRRUlI1LU5YV01oRkZSLWthTjJHQ3pUWnNHWWNlQUdHN0FQRE9sSFBjck5pa1hQNmJEZ2ZxaDVOSUotYTVNWWdGNDJwUUMxTUs5REhfSkZQYjJuLUtydV9SMVdzWXFSdFpsUWJnb2R6UkFNdEwwTlpBOV9FNkt0eTNhVENXajRfZml1LTVvY1JzYTdPbFllNnhDOFZKaDFnZDJUVi10X1FEbjJMamJzM0dRQWE4VFFTSnp2VVFWWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-07-30-024",
+    "date": "2026-07-30",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ESS transition helps Samsung SDI swing to profit as peers lag - Aju Press",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OMlk2cHN4cDdZVGxILVR0RFN4MEJVcUNYVm9MOTFKSlVnZWNIdGRsOVU1dTlud3ZGNGZRTnRkZkxHOHV0WHhxM0JVaGt4dHY5UHRUQ1Z3Z0l3cVXSAVdBVV95cUxOYU5LTGJlMzY4N1",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OMlk2cHN4cDdZVGxILVR0RFN4MEJVcUNYVm9MOTFKSlVnZWNIdGRsOVU1dTlud3ZGNGZRTnRkZkxHOHV0WHhxM0JVaGt4dHY5UHRUQ1Z3Z0l3cVXSAVdBVV95cUxOYU5LTGJlMzY4N1hGNjlJNEdmMVNaeW5hVlFwdXpMd1dCYXA5U3o4aGpQZk5NSXdGcks2X1ZSQUdiWENRWklNbkk2MjZTd0tqLTc3UVNqcmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-07-30-025",
+    "date": "2026-07-30",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung SDI Posts 203.8 Billion Won Profit After Seven Quarters - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1ZaZFVUcEVvY0NwQllfaWJULU9ZbExjTEpSUXRPRm5lU3lXcWthUWJBN0tVUzFIWnhfLS1PQkpPQUlmRmF4QW01WlE1RW81Q3ZQaWtTaVhaYVk3ZGlpWTZzRU10Q3djRnNZU1kyNl",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1ZaZFVUcEVvY0NwQllfaWJULU9ZbExjTEpSUXRPRm5lU3lXcWthUWJBN0tVUzFIWnhfLS1PQkpPQUlmRmF4QW01WlE1RW81Q3ZQaWtTaVhaYVk3ZGlpWTZzRU10Q3djRnNZU1kyNlRKb3dOTm52OFZsSndaQnFWU1ZTdFZyak01?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-07-30-026",
+    "date": "2026-07-30",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung SDI: Q2 2026 profit rebound driven by ESS and high-power battery growth, with strong H2 outlook - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOWkVES2FZZGdYc3VscWpEQ3pTams2dVhfbVVhbzlwaVN3WEk2X3ltMDlfeW1Qai1oV1MxQkNONElCb1hXWk0zbGdpODVJR1pSREV6R2xTYWlOczR2NjFTd3FDTFMzQWlEZTlHTEdXdU",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWkVES2FZZGdYc3VscWpEQ3pTams2dVhfbVVhbzlwaVN3WEk2X3ltMDlfeW1Qai1oV1MxQkNONElCb1hXWk0zbGdpODVJR1pSREV6R2xTYWlOczR2NjFTd3FDTFMzQWlEZTlHTEdXdURCUEFDN2xBaDBEcGFaSFI5LU9CWmdfdGtSOHpmWjZUWGpDNC1QTkszbkZHUHRVU1k2R2ZGaDg5eDc2aV83d0MxelF5cXhoNFVwTVI0dVhJdzdYMGcwN1M5UUZSSzFJSHhIZEJmWXdzZTlwaV9oRzdXVnc1ZWNPaDVOM0ljWWxFbFgxSEYtOTJxQlFCMEpaRU5qOEdvclhMbzIyVVBvYWxqWTJMM0JyUE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-027",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korea's Three Battery Makers All Return to Profit, Erasing 'Chasm' - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnRUdEFFTThSWUpRdFc0N3RBMXpnNy13d1JrTzFkVzItcFAwdE9ZaHJ4R0hXbWJkUkp6UjJmMndmN3FVR1AwRUFMRXYtd09GdlhpUDVPM2d2bUhSd3pvLVh5ZUZObDNDYWRQVzN0Nn",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnRUdEFFTThSWUpRdFc0N3RBMXpnNy13d1JrTzFkVzItcFAwdE9ZaHJ4R0hXbWJkUkp6UjJmMndmN3FVR1AwRUFMRXYtd09GdlhpUDVPM2d2bUhSd3pvLVh5ZUZObDNDYWRQVzN0NnA2RTlSWXFWS1F3T3IxRi1LamdDdUZxM1V2a2JNZTNZVFdqYWZmaUlPTkdGcFB2SDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-07-30-028",
+    "date": "2026-07-30",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung SDI posts surprise profit in Q2, returning to black after 7 quarters - 헤럴드경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nendUZFFqQVM1Z3BWSDJFZFJHVXpDZlFrczloUl80NFI2dTNTN0M4UmJmYUNiVVlPLTNoMEhfazd4QlgzU1N2WjBHYWtfOUNBQV9JdWJ2NA?oc=5\" target=\"_blank\">Samsung S",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nendUZFFqQVM1Z3BWSDJFZFJHVXpDZlFrczloUl80NFI2dTNTN0M4UmJmYUNiVVlPLTNoMEhfazd4QlgzU1N2WjBHYWtfOUNBQV9JdWJ2NA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-07-30-029",
+    "date": "2026-07-30",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung SDI Posts Q2 Operating Profit of 203.8 Billion Won, Returns to Profitability After Seven Quarters - 아시아경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1scTdqWlg2c2ZLYW1mQk5haFBhRTBmSkZoTldjQi14Qjg3TUp5YW9TMUFMckMwaUNvZU5HcnBWdlZTWjBrZURZMF9vN2xQV0RpOVFEZU83SEg2ajJmVkNwdGd4LThyQ2FC?oc=5\" tar",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1scTdqWlg2c2ZLYW1mQk5haFBhRTBmSkZoTldjQi14Qjg3TUp5YW9TMUFMckMwaUNvZU5HcnBWdlZTWjBrZURZMF9vN2xQV0RpOVFEZU83SEg2ajJmVkNwdGd4LThyQ2FC?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-07-30-030",
+    "date": "2026-07-30",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung SDI posts earnings surprise, returns to profit after 7 quarters - koreatimes.co.kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWhxZ2VycXoxTXJCOTJMbjZMeWx0emFwQktENlhUVlZVbTdoanA1U096YmN2RGxTdTNrdkVKZTN2aEtseTM5UTlFTHdENll3SzZveUlpbkZLQi1oWHBUamZScWY3cWZ2RC1CcThVVE",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWhxZ2VycXoxTXJCOTJMbjZMeWx0emFwQktENlhUVlZVbTdoanA1U096YmN2RGxTdTNrdkVKZTN2aEtseTM5UTlFTHdENll3SzZveUlpbkZLQi1oWHBUamZScWY3cWZ2RC1CcThVVENVSmVoaVFrRVdfQVIxUXNzS28wMEtqUnllNGszN1ZOQkVPOGVRVlRDWnpnUWpyREhxR2pUMmRCeDZDN3kwdVJyS1RRZWtDcWZKRW9NUEx4RnZBMzdZZFHSAcsBQVVfeXFMTXNSZzdlRFB5amFWOHdsRHcxNFhsZU5QcXREd09Mb2NiUUUwYTVPY2NhOGRQWlBEcmZfZVBzYjRQdEVjZzhnekdYR1JWUW5rY2theUNxX0EwU3dNMnRtTHFTclFtYjdUTVJJclE0WWRnbkhUOHlIT0dhSEpLOXVTVWtUWGUzaExKcEJCYUFiT2E0QjZKVGxJQVhhcExFOUg1WlZCcjFfTko3eTlBbnYtc0dnRVlOdEt5QTdRVTV6TGt3b3dadU1sR3Zkakk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-07-30-031",
+    "date": "2026-07-30",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung SDI returns to profit as Korea battery demand and U.S. credits lift Q2 - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNdDF2aHIya1lZdTVBX05uZFRscnZYYzZsMkVFMU9DbTZJYkwxanotT2hiNTRnNDRCTFdBN2NuOWhjRFItN3hOUEFCNzhIb0dRYnpwSWJVcDVERllxYmtBX3ZnQ0ZPY1dOQi1Wa0RlbF",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdDF2aHIya1lZdTVBX05uZFRscnZYYzZsMkVFMU9DbTZJYkwxanotT2hiNTRnNDRCTFdBN2NuOWhjRFItN3hOUEFCNzhIb0dRYnpwSWJVcDVERllxYmtBX3ZnQ0ZPY1dOQi1Wa0RlbFNHZnoyY0k1YXdfelBJSEZWLWFR0gGWAUFVX3lxTE5aeWJLTDBtNE1XRVRhaE5xOWcwTHhPbVN6d2xMRjdRSjJXMlBCQXRkbkQ1UGJ0RUljcmFoN19tMFJZVkJuMloyYUZoemlEdVVTTTZsU19KdG1qVWdidVNydENjc3RjSXJHelVkSm9oUFVZenB4N215SnZKb0FnQmx1ejZ3Uk5Wd2VZMEd6OVJPdDZ3VEU1QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-07-30-032",
+    "date": "2026-07-30",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Factorial Energy and SK On Join Forces to Accelerate Solid-State Battery Manufacturing - Electric Cars Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWlJdHJpZWpIVHhUY0pEVExGSENzS2tzbUJycW1mekNCbVVFM0xzSU5IREVtQTlGbEVPSXlvb3lfVVpBMDdpZDBMMlVJZFc0eGl4SXFGcGZucGJXa3dTaEtDbzlXYkFvTXd5dENBT0",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWlJdHJpZWpIVHhUY0pEVExGSENzS2tzbUJycW1mekNCbVVFM0xzSU5IREVtQTlGbEVPSXlvb3lfVVpBMDdpZDBMMlVJZFc0eGl4SXFGcGZucGJXa3dTaEtDbzlXYkFvTXd5dENBT0x6U1d4WjBNMUFhRk53X2pJb0Y3QkJPbi1tdmRZaUdKTVdIVmVFc2FJUWZCcmFYbGFHNDdFaWsyLWlfSHliUmEwZWU4MmxJRkpfemhQWGpWRXMwWlZa?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-07-30-033",
+    "date": "2026-07-30",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK On, Factorial Energy Partner to Explore Solid-State Battery Manufacturing - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ka0JYeHVUQ2FmbGFXMHBKdmhZazZjUnlYcmhJeklpczBYSkpNUnU2c1NGTmVHMENjZDdIN3I3bmEzQmRlSHV6UU11S1N1dUl1LTBVTUlndjlfc2RSV2k4MFVWMFVYT0k?oc=5\" targ",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ka0JYeHVUQ2FmbGFXMHBKdmhZazZjUnlYcmhJeklpczBYSkpNUnU2c1NGTmVHMENjZDdIN3I3bmEzQmRlSHV6UU11S1N1dUl1LTBVTUlndjlfc2RSV2k4MFVWMFVYT0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-07-30-034",
+    "date": "2026-07-30",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Firm Behind Stellantis’ Solid-State Cells Just Teamed Up With SK On To Build Them - Carscoops",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE0yR0k5SDRUU0lNYU5rS1Zud09EbGVBWVhnMEZNX1l5VXluWkxKS0d6RUJ0VnNETl9GOVF1TU50NnZBS1NqR2Fad3oxVXZMVXoyY2w4djg2dEFMRzRlcVVTdkhMTW9jZ2V1eldod3NYRQ",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yR0k5SDRUU0lNYU5rS1Zud09EbGVBWVhnMEZNX1l5VXluWkxKS0d6RUJ0VnNETl9GOVF1TU50NnZBS1NqR2Fad3oxVXZMVXoyY2w4djg2dEFMRzRlcVVTdkhMTW9jZ2V1eldod3NYRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-035",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Innovation Q2 2026 slides: battery, lubricants drive profit surge - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYmE2cWZ1QVBUcTlCNXZrM1FuLWVvSHdrYk1fLUFfcmhXTWt0TTVrZUhqVWdwYlZPQ0NEUzEwMV9QeDNwMWVubThvM2N1aFBiVm1LYktJamtDRU5SSFg1emlVZHYwRHZDVXlDVndxbW",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYmE2cWZ1QVBUcTlCNXZrM1FuLWVvSHdrYk1fLUFfcmhXTWt0TTVrZUhqVWdwYlZPQ0NEUzEwMV9QeDNwMWVubThvM2N1aFBiVm1LYktJamtDRU5SSFg1emlVZHYwRHZDVXlDVndxbWpTWE1ROW1GbGVNQzBCTnBvX3BsZXNpaTA5RmpjaFoxc29DdGRZQm5zZy1zVFl2akFpSXJiLTZ1UFNLS3BicnpXYV8zZ1daYjJVVktSUVhOWXI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-07-30-036",
+    "date": "2026-07-30",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "cathode_material",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SK On Partners with US Startup Factorial Energy to Crack Solid-State Battery Mass Production - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE56VXk1YzFGbzk0WDZCTERfU29RcHNkbmJSaEhXOE4wdlFPN0N6ekIxRzMyNHNFM0dTTzB2YjdPWXVXbG5MbWRnT1RCdmI3MFRSV1dLSDVfYTQyN0ZGQzBBNXdQYTYtS1dER2ZxdTA4bl",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56VXk1YzFGbzk0WDZCTERfU29RcHNkbmJSaEhXOE4wdlFPN0N6ekIxRzMyNHNFM0dTTzB2YjdPWXVXbG5MbWRnT1RCdmI3MFRSV1dLSDVfYTQyN0ZGQzBBNXdQYTYtS1dER2ZxdTA4blM0dWtNQ3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-037",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "cathode_material",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Innovation returns to profit as Korea lubricant and battery gains surge - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGdiX29Xb1l1elR2cXZRdU5OMFZuVWxVc3ZSMWtnTzBZazlfLWNTUENqMkRmcV9yNWszcy1rZUxiekQyY2l0THhrc3BnQWZNdkVieDJ5Qi1VMXJSTEFvU2hUenpqSVJVU2VGcnJ3aU",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGdiX29Xb1l1elR2cXZRdU5OMFZuVWxVc3ZSMWtnTzBZazlfLWNTUENqMkRmcV9yNWszcy1rZUxiekQyY2l0THhrc3BnQWZNdkVieDJ5Qi1VMXJSTEFvU2hUenpqSVJVU2VGcnJ3aUtLS01XQld3bklNcngwZ0RieGJn0gGWAUFVX3lxTE1IVk5JcGVHVVBMTzVwMnllNU9tRVQwajVseDRDaXZIUy13bUtCSFJ1bGFxYnpLUWNTN0xZc0VXZnBYM3FNcmJNYkMxRURPWGhVZDQ1U2JhNnp6UE5JMXBScGQ5d1hUWkU0bkRFMGE5T0JVU0lyRGg0c3NiY0pwLWxoUEQ5cm9DWVhPRHdpcndFOGlmRl9XQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-07-30-038",
+    "date": "2026-07-30",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "SK On Posts Record Quarterly Operating Profit Since Spin-Off - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aVWdXZzc0MXB3RDZGQ0VfNG9Ga3p4R0FGcTl4ckJhb0xOdmtQSFNCZFY4cUs4cFBLR284RC1VUm9JSFVVWkRGWFpJdF83X0JtUU9YR1QzczcxNHJwWUxCV2ZRRERhRms?oc=5\" targ",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aVWdXZzc0MXB3RDZGQ0VfNG9Ga3p4R0FGcTl4ckJhb0xOdmtQSFNCZFY4cUs4cFBLR284RC1VUm9JSFVVWkRGWFpJdF83X0JtUU9YR1QzczcxNHJwWUxCV2ZRRERhRms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-039",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Innovation Q2 Operating Profit Tops 3 Trillion Won on Lubricants, Batteries - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHFFNmdXbEZpMjNKckNtb1BNQldHNHZJT1V2Mi1oT2ViejRLbC1nTGk2R2M4MkVERHZmRXZDY29vbkswMldrb0dlemw3N3ZxSWdqSVo2VWJ5eENRaFh5eFduemRVQVl5U2kyQV91UE",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHFFNmdXbEZpMjNKckNtb1BNQldHNHZJT1V2Mi1oT2ViejRLbC1nTGk2R2M4MkVERHZmRXZDY29vbkswMldrb0dlemw3N3ZxSWdqSVo2VWJ5eENRaFh5eFduemRVQVl5U2kyQV91UENGQnVpb2VicFo4M1hGUlBiTF9UR0V3YVFVb21tajJaU3Y0ejFRWHZJcmhWZTBTbVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-040",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Inno's Q2 Operating Profit KRW 3.4873 Trillion Due to Strong Lubricants and Batteries - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ScVloRkRDRDRjNlJvcE0xZWIzeWg4blR3cEMxSVowWTZwb05jNnZwVE93aFFxc0c5Tk9Qc0xzN0lxX2QzTVoySnhuYUF1Rm1xZFdr?oc=5\" target=\"_blank\">SK Inno's Q2 Op",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ScVloRkRDRDRjNlJvcE0xZWIzeWg4blR3cEMxSVowWTZwb05jNnZwVE93aFFxc0c5Tk9Qc0xzN0lxX2QzTVoySnhuYUF1Rm1xZFdr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-041",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PLS to boost output as Australian lithium miners look to grow - Nikkei Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTlXcmtfRTZHS1VzcDA3S0hvbjJ0NDJPOWhvMlc4R3NwWVJxaXBTTlZyamFTRE05aFlTaDRXY1JFbFM4ZEN1eklzbDhlejY4NXhwdnI5bkZEMVBlSE5OQnpVSVE3WmtPVTM3bFRmVj",
+    "sources": [
+      {
+        "name": "pilbara",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTlXcmtfRTZHS1VzcDA3S0hvbjJ0NDJPOWhvMlc4R3NwWVJxaXBTTlZyamFTRE05aFlTaDRXY1JFbFM4ZEN1eklzbDhlejY4NXhwdnI5bkZEMVBlSE5OQnpVSVE3WmtPVTM3bFRmVjQyNE9JdWZmanNOSkREQWQ2U3JWMm5VS3k3ZXY4NmNadjE4M3RYc3YxSW1qRUJ1dHVZbXJJTUgyc0RVRnRwSlpwdm1nYkI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pilbara-2026-07-30-042",
+    "date": "2026-07-30",
+    "companies": [
+      "pilbara"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Pilbara Minerals (ASX:PLS) share price in focus on 31% growth in June 2026 quarter - Rask Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZjNNa3N1OUdpSEVMcXllWF81MmtRVWRZWFZaWTdoQ21EZ0Vza1Q5QUpjaG4zY0QwNXpBU1ZXTHpmdFViNzhWTzZPRjFpT1dacFdGbTBtNjVqZkVjWGwxQWN1Tnc1RnpHWU1oZzhZMn",
+    "sources": [
+      {
+        "name": "pilbara",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZjNNa3N1OUdpSEVMcXllWF81MmtRVWRZWFZaWTdoQ21EZ0Vza1Q5QUpjaG4zY0QwNXpBU1ZXTHpmdFViNzhWTzZPRjFpT1dacFdGbTBtNjVqZkVjWGwxQWN1Tnc1RnpHWU1oZzhZMnZXSS0zcGs1T1ZxLWJBaktweFlQcWNvbi1uVm5QdjFiVlRjRW9FMC1QbGZGd0d2Y0VnQmhBYTlPX20tcXZMLVQwU0hxdkIxQjdMX2U4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pilbara-2026-07-30-043",
+    "date": "2026-07-30",
+    "companies": [
+      "pilbara"
+    ],
+    "topics": [
+      "cathode_material"
+    ],
+    "impact": "neutral",
+    "title": "What Is Bringing Pilbara Minerals (ASX:PLS) Back Into The Spotlight? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTVtMjJaUXdVRjA3OFQwOU9lbElkLXZXb05vbmtlaWprb0lvZHNCMFhnV21LV0UtVjFFa2pQVlpGNC1wMDBoMW5lY0ZUSlVrc2JkOWRhS0J6bmNnMFJEcHhScVhIb2xNMjJ3SGFJRz",
+    "sources": [
+      {
+        "name": "pilbara",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTVtMjJaUXdVRjA3OFQwOU9lbElkLXZXb05vbmtlaWprb0lvZHNCMFhnV21LV0UtVjFFa2pQVlpGNC1wMDBoMW5lY0ZUSlVrc2JkOWRhS0J6bmNnMFJEcHhScVhIb2xNMjJ3SGFJRzk0YlRRUmtReGw0ZTRFMVo0bXM4MHplNWFoYWlxcnpNWHRNLXdrTUxMb2JBLUpNVWpRaDgtN2xDVE1NZk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-044",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Lunch Wrap: ASX feels Fed pain as PLS shifts record tonnes - Stockhead",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0FNMnZpZ1g3a1liMm1vSGQwaUlxMVF5VjJpVm9LZzVSZ0o1eV90Zk4tcHR1V0xkUF9Sb3VsMWsyVjlpNl9OSkR0d0pUQVhNYUd4aDRZMDRneU5adUpKRW1SLS1HaExxUjFvd3BrRG",
+    "sources": [
+      {
+        "name": "pilbara",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0FNMnZpZ1g3a1liMm1vSGQwaUlxMVF5VjJpVm9LZzVSZ0o1eV90Zk4tcHR1V0xkUF9Sb3VsMWsyVjlpNl9OSkR0d0pUQVhNYUd4aDRZMDRneU5adUpKRW1SLS1HaExxUjFvd3BrRGdwWmFONkstRWhTRnBFc2Q2LVBlTS1rM1pOZjRxemdXaWlSdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-07-30-045",
+    "date": "2026-07-30",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dongfeng Just Unveiled A 1.5 MW EV Charger To Take On BYD. And It’s Just Getting Started - InsideEVs",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9hTUVsTVhNR0lzT1Q0bjJCZFF5ek1rQkVUcHF4VGFOWnRWdVp3MXBKWHFlYi15b1l0RlFYdTRYU2p6dlFYX2VmdUJEUTdDUkg1aWh6Y2o5VHJoQ0p1V19xNGRaRzdaNVVRSlJFMA?oc=",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hTUVsTVhNR0lzT1Q0bjJCZFF5ek1rQkVUcHF4VGFOWnRWdVp3MXBKWHFlYi15b1l0RlFYdTRYU2p6dlFYX2VmdUJEUTdDUkg1aWh6Y2o5VHJoQ0p1V19xNGRaRzdaNVVRSlJFMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-07-30-046",
+    "date": "2026-07-30",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bank of Nova Scotia Has $959,000 Stake in Rivian Automotive, Inc. $RIVN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3N4aWx5cGNLd3VtZ191ME5aZE82WkdUbEhKOGlQQVNVVEQwWE9yNUNzeGMzSmUxVERwcnVCelM0NDhWa1dtOFdvR2dIM1dXY2s5eEtfYWRUcHlQZ2hUOVRJR19EMjh1X3A1TlFfQn",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3N4aWx5cGNLd3VtZ191ME5aZE82WkdUbEhKOGlQQVNVVEQwWE9yNUNzeGMzSmUxVERwcnVCelM0NDhWa1dtOFdvR2dIM1dXY2s5eEtfYWRUcHlQZ2hUOVRJR19EMjh1X3A1TlFfQnozZDYwZGVGOENFazNRMFREdjNoRWszTGsxNkpJNDdMUFMwWURhaWRDZjZCTEJkVmcyanB1QXhkcWNMVmJFVDFPWVlEMGV6VVMxTkRxdFlTNWdfRDBlNnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-07-30-047",
+    "date": "2026-07-30",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "ev_sales",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "IEA: Global EV sales jump 35% in Q2 and 50 countries set records",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/BYD-EVs-5-min-charging.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">Global",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/07/29/477795/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-07-30-048",
+    "date": "2026-07-30",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dongfeng Just Unveiled A 1.5 MW EV Charger To Take On BYD. And It’s Just Getting Started",
+    "summary": "Developed in-house, Dongfeng’s flagship EV charger can cater to a wide range of battery voltages, peaking at 1,000V.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/803195/dongfeng-15-mw-ev-charger/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-049",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Genesis' First Performance Model Is Here. It Costs $71,495",
+    "summary": "The 2027 Genesis GV60 Magma packs over 600 horsepower, virtual gear shifts, and a drift mode.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/803177/2027-genesis-gv60-magma-pricing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-050",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chery robot unit Aimoga marks 2,000th overseas delivery",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/07/2026073009070279.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>Aimoga's products and services now cover more than 60 countrie",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/07/30/chery-aimoga-2000th-overseas-robot-delivery/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-051",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Changan Deepal opens pre-sales for revamped S05 SUV with LiDAR",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/07/2026073003581547.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The revamped Deepal S05 SUV starts at 119,900 yuan ($17,660) i",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/07/30/changan-deepal-opens-pre-sales-for-revamped-s05/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-07-30-052",
+    "date": "2026-07-30",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dongfeng rolls out in-house developed 1,500-kW charger to rival BYD's flash charger",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/07/2026073003033437.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>Dongfeng has begun developing a next-generation ultra-fast cha",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/07/30/dongfeng-rolls-out-1500-kw-charger/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-07-30-053",
+    "date": "2026-07-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SpaceX scores another massive Pentagon deal to support military satellites",
+    "summary": "<p>SpaceX just picked up another $1.6 billion from the Pentagon, with the U.S. Space Force awarding two task orders worth $1.6 billion to fly 18 Falcon 9 missions from Vandenberg Space Force Base in C",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/spacex-scores-another-massive-pentagon-deal-to-support-military-satellites/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-07-30-054",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EV demand in Europe, BESS in the US drive LG Energy Solution’s return to profit in Q2",
+    "summary": "LG Energy Solution (LG ES) posted a profitable second quarter this year, with investments in battery storage in the US and EV cell production in Europe paying off.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/ev-demand-in-europe-bess-in-the-us-drive-lg-energy-solutions-return-to-profit-in-q2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-055",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Australia should treat data centres as ‘anchor tenants’ for clean energy infrastructure, says AirTrunk",
+    "summary": "Large data centres should serve as “anchor tenants” for new renewable energy generation, storage, and transmission investment, leveraging the scale and longevity of digital infrastructure commitments ",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/australia-should-treat-data-centres-as-anchor-tenants-for-clean-energy-infrastructure-says-airtrunk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-056",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Aviation’s $4 Trillion Footprint Does Not Prove Every Flight Adds Growth",
+    "summary": "<p>Aviation performs useful economic work. It connects remote communities, moves urgent and high-value cargo, brings visitors to places that rely on tourism and enables some work that still requires p",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/30/aviation-economic-growth-additionality/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-07-30-057",
+    "date": "2026-07-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fired Tesla Robotaxi Supervisor Files Suit In Houston",
+    "summary": "<p>For reasons that never quite made sense to me, people get all jiggly when the conversation turns to Tesla and its so-called &#8220;robotaxis.&#8221; Some act as if the thought of a car that picks y",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/29/fired-tesla-robotaxi-supervisor-files-suit-in-houston/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-07-30-058",
+    "date": "2026-07-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla & ContourGlobal Sign Long-Term Power Agreement Covering 1 Terawatt-Hour/Year for Sterling Renewable Project",
+    "summary": "<p>This is one of the largest solar-plus-battery storage corporate PPA ever signed from a single plant in the U.S., and it will be served by the largest renewable plant in ContourGlobal’s portfolio. P",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/29/tesla-contourglobal-sign-long-term-power-agreement-covering-1-terawatt-hour-year-for-sterling-renewable-project/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-059",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is It A “Bloodbath”? Aussie New Car Market Reacts",
+    "summary": "<p>After Fiat withdrew from the Australian market, and a Peugeot dealer handed in his franchise, even long-time motoring “gurus” are asking the question. The metaphors abound — “tip of the iceberg,” “",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/29/is-it-a-bloodbath-aussie-new-car-market-reacts/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-060",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "As Jet Fuel Supplies Tighten, Can Other Fuels Meet Demand?",
+    "summary": "<p>New Research Evaluates Potential of 5 Aviation Fuels To Lessen Supply Chain Shocks By Anna Squires, NLR Tight jet fuel supplies—and a growing demand for jet fuel—are intensifying interest in an avi",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/29/as-jet-fuel-supplies-tighten-can-other-fuels-meet-demand/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-061",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Q&A: What the EU’s Carbon Market Review Means for Climate Action",
+    "summary": "<p>Article from Carbon Brief. The European Commission has put forward new plans to cut emissions under the EU carbon market more slowly, from 2031 onwards. On 17 July, the commission presented its lon",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/29/qa-what-the-eus-carbon-market-review-means-for-climate-action/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-062",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Chinese researchers build 29.71% perovskite-CIGS tandem solar cell based on sulfide",
+    "summary": "<p>Researchers in China developed a four-terminal perovskite/CIGS tandem solar cell using bis(2-pyridylmethyl) sulfide (2PyS) coordination engineering to improve wide-bandgap perovskite stability by s",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/30/chinese-researchers-build-29-71-perovskite-cigs-tandem-solar-cell-based-on-sulfide/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-063",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Low-cost open-access tool for rooftop PV assessment in informal settlements",
+    "summary": "<p>Researchers in Brazil developed a low-cost method combining UAV photogrammetry, GIS analysis, and an open-source Python tool to estimate rooftop solar PV potential in informal settlements with good",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/30/low-cost-open-access-tool-for-rooftop-pv-assessment-in-informal-settlements/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-07-29-001",
     "date": "2026-07-29",
     "companies": [
@@ -444,6 +1641,745 @@
       {
         "name": "pv_magazine",
         "url": "https://www.pv-magazine.com/2026/07/29/polish-scientists-build-21-87-semi-transparent-perovskite-cell-for-tandem-applications/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-025",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Two solid-state EV battery leaders are joining forces to scale the ‘breakthrough’ tech - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1YZWsyMVI3VURNd0QwX3AtTV9nekdTU2s2TlNZLVZYb1kwSS1FSnJCYlhoaHphdlFhR1NuVi14MTBValJvOHJZTTk5a1lvMkdrT3FJcmNGQk5ScUpzTWt1NHdSMktiUDgwaG1RVEVWN3",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YZWsyMVI3VURNd0QwX3AtTV9nekdTU2s2TlNZLVZYb1kwSS1FSnJCYlhoaHphdlFhR1NuVi14MTBValJvOHJZTTk5a1lvMkdrT3FJcmNGQk5ScUpzTWt1NHdSMktiUDgwaG1RVEVWN3FyRDNuTEgxNmdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-07-29-026",
+    "date": "2026-07-29",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Factorial and SK On Sign MoU to Explore Solid-State Battery Manufacturing - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaWVRUG1KWUpoWk9FOFI4RWJ5MFlPVmZIWUZGemlTZGU3Q0dyY3NEbGhfVzRSZXJDQ24wOTJQb1E4a2FvcEhXT3RqRlAwZ2ZGNzlfMHlzamVuMVN0bzEyVEJPT2FWVzlxUlJ4X1A5RE",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaWVRUG1KWUpoWk9FOFI4RWJ5MFlPVmZIWUZGemlTZGU3Q0dyY3NEbGhfVzRSZXJDQ24wOTJQb1E4a2FvcEhXT3RqRlAwZ2ZGNzlfMHlzamVuMVN0bzEyVEJPT2FWVzlxUlJ4X1A5REhabVRza0JYZzlCMjRvbU95RXZSQmw3Z1NPZkY5c2tUQ2pqUjluVjBlQjU1SVplR3pZQlFJdGtMempHRFlZRUVTRlRHZFpycEE2ZVBDOTgzdy1PajhOZFNLM3RMM1VUX3RhYjZuYzlUaWcyeVU0aEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-027",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Factorial Taps Hyundai Supplier To Solve Solid-State Batteries’ Biggest Problem - InsideEVs",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE40T19nZlEwUl91NUZMU18wcUNCYUNTdS1nVkI0aUhGeHhHU1BpZ1JXa0c3ZUh2N1NuUm93amU4Z1Vrb0hnOEEwOTUzbkRfY0M4cXRldkx5bzFnc3VqbUx2SDZVY0NfRXhEVmg2djhCZH",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40T19nZlEwUl91NUZMU18wcUNCYUNTdS1nVkI0aUhGeHhHU1BpZ1JXa0c3ZUh2N1NuUm93amU4Z1Vrb0hnOEEwOTUzbkRfY0M4cXRldkx5bzFnc3VqbUx2SDZVY0NfRXhEVmg2djhCZHNfenJKaHprSkFuWm1EM1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-07-29-028",
+    "date": "2026-07-29",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SK On, Factorial Energy team up to tackle solid-state battery mass production - 헤럴드경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NWFZjWUs2bzJvX244UVUyd25VNWphSzc4MzFwUjJiVUZ3dzFWaExoZEUtd0U2OGY5bkJSemtNTUx6T3pJLVZxT1U4MHhka09PQTRFUGt6TQ?oc=5\" target=\"_blank\">SK On, Fa",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NWFZjWUs2bzJvX244UVUyd25VNWphSzc4MzFwUjJiVUZ3dzFWaExoZEUtd0U2OGY5bkJSemtNTUx6T3pJLVZxT1U4MHhka09PQTRFUGt6TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-07-29-029",
+    "date": "2026-07-29",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Factorial and SK On Sign Agreement on Solid-State Batteries - energynews.pro",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3Y3VVozaWFLVGt4eW9fUmV2emFwbUJHTWFVbWl5YzRYdVoyN0NMaThRVmhzNjBmN0pVVFlBVXZzTGVYNzczOXloX0p0VDR4V29DY0cxcWNuOU16Nkp4cVhXMndyWGt4RlRuX2s1VG",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3Y3VVozaWFLVGt4eW9fUmV2emFwbUJHTWFVbWl5YzRYdVoyN0NMaThRVmhzNjBmN0pVVFlBVXZzTGVYNzczOXloX0p0VDR4V29DY0cxcWNuOU16Nkp4cVhXMndyWGt4RlRuX2s1VGdOLURObFMwUFNJemlyS2NUY2poREx1QXhQQlU3Nzl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-07-29-030",
+    "date": "2026-07-29",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Factorial Energy Inc. and Sk on Co., Ltd. Sign Mou to Explore Solid-State Battery Manufacturing - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ09GUFNJcHQ4LVN4eHE0clFsbnBmU3EzUVh5dURtME1LWDhhV05ULUZVRTJTbDhZM2JSVlpIUlQ0ZjY5YThGMkNWVUFlVUtrLVBHM1llTDMtTWkwRXhJbllRVXRxNHlSdEZPelJKVW",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ09GUFNJcHQ4LVN4eHE0clFsbnBmU3EzUVh5dURtME1LWDhhV05ULUZVRTJTbDhZM2JSVlpIUlQ0ZjY5YThGMkNWVUFlVUtrLVBHM1llTDMtTWkwRXhJbllRVXRxNHlSdEZPelJKVWVOTVZaRFVzTFRlV1NMOVR0UWpEanJSVWdaQzVPYWRjX1kyTGhGM0hyU3dkOC1rcWFGd1JoZUZHbVZPNkNXdXlpTXFwbXJNSGlBUUtZVm82VDhyOWFfcHNfSUwzbEUyNkl4cElsWkJ4X0JmcGdM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-07-29-031",
+    "date": "2026-07-29",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Factorial Energy signs MOU with SK On for solid-state batteries - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlZlVDFPYlFnQXNiLUQ0TkEyaW5YVElWN2NwWVItZ09HOWhTTlNZTkVudXVvVWFJdkx1OEF3X0pTUTg1UElianFrNi1lcDIwMzh5cmlRbFFrTUxUVTZwQnAyLUdqNkowOGg0YU9PT1",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlZlVDFPYlFnQXNiLUQ0TkEyaW5YVElWN2NwWVItZ09HOWhTTlNZTkVudXVvVWFJdkx1OEF3X0pTUTg1UElianFrNi1lcDIwMzh5cmlRbFFrTUxUVTZwQnAyLUdqNkowOGg0YU9PT1pPX3E3Q09aYjVFLTVyTVl4eHNhMnhXb2lxTjlUaUotR1hkMmxJYkQzT1VoVmhleVJORkxqbkk0N0h5STYzNDZjT3NNY3ZjSU1iUmJR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pilbara-2026-07-29-032",
+    "date": "2026-07-29",
+    "companies": [
+      "pilbara"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Pilbara Minerals posts record sales and robust growth guidance - The Motley Fool Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNdk4xUUM1VWg1UU1RQU1NRmo5Wi1vekdhQTI1Yzg0X00wek9ndVZQV2tMempWX1JDanNNM0pZSVFjeU5Lb0E2NEJ0NDdkUXBPdEFxaS1WYS1McXJsUmc3Sy00UjFDWnhJRjluODB1Vz",
+    "sources": [
+      {
+        "name": "pilbara",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdk4xUUM1VWg1UU1RQU1NRmo5Wi1vekdhQTI1Yzg0X00wek9ndVZQV2tMempWX1JDanNNM0pZSVFjeU5Lb0E2NEJ0NDdkUXBPdEFxaS1WYS1McXJsUmc3Sy00UjFDWnhJRjluODB1VzN2TkpPVVRKOWp0UDlrWEJaSXcwN3FHMVhTd2JMWGVPU2dLTXE3TWNJUjhJUlVHUUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-07-29-033",
+    "date": "2026-07-29",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Chinese Automaker Just Beat BYD With An EV Battery That Recharges In 8 Minutes - Yahoo Autos",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQcDB6SUEySDJQbjRXaFotdnB1c3BlNXp0SWU1eEZXNF9ZVjZHc0VjVThvRmRQZWV2clZpdjVDV3FRb0ZUZDJVd0Nob2t0cmtlNzdITlVieWJUUEw3X296OHlLMzIzVXVPRXVGNXVPcl",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcDB6SUEySDJQbjRXaFotdnB1c3BlNXp0SWU1eEZXNF9ZVjZHc0VjVThvRmRQZWV2clZpdjVDV3FRb0ZUZDJVd0Nob2t0cmtlNzdITlVieWJUUEw3X296OHlLMzIzVXVPRXVGNXVPclBwdWdxNnlWS2ZQZlNXNHZKM1NZeG5FeGRCNlp6anNZLXFrZzdCRkszcW1R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-07-29-034",
+    "date": "2026-07-29",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "ev_sales",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD sees stronger EV sales amid Marcos push for adoption - BusinessWorld Online",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUEt3b2NHOFVoNVc3Y1pVQklCUHczZXkzSXZQWURBOV93N3FGNUN1V0Z1NTMwaW52WGdPazFrTTkzUS1CcnAxcmxYREpQRlNqY2NsRHgwNWVkNTlEbFFxb0J5YUN6b1dfVWpIcUd4Mk",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUEt3b2NHOFVoNVc3Y1pVQklCUHczZXkzSXZQWURBOV93N3FGNUN1V0Z1NTMwaW52WGdPazFrTTkzUS1CcnAxcmxYREpQRlNqY2NsRHgwNWVkNTlEbFFxb0J5YUN6b1dfVWpIcUd4MkJPYXF4UG1TcUhENHZaM3gwS0FOaUtQd2w4eWhNbUdJM1phVkFOaTBVZ3VpeXZZMHZaMm9jSndyWHNCSzNBM01z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-07-29-035",
+    "date": "2026-07-29",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rivian R2 Covers 253 Miles at 70 MPH Against a 330-Mile EPA Rating, Test Shows - eletric-vehicles.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXVvVGFnQS1FLUJNVWRsNVFWdzdVSDJ3M29idzVoSGRNY3ZBX1hKRDRKWmxzeWkyS0V0a3MxclZnTDBRVUdGZmJVYU1pQ01pQXNOUW1zTTBfZ1B4UlNLd3o1TzJmeXBIQjFqS1VTZl",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXVvVGFnQS1FLUJNVWRsNVFWdzdVSDJ3M29idzVoSGRNY3ZBX1hKRDRKWmxzeWkyS0V0a3MxclZnTDBRVUdGZmJVYU1pQ01pQXNOUW1zTTBfZ1B4UlNLd3o1TzJmeXBIQjFqS1VTZllKWVZTWVVkNzdxTlpFSHBKWF9zN3lqeGNZQjV6dlVKSDRVQVl5MWtYYkpuc19ySVFOQkQ2bjBZRXRwRVN5SGpxOEdmazY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-07-29-036",
+    "date": "2026-07-29",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian R2 production ramp, profit path key for investors: Q2 preview - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZnAwRVRGYXpmVkZuaG9SZGZSMlJpUHlQbS1pc0lLazFLQ2x0V2NOSEx0dGY5R0ctSi1nNmpIS0hubElzNUQtdVdUNGh4MWk0M1dJbjNOclhsNzBYZ1lVNC1XcElYcXNiTUFKcEYxZG",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZnAwRVRGYXpmVkZuaG9SZGZSMlJpUHlQbS1pc0lLazFLQ2x0V2NOSEx0dGY5R0ctSi1nNmpIS0hubElzNUQtdVdUNGh4MWk0M1dJbjNOclhsNzBYZ1lVNC1XcElYcXNiTUFKcEYxZGk1M00xZ21rQmhyb2VEQk1UT096Z01nWFdqbDd1cjVvRC1xVVcyLU45ODF3d1ljUF9tVUlaZ2RuTHB3VkpGd0hiZ3pWcUd5MHU1ZFd3UXhQUlllTWVmMmcweVhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-07-29-037",
+    "date": "2026-07-29",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2027 Rivian R1S and R1T Revealed in EPA Certification Documents, Sales Start Imminent - autoevolution.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQNlpWelVNR2NuYzZLUm9QaTBoZU0tY0tfUTlhTzFkTnFlUWRtalZ3WERub293aFV2WDBqTl9KUmZUbFRuYVQyOTR4RDN0Z2xiaUU1emRYemFnTVZTUG1XVlREcjktTUtjb2REUFRLWU",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNlpWelVNR2NuYzZLUm9QaTBoZU0tY0tfUTlhTzFkTnFlUWRtalZ3WERub293aFV2WDBqTl9KUmZUbFRuYVQyOTR4RDN0Z2xiaUU1emRYemFnTVZTUG1XVlREcjktTUtjb2REUFRLWUpYX3RFeFc1ZkF6WkVKU2pSMG0xT2h3dHFUMTFDblJFS0RRTEJnVHFrY2JvdHRyZDJBcWtkWVRveVNJeHlGSDBBMlhaWkp1VUFSLUZNblllTzVuS0Rna3ZnQjdlQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-07-29-038",
+    "date": "2026-07-29",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian earnings in focus after strong Q2 deliveries and guidance boost - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmUyNmZ6T3JQNlZuRE80NlEyU1lyUS1jSnNlYllMaW56aVUxRUFVbFJmTmdDMVE2cm5oNzh1UHNaQ3hseEtsUkMwYXBkTFc3Qk5XUU9MYWtaVl9SMngyazNlWlZRaUdub0hKSkRMeV",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmUyNmZ6T3JQNlZuRE80NlEyU1lyUS1jSnNlYllMaW56aVUxRUFVbFJmTmdDMVE2cm5oNzh1UHNaQ3hseEtsUkMwYXBkTFc3Qk5XUU9MYWtaVl9SMngyazNlWlZRaUdub0hKSkRMeVNRbFdPM3dNSWY2bWFrbElvRTh0MzhGaUdkU0dHR2lrNFZIMDhwWXowSFRLUjlBVjNSNDZxb1F2R3VJUnh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-039",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "12 Quickest Electric Cars 0-60 MPH: Fastest is 1.66 Seconds - EVChargingStations.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5yMjJJamVGdXZXNVhXaEt4ck8yd2h2ZGEydVpUVkVYM0pUMl9wYVEzdHR6NW01cFFsSzF4SjBEUFFDY20wRl9QNk14WTlnVzlGNmJMV3dpWWVZZnN2LUZlLUt1bE5LMWFHNzdNY09uRE",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yMjJJamVGdXZXNVhXaEt4ck8yd2h2ZGEydVpUVkVYM0pUMl9wYVEzdHR6NW01cFFsSzF4SjBEUFFDY20wRl9QNk14WTlnVzlGNmJMV3dpWWVZZnN2LUZlLUt1bE5LMWFHNzdNY09uREFKS01SMGZSb1dn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-07-29-040",
+    "date": "2026-07-29",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian Earnings Preview: Big Move Already Priced In - Schaeffer's Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWmlYQ0wwOEN1NkJmNFJTc2FWcXBOWkJTUXYwck1qNmFqSklpd3hpbFdtOFdKT3BMUFpqRmExTnZTLU4zSlVodE5hTW1UQTJpNlFiMDBhUlNXckJfbWt3WXc1eTlITXByUlhfRE5QaU",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWmlYQ0wwOEN1NkJmNFJTc2FWcXBOWkJTUXYwck1qNmFqSklpd3hpbFdtOFdKT3BMUFpqRmExTnZTLU4zSlVodE5hTW1UQTJpNlFiMDBhUlNXckJfbWt3WXc1eTlITXByUlhfRE5QaURtM2psbFFhN05tUUVKMWNUejdZZjhRbDRjZ095OUNaXzhfbVNpYllXX1BWOXl4SmlTbktaZTFHVDc5WmROVE0yN1dWMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-07-29-041",
+    "date": "2026-07-29",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio Stock is Pushing Higher Today: What's Going On? - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQcDlWNk8wWW5PcDR3SmRnbjlWNXA5T21BdTFSdWZITWpOZnRxdEJfaEhSM09kRVJpYTI4TzhvM05fajdJY1VmREVGamVKaWU4Y3JiM05zM0ZyRWFYX2QwWU05ZEctZFZieHZ3b0JQN2",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcDlWNk8wWW5PcDR3SmRnbjlWNXA5T21BdTFSdWZITWpOZnRxdEJfaEhSM09kRVJpYTI4TzhvM05fajdJY1VmREVGamVKaWU4Y3JiM05zM0ZyRWFYX2QwWU05ZEctZFZieHZ3b0JQN2NoXzdTd0stT0lELWZvVVJrbFNzRlh5WUxoaHU0TExpTFBkVk1maVhpUFRwTUp5YkF4MUZjem9KUWc1SUlfZlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-042",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump feds use a solar review to approve the first AI data center on public land",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/comp_dam_8587f4d6-f355-47de-9cd5-f6eccefefbaa.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-b",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/07/29/trump-feds-solar-review-ai-data-center-public-land-boulder-city-nevada/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-043",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The new Mercedes GLA EV is bigger, smarter, and has a range of over 400 miles",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/Mercedes-new-GLA-EV.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><a href=\"",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/07/29/new-mercedes-gla-ev-bigger-400-miles-range/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-044",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The 2027 Cadillac Lyriq gains a key upgrade for $200 more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2025/11/Cadillac-Lyriq-EV-lease-prices.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/07/29/2027-cadillac-lyriq-key-upgrade-200-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-045",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yozma IN 10 and IN 10 Pro electric mini dirt bikes get up to $595 exclusive savings, EGO 880 CFM blower + 2x batteries, Hiboy, more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/Yozma-EGO-Hiboy-Greenworks-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragra",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/07/29/yozma-in-10-and-in-10-pro-electric-mini-dirt-bikes-ego-880-cfm-blower-hiboy-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-046",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ferrari’s $640K Luce EV sells out 2026 allocation: ~500 units",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/Ferrari-Luce-electric-car-hero.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/07/29/ferrari-luce-ev-sold-out-2026-allocation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-07-29-047",
+    "date": "2026-07-29",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Two solid-state EV battery leaders are joining forces to scale the ‘breakthrough’ tech",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2025/09/Mercedes-solid-state-EV-batteries-1.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-para",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/07/29/solid-state-ev-battery-leaders-team-up/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-048",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kia opens EV3 pre-orders in Mexico ahead of US launch",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Kia-first-EV3-US.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">Kia opened p",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/07/29/kia-opens-ev3-pre-orders-mexico-us-launch/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-049",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai reveals IONIQ 3 prices start at $30,000, and it already looks like a hit",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/Hyundai-IONIQ-3-prices-Europe-1.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragrap",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/07/29/hyundai-reveals-ioniq-3-prices-start-30000-interest-surges/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-050",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ferrari Luce Reviews Are In And Sorry, But It Actually Seems Pretty Great",
+    "summary": "Sure, it isn't most Ferrari-looking Ferrari ever but did we really think Maranello would put out anything other than a banger super sedan?",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/803144/ferrari-luce-reviews-are-good/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-051",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The 2028 Mercedes GLA Is A Small Electric SUV With 320 kW Charging",
+    "summary": "At an 800-volt DC charger, the new GLA can charge at 320 kW, adding 168 miles of range in just 10 minutes.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/803008/2028-mercedes-gla-electric/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-07-29-052",
+    "date": "2026-07-29",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Factorial Taps Hyundai Supplier To Solve Solid-State Batteries’ Biggest Problem",
+    "summary": "Can you really mass-produce solid state batteries on existing battery lines? Factorial and SK On plan to find out.\n",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/803125/factorial-sk-on-solid-state-battery-mou/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-07-29-053",
+    "date": "2026-07-29",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Chinese Automaker Just Beat BYD With An EV Battery That Recharges In 8 Minutes",
+    "summary": "Hongqi says its experimental battery can add 60% charge in under four minutes with a peak charging rate of 12C.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/803094/hongqi-four-minute-charging-test/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-054",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MG 07 goes on pre-sales with Momenta driver-assist, 845 km range",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/07/2026072913532366.png\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The MG 07 is priced from 125,900 yuan ($18,540) to 165,900 yua",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/07/29/mg-07-goes-on-pre-sales/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-07-29-055",
+    "date": "2026-07-29",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Elon Musk sheds two new bits of detail on Starship after 13th test launch",
+    "summary": "<p>Elon Musk shed two new bits of detail on Starship following its 13th test launch, which was an overwhelming success. SpaceX launched Starship for the 13th time last Friday after two delays: one on ",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/elon-musk-sheds-two-new-bits-detail-starship-after-13th-test-launch/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-07-29-056",
+    "date": "2026-07-29",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX gets an absolutely crazy price target after rough IPO",
+    "summary": "<p>SpaceX (NASDAQ: SPCX) got an absolutely crazy price target rating from Raymond James after the company experienced a tough first few weeks following its Initial Public Offering (IPO). Despite the t",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/spacex-spcx-absolutely-crazy-price-target-rough-ipo/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-07-29-057",
+    "date": "2026-07-29",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elon Musk responds to Volvo’s latest LiDAR decision",
+    "summary": "<p>Tesla CEO Elon Musk has responded to reports that Volvo is officially discontinuing the LiDAR sensor on two of its cars. Volvo announced that it would officially scrap LiDAR systems on its EX90 and",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/elon-musk-responds-volvo-lidar-decision/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-058",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Battery storage is an important growth driver, NextEra CEO says, amid merger to create largest regulated utility in US",
+    "summary": "NextEra Energy recorded a 9.5% increase in its net earnings in Q2 2026, as the company advanced its plan to merge with Dominion Energy to form the world's largest regulated power utility.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/battery-storage-is-an-important-growth-driver-nextera-ceo-says-amid-merger-to-create-largest-regulated-utility-in-us/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-059",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base",
+    "summary": "Utility Georgia Power has completed construction of the 49.5MW/198MWh Moody Battery Facility, located outside of Valdosta, Georgia, US.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/georgia-power-completes-construction-of-198mwh-bess-next-to-moody-air-force-base/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-060",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China Gives Strong Signal on Connected & Autonomous New Energy Vehicles",
+    "summary": "<p>It should come as a surprise to no one that the Chinese government is intent on leading continuing to lead on connected vehicles and electric vehicles, but the industry got a strong indication of s",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/29/china-gives-strong-signal-on-connected-autonomous-new-energy-vehicles/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-061",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Momenta To Test Robotaxis Across Germany, Uber Invests More",
+    "summary": "<p>We&#8217;ve been writing about or mentioning Momenta a lot this week. I think this is the 4th time, and I don&#8217;t believe we&#8217;ve ever covered it before. Today we got news that Momenta has ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/29/momenta-to-test-robotaxis-across-germany-uber-invests-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-062",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The 2100 Projections Came First. Then Clients Asked For 2050 Roadmaps.",
+    "summary": "<p>Most decarbonization scenarios stop at 2050 because policy targets do. Steel mills, aircraft fleets, ports, electricity grids and industrial supply chains do not. A pathway can reach net zero in a ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/29/2100-projections-2050-decarbonization-roadmaps/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-063",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s solar market heads for first annual contraction since 2019",
+    "summary": "<p>The China Photovoltaic Industry Association says domestic installations are returning to more sustainable levels but expects both China’s market and global PV additions to shrink in 2026.</p>\n<p>Th",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/29/chinas-solar-market-heads-for-first-annual-contraction-since-2019/",
         "type": "rss"
       }
     ]
@@ -1887,6 +3823,26 @@
     ]
   },
   {
+    "id": "catl-2026-07-28-077",
+    "date": "2026-07-28",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Return of Nearly 100,000 Tons of Lithium: Has CATL Successfully Overcome This Critical Hurdle? - 36Kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE56cWdBTndmNlEwNU1fZEJrU2VZNDNTSTUzMGxwSXhXSXdsb1U5UGpsckNHV2QySmkxemFXYmlXV2lfRERoMFJ3R0NMUThPSURQdXlr?oc=5\" target=\"_blank\">The Return of N",
+    "sources": [
+      {
+        "name": "google_news_lithium",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56cWdBTndmNlEwNU1fZEJrU2VZNDNTSTUzMGxwSXhXSXdsb1U5UGpsckNHV2QySmkxemFXYmlXV2lfRERoMFJ3R0NMUThPSURQdXlr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-07-27-001",
     "date": "2026-07-27",
     "companies": [
@@ -3224,6 +5180,102 @@
       {
         "name": "rivian",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnd3cnVzOERjaDlWSHJpdTUySmxWS3YwWXZNb2UzX19jUEs2RVM0Q21ubEE0WGpjN3NXR0g0azg2bXpfcWRBR0pGd1FkckVGNXNBazdwclNsc2NIdlVDeThtUEQ0Q2JmcTV4QjBVbkZrQU5WcUNvVzNOdTZfeURZUEJnNGlPNS10Zzl2QzZLQ3FfMTVra0xjcGZFbzQxOU1TRXRvN0JHWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catl-2026-07-27-072",
+    "date": "2026-07-27",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CATL storage revenue jumps 88% as H1 profit hits CNY 43.3 billion - ess-news.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1Rfd0pBVVMyQ0J3Ym1QYlh6VnEyZU1xQlpBY25QbzlvQk1TSDhFV0d1dTVWaXJrM1hSUmZWX1VzMEJqbXZjZnNFbzVVS2VaWllFWlRVcW84R1YzTVJUU3A0Uk9VeS1oR0xsNFdzMk",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1Rfd0pBVVMyQ0J3Ym1QYlh6VnEyZU1xQlpBY25QbzlvQk1TSDhFV0d1dTVWaXJrM1hSUmZWX1VzMEJqbXZjZnNFbzVVS2VaWllFWlRVcW84R1YzTVJUU3A0Uk9VeS1oR0xsNFdzMkg4ekdmQmFmeWtzak1ndXRHanJfS19DT1hQaTFiZ1VkQkU5Q0FkTHZSNWlwNVFyekt6Ni1J?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-07-27-073",
+    "date": "2026-07-27",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy Solution targets US power tool market in continued battery licensing push - iam-media.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRnM2S0ZXY1VJREVYZUFCVURzeDRidnJPd3N6RUFWTGJHeDZzY0RqV3NYQmxsaHYwYzhlXzVZR01XM3ZvQ295dzYxdVBsOTlBSWZuaWFjeUJYa0M0SDZrQ0NyZ2swbVVMV3BmVG9FRm",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRnM2S0ZXY1VJREVYZUFCVURzeDRidnJPd3N6RUFWTGJHeDZzY0RqV3NYQmxsaHYwYzhlXzVZR01XM3ZvQ295dzYxdVBsOTlBSWZuaWFjeUJYa0M0SDZrQ0NyZ2swbVVMV3BmVG9FRm83UFJtR2tvdTdGc2tKWHBNSzRGNFNFcG83czBsRFBOYmZJOWhuODVkN2pSTEtzSjF5SGtpVlZwR2VpRVkzU1VDQko5WHYwdDlY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eve-2026-07-27-074",
+    "date": "2026-07-27",
+    "companies": [
+      "eve"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG takes EVE Energy patent fight to US court, trade commission - ess-news.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNamV3UmtSQlNQOEtOZk9TMWpPNHRsOVBUcnRwNGxzb0JoeTA3U2xLY2xnblZwZF9IYW1iY3VRWjhYUXQwTW1Vb0tQWXBJTnRjZmVleHQ2LUd3bkd3R1V0ckhuZWx0OVhnODhSRnktbz",
+    "sources": [
+      {
+        "name": "eve",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNamV3UmtSQlNQOEtOZk9TMWpPNHRsOVBUcnRwNGxzb0JoeTA3U2xLY2xnblZwZF9IYW1iY3VRWjhYUXQwTW1Vb0tQWXBJTnRjZmVleHQ2LUd3bkd3R1V0ckhuZWx0OVhnODhSRnktbzJuVFVSQzJZdmliVlM0OWpFaUhnTGNWbU50Q2pmQjM1b1ZwMFM0TmI0TjZRUTdHNVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-07-27-075",
+    "date": "2026-07-27",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rivian Sues US Government for Tariff Refund - cnet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOazN2ZVRkd29MQlJDV0pVVnRCZ1ZpQXdsc0R2czhmc01zRG8tOEI3UEZRZkZZTTRsRC10dmRHWk9lQlZkcFh4RUtnTExVV19NckJGYWlTU0FHR25hV0o3OW9MZi10TzFkeG16eXFrOG",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOazN2ZVRkd29MQlJDV0pVVnRCZ1ZpQXdsc0R2czhmc01zRG8tOEI3UEZRZkZZTTRsRC10dmRHWk9lQlZkcFh4RUtnTExVV19NckJGYWlTU0FHR25hV0o3OW9MZi10TzFkeG16eXFrOG9tbHk1S0d2MXM0eko5X2lXOURlRVhHVUZEQWtHd1dQeGZVdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-07-27-076",
+    "date": "2026-07-27",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rivian Automotive's Next Earnings Report on July 30 Could Send the Stock Soaring. Here's Why. - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPMVkzalotTUpOZDZ4ZEszRzJ1c2dYR2VsWFRXa2JMZ2Y4ekxFYmVKX283YzZ6WW44MmxfT19wb0R3YTlZTWpSZV9DSzEwS3lCbEdmZHhWSXU1ZnYxMzdzMmNfMG9nTHhlQ2xvdUN1c3",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMVkzalotTUpOZDZ4ZEszRzJ1c2dYR2VsWFRXa2JMZ2Y4ekxFYmVKX283YzZ6WW44MmxfT19wb0R3YTlZTWpSZV9DSzEwS3lCbEdmZHhWSXU1ZnYxMzdzMmNfMG9nTHhlQ2xvdUN1c3RHT2g5Wk16dzdzWlUzRk9teTJXblZCb3lCVEQwLXh3ajFFWFd5bHF0Rl91R0Z2NDVrRnkyd2cxQVRiUGM3eXZLTGYxUUJxSjhFd0JpSDlzbGdmZXlodFNIUEdCRlE?oc=5",
         "type": "rss"
       }
     ]
@@ -7283,6 +9335,26 @@
       {
         "name": "energy_storage_news",
         "url": "https://www.energy-storage.news/on-energy-and-crusoe-partner-on-ups-technology-for-us-data-centres-skeleton-tech-in-800-vdc-partnership-with-dg-matrix/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eve-2026-07-23-087",
+    "date": "2026-07-23",
+    "companies": [
+      "eve"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tulip Battery Licensing Program Brings US ITC Action Against EVE Energy - ipwatchdog.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQR25oRmdyLXphTjkwaEYzNXYxZHotaWtkSUhhTWFsY1RoY1ZQUVhmcjdNckF0SEVWTzJ2MFd0UmVZU2d2anppUjhNSWctenlVOWhjb214MWRhX0VMOU5WZmlrNEwzdkNnU0xWcXB6RE",
+    "sources": [
+      {
+        "name": "eve",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR25oRmdyLXphTjkwaEYzNXYxZHotaWtkSUhhTWFsY1RoY1ZQUVhmcjdNckF0SEVWTzJ2MFd0UmVZU2d2anppUjhNSWctenlVOWhjb214MWRhX0VMOU5WZmlrNEwzdkNnU0xWcXB6REhLZC1wRktMNzFpNmZnNjFVbnZXWWZCNGVCdi1iTmpsOTJFTFNLbXRmV09nNTByMFhrYXhn?oc=5",
         "type": "rss"
       }
     ]

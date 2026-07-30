@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 191,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 29,
+  "gate2_fail": 22,
+  "passed": 109,
+  "gate2_samples": [
+    "LG Energy Solution swings to loss in Q2 - koreatimes.co.kr",
+    "Why Pilbara Minerals (ASX:PLS) Shares Are Trading Higher on Thursday? - Kalkine",
+    "Lucid Is Now Up 33% in a Month, Easily Beating Tesla and Rivian. What Will It Take to Get LCID Stock",
+    "Rivian R2 Fails Real World Range Test Miserably - Torque News",
+    "See what R2 is all about - Rivian Stories"
+  ]
+}

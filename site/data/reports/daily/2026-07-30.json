@@ -1,0 +1,233 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:28:59.023487Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-30-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LG Energy snaps two-quarter loss streak with US tax credits - KED Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OZFlWcHhSbzFiNkpQdUhLazNRcV9zcEd6Z3JQaVhuUGpUQVk0RW1Lb3JEWVpidFlVeVItQlltcG9VU0tMMkpocnZwU2REQU5MaWVRZEFuLVVHc2NwU204V3pXSFZTN0R4TE8w?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-30-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LG Energy swings to Q2 loss on EV market slowdown - koreatimes.co.kr",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3prUk1Na2hnWFRjaVlzN3hISlhCRC1rOWJVemZpTTNmWkZBTzl1cGdpOXAxNlhsYWktM2NfbUdjQVpwakwzWVZjS2xVclV3NVZIZ0tMMFZ1eG1kRUxpdU51UnloaUdvN0hYbVNUeUpkb1FBb0dLWWpMRUFqdGhHZGlNbDM2Zkg0ZDNwbmpaa01zbkhpLTdTQ2d1NlVQOGk4TXZpQUdOb3FDT3ZwOWdj0gGvAUFVX3lxTE5DemtSTU1raGdYVGNpWXM3eEhKWEJELWs5YlV6ZmlNM2ZaRkFPOXVwZ2k5cDE2WGxhaS0zY19tR2NBWnBqTDNZVmNLbFVyVXc1VkhnS0wwVnV4bWRFTGl1TnVSeWhpR283SFhtU1R5SmRvUUFvR0tZakxFQWp0aEdkaU1sMzZmSDRkM3BualprTXNuSGktN1NDZ3U2VVA4aThNdmlBR05vcUNPdnA5Z2M?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sk_on-2026-07-30-038",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SK On Posts Record Quarterly Operating Profit Since Spin-Off - thelec.net",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aVWdXZzc0MXB3RDZGQ0VfNG9Ga3p4R0FGcTl4ckJhb0xOdmtQSFNCZFY4cUs4cFBLR284RC1VUm9JSFVVWkRGWFpJdF83X0JtUU9YR1QzczcxNHJwWUxCV2ZRRERhRms?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-30-044",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lunch Wrap: ASX feels Fed pain as PLS shifts record tonnes - Stockhead",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0FNMnZpZ1g3a1liMm1vSGQwaUlxMVF5VjJpVm9LZzVSZ0o1eV90Zk4tcHR1V0xkUF9Sb3VsMWsyVjlpNl9OSkR0d0pUQVhNYUd4aDRZMDRneU5adUpKRW1SLS1HaExxUjFvd3BrRGdwWmFONkstRWhTRnBFc2Q2LVBlTS1rM1pOZjRxemdXaWlSdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "byd-2026-07-30-047",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "IEA: Global EV sales jump 35% in Q2 and 50 countries set records",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/07/29/477795/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 51,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 63,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 48,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "lg_energy",
+        "count": 13
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 11
+      },
+      {
+        "id": "sk_on",
+        "count": 5
+      },
+      {
+        "id": "byd",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 51
+      },
+      {
+        "id": "cathode_material",
+        "count": 3
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 424,
+    "dup_title": 191,
+    "too_old": 73,
+    "gate1_blocked": 29,
+    "gate2_blocked": 22,
+    "passed": 109,
+    "pass_rate": "46.8%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "LG Energy Solution swings to loss in Q2 - koreatimes.co.kr",
+      "Why Pilbara Minerals (ASX:PLS) Shares Are Trading Higher on Thursday? - Kalkine",
+      "Lucid Is Now Up 33% in a Month, Easily Beating Tesla and Rivian. What Will It Take to Get LCID Stock",
+      "Rivian R2 Fails Real World Range Test Miserably - Torque News",
+      "See what R2 is all about - Rivian Stories"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 63 則事件，焦點為LG新能源、三星SDI、SK創新相關動態：「LG Energy snaps two-quarter loss streak with US tax credi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Energy snaps two-quarter loss streak with US tax credits - KED Global（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "LG Energy swings to Q2 loss on EV market slowdown - koreatimes.co.kr（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
