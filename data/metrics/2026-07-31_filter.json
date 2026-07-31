@@ -1,0 +1,16 @@
+{
+  "total_raw": 420,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 26,
+  "gate2_fail": 25,
+  "passed": 102,
+  "gate2_samples": [
+    "Inside the container: looking at CATL’s sodium-ion Tener’s specs - Energy-Storage.News",
+    "LG Energy Solution swings to loss in Q2 - The Korea Times",
+    "Why Pilbara Minerals (ASX:PLS) Shares Are Trading Higher on Thursday? - Kalkine",
+    "Rivian R2 Fails Real World Range Test Miserably - Torque News",
+    "Rivian’s R2 VIN Count Passes 5,000 as the Pace Slows Sharply - eletric-vehicles.com"
+  ]
+}

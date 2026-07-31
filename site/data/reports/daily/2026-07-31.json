@@ -1,0 +1,228 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:43:27.872947Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-07-31-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "RIVN Stock Rises 4% After-Hours — Rivian Says R2 Is Exceeding Internal Expectations, Attracting Former Tesla Owners And New EV Buyers - Stocktwits",
+      "companies": [
+        "tesla",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNUGVDNVd1ZmliQTZkV0FfZ2dJanpLTFpQTzMtSEJ6bG5RNHhaWTFpdzEzeDVWbXpjYlFoU1FHUDdxRUdDdUdRUTEyYmJJTDAxaTZXSkpJM21udDBPR0xxTGVLX0xqWGp5dDN1X2Z2bnd1QklUX1lxeEJ4Mm9maW1YNnJVN1FrVWF4R3FmdmY2NjN3UjBDUTVlbXpWc0tCeE5zN24ycXBwcHhCQV9HWDNNUTBwc3RHbDJvM0kxR2NPU3FSRUxwTWN6U0o1dFBYUHJxUGJ0MTNPWGM1SXVadkJ0a2JUNHZEX1lCT0s5LUJSSWFMSzZ5VDBjeFJBanJ1eC1kVVk2dGc5OXFSTGlPeTFZSlNyQmQ5a2hMTE5JaFB3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-31-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "“Hot Blocks” Thermal Energy Storage Startup Nails Down $550 Million More To Chase Fossil Fuels Away",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/07/30/energy-storage-factory-made-carbon-blocks-us-startup-antora/"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_energy-2026-07-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Solid-State Battery: LG Energy Solution Swings to Profit in Q2, Launc - Shanghai Metals Market",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcnp6NHgyWGM4Zy1YNEpNajFzdXZRaUxRUURFcmZaVEx2SUJMdEJYY0dsN3VZNk84OUxacW1JWHdIYTBLNGpucHhYRnNzel82SzhaX1RySE8zXzNDRU13WWFraldGcXR4MjM0NzM0Qy1mM0V0ZEFYbGxkNlQzcjBvcTIyVkp4c0JlYmQ1VERpTThhWGZmbUxsbnZSYjBxOWd5ZVdhX3dMN0QwYlB4ZkU0Z0FSSXIzWUdEbVNCank5bzBhRmNTT29EdEdaYm9nVXhDSDJyaEpsUE5SbEhDOHh6NHVGQWQwV3A5SVVxUHJSdE1COHV0Z28yeg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Chem posts 19% higher Q2 sales - The Korea News Plus",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2WkE2NUJJQXQ2OE9meGpYSHQxU0VXRGppTVJiandyNlBFS25Ycm1EVWhjc1I2N0ZCVWNqTkE4WnFhSno1QnM5RXg5LTNUb19wWElqSV9QNmRTQ2RtdFVGcWdHZFBzcXJqUWxXUXUxM18wTU9OM0Nn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sk_on-2026-07-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Factorial, SK On to explore solid-state battery manufacturing - Evertiq",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN25KQkpBTDEwR0lmQlJ0cXUtLURncnF2NHpueHQtcFQ5WUZHQTZtTGZUSmE3Z3F4Y3ZHVFNQb1pBU0lSemlsSVBuWmowR2dwOVpnRDRWQ0RDdGJKS05VYmlab0Vjeng2MWFNNHMxZFBvQkJMdW9odkFhZy1RQWdiLURMRUFwMHRJZWhmcWRLU0xGaGk4UkFFXzRVQTZ0d0U?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 28,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 6
+      },
+      {
+        "id": "rivian",
+        "count": 5
+      },
+      {
+        "id": "pilbara",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "nio",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      },
+      {
+        "id": "recycling",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 420,
+    "dup_title": 198,
+    "too_old": 69,
+    "gate1_blocked": 26,
+    "gate2_blocked": 25,
+    "passed": 102,
+    "pass_rate": "45.9%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Inside the container: looking at CATL’s sodium-ion Tener’s specs - Energy-Storage.News",
+      "LG Energy Solution swings to loss in Q2 - The Korea Times",
+      "Why Pilbara Minerals (ASX:PLS) Shares Are Trading Higher on Thursday? - Kalkine",
+      "Rivian R2 Fails Real World Range Test Miserably - Torque News",
+      "Rivian’s R2 VIN Count Passes 5,000 as the Pace Slows Sharply - eletric-vehicles.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為特斯拉、Rivian、Pilbara Minerals相關動態：「RIVN Stock Rises 4% After-Hours — Rivian Says R2 Is Excee...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RIVN Stock Rises 4% After-Hours — Rivian Says R2 Is Exceeding Internal Expect...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "“Hot Blocks” Thermal Energy Storage Startup Nails Down $550 Million More To C...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
