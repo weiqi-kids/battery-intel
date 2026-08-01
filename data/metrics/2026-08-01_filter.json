@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 32,
+  "gate2_fail": 26,
+  "passed": 71,
+  "gate2_samples": [
+    "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - Moomo",
+    "LG Energy Solution swings to loss in Q2 - The Korea Times",
+    "Why Pilbara Minerals (ASX:PLS) Shares Are Trading Higher on Thursday? - Kalkine",
+    "The Rivian R2 Has Plenty of Curb Appeal. We Test It to See Whether It's as Good as It Looks. - Car a",
+    "Exclusive: Rivian spinoff Also to start delivering e-bikes after months of delays - TechCrunch"
+  ]
+}

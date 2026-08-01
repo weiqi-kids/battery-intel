@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T10:43:24.509934Z",
+  "updated_at": "2026-08-01T10:03:01.236545Z",
   "quarter": "2025-06-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -177,17 +177,17 @@
       "name": "Rivian",
       "ticker": "RIVN",
       "currency": "USD",
-      "ar": 342000000,
-      "ar_prev": 555000000,
-      "ar_qoq": "-38%",
+      "ar": 370000000,
+      "ar_prev": 342000000,
+      "ar_qoq": "+8%",
       "ar_period": "QoQ",
-      "inventory": 1543000000,
-      "inv_prev": 1594000000,
-      "inv_qoq": "-3%",
+      "inventory": 1661000000,
+      "inv_prev": 1543000000,
+      "inv_qoq": "+8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "samsung_sdi",
