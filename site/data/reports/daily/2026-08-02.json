@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T10:01:33.171724Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-08-02-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SpaceX’s biggest test yet arrives this week and it’s not a rocket launch",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.teslarati.com/spacex-earnings-report-call/"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-08-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rivian Automotive, Inc. (NASDAQ:RIVN) Given Average Rating of \"Hold\" by Analysts - MarketBeat",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUFFUTlELTFBNks4dkQ3M0RfRjBteVg0UWZ1S01LQVpmaTY1TU5XbTZhVzdEcmRFY2VmaTE2a2g1dW5CRlJJVnl3U1pwR0l5dDNTSTRKblpTa3RaOHlJQzE1NmdnMWc2UjU0U192bFpiRExmcXZpTEdWVWoxRHBvNmc1b1B3b1BlTlNNSWtTaV9TTHdHWm93LUxPMG1ndWZySWlSM0ZZT1Y3akVDMXViSFlhanVXWHJBODBUZm4tenZSV2h5dEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nio-2026-08-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "XPENG and NIO Report Strong July 2026 EV Deliveries - Electric Cars Report",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbG11TVlDUHc0c1k0WWZUMVRZNGNvMzA3cmZNc3dJOFhEajh5NmNSMG9tZWxXSFlhbnpqS3BKRGRienlkWjE5ZHU0dy1mZDVXeVJxSVlxREJkcXBrMG9UOF9UejY2WU8xZHN4QnNVUnpLREFQa0hpc1A4R0JZN2tmSVkzZmNGWEYwQ3ltWG4tRm5OTGx3Y2VGR05GeTUwVkpZMkE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nio-2026-08-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "July 2024 New EV Automaker Sales Reshuffle: Leapmotor Hits 100,000+ Units, NIO-XPeng-Li Auto-Xiaomi Camp Stuck at 30,000 Tier - eu.36kr.com",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWUFNVVG9sMXVGZzNBMWJfSXdrcFZ3dkE0ZEx4eXN6cVZIZnRET011R0lpUVAtYWFEOUxEWUZaT0xtTFF0Rk9JVzdrVV94R1VGRkxZ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "These Hyundai N EVs Share Hardware. Software Makes Them Feel Different",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/803467/ioniq-5-ioniq-6-n/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      },
+      {
+        "id": "catl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 271,
+    "too_old": 72,
+    "gate1_blocked": 31,
+    "gate2_blocked": 24,
+    "passed": 27,
+    "pass_rate": "17.5%",
+    "gate2_block_rate": "15.6%",
+    "gate2_samples": [
+      "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - Moomo",
+      "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - marke",
+      "Why Pilbara Minerals (ASX:PLS) Shares Are Trading Higher on Thursday? - Kalkine",
+      "The Rivian R2 Has Plenty of Curb Appeal. We Test It to See Whether It's as Good as It Looks. - Car a",
+      "Exclusive: Rivian spinoff Also to start delivering e-bikes after months of delays - TechCrunch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為蔚來、Rivian、特斯拉相關動態：「SpaceX’s biggest test yet arrives this week and it’s not ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SpaceX’s biggest test yet arrives this week and it’s not a rocket launch",
+        "level": "green"
+      },
+      {
+        "text": "Rivian Automotive, Inc. (NASDAQ:RIVN) Given Average Rating of \"Hold\" by Analy...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
