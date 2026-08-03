@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 74,
+  "gate1_fail": 26,
+  "gate2_fail": 27,
+  "passed": 63,
+  "gate2_samples": [
+    "Inside the container: looking at CATL’s sodium-ion Tener’s specs - Energy-Storage.News",
+    "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - Moomo",
+    "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - marke",
+    "What Driving Fresh Attention Towards Pilbara Minerals (ASX:PLS)? - Kalkine Media",
+    "Why Pilbara Minerals (ASX:PLS) Shares Are Trading Higher on Thursday? - Kalkine"
+  ]
+}

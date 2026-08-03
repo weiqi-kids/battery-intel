@@ -1,0 +1,49 @@
+{
+  "date": "2026-08-03",
+  "total_events": 37,
+  "by_company": {
+    "catl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_sdi": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sk_on": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "byd": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 2,
+      "sentiment_avg": -1.0
+    },
+    "nio": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 36,
+      "sentiment_avg": 0.01
+    },
+    "cathode_material": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:29:11.847535Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sk_on-2026-08-03-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SK On posts record quarterly profit as South Korea battery makers recover - digitimes",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY3NubFUtYzFVSEJSTko0VVpoVmVOdGhBZ1dJWnFBclNXRER1M0VYYWdQM1NiN2t0SW9STVJkcEtDU29YQkU0aDhOSEEzTklUTlo0Q0ozZzlFanppQ21MelRVQVBQMlBTSUVHRFktaEhoTTZ0d3F4UUYwemFGcWFuNkVVamZLV1ZReF9xY1NRZUh5SjhOc0hFR25GNVA1V0U?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-08-03-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rivian boosts Q2 revenue and reduces losses - electrive.com",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT0l3WFQyWGMzSDNMdlJaeHJVc0Z1YnNqUENNWkVxSDBCUVVvYVRDa0ZwS1o1dGsxVG9wUmxfd1FEQ1MweGV6aW5tSWxuUHJ3Y3pqRUxWbzdjX2lFSkxBUG8wdzJnc1JPZEZZM2tTZ3RQVVNRTkl6emxaTm53el83SVl3SEN4Ymli?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rivian-2026-08-03-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rivian: Software And Services Gross Profit Reaches $215 Million As Automotive Loss Narrows To $36 Million - Pulse 2.0",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLTcwMDcxZzhVVVJwZ1NjRmVKaWpTWGVBMUg0QVVfa2RkOFBtengxdXpZOURUbzFuU2xPZE1CS1BWUnJLSzhRT3p3bEktVjZVMXhJV1N4a2lPOWVPd2tiRHhQUlBkUHNBeW1YdEFfSUNab3ZlZXJUNW1LZ1BETnRvMmtHVmFGRC1JT19MOVVvaVd0WU9qclFRckRSdHY0Q0l4OUl6Y1VRSUhSaDBzZVJHU3E2YkxqaG56eFFJdEVHONIBxAFBVV95cUxNU3RJZ04zTGhLank5b3kzSzBGYlZ6X0xMek9kSXhTc1lkTjBnQnpYSVMwcF9fbE12TWZLUFZXWTRzMFZBT3lYSHFuRlk5dl8yNHhZaFhOYVJLemJjcktubnNtdG5mZ0hzeTVYdDdETURZSUVoaWJuRGhleEJqdk5EMkUzeW9US0cyeVhLTU1CUTMzVnlBZE1QYVpmb2RuSEUzVVZnWlRVMUNTU2FqOGpwM1MxbGFQMDlTcG9TMENEQVpfalEy?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-03-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hyundai And Kia Just Set New U.S. Sales Records—But EVs Took A Dive",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://insideevs.com/news/803521/hyundai-kia-july-record-sales/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-08-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Alfen, CATL partner to deploy 5 GWh of sodium-ion storage in Europe - ESS News",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcGZGWlE4UjlFZ2YwblBsVHc4c0pIMmF0RUNaelVCRVhIRDJnTUdHeVMzSjMwelhIVTdmRjhibVQtTjNzSzhwU0ZYSGl5MDlrZ2U2X2tURDVjM3h1YWF1WmNpNThtUzVCeThLRTJ0Nl9SX3FtckxDZlpRR0RNU3IwMjd0eHNWb2tOX3daZWZTT1VXZ0ZxTGttZ3V1aDFDV3BlaFRmS3Fn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 30,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 4
+      },
+      {
+        "id": "nio",
+        "count": 3
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "rivian",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "cathode_material",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 235,
+    "too_old": 74,
+    "gate1_blocked": 26,
+    "gate2_blocked": 27,
+    "passed": 63,
+    "pass_rate": "33.2%",
+    "gate2_block_rate": "14.2%",
+    "gate2_samples": [
+      "Inside the container: looking at CATL’s sodium-ion Tener’s specs - Energy-Storage.News",
+      "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - Moomo",
+      "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - marke",
+      "What Driving Fresh Attention Towards Pilbara Minerals (ASX:PLS)? - Kalkine Media",
+      "Why Pilbara Minerals (ASX:PLS) Shares Are Trading Higher on Thursday? - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為福斯、蔚來、三星SDI相關動態：「SK On posts record quarterly profit as South Korea batter...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SK On posts record quarterly profit as South Korea battery makers recover - d...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rivian boosts Q2 revenue and reduces losses - electrive.com（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
