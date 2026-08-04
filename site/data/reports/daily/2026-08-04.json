@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T10:43:06.469820Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-04-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Photovoltaics feed record 12 TWh into Germany’s public grid in July",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/04/photovoltaics-feed-record-12-twh-into-germanys-public-grid-in-july/"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-08-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Global ESS battery market share in H1 2026: CATL at 27.1% as non-China markets overtake China - CnEVPost",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxSDR0cVlEN0tXZ2taOWZwelBfS3B5U2NYNVdWLVkyZnRUNFMxMDNicWlPdHcwZmpNYmdMNWl5VVA3MXBlMVpNTzR5N2k5ai1NOUFYck9LZ2FYejh5NWhiM0cwM3FWeUpnMzljQURzdnA2Y3QxQ29YNmIybXY?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-08-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL-backed CNTE delivers 38-MW battery for Czech project - Renewables Now",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb3pnSGx2ZmhoY3lKVUEzWGE0UVZ4WmhseEEyS0tVX1czdnVzOWQ5eHpwcWNJc2xjTi1zd3d1bDlxY24zU295LU5Db1pBcVNMbENLWl93NEtWaHpMblFGeVhPRl9yUVhiZEU4TDdZMHR4WE81eU95dDhNWWE1dkh0OWlBZFZ0MmxvZ0hmSDAzVEFOSmZ5aTJlNEtXcW5mdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-08-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Solidifies Global EV Battery Dominance with 40.2% Market Share - citybuzz -",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFp5NjBFdUc1aWw3U095bTFyY09sSFNoS18zR29qUXZhdVRHdlVJdG9JbkJLTTZ0WVUtbkZkSHhabkZZMWM1dzAwMFF0eHNvQ0hTRXVYS2Z0QjgyT2FqRTdlLUVSN3dCWE5aaW5jTVBBTms2TnNjM1A4UVJVOGJrdkNuSThCazRRS0g2SDU0bDdQWGl4ZUpLQ0YwTkNwSXpEdlVJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "eve-2026-08-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EVE Energy Unveils Upgraded 6.9 MWh + LFP BESS At SNEC - TaiyangNews",
+      "companies": [
+        "eve"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80VklfQ1VlS3duenVDR0lZalFQNEctclFRNEV1ZExSeUUtcldPV1pIY0VweUZzdWZuN1FBcE1PeW9OUVBBc3lvWTNVQ3ZHbW9iekNQZGRBQnM0aGpjVHZRclhvSGdqMzE0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 27,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 6
+      },
+      {
+        "id": "catl",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "eve",
+        "count": 1
+      },
+      {
+        "id": "sk_on",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 229,
+    "too_old": 76,
+    "gate1_blocked": 31,
+    "gate2_blocked": 24,
+    "passed": 66,
+    "pass_rate": "33.5%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Engineering the Future: Spotlight on Women Engineers at NextStar Energy - LG에너지솔루션",
+      "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - Moomo",
+      "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - marke",
+      "Why Pilbara Minerals (ASX:PLS) Shares Are Trading Higher on Thursday? - Kalkine",
+      "What Driving Fresh Attention Towards Pilbara Minerals (ASX:PLS)? - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為蔚來、寧德時代、比亞迪相關動態：「Photovoltaics feed record 12 TWh into Germany’s public gr...」。主要關注主題為電池產業通用、正極材料，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Photovoltaics feed record 12 TWh into Germany’s public grid in July（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Global ESS battery market share in H1 2026: CATL at 27.1% as non-China market...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

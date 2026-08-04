@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-04",
+  "total_events": 29,
+  "by_company": {
+    "catl": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "eve": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sk_on": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pilbara": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 28,
+      "sentiment_avg": 0.02
+    },
+    "cathode_material": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
