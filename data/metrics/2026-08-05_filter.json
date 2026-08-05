@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 32,
+  "gate2_fail": 20,
+  "passed": 79,
+  "gate2_samples": [
+    "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - Moomo",
+    "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - marke",
+    "What Driving Fresh Attention Towards Pilbara Minerals (ASX:PLS)? - Kalkine Media",
+    "Why Pilbara Minerals (ASX:PLS) Shares Are Trading Higher on Thursday? - kalkine.com.au",
+    "Rivian’s US Sales Hit 2026 High in July, the First Full R2 Month - eletric-vehicles.com"
+  ]
+}

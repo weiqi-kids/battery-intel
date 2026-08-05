@@ -1,0 +1,225 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T10:39:42.803253Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-08-05-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "H1 Global Lithium Battery ESS Shipments Exceed 461 GWh: CATL, EVE, and Hithium Account for Nearly Half - Shanghai Metals Market",
+      "companies": [
+        "catl",
+        "eve"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSDF1ZDJJaWJKZzRVMW9pVEQtcGVvZTJJYklQRElVbXJNMkRMMmFJTEVKV2t5ZlVsNHJrNXZIbUFyMDQybjNhX1hHc0R1MmRCZlQ1Ul9vaVZrY0xBaGFZaDZ2MC1xR3pOdU5Pakozc2tyMHU4WnpwVldvNHFJNFllM3dwVXBycDFITXdkbjNldFY3Y05ycXI5ZzhpRDlUb0dOdHZTN2hrWFA0YUk3QjBJZlczbHp5dDlBd3FveE40cXBqV01lazdpRE9CaW1sMTl0VVZVRkVaRy1WRm9sNURWSA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-08-05-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Xiaomi's Longjia Battery: Why It Dropped CATL and BYD for Sunwoda and CALB - Pandaily",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOalBhLVRNSUtSRllack9nUExuemdacE9yNUJYc3lOZFI4ZldLTUxVajRuaTNWUXhEemlqV1F0QkF1dW1OMkdxeGZoc0RoZlVfZ2xmLWJhZ0x3YlAxbUg5cmJUXzVMUExiUWFxbGp3LU5ocHlsLWc2QndMTmRwZ2xERnU3bEI2Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "byd-2026-08-05-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BYD Achieves Record Exports With 124% Growth",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://cleantechnica.com/2026/08/04/byd-achieves-record-exports-with-124-growth/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-08-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Announces RMB 6.18 Billion Interim Dividend - Gasgoo",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWhNWGRqbURfOVhkODZ4MVB5bFVlTmZXcVpfc3djakItekI4SEpYUWlMUU9IeXFNRjJNNk5TcnQtZ0Jnb3VxQkZsdURNdXA5ZWxpakV4by12NTFNQ0gzQVpsbkNWWC1GVlNoUWRsa2hGdU4xUDNtNlR0R0JtSHNKenJuQmZORnU0WTM5VDN2SkY5RFVxT2lpWWN0YV9KS05ZZTFXSEduSTB5UGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_sdi-2026-08-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung SDI Expands Domestic Supply Chain to Win 1 Trillion Won ESS Deal - Seoul Economic Daily",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTi1zMjYwWUhIaldtUFMxM244cm5kWmVwdkNHQUYzVzlNODM4RzZnb1hXamJpTXY1VUlETF9oano3YUtEWDB1Rmd3R3RlU2VvdEd1NUpFSXYzODBpTUx2cHpyS0tpSkc0QUt2RVdRYkVXQ0RHT2s1RUdER3RqR0w4ZElnblRUOTNqc3l6Wmt3QkEtdGlSSWhFYXJCLTlFbUJFMlRR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 28,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 7
+      },
+      {
+        "id": "catl",
+        "count": 3
+      },
+      {
+        "id": "rivian",
+        "count": 3
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "ev_sales",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 223,
+    "too_old": 73,
+    "gate1_blocked": 32,
+    "gate2_blocked": 20,
+    "passed": 79,
+    "pass_rate": "38.7%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - Moomo",
+      "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - marke",
+      "What Driving Fresh Attention Towards Pilbara Minerals (ASX:PLS)? - Kalkine Media",
+      "Why Pilbara Minerals (ASX:PLS) Shares Are Trading Higher on Thursday? - kalkine.com.au",
+      "Rivian’s US Sales Hit 2026 High in July, the First Full R2 Month - eletric-vehicles.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為比亞迪、寧德時代、Rivian相關動態：「H1 Global Lithium Battery ESS Shipments Exceed 461 GWh: C...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "H1 Global Lithium Battery ESS Shipments Exceed 461 GWh: CATL, EVE, and Hithiu...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Xiaomi's Longjia Battery: Why It Dropped CATL and BYD for Sunwoda and CALB - ...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
