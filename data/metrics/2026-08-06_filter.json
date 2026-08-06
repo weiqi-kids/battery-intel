@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 24,
+  "gate2_fail": 19,
+  "passed": 78,
+  "gate2_samples": [
+    "Largest BESS in Czech Republic commissioned, supplied by CATL-backed CNTE - Energy-Storage.News",
+    "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - Moomo",
+    "Engineering the Future: Spotlight on Women Engineers at NextStar Energy - LG에너지솔루션",
+    "Why Pilbara Minerals (ASX:PLS) Shares Are Trading Higher on Thursday? - Kalkine",
+    "What Driving Fresh Attention Towards Pilbara Minerals (ASX:PLS)? - Kalkine Media"
+  ]
+}

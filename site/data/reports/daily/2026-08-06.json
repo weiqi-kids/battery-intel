@@ -1,0 +1,224 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:43:54.251508Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-06-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Latin America EV Sales Report: 10% EV Market Share Surpassed in Q2!",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/05/latin-america-ev-sales-report-10-ev-market-share-surpassed-in-q2/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CALB responds to 'banana battery' fallout with quality overhaul - CnEVPost",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tUDc2ZXdJZkhZZXE5ZnJNTnczSGVxS2FXNGVGcWtXMi1pd3VIYWdMUHZ3U3FFbHhtQTAyeUh5amc4SDFZMEtTbkRkUEpRbkJGbnpISHVLLXBjcndodTV1aWZ0QVBtVGVsc2dRZ1VMQUpOc1R5VXpncA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pilbara-2026-08-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pilbara Minerals (ASX:PLS): Why Does Lithium-Cycle Cash Discipline Matter? - Kalkine Media",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQnE2ODVXbkRBNmRfV21uTnN2aGZlelIxOTc2Y2FBNmdXbmRxOTFIeXdFblljOFR4c0lCOTZqSklqZVhiQ2QzQkxRQUI1Z0l3ZDZtVC1Sd25wVHRyeGtZYlNqelJ6VUdPSFNUSG5GZlhPdnVlenZjZVptVEZIZmFGN0h4MjBMVFpEYy1id1lFQld0ekM3dXRpekxtTXNhSktzQU9zMXJabmc4bWZRQU4xdDFR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pilbara-2026-08-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pilbara Minerals (ASX:PLS): What Puts Lithium-Cycle Cash Discipline in Focus? - Kalkine Media",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjB2VUVxNUxFcU9MSmJ3X3dzci1kdkIyaXhkTG9aa3FZaVhnb1pobk5ncGEyWUQ3cDFaNmI0STZ2clpkMV9qVndaUTU3eEhWMzlnQWloRDFtM1BNU2hHaV9iTmNSV1NFR2lKdy1ycUJxTU9hbXR4M0VzNjAxOUQ3RXB4VUI1UWp0UnB1TXJJTUFmWjFLcUc4OVZfajhJa0Q4V2VJQlBVeVNvUU03OEV5cWtSU0Q?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pursuit (ASX:PUR): Is District-Scale Lithium Evidence the Main Test? - Kalkine Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3lmOEg2ZDJ2QmRSdmtYNW9QVTdGYUJmMHJmdDA4OTJOUV9FRGxWTnZGa0FlVEh3b0FjZGY4NXF4aVRCS3lqVFBRZFRaZFFacV9DaS1oc2czT05keVctTlR2Z2tCT2tyRzd4S1dlb2JKQmVrRXFtNDFjbE95ajdtOHVmNU5meG9lbjMtX2VTcWx6RUpxNGJQU0JJeFA5aU93bHNuVU5lZ1NuQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 24,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "pilbara",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      },
+      {
+        "id": "byd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 227,
+    "too_old": 78,
+    "gate1_blocked": 24,
+    "gate2_blocked": 19,
+    "passed": 78,
+    "pass_rate": "39.2%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Largest BESS in Czech Republic commissioned, supplied by CATL-backed CNTE - Energy-Storage.News",
+      "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - Moomo",
+      "Engineering the Future: Spotlight on Women Engineers at NextStar Energy - LG에너지솔루션",
+      "Why Pilbara Minerals (ASX:PLS) Shares Are Trading Higher on Thursday? - Kalkine",
+      "What Driving Fresh Attention Towards Pilbara Minerals (ASX:PLS)? - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為Pilbara Minerals、特斯拉、Rivian相關動態：「Latin America EV Sales Report: 10% EV Market Share Surpas...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Latin America EV Sales Report: 10% EV Market Share Surpassed in Q2!（電動車銷量、電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "CALB responds to 'banana battery' fallout with quality overhaul - CnEVPost（正極材料、電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
