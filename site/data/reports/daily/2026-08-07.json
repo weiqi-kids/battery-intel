@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T09:03:24.039462Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-08-07-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Global EV battery market share in H1 2026: CATL 39.9%, BYD 14.4% - cnevpost.com",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EZ1RBemFqZ2x5TWFQM2I1M1BRbW81MFFaMURVbFVMYW51eERKWlZNdkRYa0h3eHNyRkZkUGdfdTVNMVp2XzNPR0xZcVEwd3V2WFZKM0lGcXBlM2V1RnNWMktOLXpaS1N0UGNjR3c3Yzk0RUdKWDhvRzhrTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-08-07-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Global EV battery market share in H1 2026: CATL 39.9%, BYD 14.4%",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/08/07/global-ev-battery-market-share-h1-2026/"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-08-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Expands Its Lead in the Global Battery Market - electrive.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaElkeTI1SDRmejlZc2lVNTJFU0J5SEZkLWFMNWI1Slp4bTc2WVhKenk0X2V3YmNSYzlRcndyTnk5czlkRWtoZm5yMXRSNk5zTWZyQmdyX3BrOWdWbFlTS09jaWRLTmNScHgwUWo3YlBBd2I0MHdOaklGeUd4QV9SQnZybEhMUkJGcmZqUW9xOEdZZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-08-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL's Jianxiawo lithium mine remains closed pending environmental approval, state media reports - Reuters",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb25vbGZIeDE3ZlU5MFVqTml1U1lPVXdsZlo0dk9vM19PUHp0aXZwTzc0MXFib2FiRW8wUWIyMlp3LU9ieFlaRS0yMDJ0eGMwbGx2WEZMS2l6eW9rMGw4MVU5Yks3YTRNd0ZWZzMzQTFpaHp0YzdITjVYWS1UWFd4WjZIeFhYUHhQTVdibkhxVTUwZjZHQ1FOaXlMeWg3QTFHS2Q5NFBxdGl4VzlKWTV2OTRQbVFjTGhqSkpCQk1Kbjl2ZXdBc3dXcDVrVExrZHZr?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-08-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dongfeng Nissan files NX7 as plug-in hybrid with 40.9-kWh CATL battery - cnevpost.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ySUVXVi1lM1c0MFotcmRCWkdqQjFIajV3Rk96QUdBZWNPY0xtekQtNmhsOUNFQmY2Tnp0UkpOMjc3UGJ0TWhTX1VscjltQmNXMk9WUkJWbGlTdjVyclJjM2p6cmhtYVhUYVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 6
+      },
+      {
+        "id": "byd",
+        "count": 4
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 423,
+    "dup_title": 207,
+    "too_old": 98,
+    "gate1_blocked": 25,
+    "gate2_blocked": 18,
+    "passed": 75,
+    "pass_rate": "34.7%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Largest BESS in Czech Republic commissioned, supplied by CATL-backed CNTE - Energy-Storage.News",
+      "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - moomo",
+      "Rivian's R2 Is Shipping and Uber Wants 50,000 of Them - The Motley Fool",
+      "Rivian’s US Sales Hit 2026 High in July, the First Full R2 Month - eletric-vehicles.com",
+      "NIO Reports 71% Jump In July Deliveries - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為寧德時代、比亞迪、蔚來相關動態：「Global EV battery market share in H1 2026: CATL 39.9%, BY...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Global EV battery market share in H1 2026: CATL 39.9%, BYD 14.4% - cnevpost.com（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Global EV battery market share in H1 2026: CATL 39.9%, BYD 14.4%（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

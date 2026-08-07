@@ -1,0 +1,16 @@
+{
+  "total_raw": 423,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 25,
+  "gate2_fail": 18,
+  "passed": 75,
+  "gate2_samples": [
+    "Largest BESS in Czech Republic commissioned, supplied by CATL-backed CNTE - Energy-Storage.News",
+    "Nomura Adjusts LG Energy Solution's Price Target to KRW560,000 From KRW600,000, Keeps at Buy - moomo",
+    "Rivian's R2 Is Shipping and Uber Wants 50,000 of Them - The Motley Fool",
+    "Rivian’s US Sales Hit 2026 High in July, the First Full R2 Month - eletric-vehicles.com",
+    "NIO Reports 71% Jump In July Deliveries - Benzinga"
+  ]
+}
