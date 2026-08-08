@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:46:16.938972Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-08-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arcfox files battery-swap version of Beta T1, tapping CATL's swap system - cnevpost.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GVlFpcEM0cnFNNTd0TlJ4QlVwanVGTXI3di1wTDJ4ZVlpSVo1Y00zY2h4UGdBb2dHcnBMc3Q4N0ZrNDh0OWluR2NzUHJQUVJHNTlNV2dKQVJtUEJ0YmdWSWF1LTM3eHpjRmdRck84c0FWaXNt?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-08-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nio reaches 120 million battery swaps as latest generation station unveiled, may be headed for Australia - thedriven.io",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ3pZaE9OV0dTTXhHcTBoNTFtZnF3aWxHRE5GMTNRMmgybWZpQ2R0dE5BTE44SkhhQ0htb09qWTlaOFY2ZHBDNjRhcllYRmk5SnNQdU9taUNFX2ZQOTluSThESEU3aXhZNXlXekFsaDk3X2Y2alpWQlJ5WnV5VzNWaFhqSkJMbmxBOEw1YlI1cUlCSGNtRW9YZXZoNV9iQzNWV1ZsUENpcDZCckMzZGl3bk1nV2cwZGc0NXlDSTNKajhDTVoxZkJoVg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nio-2026-08-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NIO's Qin Lihong: Extended-Range Boom Fades, Pure EVs Could Top 50% Share Within a Year - finance.biggo.com",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQOHBNenJueWtnQTIwRFlkSnJRVWdLRm5iYTRSWjBvR2R3VkljcnJYTi1QQVA0d2dMNE5Gb1pHNkNxZDh1VTlEaTRhYU9hdUZMRUs2R3lOV21UN0pDR1A2TFg4MU1ZRV9YS2MyS1QtV3lOTlRjVmc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "byd-2026-08-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BYD's 2027 Seal 06 set for August 11 launch with LiDAR-based driver assistance",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/08/08/byd-2027-seal-06-aug-11-launch/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-08-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arcfox files battery-swap version of Beta T1, tapping CATL's swap system",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/08/08/arcfox-files-battery-swap-beta-t1/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      },
+      {
+        "id": "volkswagen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 217,
+    "too_old": 94,
+    "gate1_blocked": 27,
+    "gate2_blocked": 21,
+    "passed": 66,
+    "pass_rate": "31.7%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Pilbara Minerals Ltd (PLR.DU) stock price, news, quote and history - Yahoo Finance UK",
+      "Rivian's R2 Is Shipping and Uber Wants 50,000 of Them - The Motley Fool",
+      "NIO Reports 71% Jump In July Deliveries - Benzinga",
+      "Leapmotor's monthly sales hit 100,000 units, is the era of \"NIO, XPeng and Li Auto\" over? - 36 Kr",
+      "Volkswagen to overhaul US strategy with planned pick-up truck, source says - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為蔚來、寧德時代、比亞迪相關動態：「Arcfox files battery-swap version of Beta T1, tapping CAT...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Arcfox files battery-swap version of Beta T1, tapping CATL's swap system - cn...（正極材料、電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Nio reaches 120 million battery swaps as latest generation station unveiled, ...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

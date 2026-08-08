@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 27,
+  "gate2_fail": 21,
+  "passed": 66,
+  "gate2_samples": [
+    "Pilbara Minerals Ltd (PLR.DU) stock price, news, quote and history - Yahoo Finance UK",
+    "Rivian's R2 Is Shipping and Uber Wants 50,000 of Them - The Motley Fool",
+    "NIO Reports 71% Jump In July Deliveries - Benzinga",
+    "Leapmotor's monthly sales hit 100,000 units, is the era of \"NIO, XPeng and Li Auto\" over? - 36 Kr",
+    "Volkswagen to overhaul US strategy with planned pick-up truck, source says - Reuters"
+  ]
+}
