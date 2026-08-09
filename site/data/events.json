@@ -1,5 +1,59 @@
 [
   {
+    "id": "unknown-2026-08-09-001",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Power Systems Have More Flexibility Plans Than Flexible Grids",
+    "summary": "<p>Grid flexibility is easy to mistake for a technology market. One jurisdiction announces several gigawatt-hours of batteries, another creates a new ancillary-service product, and a third launches a ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/09/grid-flexibility-plans-outpacing-delivery/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-002",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "One in Five Isn’t EV Leadership",
+    "summary": "<p>Europe’s BEV market is booming, but not fast enough to match China’s industrial shift By Raphael Wellmann, Ray Wills, and Peter Newman Europe likes to think of itself as an EV leader. The data tell",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/08/one-in-five-isnt-ev-leadership/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-003",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Speculations & Musings About The Ford Fathom Electric Pickup Truck",
+    "summary": "<p>Here&#8217;s what we know about the new electric pickup truck coming from Ford early next year: It will have a starting price of $28,350 (plus a delivery charge of $1,595) with the standard battery",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/08/speculations-musings-about-the-ford-fathom-electric-pickup-truck/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-08-08-001",
     "date": "2026-08-08",
     "companies": [
@@ -262,6 +316,334 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/07/first-fully-electric-vw-id-era-vehicle-id-era-5x-suv/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-015",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shift from EVs to energy storage pays off as Korea’s top battery makers return to profit - Batteries News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOWkVqc3dJYjBHdWZMazVDVGw4MlBwX1FMRXlaVG5uRTRTZm44OGJOVDJCUlFsNWM3U05tSHlVSmt6WU1WaDBCWlVaOVphUFk3c243TnhmYlJueUVPaTB4SW82cGl3TjhzWk8wSUNzLV",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWkVqc3dJYjBHdWZMazVDVGw4MlBwX1FMRXlaVG5uRTRTZm44OGJOVDJCUlFsNWM3U05tSHlVSmt6WU1WaDBCWlVaOVphUFk3c243TnhmYlJueUVPaTB4SW82cGl3TjhzWk8wSUNzLVdsNDBPMW93cVhxSDBGczFNZFdZNE9TUlh3QjUzRzM5SVhmaUZsWmNpbUZaempIOFZzaHVXLXlRbEhDOG5tRUY4ZzdrREo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-08-08-016",
+    "date": "2026-08-08",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Factorial and SK On Sign MoU to Explore Solid-State Battery Manufacturing - Batteries News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnN6UkNPNVhkZWgwaVJ1bEZqMWJ0MzBBNFhoYktFXzA1WFkyQ2tjb3RmVC1lMUFFNlZEWUxrcFpRRkhVWThEaEplRW5yWVdia2hKLXhEcWd3YU4zV3hxd2dQWkZHUHNUcWhmRE9raG",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnN6UkNPNVhkZWgwaVJ1bEZqMWJ0MzBBNFhoYktFXzA1WFkyQ2tjb3RmVC1lMUFFNlZEWUxrcFpRRkhVWThEaEplRW5yWVdia2hKLXhEcWd3YU4zV3hxd2dQWkZHUHNUcWhmRE9raGJXMnVxbU9nZnU5Y3cyZVJzalBwUWkwdlhHZ2lKdzlHSm5LNmh3blpTQnFIWXQ4QWl0RlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-08-08-017",
+    "date": "2026-08-08",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "BYD Expands PH EV Lineup with Double Model Launch, Celebrates Sealion 6 Milestone - CleanTechnica",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmg2UFYtelNNQmJIeFc2aFFocTJ1aTc1X3VDVTVLTUwxSUNmTWZvVF9naXY3RnV0ZWo2QVVuUzdweWlVNHRUUXpHZXRKOUZSU3lSOEVoT2JSQXRpZmM4d0lvTVh1V1VEaVREWTdURz",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmg2UFYtelNNQmJIeFc2aFFocTJ1aTc1X3VDVTVLTUwxSUNmTWZvVF9naXY3RnV0ZWo2QVVuUzdweWlVNHRUUXpHZXRKOUZSU3lSOEVoT2JSQXRpZmM4d0lvTVh1V1VEaVREWTdURzBTZVFIbDR0QjNBQWw4X2xwM3prUkQteGdyTjI1ZXN3eHc3bURzSS1JMnBnelBXUlJJZmdJWnFkV0N3UFpzMVJQWUt4UDFvY2VUM2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-08-08-018",
+    "date": "2026-08-08",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian's make-or-break R2 midsize EV delivers: Road test - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnlLNjRSMl8yWDY4ZThyX2I5a3c1bU1kNjBpcUQ2eGV4Z3BLbXk5dXBreHdKYUhEMk9KN1NjUlVmdFdqR1dGZENxRmxLT0ZTN0Z1blR1bVNtXzIzeXVzem05MFF6QUFTdk9zWDV5QS",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnlLNjRSMl8yWDY4ZThyX2I5a3c1bU1kNjBpcUQ2eGV4Z3BLbXk5dXBreHdKYUhEMk9KN1NjUlVmdFdqR1dGZENxRmxLT0ZTN0Z1blR1bVNtXzIzeXVzem05MFF6QUFTdk9zWDV5QS1ONjd6WWVfOXlVZ3EzY0hISWRpbU1wdDdWQmt5MHJLcU5tTy1yUUtCTUkxS2ttUWNDYWJVaHVUWTktYVNaX1Z1UA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-08-08-019",
+    "date": "2026-08-08",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Porsche Cayenne EV and Rivian R1S faced a 70 mph range test, and it was way closer than expected - Yahoo Autos",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNNTNfTWNpZFZRV1dVTXNDSzNqbTVZSVNvdUZfSWRLbkQ0Y0NmYnZ5S2szTTlWblV1TW9Ya2ZZaFFwcTVmUWVCTS1mRHZnTUN6MTV4S010R09BaEtaYTJkUTIyNjY3ck5fenRRNUpmYX",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNTNfTWNpZFZRV1dVTXNDSzNqbTVZSVNvdUZfSWRLbkQ0Y0NmYnZ5S2szTTlWblV1TW9Ya2ZZaFFwcTVmUWVCTS1mRHZnTUN6MTV4S010R09BaEtaYTJkUTIyNjY3ck5fenRRNUpmYXZ6VVcyd3pEVzRpaHFUbkNMRi15QWRsSUhzbFhuSG81MklTTHBMd1NpTkh6UF8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-08-08-020",
+    "date": "2026-08-08",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Rivian R2 Performance goes through full test gauntlet on range, charging, handling, and more - Yahoo Autos",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUR4eVB5OGVsVDZ0bUVpTFZUVjlsVDVRMk5GYTNOX3lXalY0Ujc4TzVRUm1OM1RvRU83TXRMbGRhUGJra2hwZXlrbzdIdHotbkVvUXFBeVNMUXJJUFl2YThTODBtOU1ESFoyUFUtWH",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUR4eVB5OGVsVDZ0bUVpTFZUVjlsVDVRMk5GYTNOX3lXalY0Ujc4TzVRUm1OM1RvRU83TXRMbGRhUGJra2hwZXlrbzdIdHotbkVvUXFBeVNMUXJJUFl2YThTODBtOU1ESFoyUFUtWHNCRXpJMDhJbU4wUkNnekRDaUN1Wl93MkhtNlVSdXpXdVhDcm90NnlvclZmUmZMQmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-08-08-021",
+    "date": "2026-08-08",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen’s new electric era begins with reveal of ID. ERA 5X SUV - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVh6WWE5bElHZTNLMGI0dG1WMTVPZlg3dVZyTXl3aXJwMnlFV1pkdWVnSDFCeUNSbC15dU9xRWlRM1Bod1ZkT0NaSHd2YXpWUjFtNkIxNjAyNklCX24zeUxEVGhOcDRod0tReW81em",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVh6WWE5bElHZTNLMGI0dG1WMTVPZlg3dVZyTXl3aXJwMnlFV1pkdWVnSDFCeUNSbC15dU9xRWlRM1Bod1ZkT0NaSHd2YXpWUjFtNkIxNjAyNklCX24zeUxEVGhOcDRod0tReW81emdkU0puSGxXRkVyVnJwRTNGcHRxTFVsbXZpekRLZ1pPZGwxSlNBWDdZX0JmRkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-08-08-022",
+    "date": "2026-08-08",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Report: Volkswagen Group to partner with JSW for EV production in India - electrive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWxiWmVuU3d6dHZ5RkpUaG94M2tIZWphT2hZX0I4c1AtQlZKQldiOEFWZ3ZCTWg0akdST1dwdjh1aGc5ZFc5X1hTd3o3c0V5cExkYmctOTY1bVZxcm51aHlhSXhwYlM5VEZiWHFaVW",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWxiWmVuU3d6dHZ5RkpUaG94M2tIZWphT2hZX0I4c1AtQlZKQldiOEFWZ3ZCTWg0akdST1dwdjh1aGc5ZFc5X1hTd3o3c0V5cExkYmctOTY1bVZxcm51aHlhSXhwYlM5VEZiWHFaVWxBYUotUjlTblcyUzREcXRONzRzTVktdlBJVWNpUE5mX0lUUG9qRlJnNk1RcEZlU1pUQjQyQm1qWnJoX3cx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-023",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GM is making EV charging a LOT easier",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/Charging-Hummer-.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">In mid-June G",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/08/08/gm-is-making-ev-charging-a-lot-easier/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-08-08-024",
+    "date": "2026-08-08",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen’s new electric era begins with reveal of ID. ERA 5X SUV",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/vw-id-era-5x.png?w=1600\" /></div><p class=\"wp-block-paragraph\">Revealed in a new filing from China’s Ministry o",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/08/08/volkswagens-new-electric-era-begins-with-reveal-of-id-era-5x-suv/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-08-08-025",
+    "date": "2026-08-08",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
+    "summary": "America's two biggest EV startups are facing more distinct challenges than ever, as Rivian launches the R2 and Lucid delays the Cosmos.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/804241/rivian-r2-lucid-cosmos-ev-startup-challenges/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-026",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford's Bronco EV Is Better Than It Has Any Right To Be. Why Isn’t It Sold In The U.S.?",
+    "summary": "For just $32,000, China’s electric Bronco has plenty to offer, including over 400 miles of range.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/804026/ford-bronco-ev-review/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-027",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GWM to launch Wey V8X 5-seat flagship SUV on August 14",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/08/2026080813184648.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The Wey V8X is the second model on GWM's Global One S platform",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/08/08/gwm-to-launch-wey-v8x-aug-14/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-028",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Avatr launches 07L SUV, taking on Xiaomi YU7 with Huawei ADS 5 and 725 km range",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/08/2026080812541629.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>Avatr 07L starts at 219,900 yuan ($32,380) with limited-time b",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/08/08/avatr-launches-07l-suv/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-08-08-029",
+    "date": "2026-08-08",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio's flagship SUV ES9 tops 20,000 deliveries, second 10,000 in 6 weeks",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/08/2026080810352790.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The Nio ES9 completed its 20,000th delivery, 73 days after the",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/08/08/nio-es9-20000-deliveries/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-08-08-030",
+    "date": "2026-08-08",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "BYD Expands PH EV Lineup with Double Model Launch, Celebrates Sealion 6 Milestone",
+    "summary": "<p>BYD Cars Philippines marked the second anniversary of its popular Sealion 6 DM-i plug-in hybrid with an exclusive drive-in cinema gathering at Ayala Malls Trinoma. The milestone event brought toget",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/08/byd-expands-ph-ev-lineup-with-double-model-launch-celebrates-sealion-6-milestone/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-031",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "World’s Largest 12.8 GWh Battery Storage Cluster Activated in China",
+    "summary": "<p>CLEAN energy technology developer Envision Group just completed the final stages of the incorporation of an artificial intelligence (AI) management system into the 12.8-gigawatt-hour battery storag",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/08/worlds-largest-12-8-gwh-battery-storage-cluster-activated-in-china/",
         "type": "rss"
       }
     ]
@@ -1557,6 +1939,120 @@
       {
         "name": "renewableenergyw",
         "url": "https://www.renewableenergyworld.com/energy-business/with-speed-to-power-in-mind-data-centers-are-eyeing-fuel-cells-this-week-in-cleantech/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ganfeng-2026-08-07-069",
+    "date": "2026-08-07",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ganfeng Lithium: Provides Over RMB 200 Million in Guarantees for Subsidiary - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbV9jYXR4cmllTjZ4NHhKNnhMbVVNc3FYTVQ4QTBVUWZyV2VpUXpGYzdYeDB0VHZkTVhRNk4wa0xYZWF6UElrWUxiMzlPQVhIYVJMb0ItaVJ4SjdISldWNGt3eFdwTjFOY016OEVQZU",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbV9jYXR4cmllTjZ4NHhKNnhMbVVNc3FYTVQ4QTBVUWZyV2VpUXpGYzdYeDB0VHZkTVhRNk4wa0xYZWF6UElrWUxiMzlPQVhIYVJMb0ItaVJ4SjdISldWNGt3eFdwTjFOY016OEVQZUZTU0FXbl81QTRYRmNvejgxOVlwODUyOUk2SnFiTTBleThYSjFGd3B5N0JzbDJCV1ZFVkd2OHRXdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-070",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California to offer up to $3,500 for first-time EV buyers. See rollout timeline - Sacramento Bee",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTllwRDY3YXBJQXFTUm1GODlqaXI5Z0FCODRJajhJOUFYMXI3N2JEWl9mTVpPTnczLXY4eENRSkRWOFd3bXFKQnFDUFE0RGlBandyaUtvdXJNSHNDOUo3MmttN240ZXUyUmYxLTZHTF",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTllwRDY3YXBJQXFTUm1GODlqaXI5Z0FCODRJajhJOUFYMXI3N2JEWl9mTVpPTnczLXY4eENRSkRWOFd3bXFKQnFDUFE0RGlBandyaUtvdXJNSHNDOUo3MmttN240ZXUyUmYxLTZHTFVYMUFvNUp1anBfSzd0a3lkeHNSQWZPVDhNSjU00gGLAUFVX3lxTE1IM2tQQ3l1WlJ1NkZfWmZESEk3ckhybjhiVHE0aWp5b1ZNMy1lREVCZ1U2MWdRRWg5dmFsamFCRW13T1k5OV81QmczMHNvRHZLXzJENnY4emhpbWE3b1BQMWVHZDNBRGVCVE1iay02ZDRoZHhKY0J2YllnOHVNaHhLXzVxNXdQcS1kUGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-071",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Chinese EV Brand Told An NBA Hall Of Famer To Wait His Turn - Autoblog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmhqNG9VbWdsbFJSTUJzRGR6TXpKa0k0cnBIZTZCWG5HR1pSbl9tVExseklzVVYtelpqTlhnLTNsa0Y3U3FDQlp1Zl82amtOV2lTOFo4LUl6dFVSbE5hblFibFIwcUtqa1RBal84Z1",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmhqNG9VbWdsbFJSTUJzRGR6TXpKa0k0cnBIZTZCWG5HR1pSbl9tVExseklzVVYtelpqTlhnLTNsa0Y3U3FDQlp1Zl82amtOV2lTOFo4LUl6dFVSbE5hblFibFIwcUtqa1RBal84Z1drOVA5azRINE5xZVlSZWF3SUxBTFJoQ3dlVk9FZmRLSVcyY3I0YXhQX2x3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-08-07-072",
+    "date": "2026-08-07",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio, Li Auto Top JD Power NEV Service Study in China - eletric-vehicles.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjBhVG1BbGtOd1Z2NFZJOHRMZlQ3RGs1M25CT2oxS2gxSmJDck51OFU2RTdHVGdXOGJFby1xaHRoVkR1Sm1fZGZZSkFpYWlqd1E5SG9lWVFCTWhPclVRMVZvWnhaSXpqdU5JYUxFQ0",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjBhVG1BbGtOd1Z2NFZJOHRMZlQ3RGs1M25CT2oxS2gxSmJDck51OFU2RTdHVGdXOGJFby1xaHRoVkR1Sm1fZGZZSkFpYWlqd1E5SG9lWVFCTWhPclVRMVZvWnhaSXpqdU5JYUxFQ0lNci00SHlhSXhJZHNmWWxzUWN6cVRweFpjRmxQcWF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-08-07-073",
+    "date": "2026-08-07",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen plans to win America back with a pickup, report says - arstechnica.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUUstb1hNSVZiZnRTWEt6WndSQ2FTTl9paWFERVBZdEZuUDRibUVLbWYwWVhsNmJGWWRjVE9LVDNndXlCOFlZb3dzYm9rb3BXYnB1YWV6UC1uQWVvY3ktYlV0QVJGRlY4WnMxb09FY2",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUUstb1hNSVZiZnRTWEt6WndSQ2FTTl9paWFERVBZdEZuUDRibUVLbWYwWVhsNmJGWWRjVE9LVDNndXlCOFlZb3dzYm9rb3BXYnB1YWV6UC1uQWVvY3ktYlV0QVJGRlY4WnMxb09FY2d2X09TaklEVjkxU2tFbC1pUkZqeDVfb2JTbnl4NzdpSW9Lbm8ya2hlVndwUG9qeXo5bHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-08-07-074",
+    "date": "2026-08-07",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "VW to overhaul U.S. strategy with planned pickup; Kjell Gruner out as head of America unit, report says - autonews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9DRVM1SlhnMFlHOHZNTVJwYzA1ckdxMDdjdG16c2pDYThNSGdDQU5xMW1nbmVIR0F6bWh1Y0JjOVliS2dNQXRHZGJJclZsWk83YnZ3b1JzQUxINjV4RTBGY2t0eGc4empNRkpuYWFpS1",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DRVM1SlhnMFlHOHZNTVJwYzA1ckdxMDdjdG16c2pDYThNSGdDQU5xMW1nbmVIR0F6bWh1Y0JjOVliS2dNQXRHZGJJclZsWk83YnZ3b1JzQUxINjV4RTBGY2t0eGc4empNRkpuYWFpS1dMT2s?oc=5",
         "type": "rss"
       }
     ]
@@ -4492,6 +4988,24 @@
     ]
   },
   {
+    "id": "unknown-2026-08-05-083",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lithium kingpin says price can hold amid extra supply - The West Australian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcTkwdXlaS2pCQnYyWHkwQktCdkJRTUZ3Rm5sZUZsRmhPcXJYVk5wTm9pYzhSWUJNdzdlclZqSXdOai1TQVpsUUNFLU1kNVg0RVhURXp6d09rRDlpVVp6dzRBQjVzV3ZSbzB3MVdJZV",
+    "sources": [
+      {
+        "name": "google_news_lithium",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcTkwdXlaS2pCQnYyWHkwQktCdkJRTUZ3Rm5sZUZsRmhPcXJYVk5wTm9pYzhSWUJNdzdlclZqSXdOai1TQVpsUUNFLU1kNVg0RVhURXp6d09rRDlpVVp6dzRBQjVzV3ZSbzB3MVdJZVZPVDFNTk5zUG9DRWM0M1FTQTBqeFE5bU96aXJvWXlhdzRvR3hkNTV2YlgzdHB5WmpUWGdnWU1mQmlORlRfbjM5R1pTd0M0TFF4dGJCWE5kdkRneEZaUXRQOFp4aXEtZVlZQXM3YVhYNmxHSVh0dERLTw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-08-04-001",
     "date": "2026-08-04",
     "companies": [
@@ -6063,6 +6577,47 @@
       {
         "name": "volkswagen",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EZFN6c1NqMzNsX2kzdEUzYjZZUU92aldWQmU3QmR3bjZfNndEREkyNTB0WHVtZjFVWXdud3NfQ1RuZEg2SHVYcldUbXhYcVl3eFhrYTBsV3BwRVRSOUljdFpzUVEtU19I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-08-04-084",
+    "date": "2026-08-04",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "cathode_material",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung SDI said its US prismatic lithium iron phosphate (LFP) battery - news.metal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWRZTXJiT2txWkR0bTFJRXdwWHJuYldMNjNNWEdrUW5ENV9sUmZrZE03aDRzMWsxNXBNdVlSNFlJOUQwOEVtZTFmX0txS2J3N2Y3Zlk1aFRGQzlZd2VReHJ4dkFuN2VzMG1kZzFudU",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWRZTXJiT2txWkR0bTFJRXdwWHJuYldMNjNNWEdrUW5ENV9sUmZrZE03aDRzMWsxNXBNdVlSNFlJOUQwOEVtZTFmX0txS2J3N2Y3Zlk1aFRGQzlZd2VReHJ4dkFuN2VzMG1kZzFudUtJN1lMakRFQ09mNzdkWWZsdV81WWZSWHhFV05mbHAzV3ZyQVNOWmJHVFllV1RrNzBUaFhKaTVqWE40M09ZWVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eve-2026-08-04-085",
+    "date": "2026-08-04",
+    "companies": [
+      "eve"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "BNP Paribas Starts Eve Energy at Outperform With 95 Yuan Price Target - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUl9wTUFvTVFaV2wwdklsLXhrUVQ2cDZidll2RkIzVXpfc05QX09hbFItYVVFNWNXVE5Cb0VFLVZ0clA5YXppU3cta0pJdGx3RzViS2NrQndFakNCeF9YTHZvYjFCTjh3VmlJSkVNY3",
+    "sources": [
+      {
+        "name": "eve",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUl9wTUFvTVFaV2wwdklsLXhrUVQ2cDZidll2RkIzVXpfc05QX09hbFItYVVFNWNXVE5Cb0VFLVZ0clA5YXppU3cta0pJdGx3RzViS2NrQndFakNCeF9YTHZvYjFCTjh3VmlJSkVNY3EzSFRnNXFSTGoxYk8zLVh4a1JRcEk0b2hmNUdYTEZtZ3Zib1pneHdsLUxlZXlkeWc?oc=5",
         "type": "rss"
       }
     ]

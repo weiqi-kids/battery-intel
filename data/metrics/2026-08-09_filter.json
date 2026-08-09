@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 262,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 27,
+  "gate2_fail": 19,
+  "passed": 29,
+  "gate2_samples": [
+    "Pilbara Minerals Ltd (PLR.DU) stock price, news, quote and history - Yahoo Finance UK",
+    "Rivian's R2 Is Shipping and Uber Wants 50,000 of Them - The Motley Fool",
+    "Rivian’s US Sales Hit 2026 High in July, the First Full R2 Month - eletric-vehicles.com",
+    "NIO Reports 71% Jump In July Deliveries - Benzinga",
+    "Volkswagen to overhaul US strategy with planned pick-up truck, source says - Reuters"
+  ]
+}
