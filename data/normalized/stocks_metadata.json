@@ -1,38 +1,38 @@
 {
   "catl": {
     "earliest": "2018-06-11",
-    "latest": "2026-08-07",
-    "count": 1979,
+    "latest": "2026-08-10",
+    "count": 1980,
     "history_complete": true
   },
   "lg_energy": {
     "earliest": "2022-01-27",
-    "latest": "2026-08-07",
-    "count": 1104,
+    "latest": "2026-08-10",
+    "count": 1105,
     "history_complete": true
   },
   "samsung_sdi": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-07",
-    "count": 6649,
+    "latest": "2026-08-10",
+    "count": 6650,
     "history_complete": true
   },
   "panasonic": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-07",
-    "count": 6637,
+    "latest": "2026-08-10",
+    "count": 6638,
     "history_complete": true
   },
   "eve": {
     "earliest": "2009-10-30",
-    "latest": "2026-08-07",
-    "count": 4074,
+    "latest": "2026-08-10",
+    "count": 4075,
     "history_complete": true
   },
   "sk_on": {
     "earliest": "2007-07-25",
-    "latest": "2026-08-07",
-    "count": 4698,
+    "latest": "2026-08-10",
+    "count": 4699,
     "history_complete": true
   },
   "albemarle": {
@@ -49,32 +49,32 @@
   },
   "ganfeng": {
     "earliest": "2018-10-11",
-    "latest": "2026-08-07",
-    "count": 1923,
+    "latest": "2026-08-10",
+    "count": 1924,
     "history_complete": true
   },
   "pilbara": {
     "earliest": "2007-09-19",
-    "latest": "2026-08-07",
-    "count": 4777,
+    "latest": "2026-08-10",
+    "count": 4778,
     "history_complete": true
   },
   "byd": {
     "earliest": "2002-07-31",
-    "latest": "2026-08-07",
-    "count": 5957,
+    "latest": "2026-08-10",
+    "count": 5958,
     "history_complete": true
   },
   "umicore": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-07",
-    "count": 6835,
+    "latest": "2026-08-10",
+    "count": 6836,
     "history_complete": true
   },
   "basf": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-07",
-    "count": 6797,
+    "latest": "2026-08-10",
+    "count": 6798,
     "history_complete": true
   },
   "tesla": {
@@ -97,8 +97,8 @@
   },
   "volkswagen": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-07",
-    "count": 6797,
+    "latest": "2026-08-10",
+    "count": 6798,
     "history_complete": true
   },
   "etf_lit": {

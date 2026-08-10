@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 242,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 28,
+  "gate2_fail": 19,
+  "passed": 44,
+  "gate2_samples": [
+    "Pilbara Minerals Ltd (PLR.DU) stock price, news, quote and history - uk.finance.yahoo.com",
+    "Rivian Owners Blast End of Rental Cars as Service Cuts Bite Before R2 Wave - eletric-vehicles.com",
+    "Rivian Is Worth $23 Billion With the R2 Just Ramping. Where Will the Stock Be in 3 Years? - Currentl",
+    "Rivian Is Worth $23 Billion With the R2 Just Ramping. Where Will the Stock Be in 3 Years? - The Glob",
+    "NIO Reports 71% Jump In July Deliveries - Benzinga"
+  ]
+}

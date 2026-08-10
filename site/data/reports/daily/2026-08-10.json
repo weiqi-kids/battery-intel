@@ -1,0 +1,222 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T09:26:21.002396Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-08-10-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "CATL joins BYD in targeting 2027 solid-state battery trial production - CarNewsChina.com",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFB1am9NM2xFOE45eVBFZWZnR0k2Y1E4bXFXcVNUaWd1cTJ0dy1lTWp4bi1wOFBNZ0xCaEJlLWhBVGxhZTZ3TWhHb3hZTFh6TDN1QjhOaEllRkEwa3EtRmtEUDhadWtCcjQyZGg1WE40WTJ0QzVUVUFCTFdkVU9xQ00tMGtXWXBMVnk1ck5ySXgxNjZRN0dUX0hJRERqZjMxWDNLMkEtakZrQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sk_on-2026-08-10-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung SDI, SK On Supplier Gapjin Launches Open Sale; Will Investment Materialize Amid Battery Sector Rebound? - finance.biggo.com",
+      "companies": [
+        "sk_on",
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kNkduZjZoQ0U2M3FmbUk4MFpEU0QyeGNSM0J6ZFVQX3R2bWItOXdudDdsZjlsdk1WMVpQUGRCOVlwbzVGR1Q4Nk1ZSzZQc1EwMUpObGt5YzdsRThtU0liekZwd3ZtY1l0LVBSQ2czNmhBWlZFX3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-08-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ContourGlobal orders 3 GWh of CATL batteries for multi-country projects - Renewables Now",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVJocloxOVhERFY4bHJfbk5WMGg2Zkc4UEI2ZmhMbE1TS3JDa2JYYmFOZFdWYzhDRWpQcndadENqeG9NZzdoZjhLWEo2MGxlem9YOHpnQnBVRjNUa1NXM3FlYUZzRU56cUlVdWdlUENCZUsxM2IwMFkzajd6enpGaWkwRUdsR1I5Z21lUDJlNTJtX0RPNllscTB2c1pKYkljOGk5akZxN2JLbW8wWkVWRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_energy-2026-08-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lotte Global Logistics triples US transport of LG Energy Solution’s battery ESS - koreaherald.com",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95SHU3bTV4M1ZaMFlOTzJxRDBmQUw5SUdwamZ0QS1rNVFaRUdIVWlrOHA5RnBSZVJibDd5QmJqLThXczhuZm5wU2pOWkdDNVlKVDVCZzNSbw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_energy-2026-08-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lotte Global Logistics Triples BESS Transport Volume for LG Energy Solution in US, Proving AI Logistics Competitiveness - finance.biggo.com",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wYzZESlI0SUxiSnliOFNFMms1SVNYREVoVTRhYWlhMnFTSFlEaXZpQXVXUXBrMVFpdUVZTVRzWXE2TWNwX0dxYzlHcDRXYUlGT0huVHlrUkZCWHhiOGJXemtJcC1lbFZZaG9ibEdkaGlEN3JKQnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_energy",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "sk_on",
+        "count": 1
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 424,
+    "dup_title": 242,
+    "too_old": 91,
+    "gate1_blocked": 28,
+    "gate2_blocked": 19,
+    "passed": 44,
+    "pass_rate": "24.2%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "Pilbara Minerals Ltd (PLR.DU) stock price, news, quote and history - uk.finance.yahoo.com",
+      "Rivian Owners Blast End of Rental Cars as Service Cuts Bite Before R2 Wave - eletric-vehicles.com",
+      "Rivian Is Worth $23 Billion With the R2 Just Ramping. Where Will the Stock Be in 3 Years? - Currentl",
+      "Rivian Is Worth $23 Billion With the R2 Just Ramping. Where Will the Stock Be in 3 Years? - The Glob",
+      "NIO Reports 71% Jump In July Deliveries - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為LG新能源、寧德時代、比亞迪相關動態：「CATL joins BYD in targeting 2027 solid-state battery tria...」。主要關注主題為電池產業通用、正極材料，市場情緒中性。",
+    "signals": [
+      {
+        "text": "CATL joins BYD in targeting 2027 solid-state battery trial production - CarNe...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Samsung SDI, SK On Supplier Gapjin Launches Open Sale; Will Investment Materi...（電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
