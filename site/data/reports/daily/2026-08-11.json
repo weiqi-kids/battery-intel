@@ -1,0 +1,203 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T09:01:44.056560Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-08-11-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BYD vs CATL battery cells dissected: Xiaomi SU7 teardown reveals key differences - CarNewsChina.com",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa29CSGNZUE5kcTd0WnhuYWpqUkRseUxzVGhCS0xicmRtTTNXZmdvSDIxV0JvMjRtQTgxNS0xUEVJNms3MnNPZWFKYkdSVm1aaGhad3RWTGZuT080MGJkZWNTbUZGbVNoaTZhV2VfRE9HYmhsZDI5LUpiQkxTRG1ZdUcyRlhpY1lqLWFqU1Uwa01tSnBFb19UUWNfUmgtd0FKTHlpWlU5bHhQSk91NC1PZFM3LTN3VFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-08-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL targets 2027 start for solid-state battery pilot production - electrive.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0hLdHB5UEY3MEdTd1B2VjFBOHVVRWhidUMydl9ocXI0VHJ2ZXZ1dmlGYkdMMnQ4WU1kSHBHTW54eVNZc2NYZ2VPYXA4Zi15cUNHYlNGRGV2dF9qVXUwVXhfMV9JMXljSFpFRzk2TnhUV1RYcDAxUzZRRENIVm9DazVXUFE0SVNjWDRRalZnd0JDTm9FV0hNdnJqT2s4QWdjTkRIUw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-08-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL’s 350 Wh/kg cell achieved aviation-grade safety standard - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOenFDbU52c2pmVTlFN3RaTlE2NHZReGdvZjBQZThsUkV6RTJPdVk0WFJKT0oxRGpVLTN1aGhTM2FzaE9LMnIzZ20wUGdvaDBCS3hjck1xUUpyRU5lb0xhOGxMeVIwc1N0WGl6eU1zM3FjNkI4QUVJc05FeU9faEhOUmcwcHhCVkpjNE5YYkN2d3habXVSTGdRWU9YSHZTdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-08-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ContourGlobal to deploy 3GWh CATL batteries in UK, Greece and Chile - Power Technology",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1pNb0NCNmxERVlPSDZFRjFHajM5bFNvSUo2dkJ5UDRDaElxd0N6MFRIRjhkbko0N25mY1ZMMlZJOFZzeGtqemFLellyQkt5WUhEX3RaS1VrT184UDFvcnd6THFCaWdLejgxajFDVXVOS2hXaGhXMEc4eHBreFkxdlh2dlduY1g2NkZLeDJTRC1SZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-08-11-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ContourGlobal And CATL Sign Multi-Country 3 GWh Deal - TaiyangNews",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNlM0dFFLVDFIckRfQTJTVFVmN0phdkNXYlhDM05yM3JvZzVtaG5xWUdaZnlnVFp0bXBvWHY3TDZSQV9rTnY4d1VGT29MSlg5ZnYyZGlFMTZtR1Zvd25VOWhMZ051VVEyMUxtVlI4dnUyUGpnQzNPb1R2bHV3dllHRnB3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 35,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_sdi",
+        "count": 19
+      },
+      {
+        "id": "catl",
+        "count": 5
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "eve",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 38
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 210,
+    "too_old": 79,
+    "gate1_blocked": 27,
+    "gate2_blocked": 21,
+    "passed": 88,
+    "pass_rate": "40.9%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "Can CATL’s milestone push flying cars closer to a commercial reality in China? - South China Morning",
+      "Can CATL’s milestone push flying cars closer to a commercial reality in China? - South China Morning",
+      "Rivian Owners Blast End of Rental Cars as Service Cuts Bite Before R2 Wave - eletric-vehicles.com",
+      "Rivian Is Worth $23 Billion With the R2 Just Ramping. Where Will the Stock Be in 3 Years? - currentl",
+      "Rivian Slashes R2 Costs With Sustainable Design - Design News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為三星SDI、寧德時代、福斯相關動態：「BYD vs CATL battery cells dissected: Xiaomi SU7 teardown ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BYD vs CATL battery cells dissected: Xiaomi SU7 teardown reveals key differen...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "CATL targets 2027 start for solid-state battery pilot production - electrive.com（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
