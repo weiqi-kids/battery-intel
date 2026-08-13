@@ -1,0 +1,230 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T09:15:56.133575Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-08-13-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Automakers' share of China NEV exports in July: BYD leads with 32.2%, Tesla rises to No. 3 with 12.3%",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/08/13/automakers-share-china-nev-exports-jul-2026/"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-08-13-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Automakers' share of China's NEV market in July: BYD leads with 23.5%, Tesla falls out of top 10",
+      "companies": [
+        "nio",
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/08/13/automakers-share-china-nev-market-jul-2026/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-13-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "PTC One-C Heads Toward Hawaii; Life-Threatening Floods Possible",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/12/ptc-one-c-heads-toward-hawaii-life-threatening-floods-possible/"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_energy-2026-08-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Chem reportedly wins cathode supply deal for Hyundai-LG Energy Solution's US battery venture - digitimes",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzliU0gyN1BqQnlQNmtSWm5zdHJlWHJwX1NuSWhFUlE3SHRFbnc1NV9keVd1aDRPdXpJeFM0cTZxQ0dfMU5hQkhNb3JnaXFQTnQ3c2N0SEU0VUY1ZEk5QmlGZm5PUkFzOF9ZOVJoRG9vWFVHMVFLTXJpTnJuLU1kdXFGM1Q0bVdlY1hacTNaVXVhbG8xR2JjYXYzanJDQW9DRzYwVQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG-GM Ohio battery plant to restart after 7-month shutdown - The Korea Herald",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hRUtLVk51LTFoeF9IS0RIT1FUeTFzU2twalpqLVcyb1gtQlNUZC1JTHdsb3VCa1NIZGM1X1MtbmQ1d1ZoUktqSjlEN3UyREYzMmg5NkplSQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cathode_material": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "tesla",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 23,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "lg_energy",
+        "count": 1
+      },
+      {
+        "id": "nio",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "cathode_material",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 420,
+    "dup_title": 206,
+    "too_old": 78,
+    "gate1_blocked": 31,
+    "gate2_blocked": 18,
+    "passed": 87,
+    "pass_rate": "40.7%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Can CATL’s milestone push flying cars closer to a commercial reality in China? - South China Morning",
+      "How Are Pilbara Minerals (ASX:PLS), Lynas Rare Earths (ASX:LYC), Northern Star (ASX:NST) and Sandfir",
+      "Rivian Slashes R2 Costs With Sustainable Design - Design News",
+      "A Rivian R1S Is Towing a 4,500-Pound Camper 4,000 Miles, and Weight May Not Be Its Biggest Range Pro",
+      "Wolverine Trims Nio Puts, Adds to 2029 Convertible Notes in Second Quarter - eletric-vehicles.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為比亞迪、特斯拉、LG新能源相關動態：「Automakers' share of China NEV exports in July: BYD leads...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Automakers' share of China NEV exports in July: BYD leads with 32.2%, Tesla r...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Automakers' share of China's NEV market in July: BYD leads with 23.5%, Tesla ...（電池產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

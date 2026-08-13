@@ -1,0 +1,16 @@
+{
+  "total_raw": 420,
+  "dup_title": 206,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 31,
+  "gate2_fail": 18,
+  "passed": 87,
+  "gate2_samples": [
+    "Can CATL’s milestone push flying cars closer to a commercial reality in China? - South China Morning",
+    "How Are Pilbara Minerals (ASX:PLS), Lynas Rare Earths (ASX:LYC), Northern Star (ASX:NST) and Sandfir",
+    "Rivian Slashes R2 Costs With Sustainable Design - Design News",
+    "A Rivian R1S Is Towing a 4,500-Pound Camper 4,000 Miles, and Weight May Not Be Its Biggest Range Pro",
+    "Wolverine Trims Nio Puts, Adds to 2029 Convertible Notes in Second Quarter - eletric-vehicles.com"
+  ]
+}
