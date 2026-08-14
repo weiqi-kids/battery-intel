@@ -1,0 +1,16 @@
+{
+  "total_raw": 423,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 35,
+  "gate2_fail": 22,
+  "passed": 83,
+  "gate2_samples": [
+    "Can CATL’s milestone push flying cars closer to a commercial reality in China? - South China Morning",
+    "How Are Pilbara Minerals (ASX:PLS), Lynas Rare Earths (ASX:LYC), Northern Star (ASX:NST) and Sandfir",
+    "Rivian R1S, R1T See 2027 Updates, Including Second-Row Captain’s Chairs - CNET",
+    "Rivian Slashes R2 Costs With Sustainable Design - Design News",
+    "Driven off the road: Nio’s German car registrations down 90% - South China Morning Post"
+  ]
+}
