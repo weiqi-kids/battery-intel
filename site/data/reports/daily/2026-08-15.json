@@ -1,0 +1,170 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:33:19.316372Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-15-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "As EV sales, oil costs and wildfires spike, UK gov’t considers.. fewer EVs? (update)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/08/14/ev-sales-oil-costs-and-temperatures-are-spiking-so-uk-govt-pushes-more-gas/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-15-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "VinFast’s Vietnam Sales Surge as EVs Enter a Tipping Point",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://cleantechnica.com/2026/08/15/vinfasts-vietnam-sales-surge-as-evs-enter-a-tipping-point/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Exports 1 Million Automobiles in a Month … Twice",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/14/china-exports-1-million-automobiles-in-a-month-twice/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chery Buys Nissan Factory in Africa",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/14/chery-buys-nissan-factory-in-africa/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.44,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 420,
+    "dup_title": 232,
+    "too_old": 73,
+    "gate1_blocked": 33,
+    "gate2_blocked": 27,
+    "passed": 55,
+    "pass_rate": "29.3%",
+    "gate2_block_rate": "14.4%",
+    "gate2_samples": [
+      "Can CATL’s milestone push flying cars closer to a commercial reality in China? - South China Morning",
+      "How Are Pilbara Minerals (ASX:PLS), Lynas Rare Earths (ASX:LYC), Northern Star (ASX:NST) and Sandfir",
+      "Rivian’s 2027 changes include its No. 1 most-requested feature - Ars Technica",
+      "Rivian R1S, R1T See 2027 Updates, Including Second-Row Captain’s Chairs - CNET",
+      "Rivian's electric SUV just got its most requested new feature - usatoday.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為電池產業通用、電動車銷量相關動態：「As EV sales, oil costs and wildfires spike, UK gov’t cons...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "As EV sales, oil costs and wildfires spike, UK gov’t considers.. fewer EVs? (...（電動車銷量、電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "VinFast’s Vietnam Sales Surge as EVs Enter a Tipping Point（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
