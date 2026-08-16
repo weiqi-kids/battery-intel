@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T08:33:25.657762Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-08-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "This Tesla Model Y Lost 9% In One Year. Its Owner Isn’t Worried",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/805082/model-y-one-year-degradation/"
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-08-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New BYD Seal 06 & Qin MAX Part 2: Affordability & Value",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/15/new-byd-seal-06-qin-max-part-2-affordability-value/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 1
+      },
+      {
+        "id": "byd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 422,
+    "dup_title": 261,
+    "too_old": 85,
+    "gate1_blocked": 33,
+    "gate2_blocked": 23,
+    "passed": 20,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Can CATL’s milestone push flying cars closer to a commercial reality in China? - South China Morning",
+      "How Are Pilbara Minerals (ASX:PLS), Lynas Rare Earths (ASX:LYC), Northern Star (ASX:NST) and Sandfir",
+      "Rivian’s 2027 changes include its No. 1 most-requested feature - Ars Technica",
+      "Rivian R1S, R1T See 2027 Updates, Including Second-Row Captain’s Chairs - CNET",
+      "Rivian's electric SUV just got its most requested new feature - USA Today"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為特斯拉、比亞迪相關動態：「This Tesla Model Y Lost 9% In One Year. Its Owner Isn’t W...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "This Tesla Model Y Lost 9% In One Year. Its Owner Isn’t Worried（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "New BYD Seal 06 & Qin MAX Part 2: Affordability & Value（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

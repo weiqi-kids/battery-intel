@@ -1,5 +1,45 @@
 [
   {
+    "id": "tesla-2026-08-16-001",
+    "date": "2026-08-16",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Tesla Model Y Lost 9% In One Year. Its Owner Isn’t Worried",
+    "summary": "After 25,000 miles, its battery health is estimated at 91%. But it can still travel 300 miles on a charge.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/805082/model-y-one-year-degradation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-08-16-002",
+    "date": "2026-08-16",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New BYD Seal 06 & Qin MAX Part 2: Affordability & Value",
+    "summary": "<p>Earlier this week, BYD launched the new Seal 06 and Qin Max. In Part 1, I focused on the changes to the vehicles and their positioning. However, where these vehicles stand out is in their affordabi",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/15/new-byd-seal-06-qin-max-part-2-affordability-value/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-15-001",
     "date": "2026-08-15",
     "companies": [],
@@ -68,6 +108,207 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/14/chery-buys-nissan-factory-in-africa/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catl-2026-08-15-005",
+    "date": "2026-08-15",
+    "companies": [
+      "catl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CATL and Quinbrook Build on Supernode Partnership Following Stage 2 and Stage 3 Major Milestones - cnhinews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDFpT3pPVlU4VVhvNG1zcHlacDZ6TDJTTzNURkFfTWhQcG1Fd3pWbGhiUWJfSFNfZDBacjNwODN1V2U3a0JBemY5ODVWM3VKZEh6NU1tX2pvNHA2Zi1GN2FZYTVTcEZvQkxub0xKNm",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDFpT3pPVlU4VVhvNG1zcHlacDZ6TDJTTzNURkFfTWhQcG1Fd3pWbGhiUWJfSFNfZDBacjNwODN1V2U3a0JBemY5ODVWM3VKZEh6NU1tX2pvNHA2Zi1GN2FZYTVTcEZvQkxub0xKNmxpLUhNMG1GUThaZE4xSWNOLUNtVWJGZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-08-15-006",
+    "date": "2026-08-15",
+    "companies": [
+      "tesla",
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1KbVhOZTdMZ3JvdEtrVHJ3cFJub0hZYUxSaFV1VG1SRWE4TDk4QU5rLWhZalRBbVE2OVAzU2lNUTl0NGRIM1NleWZSb1h5ZnJjbzZuclZGRE1SOXZaaUVYYnpxYldCSjRkVmxrcE5JV0",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KbVhOZTdMZ3JvdEtrVHJ3cFJub0hZYUxSaFV1VG1SRWE4TDk4QU5rLWhZalRBbVE2OVAzU2lNUTl0NGRIM1NleWZSb1h5ZnJjbzZuclZGRE1SOXZaaUVYYnpxYldCSjRkVmxrcE5JV0FFNlliLWRucW5Pa9IBgAFBVV95cUxOOTEwc2xkYktsR3Q3XzMzMV9QdHZsUmFkTXNaSlNuU21NalpMU185UW5hNmtCWWt5RGdCUHJaR0Z2cVREak1jdGpJY2F5RV9wSUp5ZWZ4RXIyRVNPZjQtWGZ6SlZsX1FEa2FkS2k1Tmp0bjlWZTNIRUdGSDVKMWFDOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-08-15-007",
+    "date": "2026-08-15",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla adds 2.4 kW vehicle-to-load to Model Y Premium with $80 adapter",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-bidirectional-charger.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">T",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/08/15/tesla-model-y-premium-vehicle-to-load-2-4-kw-adapter/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-008",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Current classics: Bisimoto’s 600 hp electric Rolls-Royce SilvEV Ghost",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/bisi_ghost.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">First seen in the T",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/08/15/current-classics-bisimotos-600-hp-electric-rolls-royce-silvev-ghost/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-009",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Speeders just got lucky: the new Dodge police Charger is NOT electric",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/2027-Dodge-Charger-PPV_Team-One-Network.-9-copy.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/08/15/speeders-just-got-lucky-the-new-dodge-police-charger-is-not-electric/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-010",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PACCAR brand DAF to add Level 4 Einride autonomy to its electric trucks",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/DAF_EINRIDE_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Autonomous lo",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/08/15/paccar-brand-daf-to-add-level-4-einride-autonomy-to-its-electric-trucks/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-011",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Voyah Passion S goes on sale from about $33,000 to take on Xiaomi YU7",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/08/2026081513112197.jpg\" alt=\"Voyah Passion S.\" style=\"max-width: 100%; height: auto;\" /></p><p>The Voyah Passion S has limited-time prices of",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/08/15/voyah-passion-s-goes-on-sale/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-012",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Community-Led Climate Resilience With The Solution Project Help People To Thrive",
+    "summary": "<p>The Solutions Project has launched a new website that showcases their grantees’ community-led climate resilience projects. From California, Texas, and Florida to Puerto Rico and the Northern Marian",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/15/community-led-climate-resilience-with-the-solution-project-help-people-to-thrive/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-013",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "GAC’s Indonesia EV Strategy Puts Customer Feedback at the Center of Development",
+    "summary": "<p>TANGERANG, Indonesia — GAC Indonesia recorded 2,170 vehicle orders at the 2026 Gaikindo Indonesia International Auto Show, with the larger AION V electric SUV accounting for more than half of the t",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/15/gacs-indonesia-ev-strategy-puts-customer-feedback-at-the-center-of-development/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-014",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chery Previews New EV and Hybrid Lineup at GIIAS 2026 ahead of Philippine Debuts",
+    "summary": "<p>TANGERANG, Indonesia — Chery is using Indonesia as more than a sales market for electrified vehicles, with the company developing products around local driving conditions while using the country as",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/15/chery-previews-new-ev-and-hybrid-lineup-at-giias-2026-ahead-of-philippine-debuts/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-015",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Blades Aren’t Spinning for Wind Projects in Luzon",
+    "summary": "<p>The ambitious push by the Department of Energy (DOE) in the Philippines to accelerate clean energy transitions is encountering major friction on the ground. As developers race to build onshore wind",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/15/the-blades-arent-spinning-for-wind-projects-in-luzon/",
         "type": "rss"
       }
     ]
@@ -1280,6 +1521,67 @@
       {
         "name": "renewableenergyw",
         "url": "https://www.renewableenergyworld.com/solar/can-trumps-new-solar-tariffs-help-the-domestic-supply-problem-this-week-in-cleantech/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-08-14-065",
+    "date": "2026-08-14",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GM and LG Energy Solution Restart EV Battery Production in Ohio - electriccarsreport.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUZoUnJxR2N2X0h5WjlYWHlsNWRfb1VqdFBHZmVsR0lQcV9zVE5LUkVsTV9OcE5BMG1zbG5CTGZPZjZIaTNiNHo2bEdYdHlISEZLbV9qSGdTUjlTbkFnNlg2SC1uNXRrOEc0V3lXT3",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUZoUnJxR2N2X0h5WjlYWHlsNWRfb1VqdFBHZmVsR0lQcV9zVE5LUkVsTV9OcE5BMG1zbG5CTGZPZjZIaTNiNHo2bEdYdHlISEZLbV9qSGdTUjlTbkFnNlg2SC1uNXRrOEc0V3lXT3dqZ1BWX282ck5jRTFhWUQyWk1rWVVUdW9BdWZyelNxVEp5bFRVRE5vbDhIeVlubXRkeEtvYkJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-08-14-066",
+    "date": "2026-08-14",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian's new East Coast HQ brings Silicon Valley energy to the Beltline - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNeEF1M3VOMEtEM0VKdzRSNF9YdkZiU0Zjd0EyV1NIOW5hdFpMM1JFbzJOLTZCUWJ3RTRFWlZ5bE9vN3dwRUdOOHpiaDdSZzh3UEFZdUVDbmNhcktNYW1QbkU0VzRpM1lqaWRsNWhieV",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeEF1M3VOMEtEM0VKdzRSNF9YdkZiU0Zjd0EyV1NIOW5hdFpMM1JFbzJOLTZCUWJ3RTRFWlZ5bE9vN3dwRUdOOHpiaDdSZzh3UEFZdUVDbmNhcktNYW1QbkU0VzRpM1lqaWRsNWhieVVSdVg0aDhTLTd5QTdjNTluR3g0MlFQdmFjclpSTk82NlU0MVppaWs2blhOOV9uRnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-08-14-067",
+    "date": "2026-08-14",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "cathode_material",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian's electric SUV just got its most requested new feature - The Daily News Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOamdWWWR2YTlJQ0JrVU82SVlwRmhQYzZzdXk5bWxMYkxTZWhjeUJNcml1emJFSWlpUkFKOTBUemU0MzlfSy1tekVPN0l0TC1LY24wUDJUTjd3dHI4OVYzSlRQMUwwbVREbHJUeDJWdF",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOamdWWWR2YTlJQ0JrVU82SVlwRmhQYzZzdXk5bWxMYkxTZWhjeUJNcml1emJFSWlpUkFKOTBUemU0MzlfSy1tekVPN0l0TC1LY24wUDJUTjd3dHI4OVYzSlRQMUwwbVREbHJUeDJWdFVEbmYwYW5ZZlB5OW9vaGFUWEVSelJpQW9MRi1sZ0c4TVRHeWdRQmNoY1pZS1FpYWoyUndhNHRrbjFzOHBsTHUzSGZoWHB6Q19vWHc?oc=5",
         "type": "rss"
       }
     ]
@@ -2876,6 +3178,24 @@
     ]
   },
   {
+    "id": "pilbara-2026-08-13-085",
+    "date": "2026-08-13",
+    "companies": [
+      "pilbara"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "What date does Pilbara Minerals Limited's (PILBF) report Earnings - Earnings Calendar & Announcement - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9Sb3lRQVBqMzB6X0dUdFFfN2hSYnNyS1JnaFk1UkwyemdMd0stcUJKblZLeEN4ZWRicVFaa3lFM0JuclRyc3kzdklUOGVtMUhyd0RTd0NfSTU4Qi1OTkJWRDNoM1p4QTYzYmdPUEFOal",
+    "sources": [
+      {
+        "name": "pilbara",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Sb3lRQVBqMzB6X0dUdFFfN2hSYnNyS1JnaFk1UkwyemdMd0stcUJKblZLeEN4ZWRicVFaa3lFM0JuclRyc3kzdklUOGVtMUhyd0RTd0NfSTU4Qi1OTkJWRDNoM1p4QTYzYmdPUEFOalVmU1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-08-12-001",
     "date": "2026-08-12",
     "companies": [
@@ -4466,6 +4786,46 @@
       {
         "name": "nio",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2F0R3VRaEJIU0dZd3g3MUk4Nm9FUFhOOWFYa0w5MTlhbU9BT05iY1ExTEk3VlM1VjhFTHp1bXBEREZNbFNhak5rNjluRmhNR1JVSmNoMzlNajdPSnp4Y0ZWOXJ5ZDQ0SVRaNkZkQXJsaWw2WDE1YzRYMXBYS2s2eDIzOXNvQkJfMW13TU9McjBTOHg4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-08-12-085",
+    "date": "2026-08-12",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NIO Stock Falls as Blackrock Slashes Stake in EV Maker - barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ0dEeTBsQzVoZWJDdms3SGMyTlVla1NnaGxtNXh2dWxkWmdiUm9HQjNoME9UZFFhOW9RMzJ0aXZJejVaY0d0VkVxMzlCN1FEWW9xMkpqSlJEaEFuZHNpSU5FekdvVVoxWEtPUnZLVS",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ0dEeTBsQzVoZWJDdms3SGMyTlVla1NnaGxtNXh2dWxkWmdiUm9HQjNoME9UZFFhOW9RMzJ0aXZJejVaY0d0VkVxMzlCN1FEWW9xMkpqSlJEaEFuZHNpSU5FekdvVVoxWEtPUnZLVS14b1h5c09IbkN5anRCTTRHUTFfZ3hyQW5BaG13OGRpdGx4RlNJMFVTXzNHekM3NUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-08-12-086",
+    "date": "2026-08-12",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "'It took less than five seconds': Volkswagen badges are being targeted by thieves for the radar tech behind them - TechRadar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNOV9zdVZUbHp3TklERlplQWNvbFVCZlVJQ0pDZjlUaFNvcC1Bdl9QQWlmYUVQcUdLUVE0WUdLaEhkY3VOaU5FSG5Cb09FdFd3WDdUYkVlNk9jWGFILWNNNTM1YWlnYnljN1hLZEdKMU",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOV9zdVZUbHp3TklERlplQWNvbFVCZlVJQ0pDZjlUaFNvcC1Bdl9QQWlmYUVQcUdLUVE0WUdLaEhkY3VOaU5FSG5Cb09FdFd3WDdUYkVlNk9jWGFILWNNNTM1YWlnYnljN1hLZEdKMUtXdks4Wm1wNThnU0xQNk12OFdobXVka3hFREdDWWFuQW82b0FUUzFfY1ZQOC1fSE1HcFlFOUJ5OTNrNjdyOWJabGhyTzdxSWVMUnVXWi1hTTVZNXNCTTlYOUE2Vm92NEFSQ2p1eVF0ZnBmMFVfSmV0cHBhdWhCblEwcFY1bldrRmo0WHVkT0doX1ZfWTRhaGdPVDB3?oc=5",
         "type": "rss"
       }
     ]
@@ -8108,6 +8468,26 @@
       {
         "name": "catl",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTnRXTE9XMnVmRENvUnJiVXJ2bWlXRThrR3UtWFhhNHlyYTFBNjY0a0YtMGtHYVYxemNPR09mcFZlOHE2VUppcGdIdXFIV1ZTaHU5dE9NQ2otZklIRmE3dmdkbTF4UDlYNm5Lb3lFcGI5S1BBSF9Cbm5aLU1hclQ3ZW5vaVdiRVJYaXpKdEk3MmJYdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-08-10-070",
+    "date": "2026-08-10",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD’s kei EV already looks like a hit with over 1,000 orders in its first 2 weeks - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5qYzFGQ2swem4wTlRrRFJSX04wMTctcFBMcFNnM2dOQzlkZEFKOUswMUx2alhobXNJWFBkeGxGTVphc2MtM1BCb19BSS1meDJBdlJRa3p4WkRqd19UbGU3UWNtNUlRUnl6NFZXVjIxdV",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qYzFGQ2swem4wTlRrRFJSX04wMTctcFBMcFNnM2dOQzlkZEFKOUswMUx2alhobXNJWFBkeGxGTVphc2MtM1BCb19BSS1meDJBdlJRa3p4WkRqd19UbGU3UWNtNUlRUnl6NFZXVjIxdVhrRUVCMGc?oc=5",
         "type": "rss"
       }
     ]
