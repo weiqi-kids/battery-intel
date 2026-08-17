@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T08:33:25.087072+00:00",
+  "updated_at": "2026-08-17T08:47:44.357702+00:00",
   "companies": {
     "panasonic": {
       "name": "Panasonic",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 40099,
           "pct_held": 0.0,
-          "value": 189307379
+          "value": 191994012
         }
       ]
     },
@@ -157,7 +157,7 @@
           "holder": "Winch Advisory Services LLC",
           "shares": 106,
           "pct_held": 0.0,
-          "value": 4195
+          "value": 4248
         }
       ]
     },
@@ -170,7 +170,7 @@
           "holder": "Nbc Securities, Inc.                          ",
           "shares": 1000,
           "pct_held": 0.0,
-          "value": 4869
+          "value": 5090
         }
       ]
     },
@@ -183,25 +183,25 @@
           "holder": "Kelly (Lawrence W.) & Associates Inc.",
           "shares": 6000,
           "pct_held": 0.0,
-          "value": 529500
+          "value": 540300
         },
         {
           "holder": "Ascentis Wealth Management, LLC",
           "shares": 2064,
           "pct_held": 0.0,
-          "value": 182148
+          "value": 185863
         },
         {
           "holder": "Winch Advisory Services LLC",
           "shares": 120,
           "pct_held": 0.0,
-          "value": 10590
+          "value": 10806
         },
         {
           "holder": "Strengthening Families & Communities, LLC                          ",
           "shares": 600,
           "pct_held": 0.0,
-          "value": 52950
+          "value": 54030
         }
       ]
     },
@@ -214,7 +214,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 1222,
           "pct_held": 0.0,
-          "value": 28643
+          "value": 29059
         }
       ]
     },
@@ -227,13 +227,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 18196,
           "pct_held": 0.0,
-          "value": 930725
+          "value": 923083
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 2125,
           "pct_held": 0.0,
-          "value": 108693
+          "value": 107801
         }
       ]
     },
@@ -447,13 +447,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 370,
           "pct_held": 0.0,
-          "value": 27276
+          "value": 27254
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 2000,
           "pct_held": 0.0,
-          "value": 147440
+          "value": 147320
         }
       ]
     }

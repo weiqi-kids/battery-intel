@@ -1,0 +1,16 @@
+{
+  "total_raw": 420,
+  "dup_title": 231,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 29,
+  "gate2_fail": 21,
+  "passed": 49,
+  "gate2_samples": [
+    "Can CATL’s milestone push flying cars closer to a commercial reality in China? - South China Morning",
+    "How Are Pilbara Minerals (ASX:PLS), Lynas Rare Earths (ASX:LYC), Northern Star (ASX:NST) and Sandfir",
+    "Rivian's electric SUV just got its most requested new feature - USA Today",
+    "Rivian R1S, R1T See 2027 Updates, Including Second-Row Captain’s Chairs - CNET",
+    "3 Critical Things Investors Overlooked in Rivian's Strong Q2 - theglobeandmail.com"
+  ]
+}

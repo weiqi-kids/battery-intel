@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-17",
+  "total_events": 22,
+  "by_company": {
+    "rivian": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 21,
+      "sentiment_avg": 0.07
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

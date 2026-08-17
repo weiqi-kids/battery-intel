@@ -1,0 +1,188 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T08:47:45.063221Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-17-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Geely Auto core profit jumps 46% in H1 as home market retreats",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://cnevpost.com/2026/08/17/geely-auto-core-profit-jumps-h1-2026/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-17-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ForeFront Power Completes Its First Erthos Solar Energy System for the City of Fresno",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/16/forefront-power-completes-its-first-erthos-solar-energy-system-for-the-city-of-fresno/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "North American EV Chill Forces South Korea's Big Three Battery Makers to Exit Joint Ventures and Pivot to Energy Storage - finance.biggo.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QSXVodkYtTmZ3RFZnWnhldDFQMUEwUlpKNV80MXFUVG5fWWlrSk5aYkVuV090Y2s4TzJhbXQ3WW80c25NNHUxcS1iTkxWVHZPMnozWG9MdU5qSk1EMFlvSm9PSlo3WUhxYXREZmktRXVfZDFqcVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Next-gen prismatic battery cell with high energy density, fast charging capability soon to be built - Interesting Engineering",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFNiVXk0QkJqYklneEdJZUlPUzMwdy1YYnZ0c1lPSGVMT1FTNk1sSTI1d3FCNHhkV0VGaFZmalVObmFQUzh4RU1teVFTME45Wlp2cXQxYUVjX19DcDc4dWJpb0R4c21xVlV6ZVZJTVgzdDh4Vjd6bTZHWXpGbmNKWkdqOGQzVjZabXF5Q0ZB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US drone battery makers target China supply - Battery Technology",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNallUN0RXc0xuNHFyZzVld1lCeWRreWU4YXlWSTBERkROdDcxMDZHQzVHS1pKZ0F5Q3ZBaHllMG9wUFAySENIUm50Vzk4YlR0ZkRQS0VfVC11QVdMMklYUFdaRUFNc1VUa0xhZHhqLVJiaDJCalVyLVY3ME5IeDFUN2hLa3BfNkNYUFZLVU9YSGVRXzZCZUdCeDdBaVdNWklDZGY5TDU5VkU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      },
+      {
+        "id": "byd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 420,
+    "dup_title": 231,
+    "too_old": 90,
+    "gate1_blocked": 29,
+    "gate2_blocked": 21,
+    "passed": 49,
+    "pass_rate": "25.9%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Can CATL’s milestone push flying cars closer to a commercial reality in China? - South China Morning",
+      "How Are Pilbara Minerals (ASX:PLS), Lynas Rare Earths (ASX:LYC), Northern Star (ASX:NST) and Sandfir",
+      "Rivian's electric SUV just got its most requested new feature - USA Today",
+      "Rivian R1S, R1T See 2027 Updates, Including Second-Row Captain’s Chairs - CNET",
+      "3 Critical Things Investors Overlooked in Rivian's Strong Q2 - theglobeandmail.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為蔚來、Rivian、特斯拉相關動態：「Geely Auto core profit jumps 46% in H1 as home market ret...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Geely Auto core profit jumps 46% in H1 as home market retreats（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "ForeFront Power Completes Its First Erthos Solar Energy System for the City o...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

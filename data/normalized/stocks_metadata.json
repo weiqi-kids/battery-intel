@@ -1,8 +1,8 @@
 {
   "catl": {
     "earliest": "2018-06-11",
-    "latest": "2026-08-14",
-    "count": 1984,
+    "latest": "2026-08-17",
+    "count": 1985,
     "history_complete": true
   },
   "lg_energy": {
@@ -19,14 +19,14 @@
   },
   "panasonic": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-14",
-    "count": 6641,
+    "latest": "2026-08-17",
+    "count": 6642,
     "history_complete": true
   },
   "eve": {
     "earliest": "2009-10-30",
-    "latest": "2026-08-14",
-    "count": 4079,
+    "latest": "2026-08-17",
+    "count": 4080,
     "history_complete": true
   },
   "sk_on": {
@@ -49,32 +49,32 @@
   },
   "ganfeng": {
     "earliest": "2018-10-11",
-    "latest": "2026-08-14",
-    "count": 1928,
+    "latest": "2026-08-17",
+    "count": 1929,
     "history_complete": true
   },
   "pilbara": {
     "earliest": "2007-09-19",
-    "latest": "2026-08-14",
-    "count": 4782,
+    "latest": "2026-08-17",
+    "count": 4783,
     "history_complete": true
   },
   "byd": {
     "earliest": "2002-07-31",
-    "latest": "2026-08-14",
-    "count": 5962,
+    "latest": "2026-08-17",
+    "count": 5963,
     "history_complete": true
   },
   "umicore": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-14",
-    "count": 6840,
+    "latest": "2026-08-17",
+    "count": 6841,
     "history_complete": true
   },
   "basf": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-14",
-    "count": 6802,
+    "latest": "2026-08-17",
+    "count": 6803,
     "history_complete": true
   },
   "tesla": {
@@ -97,8 +97,8 @@
   },
   "volkswagen": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-14",
-    "count": 6802,
+    "latest": "2026-08-17",
+    "count": 6803,
     "history_complete": true
   },
   "etf_lit": {
