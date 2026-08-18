@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:41:02.024732Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-08-18-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Top battery makers' share in China in July 2026: CATL 42.33%, BYD 19.23% - cnevpost.com",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RSmRLdWF0OUJKTG1tMTlneENuZmNqNlEyMDA5N2tTaHVJYS1qNXpxTGl5UkRDY1lTa2xkcG9fZE9nSy03cVhUVk1ZRnZJRjZjcXNac1NRVy15NlBuWkZxSmQ2ZVVJaW1JWGhVbDV1aTNXaWZSbEtNLXZBUWI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_energy-2026-08-18-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "LG Energy Solution, Samsung SDI See ESS Revenue Share Near 30% as EV Demand Slows - Businesskorea",
+      "companies": [
+        "lg_energy",
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wWjhRblkyVFdPWHk5SmxfdHNfeER3X1piVkM2V1ZZQ1cwaFR1N0tSQVRFTkItQkQzNGcyMHdXT1B2aFloZmdydVVSWVBteDV1aFFhVnFwTE1HbEQ4Wkg2aGlxUEI5TWNVOFpkbkNtZWpYLWRp?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "byd-2026-08-18-014",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Top battery makers' share in China in July 2026: CATL 42.33%, BYD 19.23%",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/08/18/top-battery-makers-share-china-jul-2026/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-18-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Home EV Charging Has A Hidden Cost. Here’s How To Reduce It And Lower Your Bill",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://insideevs.com/news/805275/home-ev-charging-losses-how-to-minimize/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-18-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China's power battery installations jump 33.5% in July, fastest pace this year",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/08/18/china-power-battery-installations-jul-2026/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 23,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 6
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "lg_energy",
+        "count": 1
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 419,
+    "dup_title": 202,
+    "too_old": 83,
+    "gate1_blocked": 25,
+    "gate2_blocked": 22,
+    "passed": 87,
+    "pass_rate": "40.1%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "CATL goes 100% zero-carbon electricity in core operations, targets value chain carbon neutrality by ",
+      "NextStar Energy’s Brett Hillock is Recognized as an Automotive News Canada Rising Star - LG에너지솔루션",
+      "Rivian R1S, R1T See 2027 Updates, Including Second-Row Captain’s Chairs - CNET",
+      "Rivian's electric SUV just got its most requested new feature - USA Today",
+      "Rivian Automotive (NASDAQ:RIVN) Trading Down 3.2% - Time to Sell? - marketbeat.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為寧德時代、特斯拉、比亞迪相關動態：「Top battery makers' share in China in July 2026: CATL 42....」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Top battery makers' share in China in July 2026: CATL 42.33%, BYD 19.23% - cn...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "LG Energy Solution, Samsung SDI See ESS Revenue Share Near 30% as EV Demand S...（電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
