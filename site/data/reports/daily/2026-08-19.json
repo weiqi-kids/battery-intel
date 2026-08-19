@@ -1,0 +1,229 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:41:16.788733Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-19-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Solar Power Passes 3 Terawatts!",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://cleantechnica.com/2026/08/18/solar-power-passes-3-terawatt-marker/"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-08-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Epicland X9 EREV pre-sales begin at 44,100 USD: featuring 74 kWh CATL battery and 465 km EV range - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2J4enhSVFhtTUNOWlRJNEdIeUN2Zzl0dlFpS1Rxb2trUkthSGRGR045dUZzZEZEUm9RM3FKZU0wbnhuLXIwNU9nVFh4c2hrSnRGWDJnVXhFT0NETjJvVUJmX3BCSTFnOUt4b2s3bk84VDE5cjF2b2pYdHFtZjFVWHJ6dVV2Z2tuX1NvSWZnVkM1eF9wRjc2V0hoc19PdERCMVkzTjlKemNSYS1VV0gyeHV2RmJ5clZraFFDVjlUYWdwbDV4eUZIakEwc3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-08-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL’s Robin Zeng says non-zero-carbon batteries will be left behind by the times - Energy-Storage.News",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnhzUnBKdUJBNmFzRlFGdEN0TWdLZFU0OVhFNDl1YV9ESXZxb1c2UkpwVVVtbnptUkZWekNWS1UxUHZxWjhMNUtwampUczdiUENJd0ZraG5mNG5IREVYQ0J1LVIxdXczLW1IamN4SmNCY3ZHUk14TkZ3T2VJWkN1bzRBRTJEZlFvaXNIVmxaZjFiU05GeGd0Zmk4cXl3WEUxWG50ejBsX0RYd200OTBWVG14QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-08-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dongfeng Liuzhou Motor, CATL deepen commercial vehicle battery partnership - Gasgoo",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVnY0UGlOUTlnWmE3OHJHR3RwSDk5VkZRZkxFelJLN2s5dFhfZlNrV2dNZ2JhUHJtZjZTSWhoN1pndXkzOENNTzBfanRabGpESWl2dUJDemtLMEhrM0lZSGM5aXJXa2R6bWUtaWpmbnY3UjZRUVZlMzZmMVFxMGFXVmduRmVJR3hvQ2o0Z2YtbUprQTVaOXBIN3VreUJEeVZQRWxmRVV3aEdyU3k1cDVMUU9LOVBueGlIWkh3QzRRdGNnUmpWREJfRnpfcXlDUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea’s LG Energy in Talks With US for Drone Batteries - Bloomberg.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSGV4dVJGUk1LUHhqUFJMUEV2cTFrWUhZUzAtaVJKcmhRVjBiOWhQM2t4NG1hM0hhR2VaamRzSWJ0eGU5RmxRZzBLZUZ3SmVySUdqaHI4X3NlTTNzS2w1VzF1TDh2T0RnZXh4ckJlUVVvaGV1c3hiLVBpLTNEYzlmcHRNZndUWnlQOWZISDdONm9ORTFPS0R4Q2kxVmlfT1VFMmNzOEdmVGQxbXVXVDdfMQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 27,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_energy",
+        "count": 8
+      },
+      {
+        "id": "catl",
+        "count": 4
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 208,
+    "too_old": 85,
+    "gate1_blocked": 24,
+    "gate2_blocked": 17,
+    "passed": 93,
+    "pass_rate": "42.5%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "CATL goes 100% zero-carbon electricity in core operations, targets value chain carbon neutrality by ",
+      "Rivian's electric SUV just got its most requested new feature - USA Today",
+      "Rivian R1S, R1T See 2027 Updates, Including Second-Row Captain’s Chairs - CNET",
+      "Rivian Is Coming To The UK - Here’s Why You Should Care - Car Throttle",
+      "Rivian Adds Fleet Sales Leader Under New Chief Customer Officer - eletric-vehicles.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為LG新能源、寧德時代、福斯相關動態：「Solar Power Passes 3 Terawatts!」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Solar Power Passes 3 Terawatts!（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Epicland X9 EREV pre-sales begin at 44,100 USD: featuring 74 kWh CATL battery...（正極材料、電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

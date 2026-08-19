@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 24,
+  "gate2_fail": 17,
+  "passed": 93,
+  "gate2_samples": [
+    "CATL goes 100% zero-carbon electricity in core operations, targets value chain carbon neutrality by ",
+    "Rivian's electric SUV just got its most requested new feature - USA Today",
+    "Rivian R1S, R1T See 2027 Updates, Including Second-Row Captain’s Chairs - CNET",
+    "Rivian Is Coming To The UK - Here’s Why You Should Care - Car Throttle",
+    "Rivian Adds Fleet Sales Leader Under New Chief Customer Officer - eletric-vehicles.com"
+  ]
+}
