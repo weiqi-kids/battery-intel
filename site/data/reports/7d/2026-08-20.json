@@ -1,0 +1,155 @@
+{
+  "date": "2026-08-20",
+  "date_range": {
+    "start": "2026-08-14",
+    "end": "2026-08-20"
+  },
+  "generated_at": "2026-08-20T08:42:14.909623Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tesla-2026-08-14-032",
+      "date": "2026-08-14",
+      "title": "BYD launches the Qin Max EV for half the price of a Tesla Model 3 - Electrek",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 133,
+      "last_week": 146,
+      "week_over_week_change": "-9%",
+      "sentiment_this_week": 0.06
+    },
+    "ev_sales": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.33
+    },
+    "cathode_material": {
+      "this_week": 3,
+      "last_week": 9,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.33
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 17,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "byd": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "volkswagen": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "tesla": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "rivian": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "nio": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 5
+    },
+    "lg_energy": {
+      "event_count": 13,
+      "sentiment_avg": -0.04,
+      "rank": 2
+    },
+    "samsung_sdi": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "eve": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "pilbara": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 391,
+        "last": 504,
+        "change_pct": -22.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-14",
+      "event_count": 74,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 18,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 19,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 78,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 88,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 83,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-20",
+      "event_count": 31,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-14 ~ 2026-08-20）共 391 則事件，重點為「BYD launches the Qin Max EV for half the price ...」。電池產業通用、電動車銷量、正極材料為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "福斯",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

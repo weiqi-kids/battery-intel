@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 23,
+  "gate2_fail": 20,
+  "passed": 88,
+  "gate2_samples": [
+    "CATL goes 100% zero-carbon electricity in core operations, targets value chain carbon neutrality by ",
+    "Rivian spinout Also raises another $150M - TechCrunch",
+    "Rivian, Hyundai, Toyota, And Cadillac Are Fighting For Tesla’s Scraps - Carscoops",
+    "This Slick New iKamper Rooftop Tent Is Reason Enough to Get a Rivian - Gear Patrol",
+    "Rivian's electric SUV just got its most requested new feature - USA Today"
+  ]
+}
