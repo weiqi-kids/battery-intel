@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T08:44:34.693142Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_energy-2026-08-21-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LG Energy Solution Invests Record 725.9 Billion Won in Next-Gen Batteries - 조선일보",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUmU0WXVkR0QwS2VpcFRIaF9yRjlqRHRuVEwtajRZYTFBNWl0VUZHRjRJNTZpWmw1N3BYclF0UFhSOGFuMndZcm9PTlh4RHZDOFUycFNWUF9nQUNIUUdXdDNSN2NrdnQxeWtzTG1IT0pQRkM0MmpBSTRpaTFvUXFZQkxyMlBZcTdR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_sdi-2026-08-21-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Samsung SDI to sell $3.2 bn stake in display affiliate to fund US battery expansion; shares pare losses - KED Global",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00a3k4bmpYTVNqLVE1U21JM0E5T2ZoM3NUQkxwRTNlUzhKWENEUXNXSW14cnladkRxekl1c1lZYTNwd3NnNVlXcEF3TG56dV9Fak9rQ2w0Q2FDX2ZvTl9tSGYyQlJLa1JsY3VQcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-08-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL builds battery city in Ningde as young workers reshape economy - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYzN1Q3Q4OC1VLXpzWkIybkowZGx4UmpDNlhuLU9Kd2Zod1N2dVlybnRzcWVFQ3Bibm42aUxUX3ZxZ0Vja2NoeHpDNXpJSkFzZmxwOXFEWGFmQks0YkliU0xtM0RnWXdidEpoaVZvV2dFYlBjWDJqNmhvSXpSbGZxdTNiRjVIV1hP0gGcAUFVX3lxTFBfb0JqWGNCNmRaVjNwQXZoWGhxc3NScU80OWdQelJaaURqa09ZdkFvaGRIb3RLVVl4YllrcHdXUXVRX0ZFQkhNRXJoeTBvSDNPWDBnMGhfSWJKS0VuMTJpWmJJRGotY3g2bHBVN2FVSVBuN24zNFYxMGVTSFRrSXZMRk5XZmFPWnlMSy0tYVpjQnREUWhFOThLWmFfbw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_energy-2026-08-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution Starts Battery Production at New Michigan Plant - Electric Cars Report",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdzczUnBHU2NJQ0VSSWF4UXA5aHBOWVpUQV9sRnBwOGxxeWo1RDhidERuUUNncndDTEF3OGxLZlhLMjUwX29NbVJHMTVkdUp6QlNuVU1xamFBOXl5SXI5YllfWUJTUWRXMWhNcVZpQl9ZUERpd2d0MTN5V2RWSFdyWUFKZTR1aVRWemE3enhEaWNZLW5ITU5VeWI2UFRnNUxOYXAzR2JXY0w1Zw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_sdi-2026-08-21-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung SDI to sell $3.2B stake in Samsung Display to fund battery push for AI era - Korea JoongAng Daily",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUtIc2Iwc0ljYWM2Yi0wRGtUMzMwemJVODl4Nl9jUTN6djNPMVdCOGZ1UDVBSzRwc0tybl9IejhCMlRrbzZzRmZVajBHejJhYWdSTWRKdk9DN3JvZHptR011N1FhRzlpN1dQX0VxWXQzQkFLZEtHZDdKeXhvZXloWWY3SHEzVXVxTnZ1UkhnNjZqWUN4ZTkwamR0cWFZTHNYV1k1Z3NMeWdScGFWdGc0WjFMN29XSTRIc042bmxPMC1sUzc1SG9lQmw2QktlQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 34,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "samsung_sdi",
+        "count": 6
+      },
+      {
+        "id": "nio",
+        "count": 4
+      },
+      {
+        "id": "volkswagen",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "lg_energy",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 213,
+    "too_old": 67,
+    "gate1_blocked": 31,
+    "gate2_blocked": 20,
+    "passed": 95,
+    "pass_rate": "44.6%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "CATL Stock: How to Buy It, and What the Sodium-Ion Push Really Means - Memeburn",
+      "Schaeffler, CATL Partner on E-Mobility Solutions - AftermarketNews",
+      "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker - Reuter",
+      "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker - The Lu",
+      "Rivian R2 vs. Tesla Model Y: The Start-Up Goes Against the Sales Champ - Edmunds"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為三星SDI、蔚來、福斯相關動態：「LG Energy Solution Invests Record 725.9 Billion Won in Ne...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Energy Solution Invests Record 725.9 Billion Won in Next-Gen Batteries - 조선일보（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Samsung SDI to sell $3.2 bn stake in display affiliate to fund US battery exp...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

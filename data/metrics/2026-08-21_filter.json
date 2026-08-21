@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 213,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 31,
+  "gate2_fail": 20,
+  "passed": 95,
+  "gate2_samples": [
+    "CATL Stock: How to Buy It, and What the Sodium-Ion Push Really Means - Memeburn",
+    "Schaeffler, CATL Partner on E-Mobility Solutions - AftermarketNews",
+    "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker - Reuter",
+    "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker - The Lu",
+    "Rivian R2 vs. Tesla Model Y: The Start-Up Goes Against the Sales Champ - Edmunds"
+  ]
+}
