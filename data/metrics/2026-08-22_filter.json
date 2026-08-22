@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 258,
+  "no_date": 0,
+  "too_old": 61,
+  "gate1_fail": 24,
+  "gate2_fail": 16,
+  "passed": 68,
+  "gate2_samples": [
+    "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker - Reuter",
+    "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker - The Lu",
+    "Rivian R2 vs. Tesla Model Y: The Start-Up Goes Against the Sales Champ - Edmunds",
+    "Rivian spinout Also raises another $150M - TechCrunch",
+    "Rivian, Hyundai, Toyota, And Cadillac Are Fighting For Tesla’s Scraps - Carscoops"
+  ]
+}

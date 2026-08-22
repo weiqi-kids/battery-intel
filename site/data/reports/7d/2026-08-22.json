@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-22",
+  "date_range": {
+    "start": "2026-08-16",
+    "end": "2026-08-22"
+  },
+  "generated_at": "2026-08-22T08:33:58.305479Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "byd-2026-08-17-031",
+      "date": "2026-08-17",
+      "title": "BYD Keeps Global EV Lead as Tesla Sales Rebound - TradingView",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 149,
+      "last_week": 134,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.04
+    },
+    "cathode_material": {
+      "this_week": 3,
+      "last_week": 8,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.33
+    },
+    "ev_sales": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "tesla": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 3
+    },
+    "byd": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "rivian": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nio": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "catl": {
+      "event_count": 16,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "lg_energy": {
+      "event_count": 15,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "samsung_sdi": {
+      "event_count": 9,
+      "sentiment_avg": -0.05,
+      "rank": 6
+    },
+    "volkswagen": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "eve": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "pilbara": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "sk_on": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 462,
+        "last": 480,
+        "change_pct": -3.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-16",
+      "event_count": 19,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 80,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 89,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 89,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-20",
+      "event_count": 83,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-21",
+      "event_count": 93,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-22",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-16 ~ 2026-08-22）共 462 則事件，重點為「BYD Keeps Global EV Lead as Tesla Sales Rebound...」。電池產業通用、正極材料、電動車銷量為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "特斯拉",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Rivian",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
