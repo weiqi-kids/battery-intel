@@ -1,5 +1,81 @@
 [
   {
+    "id": "catl-2026-08-23-001",
+    "date": "2026-08-23",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CATL Aviation Battery Passes Thermal Runaway Test for Adjacent Cells - markets.businessinsider.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ1NEbXl1cElQS1FVWm1QSWVGUUo0dGJiZzhIQ1JmeXBJMThsNTNFU0ViRkwxOVI4djl2bXBKSG1xYUM1R01MWUs2Nkg2aS1yNkMxX2dpcXdQMlNYR3NDN0Z1bDVCYndMWDJqM21CT3",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ1NEbXl1cElQS1FVWm1QSWVGUUo0dGJiZzhIQ1JmeXBJMThsNTNFU0ViRkwxOVI4djl2bXBKSG1xYUM1R01MWUs2Nkg2aS1yNkMxX2dpcXdQMlNYR3NDN0Z1bDVCYndMWDJqM21CT3dkRVlDT3p1SXFQUlRnZGo4a3lyVUNhZUR3V29xc0tVNTl1Z3JyaHVsSHBFem9Db2RZYWRpWXBQd3gwVExad1FGTGpOWEphVHdvXzZxMmxmWXJiQkdBSkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catl-2026-08-23-002",
+    "date": "2026-08-23",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CATL and Quinbrook Build on Supernode Partnership Following Stage 2 and Stage 3 Major Milestones - markets.businessinsider.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSkM4Tklta0VlZjVLYWk2X3JkX25TTWlrSWl1ZHNjbEdMdFJnR1oyNDNqcWRLXzRZN2hWcFdsLWY1VzczVXFHZGd4Y2JrbHFwSlhCM3h3NC02RGRSQzlOOHhBSFp2c19JRkRQSlVLZ1",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSkM4Tklta0VlZjVLYWk2X3JkX25TTWlrSWl1ZHNjbEdMdFJnR1oyNDNqcWRLXzRZN2hWcFdsLWY1VzczVXFHZGd4Y2JrbHFwSlhCM3h3NC02RGRSQzlOOHhBSFp2c19JRkRQSlVLZ1c5TjBhclF6NTc4Z2UyeXRfVFJ6UFpkajV0TjVQT2V1OV9EUFNDSk9iQ1hFbVVEVjVOd2xYMG9TdnRSSFpndjljM001UWRnclpCVXFEYnp1YXI0ZGNrTWUtUnlQMmNONnViWHZ6QlBEVUYxY0lLTGwtYVhoS0NydjhOeHJV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-23-003",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "'Most Companies Are Struggling': Executive Shares An Uncomfortable Truth About Solid-State EV Batteries - InsideEVs",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVmpiNE9XaXZwZ3ZEclFyOE02b1gtemxTbGNabGZKYURoWURMTEdGbXBBNkwwU083WldELVgwQkk3LVVDckVCMGxaTjNaXzVRamZ0R3RTdWJ6YXVRTWhrR1BiYUVCTVh3YXdjaTlHMW",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVmpiNE9XaXZwZ3ZEclFyOE02b1gtemxTbGNabGZKYURoWURMTEdGbXBBNkwwU083WldELVgwQkk3LVVDckVCMGxaTjNaXzVRamZ0R3RTdWJ6YXVRTWhrR1BiYUVCTVh3YXdjaTlHMWxneFA1WmpGeGdOQ1FBSkliSDJnRENFalo4Ukdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-23-004",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Battle for the \"No. 1\" Title in Residential Storage Cells: REPT BATTERO and Great Power Energy Each Claim the Crown, Exposing Chaotic Statistical Standards - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBJUEhIM0FGWHNxa19BajlpNEVJbk9idXJ4cjJ4MVFTNEFMT1llRHRxSU1FVXh5RU5LVWRVbklpMHZfaVplMW9mZEUwWlFUOGVFSG9LdHZfeGdQSUttVWRjcjRZZEpNVEY3aldubzhPX2",
+    "sources": [
+      {
+        "name": "eve",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJUEhIM0FGWHNxa19BajlpNEVJbk9idXJ4cjJ4MVFTNEFMT1llRHRxSU1FVXh5RU5LVWRVbklpMHZfaVplMW9mZEUwWlFUOGVFSG9LdHZfeGdQSUttVWRjcjRZZEpNVEY3aldubzhPX2xGOTlhNEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "volkswagen-2026-08-22-001",
     "date": "2026-08-22",
     "companies": [
@@ -161,6 +237,251 @@
       {
         "name": "pv_magazine",
         "url": "https://www.pv-magazine.com/2026/08/22/ac-coupled-vs-dc-coupled/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-010",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The company that just opened America's newest battery plant says solid-state cars are a decade away - The Next Web",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTzhHdi1FQzFWNTZCeVFMcUFlaTN0dDRXZGl2ckIzSFFQMGo0ajMtVjU5UFNXYk5zYkw0VGlIcXNQZktkR2hkRThwQ21LQjFYRUZkTGt5cXRadUFESFFUdXBIdWw2bW9sd3pocURzVD",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTzhHdi1FQzFWNTZCeVFMcUFlaTN0dDRXZGl2ckIzSFFQMGo0ajMtVjU5UFNXYk5zYkw0VGlIcXNQZktkR2hkRThwQ21LQjFYRUZkTGt5cXRadUFESFFUdXBIdWw2bW9sd3pocURzVDNYeWswOGptUkg1TU9fclBlRA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ganfeng-2026-08-22-011",
+    "date": "2026-08-22",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ganfeng Lithium Group Co., Ltd. Unsponsored Each ADR Representing 1 Ordinary Share (GNENY.US) will release its financial report after market close on August 27. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnhKcmYwQXRVcDByR1AxOFZ3NGZBX094ZXI3WmUwNE5aZjZ5dnV3Wm5BMDVCODdCcE5mOE54b1l6RTFRMXRjcmt6UjhyRk84RHJodzNSTTFrWF9iRHJNUlhWQ3hDVXJHRjdaZUN5ej",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnhKcmYwQXRVcDByR1AxOFZ3NGZBX094ZXI3WmUwNE5aZjZ5dnV3Wm5BMDVCODdCcE5mOE54b1l6RTFRMXRjcmt6UjhyRk84RHJodzNSTTFrWF9iRHJNUlhWQ3hDVXJHRjdaZUN5ejJYeUtuYklOdnV0MXMyalZVMXhGMVdaaEtsRTMxS0ZRZHZDejVQOHByTExwcnR5Um9ka0ZSVHVOVjJJUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-08-22-012",
+    "date": "2026-08-22",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian CEO admits company tore apart a very popular Chinese EV and shares what they learnt from looking inside - supercarblondie.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNc3pyMHRtUENCVkxXeTJaVkhVb3lUWk1WR2hmVVUyUWxEQ3c4RFVVTUxOQm1fWjdiSnMxdWpXbVFjYnZNcFRWbVhBRHpremVCYlhJT0Z6WUJET0NCUmUtSFkzUFlHd09Qb2FaN1ljWk",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc3pyMHRtUENCVkxXeTJaVkhVb3lUWk1WR2hmVVUyUWxEQ3c4RFVVTUxOQm1fWjdiSnMxdWpXbVFjYnZNcFRWbVhBRHpremVCYlhJT0Z6WUJET0NCUmUtSFkzUFlHd09Qb2FaN1ljWkUyajJOcFpTY3NueEhia1Vzb2JfRmdreGdqWGc0TzVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-08-22-013",
+    "date": "2026-08-22",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Brand New EV At Used-Car Prices Makes The VW ID.4 A Bargain Right Now - CarBuzz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWkVkdTc0b3hoY2dPbjE3MWJOOEdodHlvSFZRVWYtc3JrMGxWd24yMThUTTNUWW05ZllsY0xxQTdtekliRG9NZEFIbXlSSlY0UFpCbHFTVnQ1WkstdmxGQm5tSFp0bm0xRjlqTVFyd3",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWkVkdTc0b3hoY2dPbjE3MWJOOEdodHlvSFZRVWYtc3JrMGxWd24yMThUTTNUWW05ZllsY0xxQTdtekliRG9NZEFIbXlSSlY0UFpCbHFTVnQ1WkstdmxGQm5tSFp0bm0xRjlqTVFyd3BZV2pwOXNGSUZySXNYLVVjYWVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-08-22-014",
+    "date": "2026-08-22",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "'Most Companies Are Struggling': Executive Shares An Uncomfortable Truth About Solid-State EV Batteries",
+    "summary": "Korean battery giant LG Energy Solution said key challenges in solid-state battery development remain.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/805750/lges-solid-state-battery-evs-uncomfortable-truth/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-015",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck",
+    "summary": "Mahle says its new range extender can fit in the same space as a battery module, increasing driving range to roughly 500 miles.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/805476/electric-truck-range-extender-mahle/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-016",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "MG 07 gets over 10,000 firm orders in under 2 minutes as MG ramps up capacity",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/08/2026082210094755.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The MG 07 surpassed 10,000 firm orders in 1 minute and 57 seco",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/08/22/mg-07-10000-firm-orders-2-mins/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-08-22-017",
+    "date": "2026-08-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla will launch Cybercab on September 3",
+    "summary": "<p>Tesla Cybercab is set to launch in Austin, Texas, on September 3, as the company has officially started sending out invitations to a dedicated event it will hold in the city where its headquarters ",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-cybercab-launch-official-date-austin/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-018",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Red States Are Killin’ It With Their Solar Factories",
+    "summary": "<p>The solar-enabled microgrid specialist Translucent Energy has just added a new 1.3 gigawatt solar factory in South Carolina to its portfolio, with plans for further expansion already under way.</p>",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/22/solar-factory-microgrids-ev-charging-startup-translucent-energy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-08-22-019",
+    "date": "2026-08-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "China Tightens Restrictions On Electric Door Handles, Forcing Tesla To Recall 3 Million Vehicles",
+    "summary": "<p>Tesla didn&#8217;t start the electric door handle craze. Hotrodders in the late 1940s and early 1950s substituted electric buttons for mechanical door handles in their effort to &#8220;de-chrome&#8",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/22/china-tightens-restrictions-on-electric-door-handles-forcing-tesla-to-recall-3-million-vehicles/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-020",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Starlink Is Now The Largest ISP In Zimbabwe By Subscriber Count!",
+    "summary": "<p>Quarterly reports from the Postal &#38; Telecommunications Regulatory Authority of Zimbabwe (POTRAZ) always bring out some interesting insights. I am always on the lookout for these whenever they g",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/22/starlink-is-now-the-largest-isp-in-zimbabwe-by-subscriber-count/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-021",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "ev_sales",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "The ICE Meltdown Continues — July’s China EV Sales Report (44% BEV Share)",
+    "summary": "<p>Petrol model sales crash 44% in July! High gas prices and a never-ending wave of new BEVs has allowed July to reach record EV market share, with plugins reaching a record 65%! However, while record",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/22/the-ice-meltdown-continues-julys-china-ev-sales-report-44-bev-share/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-022",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CleanTechnica Evangelist Report Card",
+    "summary": "<p>This is my 194th article for CleanTechnica. I think you might say that I am a CleanTechnica (e.g. clean energy) evangelist. I also have taken my electric cars to car shows and driven them in 4th of",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/22/cleantechnica-evangelist-report-card/",
         "type": "rss"
       }
     ]
@@ -1930,6 +2251,104 @@
     ]
   },
   {
+    "id": "lg_energy-2026-08-21-094",
+    "date": "2026-08-21",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy Solution starts production at new Michigan battery factory - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOSzVvWlVYY1d2aDdMallfSW1RdGVrT1dIX2lOLU5kOGNOTEZzVHJWUHBmeFo4ZzdGdll0WVVhS3ZzTENuc2lBaVVjSGRkZkhEV0hreG5uRTVCLVFTVXhiWDI0aU1GVXh6WEVRWUpVck",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSzVvWlVYY1d2aDdMallfSW1RdGVrT1dIX2lOLU5kOGNOTEZzVHJWUHBmeFo4ZzdGdll0WVVhS3ZzTENuc2lBaVVjSGRkZkhEV0hreG5uRTVCLVFTVXhiWDI0aU1GVXh6WEVRWUpVck9NUnppWVZ4N09jVUNWdjhvQjRPUE1UZl9TQ0ZXWWpSWjZlYVBKaHVKZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-08-21-095",
+    "date": "2026-08-21",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2026 BYD Seal 6 Touring Premium Review: Has BYD brought the affordable family wagon back from the dead? - EV Central",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPelZGMHpZY0dYcXFGc0stdkxlX0RDT3hsR2JMcHIwZm1mRkJ2TjdWNlRYZ1ZHbnY1RjhWZHhkTURHY1JoYVNlazQ0VkNXVVpPTHF2UGU0X1B5SlMwUGo5bEptUmxhWFR3Yk5hTUl1d3",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPelZGMHpZY0dYcXFGc0stdkxlX0RDT3hsR2JMcHIwZm1mRkJ2TjdWNlRYZ1ZHbnY1RjhWZHhkTURHY1JoYVNlazQ0VkNXVVpPTHF2UGU0X1B5SlMwUGo5bEptUmxhWFR3Yk5hTUl1d3pqSzJSUk1JclJGckRPX2RiSE1RcmJxZDNlYlhyNHhXRDlaTGlkR0xDakVsdEM1QUgyVVkyYUJGb3ZrNGp4bmIzRHd1R0w4SXJFbERvMkhCRkJDUDNGRVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-08-21-096",
+    "date": "2026-08-21",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian Warns Select R2 Owners Not to DC Fast Charge Their SUVs, an Investigation Has Been Announced - autoevolution",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSFZrZ2lUcXdEYklFWV9tTTZMYVJYSjVjVTd2SUVuckcyZ1NYbGlucXhTT2tZZXMzQWNOSlJUeGdJcDJUSmpGRG9IUFRDUHNsdVNHNEVhM3BnckRpR1l6cEFlWG1RX2IyeElKNmpod3",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSFZrZ2lUcXdEYklFWV9tTTZMYVJYSjVjVTd2SUVuckcyZ1NYbGlucXhTT2tZZXMzQWNOSlJUeGdJcDJUSmpGRG9IUFRDUHNsdVNHNEVhM3BnckRpR1l6cEFlWG1RX2IyeElKNmpod3BPNGhyTzZ0d2M4SFkwS2lRLVhNUTdaNWFxMjJDVFdWeGJJczhQb3A5Skt6LU9MckVSblF3VEJTd2tsempZQjdfbTlaV3JDZlh1d0ZUVmdHN3BCQXlfTlJLeGNubTRkSHdUUlFNNzlkcnE2c0xmN2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-08-21-097",
+    "date": "2026-08-21",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rivian R1S and R1T OS 2 Moves Media Controls Closer to the Driver, and That May Matter More Than the New Graphics - Torque News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWml5cklUTzRFTF9vdUp3RV9ZUGN4X1M0aGRIQUljcGFLdGItT3dJR0dKTDZraUhUUE1CSkRWNjNsMWI1cVEwbEdJb3pPZWk3dmxEMExRVWxPNWR0ZDAwUkxTeGZPMjFuZjV3aU03OW",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWml5cklUTzRFTF9vdUp3RV9ZUGN4X1M0aGRIQUljcGFLdGItT3dJR0dKTDZraUhUUE1CSkRWNjNsMWI1cVEwbEdJb3pPZWk3dmxEMExRVWxPNWR0ZDAwUkxTeGZPMjFuZjV3aU03OWdPdmZqaVlfb1ByNloxY084MDRvRjJjX0xPd3ppcUdqWjNzMmZ5MnZEd0tsNUIyM3RmOWVhQUJ1NTV5Y2RnRWRsdGQ1bVVBbTZLaFVnVjJHbWpCUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-08-21-098",
+    "date": "2026-08-21",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SAIC VW launches ID. ERA 5S sedan in China from about $13,260 - CnEVPost",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5PV0d1NzI3X1ZiTElJclAxUnRHVnFSZ0V0TFQtdHdVbVMxZzJwTThvb0J4SF9vakhBSktfUHpIR3pqU2ZKeUZXYngzMGRXdElKNFhRVEY3X3ZLSU1JY3lOX1dUcmNHQ2NvRU1j?oc=5\"",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PV0d1NzI3X1ZiTElJclAxUnRHVnFSZ0V0TFQtdHdVbVMxZzJwTThvb0J4SF9vakhBSktfUHpIR3pqU2ZKeUZXYngzMGRXdElKNFhRVEY3X3ZLSU1JY3lOX1dUcmNHQ2NvRU1j?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-08-20-001",
     "date": "2026-08-20",
     "companies": [
@@ -3505,6 +3924,24 @@
       {
         "name": "volkswagen",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGIzWkxpbTBucnNDZWhzTUlfb3JnQ2lrVVdxdm8zWDV3d3IzMmFoU2JyRjFIM2FPeS1mMkFMRmVjLTQwdFlRYzlSRjY2a0RhcEl3bjM4SWpydldpRmxHRzNTb0kzbjBydmpHZEJSaXVNM25PTXJvWmlvWGo1UmlrSm9HYkJ6ZS1Ldml5cWpjSlJubGpvVTdDbFR1cDVYSVZCUGkxNHhrSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-084",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy continues to pivot away from EV batteries - CBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2RGZGhvUFpxaTlVNW53T1lLUFROcWI3c05vdHRPNDI4bHZrNXlhUWlhUmN0V2hlYmpWVmUxVXFQRHNiV3NBbHNZcjU5bnNiYUVrdXpEejdzMTB0eEdLaTNVc1ZWd3JUMGdtbk0zV2",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2RGZGhvUFpxaTlVNW53T1lLUFROcWI3c05vdHRPNDI4bHZrNXlhUWlhUmN0V2hlYmpWVmUxVXFQRHNiV3NBbHNZcjU5bnNiYUVrdXpEejdzMTB0eEdLaTNVc1ZWd3JUMGdtbk0zV2JDbmFZbzlZd1pwdGxCZThTVlVjaXJyQUk?oc=5",
         "type": "rss"
       }
     ]
@@ -5196,6 +5633,24 @@
       {
         "name": "renewableenergyw",
         "url": "https://www.renewableenergyworld.com/power-grid/outage-management/tens-of-thousands-in-indiana-are-still-without-power-a-week-after-deadly-storms/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-090",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Zero Carbon Narrative: A New Weapon for the 'Battery King'? - Gasgoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmtTSnZQeWtlWndIYklBQm94eUNOdl9Sa2Z5NUNIdVNla0FFSGp1eWVCTk5ZRHFtTEtIS2VHMkx0c01wWTNKRUZqYzVrWXJVeTNIckVJVDVwamxwRXp1bnlMX1JBWm5ORXQ1Mnp2Yk",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmtTSnZQeWtlWndIYklBQm94eUNOdl9Sa2Z5NUNIdVNla0FFSGp1eWVCTk5ZRHFtTEtIS2VHMkx0c01wWTNKRUZqYzVrWXJVeTNIckVJVDVwamxwRXp1bnlMX1JBWm5ORXQ1Mnp2YkQ3b0ViLUkxTF9FQ0J2NWg3VWdqeHMySzRIWVAzWEpmYzhxeU15WExkMFF1QWdwbzlhU3hPLWVaNGdLZGFOcklSWFVSRUhiMnZ6?oc=5",
         "type": "rss"
       }
     ]

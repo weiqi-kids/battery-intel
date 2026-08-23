@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 297,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 22,
+  "gate2_fail": 16,
+  "passed": 24,
+  "gate2_samples": [
+    "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker - Reuter",
+    "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker - The Lu",
+    "Rivian R2 vs. Tesla Model Y: The Start-Up Goes Against the Sales Champ - Edmunds",
+    "Rivian, Hyundai, Toyota, And Cadillac Are Fighting For Tesla’s Scraps - Carscoops",
+    "Dutch Insurer Limits Lucid and Nio to Minimum Cover, Bars Nine Other Brands - eletric-vehicles.com"
+  ]
+}
