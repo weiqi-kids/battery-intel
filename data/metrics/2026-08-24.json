@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-24",
+  "total_events": 30,
+  "by_company": {
+    "catl": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "byd": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "samsung_sdi": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "pilbara": {
+      "count": 6,
+      "sentiment_avg": 0.17
+    },
+    "rivian": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 26,
+      "sentiment_avg": 0.17
+    },
+    "lithium_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
