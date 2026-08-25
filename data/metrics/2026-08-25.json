@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-25",
+  "total_events": 27,
+  "by_company": {
+    "catl": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ganfeng": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "pilbara": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "umicore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 26,
+      "sentiment_avg": -0.01
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
