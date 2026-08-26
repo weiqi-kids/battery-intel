@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T08:48:05.144640Z",
-  "quarter": "2025-06-30, 2026-03-31, 2026-06-30",
+  "updated_at": "2026-08-26T08:48:46.634563Z",
+  "quarter": "2026-03-31, 2026-06-30",
   "companies": [
     {
       "id": "albemarle",
@@ -160,17 +160,17 @@
       "name": "Pilbara Minerals",
       "ticker": "PLS.AX",
       "currency": "AUD",
-      "ar": 5363000,
-      "ar_prev": 42407000,
-      "ar_qoq": "-87%",
+      "ar": 118002000,
+      "ar_prev": 5363000,
+      "ar_qoq": "+2100%",
       "ar_period": "YoY",
-      "inventory": 159620000,
-      "inv_prev": 132230000,
-      "inv_qoq": "+21%",
+      "inventory": 171119000,
+      "inv_prev": 159620000,
+      "inv_qoq": "+7%",
       "inv_period": "YoY",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-06-30"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "rivian",

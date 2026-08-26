@@ -1,0 +1,16 @@
+{
+  "total_raw": 428,
+  "dup_title": 254,
+  "no_date": 0,
+  "too_old": 58,
+  "gate1_fail": 24,
+  "gate2_fail": 18,
+  "passed": 74,
+  "gate2_samples": [
+    "A closer look at CATL Tener S 6.017 MWh BESS - pv magazine Global",
+    "CATL debuts e-commerce hub for direct sales to small buyers as rivalry sharpens - South China Mornin",
+    "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker - Reuter",
+    "Stocks to Watch Today Amid Results: Perenti, Pilbara Minerals and Nuix - Kalkine",
+    "BYD’s low-cost electric hatch is about to get a bigger sibling - Electrek"
+  ]
+}

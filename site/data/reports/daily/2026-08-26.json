@@ -1,0 +1,190 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T08:48:50.545715Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-26-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Li Auto narrows Q2 loss as margin remains nearly half year-earlier level",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/08/26/li-auto-earnings-q2-2026/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-26-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China NEV retail sales fall 12% in first 23 days of August as decline narrows",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/08/26/china-nev-retail-first-23-days-aug-2026/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-26-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Energy Storage Is Strengthening Reliability. These 5 States Are Leading the Charge.",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/25/energy-storage-is-strengthening-reliability-these-5-states-are-leading-the-charge/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-26-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ireland’s sixth renewables auction puts solar to the test under new NZIA rules",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/26/irelands-sixth-renewables-auction-puts-solar-to-the-test-under-new-nzia-rules/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-08-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Aito maker Seres’ new Aiva brand to feature CATL battery swapping - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2t4ak8teldjY1UtRnMtODYtVkpWQVNad1pCSnMtY2ZjU1VYSkwxajFCYzBXRUdjbnhCTkdMM244MldyZ01PLWV2QWtLeVMyRk5icXpyWU43NkR3cDhDWGlXcDNnUGpHZDd6NmlONE1ZZThha1kxLWEwNVlJSV81MzdMNk1TV2RNekJlSkQtZExVcVdJLW4xYmg5bUd6Z3NxS21r?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 17,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "pilbara",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "catl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 428,
+    "dup_title": 254,
+    "too_old": 58,
+    "gate1_blocked": 24,
+    "gate2_blocked": 18,
+    "passed": 74,
+    "pass_rate": "42.5%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "A closer look at CATL Tener S 6.017 MWh BESS - pv magazine Global",
+      "CATL debuts e-commerce hub for direct sales to small buyers as rivalry sharpens - South China Mornin",
+      "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker - Reuter",
+      "Stocks to Watch Today Amid Results: Perenti, Pilbara Minerals and Nuix - Kalkine",
+      "BYD’s low-cost electric hatch is about to get a bigger sibling - Electrek"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為Pilbara Minerals、比亞迪、寧德時代相關動態：「Li Auto narrows Q2 loss as margin remains nearly half yea...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Li Auto narrows Q2 loss as margin remains nearly half year-earlier level（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China NEV retail sales fall 12% in first 23 days of August as decline narrows（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
