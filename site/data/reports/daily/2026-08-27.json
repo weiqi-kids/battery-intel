@@ -1,0 +1,228 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:58:39.456507Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-27-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Segway Navimow X430 robot mower $2,249 in Labor Day Sale, EcoFlow Monthly Madness power station flash sale, Worx, EVs, more",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/08/27/segway-navimow-x430-robot-mower-labor-day-sale-ecoflow-power-station-worx-more/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese researchers unveil high-stability lithium metal battery with energy density exceeding 600 Wh/kg - CarNewsChina.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWXE3XzB2dWRWSmF4SllDR2JrSWZWekpJbk9veVk3UkRhOVpPdVNGdUY3U1BVXzd2QXRTWlJNbGNkM2V3OHJPT2J2U1U3SlMtTnNGNFhsdnozR0dFMU85TzE5bHZ2RllMRmtBeGdIZ3g4QWFvOE95WEN5cEt2MGd3bGZjNC1zUXM1MmR0ZmMydElIZ3hkQzhMOG1wcWNkTFR2am9yc2toOXVwTEh6NFN2b3htZlZDUGxNczAxa082QU9kZ0RGNE5SRjhrbWhjNkxmUzFzUGcxaw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_energy-2026-08-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution’s new Lansing plant starts making cells for grid storage and EVs - Charged EVs",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUnJvOUhTVTItMF84eWNDd0QwMGhtN2lUVGtqcEpHMEptVnl3VjM0QklPMDRkelRMaHhXNER6LVc5emRNZXZLcjRGM1F3RzRDb2haSW9zc1JZeXFpSWpaSW4xRUhVTDVmZUNJY2VqeEt4aHZic1NPME1LQUM0eTRudlgyUTlLa0JoT09ZYnVJaGJGb1Y0N21rNmJ6NzI3OHhqTEZQa1RCeVhLZFpPTGZsaUhQU0plUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_sdi-2026-08-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung SDI Takes Full Ownership of Indiana Plant - thebuzzevnews.com",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KdWRCVDJZMjFPYXRVWUlsaGk5dGZPbVhCcTVxQlJOM2w5RWVjTE82cXJjZ1FlR0MwVXZNa2c5ZWJ1TXBMXzVOMXAtZzg1UmVkUjFIalgyVFVrMm9yWkxYeDhRUVhQYk5ka3NmTENTeGNtQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "eve-2026-08-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Gasgoo Daily: Xiaomi Auto Confirms 2027 Europe Entry; Li Auto to Roll Out In-House Batteries Across Entire Car Lineup; EVE Energy Opens Arctic Shipping Route - Gasgoo",
+      "companies": [
+        "eve"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNM2pDY2VTVnBIaVZ4cDM5dy0zN295M2Y0VTBkdFhjZ0JRVEl4TE54YW5BNGVxeDRYTjlWTjV5WkpyeFhDMHBudUlYeHA0bDVnbGNfWGdQTUw4SnhPVWNQbkNFOHJxYmU3RXVBbE9ZeVROVEg4Y1ZlV0h3WnZ5RFI0bnFBQ1ZyMlBFNllyTGNyWnhINGswTXg4dTNnSVc3LXhZUm9zVHczd0NpYWI3MXJUREJibFoxMF9ha1JZNkxCbGtmdVZ5MXZ2SEFhdTh6S2dCNW9CZEFYNy1FYWVxNHFRbWxFbkFXR2RwWGIxcVNhSE1KZjE0QXg2NGxTa0ZHeHhXVzNuczNZa1NteWlhSk96WEpucHdsQVAtUGFORkxMV0c2M2tWQXg4NVhZVzFaNHRvSmZzZFVQZVp1SHJY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "battery_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 50,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 46,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ganfeng",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 4
+      },
+      {
+        "id": "rivian",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "nio",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 49
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      },
+      {
+        "id": "battery_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 229,
+    "too_old": 56,
+    "gate1_blocked": 32,
+    "gate2_blocked": 25,
+    "passed": 84,
+    "pass_rate": "42.6%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "CATL debuts e-commerce hub for direct sales to small buyers as rivalry sharpens - South China Mornin",
+      "A closer look at CATL Tener S 6.017 MWh BESS - pv magazine Global",
+      "Stocks to Watch Today Amid Results: Perenti, Pilbara Minerals and Nuix - Kalkine",
+      "BYD Has Outsold Telsa Globally, But You Can't Get Them in America. Which Are Its Best Models? - Auto",
+      "BYD’s low-cost electric hatch is about to get a bigger sibling - Electrek"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 50 則事件，焦點為贛鋒鋰業、比亞迪、Rivian相關動態：「Segway Navimow X430 robot mower $2,249 in Labor Day Sale,...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Segway Navimow X430 robot mower $2,249 in Labor Day Sale, EcoFlow Monthly Mad...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Chinese researchers unveil high-stability lithium metal battery with energy d...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電池成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
