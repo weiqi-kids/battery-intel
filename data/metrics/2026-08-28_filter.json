@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 221,
+  "no_date": 0,
+  "too_old": 57,
+  "gate1_fail": 35,
+  "gate2_fail": 19,
+  "passed": 92,
+  "gate2_samples": [
+    "CATL debuts e-commerce hub for direct sales to small buyers as rivalry sharpens - South China Mornin",
+    "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker - Reuter",
+    "Stocks to Watch Today Amid Results: Perenti, Pilbara Minerals and Nuix - Kalkine",
+    "BYD Has Outsold Telsa Globally, But You Can't Get Them in America. Which Are Its Best Models? - Auto",
+    "Rivian’s CFO is leaving the company - TechCrunch"
+  ]
+}

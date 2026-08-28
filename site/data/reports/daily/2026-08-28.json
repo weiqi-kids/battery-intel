@@ -1,0 +1,252 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T20:01:22.072313Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nio-2026-08-28-047",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nio, BYD and Xiaomi provide relief funding after Xizang mudslide",
+      "companies": [
+        "nio",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/08/28/nio-byd-xiaomi-provide-relief-xizang-mudslide/"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-08-28-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Interim reports of CATL, EVE, REPT and other listed Chinese BESS players: Leaders see steady earnings growth, second‑tier returns to profitability - Energy-Storage.News",
+      "companies": [
+        "catl",
+        "eve"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOakRwVktSbGxtWjVTWm1CdU04TDRfSjZMci1hVkZzRUNKLXd1UjVkZGxySV8zRzlfc0F4RUxfMDFEcFNuUnpQTEVFbUVPY3JlN0VMTUlHOEQ1TWtYRFZ3bkRkMzBORFB6dUcxY3BkOHl6bGNGcjd0N0hEakI4eGNTMHJJOHZONTRiYTQ5QndrVkdBYnJoMmhvZUh3blRYeVpkYTM2ekdsbTFHcGozSm5uX0ZITm5qY1JhakRnOTAwTjR5bkFUOVljbTVFQXlUSUlGdXVFMTRzcG5aQ2VZNE1ReTdVQjQxNmdjdDZKdHh1bmRwRGFGNU5PM3BZR2JsUHFFNUtOa05B?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-08-28-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "H1 2026 Profit Recovery: CATL, EVE Energy, CALB, Gotion, Great Power, REPT, Desay - News and Statistics - IndexBox",
+      "companies": [
+        "catl",
+        "eve"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZTNWZVVRV1dMX0M5NnRiTXBaVTNqdlY3dEpnQ3JaQmJaazFLeU5Ed3piSmU4ZXQyc3ZaQnFBekJ4aDhCWW4tTVpubWxDbkU5Z1lqS2UyZEtBS1pxWUhCcnFKUUxuX0NsSDFkdnhUS2w3eHVFRmEybkRDcTkzd0hKYjZQNnlKQVVxdjRObVF4R2kwbGhkREswUExuRnFoQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tesla-2026-08-28-018",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rivian Falls 6% as CFO Departs for GE Vernova; Lucid Slips, Tesla Holds Steady - 24/7 Wall St.",
+      "companies": [
+        "tesla",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNlFYX2EyMmJPUlVxUXphbjNKSTFodHVybXVIUmhTYk43MXc4NUlJRFh1MjNJVmRVODlBRzJSQVFOb0VfNEdZelJEN3pVWWhPMVhNakpZU0Y2VG9pQk1PQ1BWRGtXSldjcXYydzVqa0MzbS1QZTJGRFJFU0ZOOWYzbThleUFIY1VwcXQwVFdRVTVBakNFZmk4SnRQSDU3MVVTeHZHZThyOGdFU1EtckRicmJyWTZwQkF3dnF3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tesla-2026-08-28-028",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Podcast: Tesla Cybercab launch, Cybertruck prices rise, VW launch electric camper, and more",
+      "companies": [
+        "tesla",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/08/28/podcast-tesla-cybercab-launch-cybertruck-prices-rise-vw-launch-electric-camper-and-more/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 63,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "catl",
+      "to": "eve",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 69,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 58,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 10
+      },
+      {
+        "id": "tesla",
+        "count": 8
+      },
+      {
+        "id": "volkswagen",
+        "count": 7
+      },
+      {
+        "id": "byd",
+        "count": 6
+      },
+      {
+        "id": "rivian",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 63
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 424,
+    "dup_title": 221,
+    "too_old": 57,
+    "gate1_blocked": 35,
+    "gate2_blocked": 19,
+    "passed": 92,
+    "pass_rate": "45.3%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "CATL debuts e-commerce hub for direct sales to small buyers as rivalry sharpens - South China Mornin",
+      "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker - Reuter",
+      "Stocks to Watch Today Amid Results: Perenti, Pilbara Minerals and Nuix - Kalkine",
+      "BYD Has Outsold Telsa Globally, But You Can't Get Them in America. Which Are Its Best Models? - Auto",
+      "Rivian’s CFO is leaving the company - TechCrunch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 69 則事件，焦點為寧德時代、特斯拉、福斯相關動態：「Nio, BYD and Xiaomi provide relief funding after Xizang m...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nio, BYD and Xiaomi provide relief funding after Xizang mudslide（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Interim reports of CATL, EVE, REPT and other listed Chinese BESS players: Lea...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
