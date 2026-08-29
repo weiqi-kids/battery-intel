@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 279,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 33,
+  "gate2_fail": 19,
+  "passed": 29,
+  "gate2_samples": [
+    "CATL debuts e-commerce hub for direct sales to small buyers as rivalry sharpens - South China Mornin",
+    "Stocks to Watch Today Amid Results: Perenti, Pilbara Minerals and Nuix - Kalkine",
+    "BYD Has Outsold Telsa Globally, But You Can't Get Them in America. Which Are Its Best Models? - Auto",
+    "Rivian's finance chief McDonough steps down, joins GE Vernova - Reuters",
+    "Rivian’s CFO is leaving the company - TechCrunch"
+  ]
+}
