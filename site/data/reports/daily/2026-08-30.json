@@ -1,0 +1,107 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T13:42:46.669893Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bentley Launches Its Very First — No, Second — No, Third — Electric Car",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/30/electric-car-torcal-suv-luxury-bentley-us-evs/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Top Selling Electric Vehicles in the World — 27% EV Share in July!",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://cleantechnica.com/2026/08/29/top-selling-electric-vehicles-in-the-world-27-ev-share-in-july/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 130,
+    "dup_title": 86,
+    "too_old": 1,
+    "gate1_blocked": 29,
+    "gate2_blocked": 10,
+    "passed": 4,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "22.7%",
+    "gate2_samples": [
+      "Slate will offer a high roof cargo version of its compact pickup – and you can buy it!",
+      "E-quipment highlight: Tiger electric baggage tug hauls 30 TONS [video]",
+      "666 – il marchio della Spiaggia Lucciola Elettrica con un ricarico del 13 percento",
+      "Wheel-E Podcast: Powerful Bafangs, cops on Sur-Rons, Qronge, more",
+      "VW Turned The ID. Buzz Into An Electric Camper Van. The U.S. Is Next."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為電池產業通用相關動態：「Bentley Launches Its Very First — No, Second — No, Third ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bentley Launches Its Very First — No, Second — No, Third — Electric Car（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Top Selling Electric Vehicles in the World — 27% EV Share in July!（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 130,
+  "dup_title": 86,
+  "no_date": 0,
+  "too_old": 1,
+  "gate1_fail": 29,
+  "gate2_fail": 10,
+  "passed": 4,
+  "gate2_samples": [
+    "Slate will offer a high roof cargo version of its compact pickup – and you can buy it!",
+    "E-quipment highlight: Tiger electric baggage tug hauls 30 TONS [video]",
+    "666 – il marchio della Spiaggia Lucciola Elettrica con un ricarico del 13 percento",
+    "Wheel-E Podcast: Powerful Bafangs, cops on Sur-Rons, Qronge, more",
+    "VW Turned The ID. Buzz Into An Electric Camper Van. The U.S. Is Next."
+  ]
+}

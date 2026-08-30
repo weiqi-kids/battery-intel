@@ -1,5 +1,41 @@
 [
   {
+    "id": "unknown-2026-08-30-001",
+    "date": "2026-08-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bentley Launches Its Very First — No, Second — No, Third — Electric Car",
+    "summary": "<p>Bentley is aiming to attract urban drivers with the new Torcal SUV, its first ever 100% electric car produced in-house, sprinkled lavishly with high end pixie dust and peak Bentley-ness.</p>\n<p>The",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/30/electric-car-torcal-suv-luxury-bentley-us-evs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-30-002",
+    "date": "2026-08-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Top Selling Electric Vehicles in the World — 27% EV Share in July!",
+    "summary": "<p>Plugin vehicle registrations were up 7% year over year (YoY) globally in July, ending the month at around 1.8 million units. Once again, BEVs (+16% YoY) and PHEVs (-11% YoY) are experiencing opposi",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/29/top-selling-electric-vehicles-in-the-world-27-ev-share-in-july/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-08-29-001",
     "date": "2026-08-29",
     "companies": [
@@ -221,6 +257,47 @@
       {
         "name": "pv_magazine",
         "url": "https://www.pv-magazine.com/2026/08/29/chiles-hybrid-heroics/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-08-29-013",
+    "date": "2026-08-29",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Most “Park Outside” Warnings Involve Vehicles With Internal Combustion Engines",
+    "summary": "<p>Videos of burning Teslas more than a decade ago may have been the single biggest factor in the anti-EV attitudes of millions of people. They were damned scary, and even those of us who were staunch",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/29/most-park-outside-warnings-involve-vehicles-with-internal-combustion-engines/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-08-29-014",
+    "date": "2026-08-29",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "ev_sales",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Europe EV Sales Report: BEVs Reach 26% Market Share!",
+    "summary": "<p>Europe is no longer dependent on one player for the EV revolution. In a month that Tesla was down 36% YoY, BEVs jumped 51% YoY! Thanks to a number of factors (new cheaper models, high gas prices, m",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/29/europe-ev-sales-report-bevs-reach-26-market-share/",
         "type": "rss"
       }
     ]
