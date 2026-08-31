@@ -1,0 +1,235 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T15:59:20.764061Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-08-31-034",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rivian vs. Tesla: Which EV Stock Offers Greater Potential? Top Investor Weighs In - TipRanks",
+      "companies": [
+        "tesla",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOU9ZQ2h2ckZRUFNVdXMwTXlRX05XdmpRN3hPY3N6Yjg5Y3NLcUhHVTdiWHNSRVpLdUFZVTV6UnFCUDdPekNBLXgzYWl3N2hNdXVwZUdyXy03ekpaNkFuRlpqNWM2aVhrQnVBNUZlZ1dTRS0wVG1kUkhHMDZhOFZHellmZVF1WkVIYWVIMk5zZnh2My1aeXA4Q1YtVWFvLXo3ajlaZ0MzUVcwTlNVVnJHUmRIM0JObFU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-08-31-036",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rivian spinout Also lands in Seattle, with REI vet leading micromobility startup's new office and retail hub - GeekWire",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVWJxS0lYVWhMTXJ0emZSa1p0cDVwQTF0X1RCTU9MUEVuNU5vb05MLWFmLUR2T2FnSWhPaVotSFZHaHZJUXNmM0lsblRITHg0RFRjLVh5TkluLTNZc0lCejhNUG52TGJSc0s4bWd1cFVCNkRPVEFXLXlpeFZGSWstZTJwOGQyNFRfU3RmeDVHM1RxV1BYd0RBWVZYSkRHal9aYTlyb3pYMHZnZ0laTFhFQXNCRTYxQ3ZiMGplR3l0RlBYalpYdnE3YUI0RWhWYUhIdHI4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-31-062",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hydrogen Gets Far More Attention Than Its Deployment Justifies",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/31/hydrogen-gets-far-more-attention-than-its-deployment-justifies/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-08-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL announces Moura partnership for Brazil battery auction - ESS News",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQREhWWkRBVF8yT05oeVNqOTk1amJfYjRSekwwdHYwdU1tUzRoa0ZES2tjTlI0cjM3QTZERHhPR1JjYkstOTZoaHRQZDlvUFFqZjlNbnFLWHUxR2hGMnZoWi1fQmRCSnZrZWdRMEl2R0tNcjRKWVNuYV93bjRxQjdJNjVXLUZ1MHNzdHdIMVh6bDhMdnoyMWcwaTd3Q2Q?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-08-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL-Moura Partnership Targets Brazil's Landmark Energy Storage Auction - News and Statistics - IndexBox",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUp3ZlZhM3g2WjZwNGZSWWlnQ3Y2bVhwOVBkQTFoUWFJaTJ2TVdGOHZ4ZU1DQUpJMUJyMGplWmFvVEF1WTlCQUVYUkFXMG9IMzBfX2VYOFJEQ09QemhLOFUtcjdFQmZMZFN2WmZZZXdpejFvUGFIZzl4WjJFblZPYnpXYTFaZThKbkg1VTVYUUJKb25tMXRObUM5WTVKNkc2NkprMQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 65,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 69,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 64,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "sk_on",
+        "count": 17
+      },
+      {
+        "id": "lg_energy",
+        "count": 6
+      },
+      {
+        "id": "volkswagen",
+        "count": 5
+      },
+      {
+        "id": "catl",
+        "count": 4
+      },
+      {
+        "id": "rivian",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 65
+      },
+      {
+        "id": "cathode_material",
+        "count": 5
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 212,
+    "too_old": 68,
+    "gate1_blocked": 30,
+    "gate2_blocked": 22,
+    "passed": 93,
+    "pass_rate": "43.7%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "CATL debuts e-commerce hub for direct sales to small buyers as rivalry sharpens - South China Mornin",
+      "Together with Lower Silesia: How LG Energy Solution Wroclaw Creates Lasting Local Value - LG에너지솔루션",
+      "Stocks to Watch Today Amid Results: Perenti, Pilbara Minerals and Nuix - Kalkine",
+      "BYD Has Outsold Telsa Globally, But You Can't Get Them in America. Which Are Its Best Models? - Auto",
+      "Rivian’s R2 Serial Count Approaches 10,000 a Month Before Extra Shift - eletric-vehicles.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 69 則事件，焦點為SK創新、LG新能源、福斯相關動態：「Rivian vs. Tesla: Which EV Stock Offers Greater Potential...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rivian vs. Tesla: Which EV Stock Offers Greater Potential? Top Investor Weigh...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rivian spinout Also lands in Seattle, with REI vet leading micromobility star...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
