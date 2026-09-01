@@ -1,0 +1,253 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T13:16:41.481858Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nio-2026-09-01-039",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nio’s net loss narrows to 721.6 million yuan in second quarter 2026, EV sales outlook climbs 27.5% - The Standard (HK)",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORUFoWl9EY1ZQSFFYWm95eTducUE0OUdSNURDUTFhNTVNbzcweTRVaC1OdG9iSURMVVl3aTFPc0JlLTZWd3hrQkZ6cHNzbGVaUWdOTDA5T3RaRUZMV05lTFB2TkJPODh4WWJXU0xEWHlBbV9uTDMxTV9BNXBuNkxNUUdpZmR4WXNCLTd1bldRajUwXzhQcG0tY2lOeHhXUXc3MEhnenhFMnRCZUtJcUg2MlhJWFlrcXIyY3ZWN0xKdV92VTd3RUJmTDhnUWFnNTRFTjh3UTFjc3FPT196TmdmLQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-09-01-040",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nio Q2 net loss narrows 89.4% to 528 million yuan on higher revenue - The Business Times",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenpodEdsM2tCU1ZGcnU4YWt3WXV1OVVHU1lvamN5SXRqaEZOQ3R3SWZ2YmJGZUVqSmloZnIzYU5OelNMeHl3ODVlTjdjTnZhbi1qTkJBU3ozVEFUTjc3NGxKbEJveUI5eFhOQXJ2VTVVaExWZ29HRGJpQXRhWnlvZGJPZWxvWE1zUGpldVVhd19EQ0xJZEFhTXY4WUpQcnVyTF9aTjFqWS1Rc1o5SGFVaQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-01-044",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/"
+    },
+    {
+      "rank": 4,
+      "event_id": "nio-2026-09-01-047",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nio extends adjusted operating-profit streak as product mix lifts margins",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/09/01/nio-earnings-q2-2026/"
+    },
+    {
+      "rank": 5,
+      "event_id": "byd-2026-09-01-048",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BYD August sales rise 17.8% to 440,293 as overseas sales hit new record",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://cnevpost.com/2026/09/01/byd-aug-2026-sales/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 74,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.0,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.62,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 78,
+    "sentiment_distribution": {
+      "positive": 12,
+      "neutral": 56,
+      "negative": 10
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 15
+      },
+      {
+        "id": "lg_energy",
+        "count": 11
+      },
+      {
+        "id": "sk_on",
+        "count": 7
+      },
+      {
+        "id": "catl",
+        "count": 3
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 74
+      },
+      {
+        "id": "lithium_price",
+        "count": 4
+      },
+      {
+        "id": "cathode_material",
+        "count": 4
+      },
+      {
+        "id": "ev_sales",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 188,
+    "too_old": 65,
+    "gate1_blocked": 19,
+    "gate2_blocked": 27,
+    "passed": 116,
+    "pass_rate": "51.1%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "BYD’s new luxury electric SUV has a range of over 1,000 km and huge screens - Electrek",
+      "BYD’s electric supercar will beat a Lambo in a race, and it’s cheaper than a Porsche [Video] - Elect",
+      "Rivian’s R2 Serial Count Approaches 10,000 a Month Before Extra Shift - eletric-vehicles.com",
+      "Rivian CFO is stepping down - WardsAuto",
+      "Rivian's finance chief McDonough steps down, joins GE Vernova - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 78 則事件，焦點為蔚來、LG新能源、SK創新相關動態：「Nio’s net loss narrows to 721.6 million yuan in second qu...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nio’s net loss narrows to 721.6 million yuan in second quarter 2026, EV sales...（電動車銷量、電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Nio Q2 net loss narrows 89.4% to 528 million yuan on higher revenue - The Bus...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

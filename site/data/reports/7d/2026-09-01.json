@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-01",
+  "date_range": {
+    "start": "2026-08-26",
+    "end": "2026-09-01"
+  },
+  "generated_at": "2026-09-01T13:16:41.632059Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nio-2026-08-28-047",
+      "date": "2026-08-28",
+      "title": "Nio, BYD and Xiaomi provide relief funding after Xizang mudslide",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "catl",
+      "company_b": "eve",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 285,
+      "last_week": 154,
+      "week_over_week_change": "+85%",
+      "sentiment_this_week": 0.03
+    },
+    "cathode_material": {
+      "this_week": 12,
+      "last_week": 2,
+      "week_over_week_change": "+500%",
+      "sentiment_this_week": 0.0
+    },
+    "battery_cost": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "lithium_price": {
+      "this_week": 6,
+      "last_week": 1,
+      "week_over_week_change": "+500%",
+      "sentiment_this_week": 0.08
+    },
+    "ev_sales": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.62
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 19,
+      "sentiment_avg": 0.05,
+      "rank": 3
+    },
+    "pilbara": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "byd": {
+      "event_count": 17,
+      "sentiment_avg": 0.02,
+      "rank": 6
+    },
+    "lg_energy": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "samsung_sdi": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "eve": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 11
+    },
+    "ganfeng": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 9
+    },
+    "rivian": {
+      "event_count": 15,
+      "sentiment_avg": 0.07,
+      "rank": 8
+    },
+    "nio": {
+      "event_count": 21,
+      "sentiment_avg": -0.07,
+      "rank": 2
+    },
+    "tesla": {
+      "event_count": 17,
+      "sentiment_avg": 0.03,
+      "rank": 7
+    },
+    "volkswagen": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "sk_on": {
+      "event_count": 24,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 426,
+        "last": 499,
+        "change_pct": -14.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-26",
+      "event_count": 56,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 69,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 87,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 21,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 15,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 100,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 78,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-26 ~ 2026-09-01）共 426 則事件，重點為「Nio, BYD and Xiaomi provide relief funding afte...」。電池產業通用、正極材料、鋰價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Pilbara Minerals",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
