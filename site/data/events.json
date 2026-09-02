@@ -1,5 +1,568 @@
 [
   {
+    "id": "catl-2026-09-02-001",
+    "date": "2026-09-02",
+    "companies": [
+      "catl",
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Hong Kong Stock Market Alert: Lithium battery stocks decline collectively; Ganfeng Lithium (01772) falls over 5%, CATL (03750) drops more than 4% - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDdhY0NIRVhKQk9pbUxLSkRYRGFDVjdoT2JZRTZmZ3lUdlhZMjFIWXRaRndiY0Q5NURtdGlIYklCTTFOYklJTkNqN3BDNmZ5NzFHNlJzYUxURGx5ZVE3UXoxX0oyczl4ZzdvZ3o4RE",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDdhY0NIRVhKQk9pbUxLSkRYRGFDVjdoT2JZRTZmZ3lUdlhZMjFIWXRaRndiY0Q5NURtdGlIYklCTTFOYklJTkNqN3BDNmZ5NzFHNlJzYUxURGx5ZVE3UXoxX0oyczl4ZzdvZ3o4REZZQU9fN09jaGFWcGRJeHlMQ1pMTHlqV2pzRHZpRC1vbHl5U281OGlSNzY4TUU3ZFV1bll6QVgwQWphckk4SFQxWXVnSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pilbara-2026-09-02-002",
+    "date": "2026-09-02",
+    "companies": [
+      "pilbara"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Pilbara Minerals (ASX:PLS) in Focus Among Lithium Stocks? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmhhUjhJaGRYWjdTdFpBYVhtWTRvVzhHaExuOF9ORkh0RXhmbkFjTVJjMUVnSjU3LTV3UC15R2VXa1E2dVJ5Wllfd0FhY2xUZzlyY3pIWEdqNDcyMnlvUVpuU2o2RFl5Wm5tbnloNm",
+    "sources": [
+      {
+        "name": "pilbara",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmhhUjhJaGRYWjdTdFpBYVhtWTRvVzhHaExuOF9ORkh0RXhmbkFjTVJjMUVnSjU3LTV3UC15R2VXa1E2dVJ5Wllfd0FhY2xUZzlyY3pIWEdqNDcyMnlvUVpuU2o2RFl5Wm5tbnloNmQxZVJwc1NTNG52SVdta0xYX3BITE9xaFpZQ1JJeVJSaE1QV2ZpVHpHdWQxSnRrMGZ0WmVrMFpR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-09-02-003",
+    "date": "2026-09-02",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD Sealion 08 launches in China: second-gen Blade Battery on both PHEV and EV models - CarNewsChina.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQRU5yeU5FcnRiVEVHUnZJaExCUC05eHhPUDlkSWFYcThXX3dKeXBJYlItZmhncUN0WW82M1dIZy1xZnlwS3NWbEZLbmZGaFlSd1pvOEdYNW5iU19qMGlEdklDS0F1b01iRU01RjlzQU",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRU5yeU5FcnRiVEVHUnZJaExCUC05eHhPUDlkSWFYcThXX3dKeXBJYlItZmhncUN0WW82M1dIZy1xZnlwS3NWbEZLbmZGaFlSd1pvOEdYNW5iU19qMGlEdklDS0F1b01iRU01RjlzQUNuMkZVZFpDWlJZU250WXkyVXVnc2VXR0c3ODh0RENQaUttV3JUaFpDQWNuZTNWOTNKNnFXZ1VNWHNhMktLdkxMcUltNngtQkVZX3ZfYW93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-09-02-004",
+    "date": "2026-09-02",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "I Had High Expectations For The Rivian R2. It Still Blew Me Away - insideevs.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBQRDFhLUlnMlQwR1R5NGl1ZWd0NEptWUI3Q21MMS1GT1ZIQ1RIWjN1Wkh2ZTQtZ2x0dU1VZUdxQ1BxOS0wUnlTdjFrdC1US2N4YS05TDRkSGIwajFIRFVzOGlJZFpENmdUZDRtMGdJWE",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQRDFhLUlnMlQwR1R5NGl1ZWd0NEptWUI3Q21MMS1GT1ZIQ1RIWjN1Wkh2ZTQtZ2x0dU1VZUdxQ1BxOS0wUnlTdjFrdC1US2N4YS05TDRkSGIwajFIRFVzOGlJZFpENmdUZDRtMGdJWEVyUmQ5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-09-02-005",
+    "date": "2026-09-02",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NIO stock falls after Q2 2026 miss as revenue jumps 69.1 percent - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTlRTmlNTGh0cWU2S0dZWTBncFVydVI4RkxzVERPSi13QnN0bWJPdEZCSUFoT0Y2Mms3TmE4U0JKLS12RFJ4NmU3cjNTQnh2TlRvbXFXQzZrWWdFT1RBZXFuLVlzTnU5NWtIVmlUb2",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTlRTmlNTGh0cWU2S0dZWTBncFVydVI4RkxzVERPSi13QnN0bWJPdEZCSUFoT0Y2Mms3TmE4U0JKLS12RFJ4NmU3cjNTQnh2TlRvbXFXQzZrWWdFT1RBZXFuLVlzTnU5NWtIVmlUb2tVQ2Jady1TblhVUXMycmhyelpHXzFRVmN5Rlh6QV91cm9adl9SbXNVcUVFa1NXQ3NBazlLM0RkaUw2RGo4UnlHYnFMVFAzbGZPMDFJdGVQNjY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-006",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford’s $30,000 Fathom EV Truck Appears More Conventional Than Promised",
+    "summary": "Ford's CEO called the Fathom “not a pickup” with “new silhouette.” New photos show something much more familiar beneath the camo.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/806876/ford-fathom-ev-truck-prototypes/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-02-007",
+    "date": "2026-09-02",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Schneider’s New Home EV Charger Undercuts Tesla’s By Bundling A Big Feature",
+    "summary": "Tesla’s Wall Connector needs additional hardware to take advantage of all the installed power. Schneider includes it in the box.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/806855/schneider-charge-home-ev-charger-load-balancing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-008",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kia’s Bigger Electric Van Looks Ready For More Than Just Deliveries",
+    "summary": "The PV7 combines a cavernous body with a modular EV platform intended to support numerous work and lifestyle conversions.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/806844/kia-pv7-larger-van-teaser/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-009",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Study Covered 500,000 EV Batteries. Some Models Aged Much Better Than Others",
+    "summary": "EV diagnostics company Aviloo released the results of thousands of battery health checks for 20 popular EVs. One stood out. ",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/806798/ev-battery-aging-study-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-09-02-010",
+    "date": "2026-09-02",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio opens first Nio House in Macau as ES9 deliveries begin",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026090212294140.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>Nio's sales and service network in Macau now includes 1 Nio Ho",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/02/nio-house-macau-opens-es9-deliveries/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-02-011",
+    "date": "2026-09-02",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla China's August wholesale sales total 86,166, snapping 3-month sequential gain streak",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026090212010764.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>Tesla China's August wholesale sales rose 3.57% year-on-year b",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/02/tesla-china-aug-2026-wholesale-sales/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-09-02-012",
+    "date": "2026-09-02",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD launches Sealion 08 SUV, bolstering Ocean lineup's flagship push",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026090209551011.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The Sealion 08 comes in BEV and plug-in hybrid versions, suppo",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/02/byd-launches-sealion-08-suv/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-09-02-013",
+    "date": "2026-09-02",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "BYD starts mass production of new 4D radar chip, deepening in-house push",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026090209030858.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The chip uses BYD's Xuanji A3 smart-driving chip as its comput",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/02/byd-mass-production-new-4d-radar-chip/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-014",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chery Auto August sales rise 14% as exports account for over 70%",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026090206201236.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>Chery Auto sold 262,990 vehicles in August, including 187,154 ",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/02/chery-auto-aug-2026-sales/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-015",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "IM Motors to open pre-sales of updated LS6 SUV on September 10 with steer-by-wire chassis",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026090203533933.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>IM Motors said the new-generation LS6 will bring \"aviation-gra",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/02/im-motors-pre-sales-updated-ls6-sept-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-016",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "GWM August sales fall 1.87%, overseas markets contribute over 55%",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026090203134297.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>GWM's overseas sales rose 38.42% to a record 62,517 vehicles i",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/02/gwm-aug-2026-sales/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-017",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Geely's August sales rise 8% as record exports offset domestic slump",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026090202250020.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>Geely Auto exported 110,094 vehicles in August, up 205% year-o",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/02/geely-aug-2026-sales/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-018",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi to launch Sky Nomad EREV SUV lineup on September 7",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026090201271995.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The previously unannounced Sky Nomad N70 Pro will join the N70",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/02/xiaomi-launch-sky-nomad-lineup-sept-7/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-019",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ONE Nuclear Energy executes LOI for 2.88GWh BESS and gas plant co-located with Louisiana data centre",
+    "summary": "ONE Nuclear Energy has executed a binding letter of intent to develop a 2.88GW natural gas plant and 700MW/2.88GWh energy storage system, co-located with a high-capacity data centre campus.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/one-nuclear-energy-executes-loi-for-2-88gwh-bess-and-gas-plant-co-located-with-louisiana-data-centre/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-020",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Canadian Solar ships 3.7GWh of BESS in Q2 2026, company is ‘actively validating’ 15,000+ cycle sodium-ion product",
+    "summary": "Canadian Solar’s quarterly battery storage shipments increased 73% year-on-year, with 3.7GWh delivered in the second quarter of 2026.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/canadian-solar-ships-3-7gwh-of-bess-in-q2-2026-company-is-actively-validating-15000-cycle-sodium-ion-product/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-021",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Italy gives national strategic interest designation to Sardinia data centre with hybrid energy storage hub",
+    "summary": "The Italian government has declared an AI data centre in development by Energy Vault, featuring hybrid energy storage technologies, to be of strategic national interest.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/italy-gives-national-strategic-interest-designation-to-sardinia-data-centre-with-hybrid-energy-storage-hub/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-022",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ARENA marks 100th community battery installed, funds three new projects across Australia",
+    "summary": "The Australian Renewable Energy Agency (ARENA) has confirmed the installation of the 100th community battery storage system under its Community Batteries Funding Initiative.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/arena-marks-100th-community-battery-installed-funds-three-new-projects-across-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-023",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "REPORT: U.S. Adds 20 GWh of Energy Storage Capacity in Q2, Largest Quarter on Record",
+    "summary": "<p>U.S. battery energy storage capacity nearly doubles in the first 18 months of the Trump administration as grid operators turn to storage to strengthen grid reliability WASHINGTON, D.C. — The U.S. e",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/01/report-u-s-adds-20-gwh-of-energy-storage-capacity-in-q2-largest-quarter-on-record/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-024",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Zoox Safety Case Framework",
+    "summary": "<p>Our safety case comprehensively assesses how hardware, software, and operations integrate and interact to deliver a safer autonomous ride. Our approach to safety at Zoox At Zoox, safety is foundati",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/01/the-zoox-safety-case-framework/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-025",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What happens to a ready-to-build solar project if a wildfire hits the site?",
+    "summary": "<p>What happens if a wildfire affects a ready-to-build (RTB) solar project? Can developers recover their financial guarantees if the project becomes unviable? Jochen Beckmann, a lawyer at Rödl Barcelo",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/02/que-ocurre-con-un-proyecto-fotovoltaico-rtb-si-un-incendio-forestal-afecta-a-los-terrenos/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-026",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "cathode_material",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Texas Instruments introduces chip-level diagnostics to improve grid-scale battery cell safety",
+    "summary": "<p>Texas Instruments’ new BQ79826Z-Q1 battery monitor integrates EIS to actively diagnose LFP cell health, improving accuracy over traditional voltage-based BMS monitoring.<br />\nIts 26-channel design",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/02/texas-instruments-introduces-chip-level-diagnostics-to-improve-grid-scale-battery-cell-safety/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-027",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Batteries key to mini-grid electrification in Burkina Faso, Mali, Nigeria, Senegal",
+    "summary": "<p>Research by the International Renewable Energy Agency finds over 397,000 settlements across the four countries could be served by mini-grids with batteries.</p>\n<p>The post <a href=\"https://www.pv-",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/02/batteries-key-to-mini-grid-electrification-in-burkina-faso-mali-nigeria-senegal/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-028",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hydrostor secures grid connection for 200 MW/1,600 MWh compressed air storage project in Australia",
+    "summary": "<p>Hydrostor has secured grid connection approval for its 200 MW/1,600 MWh Silver City compressed-air energy storage project in Broken Hill, New South Wales. The eight-hour storage facility will stren",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/02/hydrostor-secures-grid-connection-for-200-mw-1600-mwh-compressed-air-storage-project-in-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-029",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Solar seasonal storage system achieves 4.1 heat pump COP in greenhouse heating",
+    "summary": "<p>South Korean researchers have demonstrated a small-scale solar seasonal thermal storage system integrated with heat pumps for greenhouse heating over three years. The system achieved average therma",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/02/solar-seasonal-storage-system-achieves-4-1-heat-pump-cop-in-greenhouse-heating/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-030",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "cathode_material",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Perovskite solar cell based on seed crystals achieves 23.51% efficiency",
+    "summary": "<p>Researchers have developed a seed-assisted crystallization strategy to produce pure α-phase FAPbI3 perovskite without conventional chemical stabilizers. The resulting device reached 23.51% efficien",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/02/perovskite-solar-cell-based-on-seed-crystals-achieves-23-51-efficiency/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-09-01-001",
     "date": "2026-09-01",
     "companies": [
@@ -1495,6 +2058,681 @@
       {
         "name": "pv_magazine",
         "url": "https://www.pv-magazine.com/2026/09/01/philippines-to-develop-pv-exemption-areas/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catl-2026-09-01-079",
+    "date": "2026-09-01",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CATL’s Hungary Cell Plant Halted After Nickel Exposure Incident - Caixin Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcUV4anlhMmd2SXU0SjJGdzl6a2l5bHc1cGMxN1JUZVdUd3Jad29tTWt2ZWt3MTdpazh6VUxsVHEtQUtRV0pTVjU4WVNEN1FXVC1tZl9sWnhZQWpYLXhETW5GbTlQSFFNM0pHS0pFNU",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcUV4anlhMmd2SXU0SjJGdzl6a2l5bHc1cGMxN1JUZVdUd3Jad29tTWt2ZWt3MTdpazh6VUxsVHEtQUtRV0pTVjU4WVNEN1FXVC1tZl9sWnhZQWpYLXhETW5GbTlQSFFNM0pHS0pFNUlsdmM1SlBVT25CUncxYjN3YmlmZlJwYVp4dTc0RVJNenk5ODk5WlAxdEtXcFlHNThQd01jT2J3bk1GbmpKTU1UVGtpbzNqR0Rz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-080",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "lithium_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy signs lithium carbonate deal with Smackover - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPWVhDU3dCWXFLajJ4WXBGaVV2bEx1bDJHRWlEVlFuTkQweTlXbFRIYnNfOFJBd1RiblVMZ1VjMmZSSDFmVWdHQnpORzFnUl9Vd0FjTE1YWVpuQTBVOTNyVmxIcExDYWFEOHlDRXRneV",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWVhDU3dCWXFLajJ4WXBGaVV2bEx1bDJHRWlEVlFuTkQweTlXbFRIYnNfOFJBd1RiblVMZ1VjMmZSSDFmVWdHQnpORzFnUl9Vd0FjTE1YWVpuQTBVOTNyVmxIcExDYWFEOHlDRXRneVNxS1lubkR1dk1nM0J1aWJCYzcya3ZfNHBLcmlSUjMyaUlwZVlM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-09-01-081",
+    "date": "2026-09-01",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How LG Energy Solution Wroclaw Develops Future Battery Talent Through #ChargeTheFuture - LG에너지솔루션",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5zekFtZngtLWlIcFRDZFRES1BOWWlRckJZWmR5LTVkcF9MZlV6cXFydFRGOEN2ak5FbzFCLS1hblBxWXhwZGtoU3JzOE5NclJtRTR4TzhRZ1RyY3RFSThyMDVYSThvYWN4RGozRDdZZF",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zekFtZngtLWlIcFRDZFRES1BOWWlRckJZWmR5LTVkcF9MZlV6cXFydFRGOEN2ak5FbzFCLS1hblBxWXhwZGtoU3JzOE5NclJtRTR4TzhRZ1RyY3RFSThyMDVYSThvYWN4RGozRDdZZFRUejA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-082",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy Secures 10-Year Lithium Deal with Smackover - Investing News Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5DRTNQNlN5T1R2VW53bU8tcWZ0cmgtOWZIX0FxSjFwTXlITUJTZlRrS3c2cjVvejVubXo3MG9jMTJKeHFEWldnOUU2RjRhdTFpX1pSMzc2NkMzTmVvU2N5cGZKTXVYVGpuZllsZQ?oc=",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DRTNQNlN5T1R2VW53bU8tcWZ0cmgtOWZIX0FxSjFwTXlITUJTZlRrS3c2cjVvejVubXo3MG9jMTJKeHFEWldnOUU2RjRhdTFpX1pSMzc2NkMzTmVvU2N5cGZKTXVYVGpuZllsZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-09-01-083",
+    "date": "2026-09-01",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NeoVolta’s US battery factory gets a 9 GWh boost from SK On - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOX19HaUVQUWZFXzNZcTRFY3dlV0VHX1dJRW4wN0c0ZmMxTXFZS0JfdFJuSEhjVWNKMjItRFdFQlFCV1NJUWEzckpxWHY0a3pqcExmdk9jSEp2WFRyYVEtNV82YnpYcjhEUFoxZDVXSG",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX19HaUVQUWZFXzNZcTRFY3dlV0VHX1dJRW4wN0c0ZmMxTXFZS0JfdFJuSEhjVWNKMjItRFdFQlFCV1NJUWEzckpxWHY0a3pqcExmdk9jSEp2WFRyYVEtNV82YnpYcjhEUFoxZDVXSG81VHdaZ0FlSllibTBKVFVET1JaNUM2d0Uxb1B4ZzNzb0J6ZG1y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-084",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Energy Storage Ignites Lithium Rally as Top Miners Post Multi-Year Profit Surges - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1aeEpJT280bDJhV1ZfeVQ4RWVfdVdPQUVCTmFmT2tUanBIOGRNaFFjWFVFYUN6bEFnVkxuakJ1NzJpYkRCNnJhYm0yVVc2OU0yUjNjaHd0dS1vN3ZnZVVVLWN2ZWJkZmU0MjhwelZLS3",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aeEpJT280bDJhV1ZfeVQ4RWVfdVdPQUVCTmFmT2tUanBIOGRNaFFjWFVFYUN6bEFnVkxuakJ1NzJpYkRCNnJhYm0yVVc2OU0yUjNjaHd0dS1vN3ZnZVVVLWN2ZWJkZmU0MjhwelZLS3lsRzBheXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-09-01-085",
+    "date": "2026-09-01",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "BYD Expands Globally with Innovations in Battery Technology - batterytechonline.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0hqaF9keS03MHFKRGFvTTNaTDI1ZHNqakQzX1ZVak9sYjBUZUZXaUxpQjQ4MU9nUXA0VFNlYUZzLUVqSTc0WGxCa2w3TG1DU2xwYkZVNElTLWFTcXNYLUYzaXJXSFBpWV8xUHoyWE",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0hqaF9keS03MHFKRGFvTTNaTDI1ZHNqakQzX1ZVak9sYjBUZUZXaUxpQjQ4MU9nUXA0VFNlYUZzLUVqSTc0WGxCa2w3TG1DU2xwYkZVNElTLWFTcXNYLUYzaXJXSFBpWV8xUHoyWElySVo3RkktYjA5azR3b215X2xCek93M1FuUkZ4WFEwSzRfSVliaEJsclRfSlcycUd1ZEh4MQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-09-01-086",
+    "date": "2026-09-01",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Rivian Poised for Growth From Shift to Lower-Priced Vehicles and Autonomous Driving Software - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZXZjTEdkNjhnRTJWLXplc0lzcDVYM01QMk1TNlNOR2xhaERJUWdwM0dGd1ZVNmdqRGRYQk9yNVUtcVBvRUpaek5jaEVCbnE1QU5rOHQwc3JsNWVCdjFsZnZmWmNabXo1TE1WN1hmbW",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZXZjTEdkNjhnRTJWLXplc0lzcDVYM01QMk1TNlNOR2xhaERJUWdwM0dGd1ZVNmdqRGRYQk9yNVUtcVBvRUpaek5jaEVCbnE1QU5rOHQwc3JsNWVCdjFsZnZmWmNabXo1TE1WN1hmbWNPRENoSUxkUnBuQ0JndWNLTDJRd2JnbUVUc2lCSWd6T0NPUFlMSThua3N0VnJvNzNZeFRzek95NjVlV0tCUU9XeTl5VWpfMlIteFFGNjJ5VXY3b0Z5NFR2VkVmU0NtTExHYVVKVHhSMHNDMk1F?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-09-01-087",
+    "date": "2026-09-01",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Nio Second-Quarter Revenue Jumps 69%; Expects Vehicle Delivery Growth to Continue - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNeUVFdUZSMzNyYzFUejZyUnRqbjZBcHg5bkF5dVltbEhrTVgzMDR6Q3o1ekdfX2hXVnh1TWlELUFlWkh5bVlpMXZpSWpKM25Ob2YxbGNhUFRtWWNrN1N3ZjVEQnN0Uk9femlwVVZtZU",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeUVFdUZSMzNyYzFUejZyUnRqbjZBcHg5bkF5dVltbEhrTVgzMDR6Q3o1ekdfX2hXVnh1TWlELUFlWkh5bVlpMXZpSWpKM25Ob2YxbGNhUFRtWWNrN1N3ZjVEQnN0Uk9femlwVVZtZUtMYlpBUnZ1MFpmeTBJaUNSSDBvMndxU2RKeGVvMjVJX0pxUERHd3VmdzQweTlQUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-09-01-088",
+    "date": "2026-09-01",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "ev_sales",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "China’s NIO Narrows Loss on EV Sales Growth, Expects Volume Pickup - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxORGJJOHVjbUtjN0xpemJsZjNQN1NFNFBSdE13dzFVS2VNWnhLeFg1NloyMkx1MmNlYVZsdi0zUlVSVEpLbGV0MHpMaE44R1BVbk1SYWExd2tHdElDZkp5TzVpWW5GYkNPeTNiSnRZLU",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORGJJOHVjbUtjN0xpemJsZjNQN1NFNFBSdE13dzFVS2VNWnhLeFg1NloyMkx1MmNlYVZsdi0zUlVSVEpLbGV0MHpMaE44R1BVbk1SYWExd2tHdElDZkp5TzVpWW5GYkNPeTNiSnRZLU1pMnBNRFVDdHFMbGhORWhzZ1dmRDR1Z1hjZXVr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-09-01-089",
+    "date": "2026-09-01",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio Inc. Expects to Deliver Between 36,230 and 39,230 EVs in September - eletric-vehicles.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPNGJJeDNXbzJPZzgxbklwWDBMZVdKWWJkaE9hdjhya2dEeWFTb1BSbjNIWGJZc3pZMWJCaXF1TVpLbVZGTEROdkNwbFVoMnV2cVZINXl5bHNNSEZnNzVZUDRTMkJRSmcwRmJ5VGVIdk",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNGJJeDNXbzJPZzgxbklwWDBMZVdKWWJkaE9hdjhya2dEeWFTb1BSbjNIWGJZc3pZMWJCaXF1TVpLbVZGTEROdkNwbFVoMnV2cVZINXl5bHNNSEZnNzVZUDRTMkJRSmcwRmJ5VGVIdkxvWHFKVTVTNExFZGRGeWY2cURmZWdTR2ZPUW9ndlNtNkJPdlZRYzQ1eTFKNy1VX2ZRbFV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-09-01-090",
+    "date": "2026-09-01",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NIO Boosts August Deliveries and Expands Battery Swap Network to Cement Premium EV Lead - tipranks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRF9pV2doTmV6WUFJanVUVTJreS0wUVFUaGJxVnBIOThLOHBfdEd0VFlVLUp2US1KZHlBU0kyZDlmeWRYNEkwSVZyaXdCR2VWcU40TjdkZjNJVUdZM05oNGhhSXpuaThLVW1VaEFZdE",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRF9pV2doTmV6WUFJanVUVTJreS0wUVFUaGJxVnBIOThLOHBfdEd0VFlVLUp2US1KZHlBU0kyZDlmeWRYNEkwSVZyaXdCR2VWcU40TjdkZjNJVUdZM05oNGhhSXpuaThLVW1VaEFZdEE0dmlFNk8yWlhWYnRjOG1HOEtxSk5jbDhNQ0ZnMUxsZXBqeloweFRYemZjWUxTbU1ZMGFIc1dmX0Rnd2NyS01WaEFqR3VPNnREdUw3VWxuSkV2Vkg2Wk5tZTFsVWVsTEJwQkMyMjlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-09-01-091",
+    "date": "2026-09-01",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "XPeng and NIO August 2026 EV Deliveries Show Strong Growth - Electric Cars Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQUC1SVlBkT3Z5SnpiMDI1aVFaSG1vbTRTODJ1dnVhLVVOLUNhcHVvWGRuUmo4LWMzSkxWYjlqLTBkaUN0aEF5TnBRR1BOdk9na1JCOUlfckl2N3lwRDRJVm9IaGpTMEttMlR0QklQZE",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUC1SVlBkT3Z5SnpiMDI1aVFaSG1vbTRTODJ1dnVhLVVOLUNhcHVvWGRuUmo4LWMzSkxWYjlqLTBkaUN0aEF5TnBRR1BOdk9na1JCOUlfckl2N3lwRDRJVm9IaGpTMEttMlR0QklQZElGeVc1VkwwYzBTa0VVWE9JcktFQmhGemxIZGZIYVV5NnM5VWRyMVZCUm9qT09DQzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-09-01-092",
+    "date": "2026-09-01",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio Q2 2026 EPS Tops Expectations, Revenue Up 69% - news.alphastreet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOMmdCUDh3ZUJLRlk1MWdfS1RzWlRsc21ZRVR0elNWUEtnX1E0Y0EwaS1UVXZKeEZmSFQ3N3BoYjd5YlNOeTdMM1VUVVZ2Yll0bGFTcUxyaEl1bTd2UjdOTVZ1WHRNdEZBdm9HMlRSeG",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMmdCUDh3ZUJLRlk1MWdfS1RzWlRsc21ZRVR0elNWUEtnX1E0Y0EwaS1UVXZKeEZmSFQ3N3BoYjd5YlNOeTdMM1VUVVZ2Yll0bGFTcUxyaEl1bTd2UjdOTVZ1WHRNdEZBdm9HMlRSeGZ1UHl1NmdSdkIteWZNb3Y5a3luONIBgwFBVV95cUxOMmdCUDh3ZUJLRlk1MWdfS1RzWlRsc21ZRVR0elNWUEtnX1E0Y0EwaS1UVXZKeEZmSFQ3N3BoYjd5YlNOeTdMM1VUVVZ2Yll0bGFTcUxyaEl1bTd2UjdOTVZ1WHRNdEZBdm9HMlRSeGZ1UHl1NmdSdkIteWZNb3Y5a3luOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-09-01-093",
+    "date": "2026-09-01",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NIO shares slip as Q2 revenue misses estimate (NIO:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdzltVXhUeHNzQmNuQ0l3N3lYaktFQlVJektITV85bHVxa184THF1NzhqOUc4SkdqUFpzbkQ2SHRuS1E1eXBoeXdCa1VMUlZ3WmFZSjhHMF9ZU1Z1bFlMMWltTGhBYjhxdmxXUUJfeW",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdzltVXhUeHNzQmNuQ0l3N3lYaktFQlVJektITV85bHVxa184THF1NzhqOUc4SkdqUFpzbkQ2SHRuS1E1eXBoeXdCa1VMUlZ3WmFZSjhHMF9ZU1Z1bFlMMWltTGhBYjhxdmxXUUJfeWpqUnpEQmhuMkhTWmFyNUs3a21PMm13Wk1fU3pn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-09-01-094",
+    "date": "2026-09-01",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NIO Inc. Reports Unaudited Second Quarter 2026 Financial Results - The Daily Tribune News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPQk1QZEpOOGJHVUlWRnJBV2Z4OVBBdHNUMlRNQnBUWkhNei0wRnMzdGpvcFNyazExb0xzNjQ2d0hWTHpJalVDSDdfMUVlOXVGcThXNXpuUWl5d2dONWNXNnd5QzJZdS1QaGZQZmk3Nz",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQk1QZEpOOGJHVUlWRnJBV2Z4OVBBdHNUMlRNQnBUWkhNei0wRnMzdGpvcFNyazExb0xzNjQ2d0hWTHpJalVDSDdfMUVlOXVGcThXNXpuUWl5d2dONWNXNnd5QzJZdS1QaGZQZmk3NzA4TTZNSUV0NkJ4LXlRaTRVSlVMalVvYUpDdzVubURVWXBGVTF6SDh0c2Qyb1o5aHhqYVZrQWZ4TjM1a2FnZTlOUVBrYl9ONDFIdjJrczZVRnY5OG14S2VESXJEQmR5OHJpUElyYXJfQVRSaWlQNVNYcjFraXZUTEV4cUVwbXBMY0lRTllMb1hmY0NvcEZydVh6NXRUbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-09-01-095",
+    "date": "2026-09-01",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio Falls 4% as Memory Chip Costs and Revenue Miss Overshadow Doubled Vehicle Margin, XPeng Holds Steady - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmxtckd0UTlBWmdYdE0yaHVEem1NZVlBaTJ0VmpVZDE3VVdfM0NRUmlWaVBqTHdqVTJvWkdFRElJVzFOQnRvMnRudFdFa1dLSUYtMkozN1RrQU5wY1Q0SFM3T0tweWNEWmZwNHI2S2",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmxtckd0UTlBWmdYdE0yaHVEem1NZVlBaTJ0VmpVZDE3VVdfM0NRUmlWaVBqTHdqVTJvWkdFRElJVzFOQnRvMnRudFdFa1dLSUYtMkozN1RrQU5wY1Q0SFM3T0tweWNEWmZwNHI2S2FvbjlXSzkxRkFBWXpoOUxQMF9NWm9RcFVOQnRwcV9XRmVtdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-09-01-096",
+    "date": "2026-09-01",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here’s what Volkswagen’s new EV camper looks like in person [Video] - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA0XzRRWjc1ZnBpOHRmTU51ODJmTkJ5cDFLN2E1ZzVtU0J4ZHZTWUNxamdHTFBhM2l3LUhzbTNTRFpVNWxYUFFZNTVIMVRab0F2dGwtb05rN0hsTTNyc1NETU5yODJPdjJaWE9saFM4QX",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0XzRRWjc1ZnBpOHRmTU51ODJmTkJ5cDFLN2E1ZzVtU0J4ZHZTWUNxamdHTFBhM2l3LUhzbTNTRFpVNWxYUFFZNTVIMVRab0F2dGwtb05rN0hsTTNyc1NETU5yODJPdjJaWE9saFM4QXo4QlF2TVowU3dya2w1dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-09-01-097",
+    "date": "2026-09-01",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen campervans go electric with the new ID. California Cruise - evpowered.co.uk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOSDUwMXltNnp6cVpvcWpqaTFnWmR4NXEtdWNRNW9mbGtWdVozU2hQSjBVbWktQkdjZHM0MVFodnA4TmhObmFubzkyQkU3VExKdWpYaG9McF9OQUd5MEhlamN4TjBFeVluTFpZak13bj",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSDUwMXltNnp6cVpvcWpqaTFnWmR4NXEtdWNRNW9mbGtWdVozU2hQSjBVbWktQkdjZHM0MVFodnA4TmhObmFubzkyQkU3VExKdWpYaG9McF9OQUd5MEhlamN4TjBFeVluTFpZak13bjlGOGRCX0dpelJSLWE1MHllbVFudFR5dDlCVF9DbzdIX1NGMDhKc1I1MXNrNF9mdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-09-01-098",
+    "date": "2026-09-01",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NeoVolta’s US battery factory gets a 9 GWh boost from SK On",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/Neovolta-Power.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p class=\"wp-block-paragraph\">US battery stor",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/01/neovoltas-us-battery-factory-gets-a-9-gwh-boost-from-sk-on/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-099",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford shares a closer look at the $30,000 Fathom EV pickup [Video]",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/Ford-Fathom-EV-closer-look.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">Th",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/01/ford-shares-closer-look-30000-fathom-ev-pickup-video/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-100",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Kia’s hot streak is just getting started as the new $30,000 EV3 launches",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/Kia-EV3-launches-US.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">After ano",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/01/kias-hot-streak-warms-up-new-30000-ev3-launches/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-09-01-101",
+    "date": "2026-09-01",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here’s what Volkswagen’s new EV camper looks like in person [Video]",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/Volkswagen-EV-camper-in-person.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/01/volkswagens-new-ev-camper-in-person-video/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-102",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volvo’s cheapest EV can now power a campsite or coffee maker",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/Volvo-EX30-V2L.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">Volvo launched",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/01/volvos-cheapest-ev-power-campsite-coffee-maker/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-103",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nissan’s new entry-level ‘Wave’ EV spotted for the first time",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/Nissan-Wave-EV.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><a href=\"https",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/01/nissans-new-entry-level-wave-ev-spotted-first-time/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-01-104",
+    "date": "2026-09-01",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "In Sept, Tesla will re-launch 3 products it launched a decade ago, for a stock pump",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/cybercab-semi-roadster-september.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragrap",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/01/in-sept-tesla-will-re-launch-3-products-it-launched-a-decade-ago-for-a-stock-pump/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-01-105",
+    "date": "2026-09-01",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla Adds Cybercabs To Its Texas Robotaxi Fleet Ahead Of Launch Event",
+    "summary": "Tesla just registered 45 new Cybercabs with the Texas DMV—and a bunch are already out roaming the streets.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/806803/cybercab-texas-robotaxi-network-tesla/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-106",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "He Charged A Chevy Bolt At A Hyundai Dealer. Then He Got A $418 Bill",
+    "summary": "Why this dealership's charger has the most absurd electricity rate I've ever seen. And it's intentional.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/806805/chevy-bolt-renter-overcharged/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-107",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "EVs Hit A Record 98.7% Market Share In Norway. These Are The Top Sellers",
+    "summary": "The overwhelming majority of Norwegian car buyers want EVs—and almost none want gas cars or hybrids. ",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/806799/norway-ev-sales-98-percent/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-01-108",
+    "date": "2026-09-01",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SpaceX tells the FCC that Starship Flight 14 is going to orbit",
+    "summary": "<p>SpaceX filed with the FCC for Starship Flight 14, its first true orbital launch attempt.</p>\n<p>The post <a href=\"https://www.teslarati.com/spacex-tells-the-fcc-that-starship-flight-14-is-going-to-",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/spacex-tells-the-fcc-that-starship-flight-14-is-going-to-orbit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-01-109",
+    "date": "2026-09-01",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla Cybercab Event: what to expect from Austin",
+    "summary": "<p>Tesla is set to launch Cybercab on Thursday at an event in Austin, Texas, which will officially bring the company&#8217;s first steering wheel-less and pedal-less vehicle to a limited number of con",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-cybercab-event-what-to-expect-from-austin/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-01-110",
+    "date": "2026-09-01",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "SpaceX would not exist if this crucial early launch failed, Musk says",
+    "summary": "<p>Elon Musk recently restated a fact that still defines SpaceX’s origin story: if Falcon 1’s fourth launch had failed, the company would not exist. The comment answered a reminder that after three co",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/elon-musk-spacex-would-not-exist-crucial-early-launch-failed/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-111",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "lithium_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lithium Prices Jump 22% in First Half: Key Mining Stocks and ETFs to Watch - NAI500",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVh5ckNVTjJkVU5ydDJ0R1ZTUUNWRGlHck9nZFp6aS1CNnhVYnhpLUZrcnhiOHFuSnh5eEVZdV9uM0RzSzlmbTZCZzNEYUduWHVmNUVWMEw3UVVVYWZVZHB1MzBSTzVhOUpfQTNGdW",
+    "sources": [
+      {
+        "name": "google_news_lithium",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVh5ckNVTjJkVU5ydDJ0R1ZTUUNWRGlHck9nZFp6aS1CNnhVYnhpLUZrcnhiOHFuSnh5eEVZdV9uM0RzSzlmbTZCZzNEYUduWHVmNUVWMEw3UVVVYWZVZHB1MzBSTzVhOUpfQTNGdW5rZEJNMldGbGdxV1lJa2V5Zm5aZ29CajNJMEhoRnhIUkkyenVlTDN4NkVTNV8tRTdVcmNxV0xTMFQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-112",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Appeal Halts Public Lands Data Center in Nevada Before Construction Begins",
+    "summary": "<p>LAS VEGAS — A federal panel today halted construction on a massive data center near Boulder City, Nevada, granting environmental groups and local residents a stay in their fight against the hypersc",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/01/appeal-halts-public-lands-data-center-in-nevada-before-construction-begins/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-113",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Moonrider Battery Electric Tractor From GoSun Is Priced At $19,995",
+    "summary": "<p>If you happen to be attending the Farm Progress Show in Boone, Iowa, this weekend, stop by Booth VITW2200 to view the Moonrider battery electric tractor from GoSun, a pioneer in solar-powered appli",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/01/the-moonrider-battery-electric-tractor-from-gosun-is-priced-at-19995/",
         "type": "rss"
       }
     ]
@@ -3424,6 +4662,226 @@
     ]
   },
   {
+    "id": "catl-2026-08-31-101",
+    "date": "2026-08-31",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CATL announces Moura partnership for Brazil battery auction - ess-news.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQREhWWkRBVF8yT05oeVNqOTk1amJfYjRSekwwdHYwdU1tUzRoa0ZES2tjTlI0cjM3QTZERHhPR1JjYkstOTZoaHRQZDlvUFFqZjlNbnFLWHUxR2hGMnZoWi1fQmRCSnZrZWdRMEl2R0",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQREhWWkRBVF8yT05oeVNqOTk1amJfYjRSekwwdHYwdU1tUzRoa0ZES2tjTlI0cjM3QTZERHhPR1JjYkstOTZoaHRQZDlvUFFqZjlNbnFLWHUxR2hGMnZoWi1fQmRCSnZrZWdRMEl2R0tNcjRKWVNuYV93bjRxQjdJNjVXLUZ1MHNzdHdIMVh6bDhMdnoyMWcwaTd3Q2Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-102",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Press Releases - standardlithium.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRVZUMTdJRWZxeE1tRjZnXzc5TEY3OXNhblhFY3pKWDBHMzlNUWM3QVNjTE13UmlfeWdXR3dWc2hCWlhxS3czc3E4enFjWlNSVW1XTGhvRWVMamdUU0RfRmRicHpVXzJoeWh4S0dYZF",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRVZUMTdJRWZxeE1tRjZnXzc5TEY3OXNhblhFY3pKWDBHMzlNUWM3QVNjTE13UmlfeWdXR3dWc2hCWlhxS3czc3E4enFjWlNSVW1XTGhvRWVMamdUU0RfRmRicHpVXzJoeWh4S0dYZFF2YmoxS2x2cklYNVp5UmIyUXNZaTBDTXg5NlZfU3g2S1ZPMl91c240UDRlbXd6T2I1QS1OWDFFeUFZR3VKWmRIX3NGZjY3RzB3a0dOcnJZNU9PUUdVSUR6TGhhbVR1UExxZTNYS3I5ZGJJSlJoZEY2Ql9NdnRWZ3pOdXRWc1hZVVo1QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-08-31-103",
+    "date": "2026-08-31",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Smackover Lithium Signs $15 Billion Supply Deal with LG Energy Solution for Arkansas Project - KVOM 101.7",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnlHYmg3aGVCN0taM2NzV2VKaVdZYVhzaXFhZzNEY1ZjTlIxMTQ4MElNUm5ZY2JuRVN1eXhnSGJ6Rk4ya0pNOEVIS3JCbUluODd1RXRHTXVIczBEdFhhb3g2YkhGTUZIOVlYY0gweH",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnlHYmg3aGVCN0taM2NzV2VKaVdZYVhzaXFhZzNEY1ZjTlIxMTQ4MElNUm5ZY2JuRVN1eXhnSGJ6Rk4ya0pNOEVIS3JCbUluODd1RXRHTXVIczBEdFhhb3g2YkhGTUZIOVlYY0gweHhJaVlfYkFxalJqaHhmcHFXTUpnNWptSjV5MlNPWW40RVA1MjZMQ0xZdGNab0k5Z0RtNGpuemtiT1J1SzVLX2dlcFpFUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-08-31-104",
+    "date": "2026-08-31",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Smackover Lithium signs supply deal with LG Energy Solution - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXJGUHJXQ3ZCZkJzcmFiM2UtWWJSUUoyQnlDS01Nc1g3b3Mxd1JiT21LT2hFaWVQeFRZNFdwUmtQSjlUcU52MjVzUlRjN0NhZnF0SE02VjRoX0RZRmxFS0p6ZXJ3RnFqSUp5QXo0S0",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXJGUHJXQ3ZCZkJzcmFiM2UtWWJSUUoyQnlDS01Nc1g3b3Mxd1JiT21LT2hFaWVQeFRZNFdwUmtQSjlUcU52MjVzUlRjN0NhZnF0SE02VjRoX0RZRmxFS0p6ZXJ3RnFqSUp5QXo0S0FMa2VaTV9SOUY3MEozN2NFU0pYbGRneTdfeTNjWDdHbDUxbTdScTh5WENXTF8tQl9hX1VxaUdPYWtnNk5YMzN4QzZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-08-31-105",
+    "date": "2026-08-31",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK On signs battery deal with NeoVolta Power - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTcyQ29jMkxkd0c4cjMtTUx3UkZLOGpDNTJJc0RVeUVpc2FPSUsxejBLX0ZhR0lDSWd6QkVLT1dIZWM5WVNYd1pTY1k3aVRaTTJCSVBFc3ZOOTdZVXlpbVhVT1kxbmZleTBReHNJLT",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTcyQ29jMkxkd0c4cjMtTUx3UkZLOGpDNTJJc0RVeUVpc2FPSUsxejBLX0ZhR0lDSWd6QkVLT1dIZWM5WVNYd1pTY1k3aVRaTTJCSVBFc3ZOOTdZVXlpbVhVT1kxbmZleTBReHNJLTJWMFhPLWFsT0hacVY4VV9nbG9pTmsxQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-08-31-106",
+    "date": "2026-08-31",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "cathode_material",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK On secures massive LFP supply and offtake deal with NeoVolta Power in US - ess-news.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTNlRmV6eDBmS3BaSVV1ZlBmR3A2amh1QXRYZXRvM1ItWkgzOFpzUWIwUUdoWnNpc04xLThzZEFhUjRuaVRwQThubGgxZTVEYTF3TmMwanRPNXJEeEhOYjJ4V3VTWk45eFIxVkFsNG",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTNlRmV6eDBmS3BaSVV1ZlBmR3A2amh1QXRYZXRvM1ItWkgzOFpzUWIwUUdoWnNpc04xLThzZEFhUjRuaVRwQThubGgxZTVEYTF3TmMwanRPNXJEeEhOYjJ4V3VTWk45eFIxVkFsNGhNeVdlMkNadGZ4T01iZFVZTEVrLXJJRlp3XzFTWWJWODFWY1Q1cjlDWlY0T0JkOGh4TzAwa2RtcHdCRThJMk40VGtn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sk_on-2026-08-31-107",
+    "date": "2026-08-31",
+    "companies": [
+      "sk_on"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK On, U.S. firm NeoVolta Power sign ESS battery deal - koreajoongangdaily.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPN3VwQnpSU3c4b05wZWEzUWlmaXpHNnpDdnFCaTdGUWxZQnhSMlpyOFRMTk05T1RJa3BRc1ctOXhyOU1URDY5WVNtMUpUVDZTNk5Ec2c4cDdXdVdyZGNfV3RZbG5hTXBla2hTRzJZc1",
+    "sources": [
+      {
+        "name": "sk_on",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN3VwQnpSU3c4b05wZWEzUWlmaXpHNnpDdnFCaTdGUWxZQnhSMlpyOFRMTk05T1RJa3BRc1ctOXhyOU1URDY5WVNtMUpUVDZTNk5Ec2c4cDdXdVdyZGNfV3RZbG5hTXBla2hTRzJZc1R1el9acXdWQ0U5S3lkdEtOc0pIVU1xRVE5TTllTjVSLTd2d09ic3RuYlozRjY3MTZFYzFzeTRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-08-31-108",
+    "date": "2026-08-31",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What if Rivian spawned an e-bike? We test rode the new two-wheeler from the EV maker's Also spinoff - geekwire.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnJ6bERPTzM5YTcybWowTUVHUkxZYzZCV1lPN3RJX0dkanJhUEFaTzVzdkk5cWdCbE1lb2ZYZThOVGxCSGxMUjN1YUctTEVESDNQRmFUclp0RVVGRjcyVEF5OEJHUkJwQjZMZ2ZNTk",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnJ6bERPTzM5YTcybWowTUVHUkxZYzZCV1lPN3RJX0dkanJhUEFaTzVzdkk5cWdCbE1lb2ZYZThOVGxCSGxMUjN1YUctTEVESDNQRmFUclp0RVVGRjcyVEF5OEJHUkJwQjZMZ2ZNTkZ6T21GM0ozbTlBQkxlLXFoc3hESW1Id0R5V0tyTk1Xal9EbVlCbnh0ZnJOMGlaTmZWSU1uWmVNWWxHRkNWQnp1d1BidWhVSVhuTEpfNzc3SVQ3ODI5RWo4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-08-31-109",
+    "date": "2026-08-31",
+    "companies": [
+      "rivian",
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian vs. Tesla: Which EV Stock Offers Greater Potential? Top Investor Weighs In - tipranks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOOU9ZQ2h2ckZRUFNVdXMwTXlRX05XdmpRN3hPY3N6Yjg5Y3NLcUhHVTdiWHNSRVpLdUFZVTV6UnFCUDdPekNBLXgzYWl3N2hNdXVwZUdyXy03ekpaNkFuRlpqNWM2aVhrQnVBNUZlZ1",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOU9ZQ2h2ckZRUFNVdXMwTXlRX05XdmpRN3hPY3N6Yjg5Y3NLcUhHVTdiWHNSRVpLdUFZVTV6UnFCUDdPekNBLXgzYWl3N2hNdXVwZUdyXy03ekpaNkFuRlpqNWM2aVhrQnVBNUZlZ1dTRS0wVG1kUkhHMDZhOFZHellmZVF1WkVIYWVIMk5zZnh2My1aeXA4Q1YtVWFvLXo3ajlaZ0MzUVcwTlNVVnJHUmRIM0JObFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-08-31-110",
+    "date": "2026-08-31",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here's Our Best Look Yet At The Volkswagen ID.4 Successor - insideevs.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE0zNTcydEo4aW1hZVBLN21ETzlSUTUzaHhiRDlHRFliZ2JsUG1tS0N6dDVpUld0WDk3VTZVUWJlazlpVl9uVk1QUzd2Vk03blM4bVo1dnk0N0M2MDBMbzJiMExXRV8tUlBkQTZjSw?oc=",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zNTcydEo4aW1hZVBLN21ETzlSUTUzaHhiRDlHRFliZ2JsUG1tS0N6dDVpUld0WDk3VTZVUWJlazlpVl9uVk1QUzd2Vk03blM4bVo1dnk0N0M2MDBMbzJiMExXRV8tUlBkQTZjSw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-08-31-111",
+    "date": "2026-08-31",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen ID California electric unveiled as camper offering at Caravan Salon 2026 - HT Auto",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYVVYdWY4R0VRbVFXd3Q3cEpoZGkyUU52WHBHUnd4a0VnZ0tDTXg3aURCNURVbTZZR1M3bjBVYk9VQTZUYThLc2RBZTdjNi1HLVJ6TTBRMHlxdWlwXzFDbEZNV0VxVTFNUURtank1X3",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYVVYdWY4R0VRbVFXd3Q3cEpoZGkyUU52WHBHUnd4a0VnZ0tDTXg3aURCNURVbTZZR1M3bjBVYk9VQTZUYThLc2RBZTdjNi1HLVJ6TTBRMHlxdWlwXzFDbEZNV0VxVTFNUURtank1X3docGxiSmlXOGVKZmJ1d3ltejlwenNMaWk1ZE5RNmZEVkxUQm5BSjdCb1NPdHFTNEdyS1VsemRkWVBkZkVZNkFVOGxzemF1VWhGSjNBS1hFUkNJNk1MSEZBNlMtZ2V1ZzE0Q2NSM1RjVTRTMTNuSE12MDJOWDNrVVQ2QW83Y3FmRdIB9AFBVV95cUxOb3p4VGQzWDZUbzJfVk02SnVFNVk3UlR5Q2hXOHZKdHBCMTU2QU9LTkswQ1ppTjFLNVJlSWktcWhiVnMycWVqbWxMZGs3Q3N1TzJ6ejVhZUREUk8yZHczVHVFdjUyVjFmX2hrRFMyaVUyYVZDOUM0MXpkY1RDM3dGckhFZVlONmExLVR6UXpjWGNILXJqSTdQVTZuSkJpbGdOemhvamZUZE1WUG9vRGFDdUNueDg0bzdiQldvTXJwVmd3dXBTazcyRExHeXhZZUdVX3NjUkR5R0JoUEQ5UXY0Z3JHYzFVd2ROa0NfRV91N1JEQkd5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-30-001",
     "date": "2026-08-30",
     "companies": [],
@@ -4104,6 +5562,42 @@
       {
         "name": "nio",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS3c1RWtSUlcxbmM2Y0x4MkdaZmhqSm03S0NqYk9sUVJlSS14dW9FZDhianZHSm12dTlWNm5qVEhwV1NydmZtOWJ3eXZ2Z2cwYzl1aGwwWGZOZl9xcjdmc0Zjb2tzRmoyN1B6OWRoN0gxZnZmb2dEeEZZTjdHcmJLN1VVcVp5ZWJmR01lTjNKNm1MMlNXc2lDXzZDeUM0cFNKVVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-08-29-022",
+    "date": "2026-08-29",
+    "companies": [
+      "nio"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NIO's Next Earnings Report on September 1 Could Send the Stock Soaring. Here's Why. - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOSEpwZzg4dXMzckF3bzJXV3ZZcG9GT25pR1dIMXhZaGtueURoeURGeHJfRHZXbHFwZm9oUnU3N2h4Y2FFdmFSSDUydXo3Q1hoUFBlSDdUdDRvTkJENGJZQUpuVlVBZ1VBNmNGeS11b0",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSEpwZzg4dXMzckF3bzJXV3ZZcG9GT25pR1dIMXhZaGtueURoeURGeHJfRHZXbHFwZm9oUnU3N2h4Y2FFdmFSSDUydXo3Q1hoUFBlSDdUdDRvTkJENGJZQUpuVlVBZ1VBNmNGeS11b0xob2ZzMXNDcTYwWmstbFpqNHdZZ051eW90M2VPVDBqTmtBX05TM01yVG9WZUZuNjl0d0txSjNHWjZPR0hMb294S01NQlFaQnMtb1JCTE0yYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-08-29-023",
+    "date": "2026-08-29",
+    "companies": [
+      "nio"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NIO's Next Earnings Report on September 1 Could Send the Stock Soaring. Here's Why. - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxORENaSzZCSnZMOG1yYjF4NEozaUNNX1ZDRTRSSUFYakVrTkpEc09TSTZEc2xIU3o4UU5hODEtcjdEM2dCWUp5STZlM3FuRUtnSHg3bGtkaVZFal9XY3IzZUpiRmFZU0NNQ2dKOUd6S1",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORENaSzZCSnZMOG1yYjF4NEozaUNNX1ZDRTRSSUFYakVrTkpEc09TSTZEc2xIU3o4UU5hODEtcjdEM2dCWUp5STZlM3FuRUtnSHg3bGtkaVZFal9XY3IzZUpiRmFZU0NNQ2dKOUd6S1hwbEQ5VllURVBJd05GSC1XT2NTMjVTTko1X0Zfc3p0QnJoeGtlSUhRTm1PM05LOHZaNTMyYVFXN3JnVTJkbW5abVpteHgybGNvNFpXSHhWa2FzY0N3SWFlZUl0MzllNXpkVksySXdKeGtkVDNUcnRTdFp3U3B3V191ZG52cXRWX1BaZw?oc=5",
         "type": "rss"
       }
     ]
@@ -5771,6 +7265,26 @@
     ]
   },
   {
+    "id": "ganfeng-2026-08-28-088",
+    "date": "2026-08-28",
+    "companies": [
+      "ganfeng"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ganfeng Lithium H1 Net Profit At 4.3 Billion Yuan - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFdtT3cwbDQ4ODZXYlJIYjZJM0NvS2tURFVXRTl4LWNTUnBaSjNfZGVwd1g3OWxTeDN1Y3c2WklrbTZndDhvdV9QUWFFeWJxcnlxQXk0bjJlWmt3ZWtNeWFSa1Z0MzgtTnJQd2FGY2",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFdtT3cwbDQ4ODZXYlJIYjZJM0NvS2tURFVXRTl4LWNTUnBaSjNfZGVwd1g3OWxTeDN1Y3c2WklrbTZndDhvdV9QUWFFeWJxcnlxQXk0bjJlWmt3ZWtNeWFSa1Z0MzgtTnJQd2FGY2NVZnlIWE5DeFFDajE1QkN2Nzhhek9TdjJGZGh1MGpyRFc5VUNkV3k4ajNWYW1RRlJLY1JxenF2Q3BEeUM4WHJHZ0pKR3VIX2hQeXZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-27-001",
     "date": "2026-08-27",
     "companies": [],
@@ -7084,6 +8598,64 @@
     ]
   },
   {
+    "id": "byd-2026-08-27-070",
+    "date": "2026-08-27",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Does Ultra-Fast Charging Ruin An EV Battery? BYD Did It 350 Times In 9 Days To Find Out - insideevs.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB2dWZwRUlfM0NLQ1E0elpmMTZZVFhaaGsyNTVFemN3a2NJMlM5MFdJNDk2OVFNUXpabnlOMksxNUU3SFJrYTlOaXoxMzBnMW4xZ0ViX2RjYUtjVlplRjJEcVdzaU5LS08zd2hER01GbT",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2dWZwRUlfM0NLQ1E0elpmMTZZVFhaaGsyNTVFemN3a2NJMlM5MFdJNDk2OVFNUXpabnlOMksxNUU3SFJrYTlOaXoxMzBnMW4xZ0ViX2RjYUtjVlplRjJEcVdzaU5LS08zd2hER01GbTVueFEwMWlvN1FTRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-08-27-071",
+    "date": "2026-08-27",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rivian Loses CFO of Nearly Six Years to GE Vernova, Names Interim - eletric-vehicles.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQRG5WZ1A0NW1GZW9OWHN3bFQ3QlFDbTN2dzJtSjVBZWV1OGFWRFRrVUhkNzB2SU12UDlwRjJITzc5blA2bV9qS3dINmtwanAyNzRhMkR2cW9KWEZieTFHMEpuQTF3R0dsQm96THdOdF",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRG5WZ1A0NW1GZW9OWHN3bFQ3QlFDbTN2dzJtSjVBZWV1OGFWRFRrVUhkNzB2SU12UDlwRjJITzc5blA2bV9qS3dINmtwanAyNzRhMkR2cW9KWEZieTFHMEpuQTF3R0dsQm96THdOdFlfRVVhcGJncE5uYVhDMnk5dm9INHI3aG12RUs5bUxuR0JYYm15OENLTUFrTFJJWGc4UkJF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-08-27-072",
+    "date": "2026-08-27",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian’s finance chief McDonough steps down, joins GE Vernova - The Mighty 790 KFGO",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQMG02bFgxSGVOMVhHQVhlOHBuMnRtV21hbE9XUmFJYlRydVRHcEVaWUN3SGtVTlNPVTg1ZXB4aXM3alJ1b1AtN0lrNnRFNUFQT2EyZHRkeWNfS21TcWt5ekR3QXJNd0UyblBZTE50bW",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMG02bFgxSGVOMVhHQVhlOHBuMnRtV21hbE9XUmFJYlRydVRHcEVaWUN3SGtVTlNPVTg1ZXB4aXM3alJ1b1AtN0lrNnRFNUFQT2EyZHRkeWNfS21TcWt5ekR3QXJNd0UyblBZTE50bWJ0cHpEMmt5RHZCS3h1RVhoVkFNdThEeUpyUDEwc2dzbnV3UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-08-26-001",
     "date": "2026-08-26",
     "companies": [
@@ -8125,6 +9697,27 @@
       {
         "name": "nio",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcWlsV0tHdTZENXF2eGdEeEVaRzlUNUFZakdwYWQ3N2hTZ0RBUGR6Y25tdHRwdVo3Z05YSVgySXpEN0toU1pVUHBQN2NqU0xQWENZMEVYWmpfdy1XYTEyQ3hvTVRDS091dFpLME5vUWRWS2NqVF85NVdrNmZnVF9UNkttN29hTzRwMmhvbmJ4Q3ZjYldNMDRwTjBLc1Q1c1ZCUDhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-08-26-057",
+    "date": "2026-08-26",
+    "companies": [
+      "rivian",
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian Automotive vs. Tesla: Which Electric Vehicle Stock Is a Better Investment in 2026? - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQnFCSWVrNFBycmhkMVgwQXRXUVZuRTN6WnlOelhWSWpnY2dVUVhNcTNmdWZnTzJxSU1JNEZvNXo5bzN1WmhtczlaY1lEY25UcTVxaWhzYWxKT2dueXpZVnRyak9kYXNyR3puTjVRN0",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQnFCSWVrNFBycmhkMVgwQXRXUVZuRTN6WnlOelhWSWpnY2dVUVhNcTNmdWZnTzJxSU1JNEZvNXo5bzN1WmhtczlaY1lEY25UcTVxaWhzYWxKT2dueXpZVnRyak9kYXNyR3puTjVRN0ZsZjhGU1dFXzBSQ2t5U1pCZW40bDZVOW93UmI5RWZtNHVGQlRVY0dLWnZ3UVpJOEJPRUZLUHluVUI0TjZXVFVWNHRYRnZkdHJoRFh6aGVVX1Yzb3pFRVBwN3NVeVZfVERxZDI1eHF3?oc=5",
         "type": "rss"
       }
     ]
