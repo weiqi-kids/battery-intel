@@ -1,0 +1,231 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:42:13.305742Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_energy-2026-09-03-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Three years ago, GM had ownership stakes in four battery plants with two partners: South Korean companies LG Energy Solution and Samsung SDI. See link below ⬇️ 📸 Provided by LG Energy Solution - facebook.com",
+      "companies": [
+        "lg_energy",
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWjZIZERRVEt1S0NZNG95NVY1ZlBKeEstaERmRkNGNVFUYWxSNS1iRmtzUnUyVVJ0S0tqN1A2RnNsQjVKSVR2S0R6U2tHMWNDSzBRZkdORU1wNzE4NTZMcFZPTzFpLUdXZXU0QllMTXlob1pmclM2d0NnSlJualpGVWxGNWFXdDhXcU9PN1YtdFduS0dzQmI3QU4wOHVDMWZGRWlOdXlVSjJoNlIxZmNKc3VUc1U1RklpY0lfdEszdXJ0cjQ1alFBeW5lQ0pfVUVocW1maVFyX2hVZkVOOTV3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-09-03-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "EVs outsell petrol in Australia for the first time, led by China",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/09/03/australia-ev-sales-outsell-petrol-august-2026/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-03-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China's August NEV retail sales fall 4% to 1.07 million, preliminary CPCA data shows",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/09/03/china-aug-2026-nev-retail-preliminary-cpca/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-03-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bulgaria now ‘the most battery-intensive energy market in the world’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.energy-storage.news/bulgaria-now-the-most-battery-intensive-energy-market-in-the-world/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-03-030",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "South Korea posts fifth-highest power demand on record",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/03/south-korea-posts-fifth-highest-power-demand-on-record-amid-heat/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 23,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "lg_energy",
+        "count": 1
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "ev_sales",
+        "count": 2
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 180,
+    "dup_title": 67,
+    "too_old": 18,
+    "gate1_blocked": 27,
+    "gate2_blocked": 15,
+    "passed": 53,
+    "pass_rate": "46.9%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "LG Energy Solution ESG Report 2025: Advancing Sustainable Manufacturing, Governance, and Business Tr",
+      "Vehicle emissions fight score update: California 2 – Trump 0",
+      "Zero will soon add the main feature its electric motorcycles have always lacked",
+      "Range Rover’s first luxury electric SUV costs $140,000 and delivers V8 power [Images]",
+      "Republicans are about to raise your fuel costs by 45% during an energy crisis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為特斯拉、比亞迪、LG新能源相關動態：「Three years ago, GM had ownership stakes in four battery ...」。主要關注主題為電池產業通用、電動車銷量、正極材料，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Three years ago, GM had ownership stakes in four battery plants with two part...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "EVs outsell petrol in Australia for the first time, led by China（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
