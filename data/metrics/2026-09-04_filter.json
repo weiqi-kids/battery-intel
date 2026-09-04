@@ -1,0 +1,16 @@
+{
+  "total_raw": 417,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 59,
+  "gate1_fail": 25,
+  "gate2_fail": 29,
+  "passed": 103,
+  "gate2_samples": [
+    "Why Is Pilbara Minerals (ASX:PLS) Falling Today? - Kalkine",
+    "BYD’s new luxury electric SUV has a range of over 1,000 km and huge screens - Electrek",
+    "BYD’s electric supercar will beat a Lambo in a race, and it’s cheaper than a Porsche [Video] - Elect",
+    "We Took the New Rivian R2 Off-Roading in Utah, and It Begs You to Drive Fast - Outside Magazine",
+    "How Much Is a Rivian? Here's What the R2, R1S and R1T Cost - Edmunds"
+  ]
+}
