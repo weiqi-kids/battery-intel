@@ -1,0 +1,16 @@
+{
+  "total_raw": 415,
+  "dup_title": 269,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 25,
+  "gate2_fail": 29,
+  "passed": 27,
+  "gate2_samples": [
+    "Why Is Pilbara Minerals (ASX:PLS) Falling Today? - Kalkine",
+    "BYD’s new luxury electric SUV has a range of over 1,000 km and huge screens - Electrek",
+    "Rivian rolls out RivianOS 2, unifying software across R1 and R2 - Electrek",
+    "2024 Rivian R1S Adventure for Sale With 24,700 Miles - Autoblog",
+    "We Took the New Rivian R2 Off-Roading in Utah, and It Begs You to Drive Fast - outsideonline.com"
+  ]
+}

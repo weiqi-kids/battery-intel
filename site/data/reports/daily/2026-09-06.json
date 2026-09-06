@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T12:02:21.484824Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-09-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘The shift is now absolute’: China’s BYD says Australia just passed its EV tipping point - SMH.com.au",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQnV2X0RzNXhpVlJPMUxCeERsdVB6NTF5WW1PRUNZMDl0Y3djLW9ad2FSalR1RWtUWWdsRk5XMTl3b3J1XzlPX3lSaFJhT3lwOXNjQ1ZLcUtFUkFZUEFiQUNZZnFjYkJHOWVDRi1fS3p0NVA5OG5qeDRmOFc0R0dzNjdXYTA3eG1Wb0xrbFpOd0FmRTZ4WlVZcU5zSzg3TGNEa01sS19pd0FFcjNZRk9pX3BZZjExZVNfTk5OSDZmUGVxMFljLU85RVlIb0NtNEdOdEhtRlZFQWNnaXJwaTY1OFVXMzF4eHZRal9r?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-09-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BYD Siapkan Denza N8L EV, Baterai 130 kWh Klaim Tempuh 960 Km - VOI.ID",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1fWVZ4QmotOW5jLWx5YTAzWGNTLVhTZmZONWZhdjRXUUdxYlM3T2NxcE5fcl9ZbGVCdHQwUnpRZ3h1Y3ZQ0gFCQVVfeXFMTVlkTm9VN3BYQUFjbzc2MURURFpMTGh5QWQ0SlpQbm1aNWZCb1h1Y1FLM1liY0h2dm9zbkg3V1BWaU93?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The story of SONDORS’ new mystery e-bike just got even weirder with just two words",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/09/06/the-story-of-sondors-new-mystery-e-bike-just-got-even-weirder-with-just-two-words/"
+    },
+    {
+      "rank": 4,
+      "event_id": "volkswagen-2026-09-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Volkswagen Superviosory Board Approves Plan To Slash Models & Reduce Workforce By 100,000",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/09/05/volkswagen-superviosory-board-approves-plan-to-slash-models-reduce-workforce-by-100000/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 269,
+    "too_old": 65,
+    "gate1_blocked": 25,
+    "gate2_blocked": 29,
+    "passed": 27,
+    "pass_rate": "18.5%",
+    "gate2_block_rate": "19.9%",
+    "gate2_samples": [
+      "Why Is Pilbara Minerals (ASX:PLS) Falling Today? - Kalkine",
+      "BYD’s new luxury electric SUV has a range of over 1,000 km and huge screens - Electrek",
+      "Rivian rolls out RivianOS 2, unifying software across R1 and R2 - Electrek",
+      "2024 Rivian R1S Adventure for Sale With 24,700 Miles - Autoblog",
+      "We Took the New Rivian R2 Off-Roading in Utah, and It Begs You to Drive Fast - outsideonline.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為比亞迪、福斯相關動態：「‘The shift is now absolute’: China’s BYD says Australia j...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "‘The shift is now absolute’: China’s BYD says Australia just passed its EV ti...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "BYD Siapkan Denza N8L EV, Baterai 130 kWh Klaim Tempuh 960 Km - VOI.ID（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
