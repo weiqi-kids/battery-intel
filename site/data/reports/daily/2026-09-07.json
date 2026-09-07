@@ -1,0 +1,262 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T14:06:02.599480Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nio-2026-09-07-027",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Chinese EV Makers Increasingly Turn to Robotics: Nio, BYD, Leapmotor - News and Statistics - IndexBox",
+      "companies": [
+        "nio",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGxMVUJHMmtEa0N6aTZqQVpaZkVhY0kzVXRTWHhQSTJneXlraXk0ZU9rNzJNRjF2WU1laHdsYXYtRThpanpCdlVJVFZTRVo3UFRmU19YR1NKaWg0dllac0NqSUJpeVFoMlhLVndPSTAxaEdQRTBlSXlqeUhsNDRURHFTSTItemxDemVjMC1WRlk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-09-07-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Global EV battery market share in January-July 2026: CATL 39.9%, BYD 14.7% - CnEVPost",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUzdmV3g4WWh0ajdPMXRrYUJVNTF2dTRUcUZPNmhrUVp5MHhIWFFQSU1rZnB3T0c2Mk9yZzVyN2pXUTVCQXNhMU9xUnRGbG9VMFhaNnVBN3R5Vk1zWVdfLVFkc0hjakFXNUJ3dndTdU1pNjh0UFlFSHpLU0gtY2RYU2lB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-09-07-037",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Global EV battery market share in January-July 2026: CATL 39.9%, BYD 14.7%",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/09/07/global-ev-battery-market-share-jan-jul-2026/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-09-07-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The world's biggest battery maker CATL has warned shortened development on EVs in leading to battery failures - CarsGuide",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnZ6N3dHRWN2YUZob2lQczhtZENTY0R1ZmdNSUxxT2JYMmpTcFh4ZF9vVmkyUTZQNmhqR1RTaW5TbjY2ZDY4NjVBOGoxaGc4d3ZON2FKNUFtUjZtUTJjM2JGcHV0YWExR0tqOTd5RVJZeVQ2dWMyNkUzd2ZCc1cxYWxnck5HSElYMEZWRHZkNjBMRU5uZ3FvQktnazFjejAyN2loZG1MNDY3NlN1XzBqcFd2Y3B1cUVYMGtxUkloWDl0Tlk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_energy-2026-09-07-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LG Energy Solution Advances LMR Battery Commercialization with Breakthrough in Large-Cell Stability - Korea IT Times",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wdkhpLWZCRlpXUFlZdm5lRlNrbTF5eThRQ3hILUlEUUJORFExNVhiNFR5VmFwVDZkM1FRZmtsMWh2Q21ob2lZTlpKODhnWklhT3dONDhYU0Rsc05MNFd6aHpYcmE5XzlhWGF1QV96NUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 48,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 51,
+    "sentiment_distribution": {
+      "positive": 11,
+      "neutral": 38,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lg_energy",
+        "count": 9
+      },
+      {
+        "id": "catl",
+        "count": 7
+      },
+      {
+        "id": "byd",
+        "count": 4
+      },
+      {
+        "id": "pilbara",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 48
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 412,
+    "dup_title": 231,
+    "too_old": 60,
+    "gate1_blocked": 22,
+    "gate2_blocked": 28,
+    "passed": 71,
+    "pass_rate": "39.2%",
+    "gate2_block_rate": "15.5%",
+    "gate2_samples": [
+      "Why Is Pilbara Minerals (ASX:PLS) Falling Today? - Kalkine",
+      "BYD’s new luxury electric SUV has a range of over 1,000 km and huge screens - Electrek",
+      "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs - The New York Times",
+      "Rivian rolls out RivianOS 2, unifying software across R1 and R2 - Electrek",
+      "2024 Rivian R1S Adventure for Sale With 24,700 Miles - Autoblog"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 51 則事件，焦點為LG新能源、寧德時代、比亞迪相關動態：「Chinese EV Makers Increasingly Turn to Robotics: Nio, BYD...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Chinese EV Makers Increasingly Turn to Robotics: Nio, BYD, Leapmotor - News a...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Global EV battery market share in January-July 2026: CATL 39.9%, BYD 14.7% - ...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
