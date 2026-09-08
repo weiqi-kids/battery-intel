@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T12:43:12.144150Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_sdi-2026-09-08-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung SDI, LG and SK On Race to Build Batteries for Humanoid Robots - Startup Fortune",
+      "companies": [
+        "samsung_sdi",
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0N3M3FUV3ZPaEdveUhPRjBxS1lCX3F5bXRHMVBOTHRGQlFibW8xQ2xlN2tRZUNGQU1lVUo4UkJkV0xIOEZROUJkY2VncWYzTF9zdGVOMzNDWjBfZ3BMZktRNExFSFJFV3NlRVdfVkd4SkdDOEJfZzRvUU9BcWE2QS1TVXdQVXBJOVh6RjlCaExRY1RyYnBtdkRuWG8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-09-08-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tesla's China retail sales fall 12.4% in August, marking third straight decline",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/09/08/tesla-china-retail-sales-aug-2026/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-08-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "HiNa Battery scales Korean sodium-ion partnership from 15 MWh to 10 GWh",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/08/hina-battery-scales-korean-sodium-ion-partnership-from-15-mwh-to-10-gwh/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-09-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "15 Chinese automakers' combined H1 net profit is only half of CATL's, worsening profit imbalance in China's NEV supply chain - finance.biggo.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuTEVwWTliOENmLUpaS2NJVl9UaWM2S2hjNGxxcVdKd3pIdzR5cmVYS1loTER5X21iY0Rkay1kNG9fSFZrdGVBd002STJ1M2Zkd2x5UFZlMEVCbWpHUzRjdnBiOHRqWHdsSEEwSFlydjlDbVBSdWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korean Firms Accelerate LFP Cathode Self-Sufficiency - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53cDJQa21zWGd5VG01bkNtTXRWZzlTeE5OdUM0Y3BzNEttaUdrdjZrRjZZeG9Ic3I5OGZUMmIzOEttMldmcEc5bVFxYzBVTThBbEg0MERsOXlwc3Y3NXo4bTF1Y3psbnRib1BlcldROXFfX3F0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 30,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 4
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "catl",
+        "count": 1
+      },
+      {
+        "id": "sk_on",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 412,
+    "dup_title": 235,
+    "too_old": 69,
+    "gate1_blocked": 13,
+    "gate2_blocked": 26,
+    "passed": 69,
+    "pass_rate": "39.0%",
+    "gate2_block_rate": "14.7%",
+    "gate2_samples": [
+      "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift - CarNewsChina.com",
+      "CATL Sees New-Energy Big Rigs Making Up Half of China’s Truck Sales by 2028 - caixinglobal.com",
+      "Why Is Pilbara Minerals (ASX:PLS) Falling Today? - Kalkine",
+      "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs - The New York Times",
+      "Rivian R1T Driver Reports $828.75 in Electricity for 90,000 Miles With Solar, Versus a $16,958 F-150"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為福斯、三星SDI、特斯拉相關動態：「Samsung SDI, LG and SK On Race to Build Batteries for Hum...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung SDI, LG and SK On Race to Build Batteries for Humanoid Robots - Start...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tesla's China retail sales fall 12.4% in August, marking third straight decline（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

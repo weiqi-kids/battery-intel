@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T14:06:01.857384+00:00",
+  "updated_at": "2026-09-08T12:43:11.321370+00:00",
   "companies": {
     "panasonic": {
       "name": "Panasonic",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 70165,
           "pct_held": 0.0,
-          "value": 310199465
+          "value": 292167060
         }
       ]
     },
@@ -157,7 +157,7 @@
           "holder": "Winch Advisory Services LLC",
           "shares": 106,
           "pct_held": 0.0,
-          "value": 3860
+          "value": 3858
         }
       ]
     },
@@ -183,25 +183,25 @@
           "holder": "Ascentis Wealth Management, LLC",
           "shares": 2064,
           "pct_held": 0.0,
-          "value": 174408
+          "value": 173066
         },
         {
           "holder": "Winch Advisory Services LLC",
           "shares": 120,
           "pct_held": 0.0,
-          "value": 10140
+          "value": 10061
         },
         {
           "holder": "Strengthening Families & Communities, LLC                          ",
           "shares": 600,
           "pct_held": 0.0,
-          "value": 50700
+          "value": 50309
         },
         {
           "holder": "Kelly (Lawrence W.) & Associates Inc.",
           "shares": 6000,
           "pct_held": 0.0,
-          "value": 507000
+          "value": 503099
         }
       ]
     },
@@ -214,61 +214,61 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 3318101,
           "pct_held": 1.35,
-          "value": 75188168
+          "value": 76316323
         },
         {
           "holder": "American Century ETF Trust-Avantis International Small Cap Value ETF",
           "shares": 2348190,
           "pct_held": 0.95,
-          "value": 53209985
+          "value": 54008370
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 2236397,
           "pct_held": 0.91,
-          "value": 50676755
+          "value": 51437131
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 1672774,
           "pct_held": 0.68,
-          "value": 37905058
+          "value": 38473802
         },
         {
           "holder": "Victory Portfolios-Victory Trivalent International Small-Cap Fund",
           "shares": 1653773,
           "pct_held": 0.67,
-          "value": 37474495
+          "value": 38036779
         },
         {
           "holder": "Goldman Sachs TRT-Goldman Sachs Intl Small Cap Insights Fd.",
           "shares": 1244492,
           "pct_held": 0.51,
-          "value": 28200188
+          "value": 28623316
         },
         {
           "holder": "SmallCap World Fund Inc",
           "shares": 1179563,
           "pct_held": 0.48,
-          "value": 26728897
+          "value": 27129949
         },
         {
           "holder": "SCHWAB STRATEGIC TRUST-Schwab Fundamental International Equity ETF",
           "shares": 941890,
           "pct_held": 0.38,
-          "value": 21343227
+          "value": 21663470
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
           "shares": 922335,
           "pct_held": 0.37,
-          "value": 20900110
+          "value": 21213705
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 844995,
           "pct_held": 0.34,
-          "value": 19147586
+          "value": 19434885
         }
       ]
     },
@@ -281,13 +281,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 759945,
           "pct_held": 0.09,
-          "value": 40315081
+          "value": 40877442
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 2125,
           "pct_held": 0.0,
-          "value": 112731
+          "value": 114303
         }
       ]
     },
@@ -501,13 +501,13 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 2000,
           "pct_held": 0.0,
-          "value": 162080
+          "value": 166679
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 360,
           "pct_held": 0.0,
-          "value": 29174
+          "value": 30002
         }
       ]
     }

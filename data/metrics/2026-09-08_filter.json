@@ -1,0 +1,16 @@
+{
+  "total_raw": 412,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 13,
+  "gate2_fail": 26,
+  "passed": 69,
+  "gate2_samples": [
+    "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift - CarNewsChina.com",
+    "CATL Sees New-Energy Big Rigs Making Up Half of China’s Truck Sales by 2028 - caixinglobal.com",
+    "Why Is Pilbara Minerals (ASX:PLS) Falling Today? - Kalkine",
+    "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs - The New York Times",
+    "Rivian R1T Driver Reports $828.75 in Electricity for 90,000 Miles With Solar, Versus a $16,958 F-150"
+  ]
+}
