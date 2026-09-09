@@ -1,0 +1,16 @@
+{
+  "total_raw": 412,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 25,
+  "gate2_fail": 34,
+  "passed": 78,
+  "gate2_samples": [
+    "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift - CarNewsChina.com",
+    "CATL Sees New-Energy Big Rigs Making Up Half of China’s Truck Sales by 2028 - Caixin Global",
+    "Ford’s Use of Chinese Tech Called ‘Unacceptable’ by Transportation Secretary - WSJ",
+    "Ford's relationship with CATL and Geely is under government scrutiny (F:NYSE) - Seeking Alpha",
+    "‘Misunderstandings’ arise: Chinese energy firms call for stable rules overseas - South China Morning"
+  ]
+}

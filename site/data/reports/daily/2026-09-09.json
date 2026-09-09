@@ -1,0 +1,239 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:49:58.097708Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-09-09-024",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Automakers' August share of China's NEV market: BYD leads with 23.3%, Tesla returns to top 10",
+      "companies": [
+        "byd",
+        "tesla"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://cnevpost.com/2026/09/09/automakers-aug-2026-share-china-nev-market/"
+    },
+    {
+      "rank": 2,
+      "event_id": "eve-2026-09-09-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "CATL, EVE Energy lead Chinese manufacturers’ battery storage cell price hikes - Energy-Storage.News",
+      "companies": [
+        "eve",
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmpwZFJtM2hTX0czeVlvUW0tZHczSnpSMWhNQklCRzdxTzBfZTFlMDlpd2R3c2dWWHZTSHJRM1BRYWwxdmZkanRZeWszTFRkTUxsR0dxQ0gtbktQOU9yWVp5UTRlT3ZLaVRsRzZQSEU4c2RoVUtRREVnRjdKaVBjYm5Vb2pZSG03UElmekpzOXFJQ0gzVndDWXNndjAzcVM4T3I1VmNnb0kyLUNE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "eve-2026-09-09-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Battery Energy Storage Price Hikes: CATL, EVE Energy Lead as 2% Consumption Tax Hits - News and Statistics - indexbox.io",
+      "companies": [
+        "eve",
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEstcTBSRmVtTURmVEpQTDdGc3N5SzNnY2NzbmZPMHJfYjZYV2tCY0R0NFNRYjF0U1VYM0x5VWlIdVotMmZaWnY1dGhxV2tkVmZiSnZoZDFaRFpMRWVyTTFxV0ZObVRBeHp1R18xUGVRZHRKTzFrOXNQQmxTOG44R3E1OFRWQUZIOF9RdGo4aHVtM2Y4VTBQMA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "eve-2026-09-09-037",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "CATL, EVE Energy lead Chinese manufacturers’ battery storage cell price hikes",
+      "companies": [
+        "eve",
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.energy-storage.news/catl-eve-energy-lead-chinese-manufacturers-battery-storage-cell-price-hikes/"
+    },
+    {
+      "rank": 5,
+      "event_id": "tesla-2026-09-09-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tesla August China deliveries breakdown: Model Y falls 26%, extending decline to third month",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/09/09/tesla-aug-2026-china-deliveries-breakdown/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "catl",
+      "to": "eve",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 39,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 7
+      },
+      {
+        "id": "tesla",
+        "count": 5
+      },
+      {
+        "id": "catl",
+        "count": 4
+      },
+      {
+        "id": "eve",
+        "count": 3
+      },
+      {
+        "id": "byd",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 42
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 412,
+    "dup_title": 212,
+    "too_old": 63,
+    "gate1_blocked": 25,
+    "gate2_blocked": 34,
+    "passed": 78,
+    "pass_rate": "39.0%",
+    "gate2_block_rate": "17.0%",
+    "gate2_samples": [
+      "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift - CarNewsChina.com",
+      "CATL Sees New-Energy Big Rigs Making Up Half of China’s Truck Sales by 2028 - Caixin Global",
+      "Ford’s Use of Chinese Tech Called ‘Unacceptable’ by Transportation Secretary - WSJ",
+      "Ford's relationship with CATL and Geely is under government scrutiny (F:NYSE) - Seeking Alpha",
+      "‘Misunderstandings’ arise: Chinese energy firms call for stable rules overseas - South China Morning"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為福斯、特斯拉、寧德時代相關動態：「Automakers' August share of China's NEV market: BYD leads...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Automakers' August share of China's NEV market: BYD leads with 23.3%, Tesla r...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "CATL, EVE Energy lead Chinese manufacturers’ battery storage cell price hikes...（電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
