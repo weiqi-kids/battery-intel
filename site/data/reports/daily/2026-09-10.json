@@ -1,0 +1,266 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:48:02.262724Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-09-10-036",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Are New Electric Entrants Serious Competition for European Truckmakers?",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/09/09/are-new-electric-entrants-serious-competition-for-european-truckmakers/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-10-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China NEV sales rise 17.8% in August as share hits record 60.6%, CAAM data shows",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/09/10/china-nev-sales-aug-2026-caam/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-10-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FlexGen, SMT Energy commission 320MWh Texas BESS in just six weeks, as ERCOT grid faces record demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.energy-storage.news/flexgen-smt-energy-commission-320mwh-texas-bess-in-just-six-weeks-as-ercot-grid-faces-record-demand/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-10-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Australia: Akaysha Energy’s Waratah Super Battery tests full SIPS obligation as 850MW output recorded",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.energy-storage.news/australia-akaysha-energys-waratah-super-battery-tests-full-sips-obligation-as-850mw-output-recorded/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-09-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The battery price war is playing into CATL’s hands - Financial Times",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "battery_cost",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzFRZk5yU3ZoNk9kdG1CcEU3RXR3bkxNdHVTT1lfYm5zdktVc2htNlNSX2lMQWZZSlAzNmVEVGpaZW0zTDROQld3NTc4bF9vYUhYNXp4S29wRFBMTmFhM09oWjI5TzFoT3hidV9oMWVsYWNTYVFNY3lOcnZSSmh2Z1RsY1U?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "battery_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 45,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "recycling": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 47,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 40,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_energy",
+        "count": 7
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 2
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 45
+      },
+      {
+        "id": "recycling",
+        "count": 2
+      },
+      {
+        "id": "lithium_price",
+        "count": 2
+      },
+      {
+        "id": "battery_cost",
+        "count": 1
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 413,
+    "dup_title": 202,
+    "too_old": 71,
+    "gate1_blocked": 23,
+    "gate2_blocked": 33,
+    "passed": 84,
+    "pass_rate": "39.8%",
+    "gate2_block_rate": "15.6%",
+    "gate2_samples": [
+      "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift - CarNewsChina.com",
+      "Ford’s Use of Chinese Tech Called ‘Unacceptable’ by Transportation Secretary - WSJ",
+      "Feds Tell Ford to Cut the CATL Cord — or Else - thetruthaboutcars.com",
+      "‘Misunderstandings’ arise: Chinese energy firms call for stable rules overseas - South China Morning",
+      "Mitsubishi UFJ Financial Group Ceases to Be Substantial Holder in Pilbara Minerals - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 47 則事件，焦點為LG新能源、三星SDI、蔚來相關動態：「Are New Electric Entrants Serious Competition for Europea...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Are New Electric Entrants Serious Competition for European Truckmakers?（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "China NEV sales rise 17.8% in August as share hits record 60.6%, CAAM data shows（電動車銷量、電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電池成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

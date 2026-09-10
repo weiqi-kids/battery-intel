@@ -1,0 +1,16 @@
+{
+  "total_raw": 413,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 23,
+  "gate2_fail": 33,
+  "passed": 84,
+  "gate2_samples": [
+    "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift - CarNewsChina.com",
+    "Ford’s Use of Chinese Tech Called ‘Unacceptable’ by Transportation Secretary - WSJ",
+    "Feds Tell Ford to Cut the CATL Cord — or Else - thetruthaboutcars.com",
+    "‘Misunderstandings’ arise: Chinese energy firms call for stable rules overseas - South China Morning",
+    "Mitsubishi UFJ Financial Group Ceases to Be Substantial Holder in Pilbara Minerals - Kalkine"
+  ]
+}
