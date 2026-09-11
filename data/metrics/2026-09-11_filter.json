@@ -1,0 +1,16 @@
+{
+  "total_raw": 414,
+  "dup_title": 234,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 24,
+  "gate2_fail": 34,
+  "passed": 59,
+  "gate2_samples": [
+    "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift - CarNewsChina.com",
+    "Ford’s Use of Chinese Tech Called ‘Unacceptable’ by Transportation Secretary - WSJ",
+    "Feds Tell Ford to Cut the CATL Cord — or Else - thetruthaboutcars.com",
+    "LG Energy Solution in Holland is Powering Michigan’s Future - michiganbusiness.org",
+    "‘Misunderstandings’ arise: Chinese energy firms call for stable rules overseas - South China Morning"
+  ]
+}
