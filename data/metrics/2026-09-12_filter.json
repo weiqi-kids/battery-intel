@@ -1,0 +1,16 @@
+{
+  "total_raw": 413,
+  "dup_title": 243,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 24,
+  "gate2_fail": 29,
+  "passed": 44,
+  "gate2_samples": [
+    "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift - CarNewsChina.com",
+    "Feds Tell Ford to Cut the CATL Cord — or Else - thetruthaboutcars.com",
+    "‘Misunderstandings’ arise: Chinese energy firms call for stable rules overseas - scmp.com",
+    "First Sentier Group No Longer a Substantial Shareholder in Pilbara Minerals (ASX:PLS) - Kalkine Medi",
+    "Pilbara Minerals — First Sentier Group Ceases to Be Substantial Holder - Kalkine"
+  ]
+}

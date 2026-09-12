@@ -1,0 +1,211 @@
+{
+  "date": "2026-09-12",
+  "date_range": {
+    "start": "2026-09-06",
+    "end": "2026-09-12"
+  },
+  "generated_at": "2026-09-12T12:02:40.490644Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nio-2026-09-07-027",
+      "date": "2026-09-07",
+      "title": "Chinese EV Makers Increasingly Turn to Robotics: Nio, BYD, Leapmotor - News and Statistics - IndexBox",
+      "importance_score": 0.9
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "cathode_material",
+      "subject_type": "topic",
+      "this_week_sentiment": 0.45,
+      "last_week_sentiment": -0.04,
+      "delta": 0.49,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "catl",
+      "company_b": "eve",
+      "co_mention_count": 4,
+      "rank": 3
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "tesla",
+      "co_mention_count": 3,
+      "rank": 4
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 210,
+      "last_week": 243,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.07
+    },
+    "cathode_material": {
+      "this_week": 5,
+      "last_week": 13,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.45
+    },
+    "lithium_price": {
+      "this_week": 3,
+      "last_week": 5,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.17
+    },
+    "battery_cost": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "recycling": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "ev_sales": {
+      "this_week": 1,
+      "last_week": 6,
+      "week_over_week_change": "-83%",
+      "sentiment_this_week": 1.0
+    }
+  },
+  "company_7d_summary": {
+    "byd": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 5
+    },
+    "volkswagen": {
+      "event_count": 19,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "catl": {
+      "event_count": 15,
+      "sentiment_avg": 0.13,
+      "rank": 3
+    },
+    "lg_energy": {
+      "event_count": 18,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "sk_on": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 10
+    },
+    "ganfeng": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 11
+    },
+    "pilbara": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 8
+    },
+    "umicore": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "nio": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "tesla": {
+      "event_count": 15,
+      "sentiment_avg": -0.23,
+      "rank": 4
+    },
+    "samsung_sdi": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 7
+    },
+    "eve": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 9
+    },
+    "rivian": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 390,
+        "last": 525,
+        "change_pct": -25.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-06",
+      "event_count": 16,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-07",
+      "event_count": 84,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-08",
+      "event_count": 67,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-09",
+      "event_count": 81,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-10",
+      "event_count": 79,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-11",
+      "event_count": 50,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-12",
+      "event_count": 13,
+      "sentiment_avg": 0.15
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-06 ~ 2026-09-12）共 390 則事件，重點為「Chinese EV Makers Increasingly Turn to Robotics...」。特斯拉情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "特斯拉",
+        "reason": "本週情緒偏負面（-0.2），共 15 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "福斯",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
