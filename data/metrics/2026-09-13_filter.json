@@ -1,0 +1,16 @@
+{
+  "total_raw": 413,
+  "dup_title": 260,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 25,
+  "gate2_fail": 25,
+  "passed": 23,
+  "gate2_samples": [
+    "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift - CarNewsChina.com",
+    "Feds Tell Ford to Cut the CATL Cord — or Else - thetruthaboutcars.com",
+    "First Sentier Group No Longer a Substantial Shareholder in Pilbara Minerals (ASX:PLS) - Kalkine Medi",
+    "Pilbara Minerals — First Sentier Group Ceases to Be Substantial Holder - Kalkine",
+    "Mitsubishi UFJ Financial Group Ceases to Be Substantial Holder in Pilbara Minerals - Kalkine"
+  ]
+}

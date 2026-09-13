@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T13:11:56.948505Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-09-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Egypt’s BME, China’s CATL plan battery plant with investment above $39m - Arab News",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObmhMSWdfdTE2ZG9qOFUyZjN5OS12OF82UnhRQjU0TnhOd2UxMWZMZzNuSWpVekJDd09pcVdXSllCY091dVlhNUNGSllpUGRGTk5INWFOMVN6RG8wQlZJVkVCWEViVFRKV3JzUTVYNkVYNExNSnNCVVJlT0dDaDY3REVLZnMtLXdlRFlCWmplYlVvdnNzWGV2ajdiYjJFN1NaWHZsMU5xOEFvMFRVcHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Turn Off The Lights: Birds Are Migrating",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/09/13/turn-off-the-lights-birds-are-migrating/"
+    },
+    {
+      "rank": 3,
+      "event_id": "tesla-2026-09-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rush To Promote Unsupervised Tesla FSD Videos Raises More Questions",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/09/12/tesla-unsupervised-fsd-full-self-driving-videos/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 413,
+    "dup_title": 260,
+    "too_old": 80,
+    "gate1_blocked": 25,
+    "gate2_blocked": 25,
+    "passed": 23,
+    "pass_rate": "15.0%",
+    "gate2_block_rate": "16.3%",
+    "gate2_samples": [
+      "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift - CarNewsChina.com",
+      "Feds Tell Ford to Cut the CATL Cord — or Else - thetruthaboutcars.com",
+      "First Sentier Group No Longer a Substantial Shareholder in Pilbara Minerals (ASX:PLS) - Kalkine Medi",
+      "Pilbara Minerals — First Sentier Group Ceases to Be Substantial Holder - Kalkine",
+      "Mitsubishi UFJ Financial Group Ceases to Be Substantial Holder in Pilbara Minerals - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為寧德時代、特斯拉相關動態：「Egypt’s BME, China’s CATL plan battery plant with investm...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Egypt’s BME, China’s CATL plan battery plant with investment above $39m - Ara...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Turn Off The Lights: Birds Are Migrating（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
