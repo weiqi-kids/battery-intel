@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-14",
+  "total_events": 57,
+  "by_company": {
+    "catl": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "pilbara": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "volkswagen": {
+      "count": 18,
+      "sentiment_avg": 0.22
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 56,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

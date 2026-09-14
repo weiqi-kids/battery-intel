@@ -1,0 +1,16 @@
+{
+  "total_raw": 414,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 22,
+  "gate2_fail": 19,
+  "passed": 70,
+  "gate2_samples": [
+    "Li Auto bids farewell to CATL, echoing Xpeng’s strategic shift - CarNewsChina.com",
+    "Pilbara Minerals — First Sentier Group Ceases to Be Substantial Holder - Kalkine",
+    "Mitsubishi UFJ Financial Group Ceases to Be Substantial Holder in Pilbara Minerals - Kalkine",
+    "We Bought a 2027 Rivian R2. Here's What It's Like to Live With - Edmunds",
+    "Here’s How to Lease the New 2027 Rivian R2, and How Much You’ll Pay - MotorTrend"
+  ]
+}
