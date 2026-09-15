@@ -1,0 +1,200 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:18:56.725142Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-09-15-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Volkswagen claims efficiency record with one-off EV - torquecafe.com",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTWpoSHpFVU9kS2txLUlNWkZWalBwZDlrcDhiUHk0bnZVSWdMbnA0OTc5eXVQYlBscU50VGNQSzVVWWVWZzNzaTRXdWxlaTE3cnZuUkVsV0NiYUdqZGQwaDFHV1dVN0JJWlVfQ2NjYU5WLVNFNlVhX3FZdTlxUDIzdG5Idk1NTmFqWHBjUA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-09-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Gets China Approval for Battery Deal in Consolidation Push - Bloomberg.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTnpRWGZyR2xOYW96TFdOTDNoTC1CVkh0TXdEQjM4b3BIM0dPR09MYzBTa2ZLSG1rTmc5cjhTZUJiWnVXaVRucng4S0VMWFkzNHpVbEdRbVFlN0RaRXRfV1lxR3BFaVNVcjRQeDU2Sjh1dkt0VEpjRk9kNV9QTXQtb2VDbVMxaURzR3NpVnV3QnI0c05VVlRzNndPMnFDSlNOMXZjSEd4VjBpRGFqeE15R01TMkk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-09-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Unveils TECTRANS II Commercial Vehicle Battery - The EV Report",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IenBjX1B3WnFvbnl5X2NPeGY0NmlpeS1NRWtVRk96TENaUEE2RjBuT0dOQWJJTHVLMjNLeElxaDRzOG1lQjVFVTlvR3BwR1NKWU11N1M4YTFVcTlnQ2ZkZzZmUUtXdkdHM2tsUmdhN3VnUE1aVlE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-09-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Ford could keep CATL in the US battery game - The Korea Herald",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OcFp0d3Z2bThSbWQwNld6Sk91THVZVFlkM0Y0WXFKejZMVG5CSkQ1dlhVSFN2Mk5lTHpGOEM0VDRvV1V1MTRDTGw2SXZ6WlQzNE1ocHJsUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-09-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JPMorgan: CATL's (03750) acquisition of battery assets signals the start of industry consolidation; maintains \"Overweight\" rating - Moomoo",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlFRWkloampSLVZfMnBpRTlwS251OFdWNmtJLXl6NlBWV0I0RUJkZzBJU0hrNF9zS3FxYkVTQi1hYkRBdzZIV3BuVE5wLVU3UjBXQXY3VUl6VW1jVnFTT3JsTklJQXUxUzBKUWhSQTNMNmNqNlJ3RkJZbnBKbFZBZTNMSkVyd29VVG5YQnZLZXVNZGtGQlZESUlZUXVnY1NucGVsXzNIeUU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 40,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 44,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 41,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 7
+      },
+      {
+        "id": "volkswagen",
+        "count": 7
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "ganfeng",
+        "count": 2
+      },
+      {
+        "id": "rivian",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 40
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 414,
+    "dup_title": 212,
+    "too_old": 67,
+    "gate1_blocked": 25,
+    "gate2_blocked": 22,
+    "passed": 88,
+    "pass_rate": "43.6%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "‘Misunderstandings’ arise: Chinese energy firms call for stable rules overseas - South China Morning",
+      "Mitsubishi UFJ Financial Group Ceases to Be Substantial Holder in Pilbara Minerals - kalkine.com.au",
+      "Pilbara Minerals — First Sentier Group Ceases to Be Substantial Holder - kalkine.com.au",
+      "We Bought a 2027 Rivian R2. Here's What It's Like to Live With - Edmunds",
+      "Here’s How to Lease the New 2027 Rivian R2, and How Much You’ll Pay - MotorTrend"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 44 則事件，焦點為寧德時代、福斯、比亞迪相關動態：「Volkswagen claims efficiency record with one-off EV - tor...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Volkswagen claims efficiency record with one-off EV - torquecafe.com（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "CATL Gets China Approval for Battery Deal in Consolidation Push - Bloomberg.com（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
