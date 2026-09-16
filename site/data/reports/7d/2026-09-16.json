@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-16",
+  "date_range": {
+    "start": "2026-09-10",
+    "end": "2026-09-16"
+  },
+  "generated_at": "2026-09-16T13:16:16.376721Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tesla-2026-09-10-036",
+      "date": "2026-09-10",
+      "title": "Are New Electric Entrants Serious Competition for European Truckmakers?",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "battery_cost": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 222,
+      "last_week": 201,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.08
+    },
+    "recycling": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "lithium_price": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": -0.17
+    },
+    "ev_sales": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 1.0
+    },
+    "cathode_material": {
+      "this_week": 2,
+      "last_week": 7,
+      "week_over_week_change": "-71%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 21,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "lg_energy": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "samsung_sdi": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nio": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "volkswagen": {
+      "event_count": 36,
+      "sentiment_avg": 0.17,
+      "rank": 1
+    },
+    "byd": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "tesla": {
+      "event_count": 15,
+      "sentiment_avg": -0.1,
+      "rank": 3
+    },
+    "pilbara": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "ganfeng": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 7
+    },
+    "rivian": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "sk_on": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 413,
+        "last": 441,
+        "change_pct": -6.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-10",
+      "event_count": 83,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-11",
+      "event_count": 54,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-12",
+      "event_count": 32,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-13",
+      "event_count": 12,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-14",
+      "event_count": 100,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-09-15",
+      "event_count": 86,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-16",
+      "event_count": 46,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-10 ~ 2026-09-16）共 413 則事件，重點為「Are New Electric Entrants Serious Competition f...」。電池產業通用、鋰價、電池回收為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 21 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LG新能源",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星SDI",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,116 +1,116 @@
 {
   "catl": {
     "earliest": "2018-06-11",
-    "latest": "2026-09-15",
-    "count": 2006,
+    "latest": "2026-09-16",
+    "count": 2007,
     "history_complete": true
   },
   "lg_energy": {
     "earliest": "2022-01-27",
-    "latest": "2026-09-15",
-    "count": 1130,
+    "latest": "2026-09-16",
+    "count": 1131,
     "history_complete": true
   },
   "samsung_sdi": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-15",
-    "count": 6675,
+    "latest": "2026-09-16",
+    "count": 6676,
     "history_complete": true
   },
   "panasonic": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-15",
-    "count": 6663,
+    "latest": "2026-09-16",
+    "count": 6664,
     "history_complete": true
   },
   "eve": {
     "earliest": "2009-10-30",
-    "latest": "2026-09-15",
-    "count": 4101,
+    "latest": "2026-09-16",
+    "count": 4102,
     "history_complete": true
   },
   "sk_on": {
     "earliest": "2007-07-25",
-    "latest": "2026-09-15",
-    "count": 4724,
+    "latest": "2026-09-16",
+    "count": 4725,
     "history_complete": true
   },
   "albemarle": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-14",
-    "count": 6714,
+    "latest": "2026-09-15",
+    "count": 6715,
     "history_complete": true
   },
   "sqm": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-14",
-    "count": 6714,
+    "latest": "2026-09-15",
+    "count": 6715,
     "history_complete": true
   },
   "ganfeng": {
     "earliest": "2018-10-11",
-    "latest": "2026-09-15",
-    "count": 1950,
+    "latest": "2026-09-16",
+    "count": 1951,
     "history_complete": true
   },
   "pilbara": {
     "earliest": "2007-09-19",
-    "latest": "2026-09-15",
-    "count": 4804,
+    "latest": "2026-09-16",
+    "count": 4805,
     "history_complete": true
   },
   "byd": {
     "earliest": "2002-07-31",
-    "latest": "2026-09-15",
-    "count": 5984,
+    "latest": "2026-09-16",
+    "count": 5985,
     "history_complete": true
   },
   "umicore": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-15",
-    "count": 6862,
+    "latest": "2026-09-16",
+    "count": 6863,
     "history_complete": true
   },
   "basf": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-15",
-    "count": 6824,
+    "latest": "2026-09-16",
+    "count": 6825,
     "history_complete": true
   },
   "tesla": {
     "earliest": "2010-06-29",
-    "latest": "2026-09-14",
-    "count": 4077,
+    "latest": "2026-09-15",
+    "count": 4078,
     "history_complete": true
   },
   "rivian": {
     "earliest": "2021-11-10",
-    "latest": "2026-09-14",
-    "count": 1214,
+    "latest": "2026-09-15",
+    "count": 1215,
     "history_complete": true
   },
   "nio": {
     "earliest": "2018-09-12",
-    "latest": "2026-09-14",
-    "count": 2011,
+    "latest": "2026-09-15",
+    "count": 2012,
     "history_complete": true
   },
   "volkswagen": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-15",
-    "count": 6824,
+    "latest": "2026-09-16",
+    "count": 6825,
     "history_complete": true
   },
   "etf_lit": {
     "earliest": "2010-07-23",
-    "latest": "2026-09-14",
-    "count": 4060,
+    "latest": "2026-09-15",
+    "count": 4061,
     "history_complete": true
   },
   "etf_batt": {
     "earliest": "2018-06-06",
-    "latest": "2026-09-14",
-    "count": 2079,
+    "latest": "2026-09-15",
+    "count": 2080,
     "history_complete": true
   }
 }

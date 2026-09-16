@@ -1,0 +1,16 @@
+{
+  "total_raw": 413,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 26,
+  "gate2_fail": 20,
+  "passed": 95,
+  "gate2_samples": [
+    "‘Misunderstandings’ arise: Chinese energy firms call for stable rules overseas - South China Morning",
+    "Mitsubishi UFJ Financial Group Ceases to Be Substantial Holder in Pilbara Minerals - Kalkine",
+    "Pilbara Minerals — First Sentier Group Ceases to Be Substantial Holder - Kalkine",
+    "We Bought a 2027 Rivian R2. Here's What It's Like to Live With - Edmunds",
+    "Here’s How to Lease the New 2027 Rivian R2, and How Much You’ll Pay - MotorTrend"
+  ]
+}
