@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T13:14:03.648946Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lucid and Bolt to deploy 25,000 autonomous EVs across Europe",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/09/17/lucid-bolt-25000-autonomous-evs-europe/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Solid-state battery maker Factorial secures another big partnership",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/09/17/solid-state-battery-maker-factorial-secures-another-big-partnership/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota Confirms Hydrogen Pickup Is Coming In 2028 With 248-Mile Range",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/808641/toyota-hilux-hydrogen-confirmed-2028/"
+    },
+    {
+      "rank": 4,
+      "event_id": "tesla-2026-09-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tesla's European Megacharger Rollout Starts With Over 100 Megawatt-Capable Chargers",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/808615/tesla-megacharger-europe-rollout/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Volvo Is Planning 13 New Cars This Decade In Its Biggest Product Push Yet",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/808594/volvo-13-new-models-2030/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 22,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 120,
+    "dup_title": 42,
+    "too_old": 1,
+    "gate1_blocked": 28,
+    "gate2_blocked": 7,
+    "passed": 42,
+    "pass_rate": "53.8%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "Out of this world performance at down to Earth prices: Ausom’s AWESOME fall sale",
+      "Tesla brings Cybercab to China, rules out sale and robotaxi service",
+      "Rivian’s ALSO e-bikes are finally hitting the road – but not for frustrated customers",
+      "Tesla Says The Cybercab Is Street Legal. Regulators Want To Know How.",
+      "Elon Musk’s Boring Company has big plans for Las Vegas by year’s end"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為特斯拉、比亞迪相關動態：「Lucid and Bolt to deploy 25,000 autonomous EVs across Europe」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lucid and Bolt to deploy 25,000 autonomous EVs across Europe（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Solid-state battery maker Factorial secures another big partnership（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

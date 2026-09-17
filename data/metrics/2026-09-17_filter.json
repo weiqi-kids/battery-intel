@@ -1,0 +1,16 @@
+{
+  "total_raw": 120,
+  "dup_title": 42,
+  "no_date": 0,
+  "too_old": 1,
+  "gate1_fail": 28,
+  "gate2_fail": 7,
+  "passed": 42,
+  "gate2_samples": [
+    "Out of this world performance at down to Earth prices: Ausom’s AWESOME fall sale",
+    "Tesla brings Cybercab to China, rules out sale and robotaxi service",
+    "Rivian’s ALSO e-bikes are finally hitting the road – but not for frustrated customers",
+    "Tesla Says The Cybercab Is Street Legal. Regulators Want To Know How.",
+    "Elon Musk’s Boring Company has big plans for Las Vegas by year’s end"
+  ]
+}
