@@ -1,0 +1,225 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:49:01.461243Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-09-18-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nio and CATL Promise to ‘Expand Cooperation, Deepen Coordination’ - eletric-vehicles.com",
+      "companies": [
+        "catl",
+        "nio"
+      ],
+      "related": {
+        "customers": [
+          "nio"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3FlOHZxWHAteTZ1a2RJaTZzMWZETWFGeXNUYndqYmRrbHM1RmhBVWxMa3VkcTJqQS00Z283TnZzRkx2b0NWTXVQT0h4eW5FN1V1RWcySjlEMHFVOVl6bG9SN291a2RyUXNDUk5CeVpsWlc0a3pmb2xZc18tTXNDV19TTkoxUEJFSVYxUE9wUDh1d1lzX0tVdkphako?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-09-18-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BYD, CATL, Xiaomi executives may join Xi’s US visit, sources say - kfgo.com",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFQxVWhWRWJFNXZwQmlKZFlYVHJWTHlmbTZjWDN6cTIzTWhfYWRUR0lPUFVETmU2UXJwckxpSjhLMF94M0VqQXQ2cDgzd0dDZXhDS1RlRzBIZ045QnVXbnRhcHJFM0ZRaE5Yd3BTY3NMOWx6bzVMOThPRjJCQ1h0OFRLaTNvaDBEWGNOSm1xX01Ybk0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-09-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘King CATL’ Stranglehold on Chinese EV Makers Starts Loosening - Bloomberg.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGtMS1FDLVlBZ1h5V2l0aWFlYWg2NWM5N1YwcEdjaWtYVlJHRV93bTEwZE5lcnJSSlpZeTlsNUdtS1N4WllSbmtZQWpBZEUzUXZKWk5KMUNWckxVTzdGX19FSG4wTG1oTlljTEtQTEhOVzZicVZ5ZlU0Yl9hNTIwTnQ5OTNsMGMxa04zLWcxM1dWSm01ZFhrOUpsbXFTRzJlR0dZcVhrS2dfazdCZVg4LXRR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-09-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL and DHL collaborate on scalable charging and battery-swapping solutions for European logistics - carnewschina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdm5vN0xGRXdGdkYxU2hCM0Jsbk5Kbm5fc0hYTW1Qc0xVS3B3SlBBX1NYXy1pWmRPMTF2MnppVnUyTFk0YUFKb0Vfb0p1TjVzUGMwRXh1VUJoZ01yc2lkbExTS2x2dTdESHhPdEhDQ253WnlLN21MNk9QMWozVUtBZkNvdGp3UklUNzFsajlhVXI3ZnNXeUNLQ0hZVVZoTEc2WGxRd1Vvb3RkNFIyTGRESDVhcm5QbzVKQTI4VHBXRTY4aEt0LUFKT0pkUXZmb3h4RFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-09-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL to help local firm BME make battery packs in Egypt - Renewables Now",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjB4dVhHRXdCOGt6QUJOaVNRNXdvNk15U2JUY05ZRzVlaW43NDUzS3lwU252T0xfdzlKcmlxN1F6cmJHT0dZVFlFMmlLcTltMkNrNVdVYVBaY0Q2emowTlc1LUpJcmhqSlEyb1pneFlQcFpNbm5SOTdzbVVUTVB1ME9zY2RnU1VuOXRLV3hTak02MVI2MTAwc0lmWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 43,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 40,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 10
+      },
+      {
+        "id": "nio",
+        "count": 6
+      },
+      {
+        "id": "eve",
+        "count": 4
+      },
+      {
+        "id": "volkswagen",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "cathode_material",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 416,
+    "dup_title": 207,
+    "too_old": 66,
+    "gate1_blocked": 30,
+    "gate2_blocked": 17,
+    "passed": 96,
+    "pass_rate": "45.9%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "Rivian R2 vs Tesla Model Y: The $5,000 Difference That's About To Get Smaller - CarBuzz",
+      "Rivian: Thank You, Demos! (NASDAQ:RIVN) - Seeking Alpha",
+      "The 3 Charts That Show Rivian Could Soar - The Motley Fool",
+      "We Bought a 2027 Rivian R2. Here's What It's Like to Live With - Edmunds",
+      "Advance Auto Parts vs. NIO: Which Consumer Stock Is a Better Buy in 2026? - The Motley Fool"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 43 則事件，焦點為寧德時代、蔚來、億緯鋰能相關動態：「Nio and CATL Promise to ‘Expand Cooperation, Deepen Coord...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nio and CATL Promise to ‘Expand Cooperation, Deepen Coordination’ - eletric-v...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "BYD, CATL, Xiaomi executives may join Xi’s US visit, sources say - kfgo.com",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

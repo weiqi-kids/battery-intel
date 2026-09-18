@@ -1,0 +1,16 @@
+{
+  "total_raw": 416,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 30,
+  "gate2_fail": 17,
+  "passed": 96,
+  "gate2_samples": [
+    "Rivian R2 vs Tesla Model Y: The $5,000 Difference That's About To Get Smaller - CarBuzz",
+    "Rivian: Thank You, Demos! (NASDAQ:RIVN) - Seeking Alpha",
+    "The 3 Charts That Show Rivian Could Soar - The Motley Fool",
+    "We Bought a 2027 Rivian R2. Here's What It's Like to Live With - Edmunds",
+    "Advance Auto Parts vs. NIO: Which Consumer Stock Is a Better Buy in 2026? - The Motley Fool"
+  ]
+}
