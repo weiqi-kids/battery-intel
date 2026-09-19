@@ -1,0 +1,16 @@
+{
+  "total_raw": 418,
+  "dup_title": 246,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 25,
+  "gate2_fail": 24,
+  "passed": 59,
+  "gate2_samples": [
+    "Samsung SDI stock holds firm as investors weigh recent trend signals - AD HOC NEWS",
+    "Rivian R2 vs Tesla Model Y: The $5,000 Difference That's About To Get Smaller - CarBuzz",
+    "Rivian: Thank You, Demos! (NASDAQ:RIVN) - Seeking Alpha",
+    "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs - The New York Times",
+    "Rivian Says Commercial Van Roadmap ‘Just Getting Started’ in Hiring Push - eletric-vehicles.com"
+  ]
+}

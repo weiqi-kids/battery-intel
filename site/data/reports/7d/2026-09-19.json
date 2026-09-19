@@ -1,0 +1,170 @@
+{
+  "date": "2026-09-19",
+  "date_range": {
+    "start": "2026-09-13",
+    "end": "2026-09-19"
+  },
+  "generated_at": "2026-09-19T12:22:14.551445Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "byd-2026-09-14-089",
+      "date": "2026-09-14",
+      "title": "BYD Takes On The Tesla Semi With Its Own 372-Mile Truck",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 217,
+      "last_week": 210,
+      "week_over_week_change": "+3%",
+      "sentiment_this_week": 0.05
+    },
+    "lithium_price": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "cathode_material": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 30,
+      "sentiment_avg": 0.02,
+      "rank": 2
+    },
+    "tesla": {
+      "event_count": 14,
+      "sentiment_avg": -0.04,
+      "rank": 3
+    },
+    "pilbara": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "byd": {
+      "event_count": 14,
+      "sentiment_avg": 0.04,
+      "rank": 4
+    },
+    "nio": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 5
+    },
+    "volkswagen": {
+      "event_count": 35,
+      "sentiment_avg": 0.18,
+      "rank": 1
+    },
+    "lg_energy": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "samsung_sdi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "ganfeng": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 6
+    },
+    "rivian": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "sk_on": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "eve": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "basf": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 441,
+        "last": 422,
+        "change_pct": 4.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-13",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-14",
+      "event_count": 106,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-09-15",
+      "event_count": 93,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-16",
+      "event_count": 81,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-17",
+      "event_count": 62,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 69,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 16,
+      "sentiment_avg": -0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-13 ~ 2026-09-19）共 441 則事件，重點為「BYD Takes On The Tesla Semi With Its Own 372-Mi...」。電池產業通用、正極材料、鋰價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 30 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "特斯拉",
+        "reason": "本週出現 14 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

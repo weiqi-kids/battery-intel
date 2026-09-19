@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-19",
+  "total_events": 16,
+  "by_company": {
+    "catl": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "eve": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ganfeng": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "basf": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 14,
+      "sentiment_avg": -0.04
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
