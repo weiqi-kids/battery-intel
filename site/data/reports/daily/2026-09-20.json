@@ -1,0 +1,200 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T12:57:32.085901Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-09-20-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Volkswagen ID. Buzz Goes Around the World: 92 Countries, 99,767 Km & a Guinness Record - Auto India Daily",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wbjZZYTRRTlcwN3RpdUlSVm9oVjljS0gwWUFPX2hzczI5TGs3Nk5UNXhfN1M4WWtCODhCNGo2bzNKSFQxZGJxY01TdEoxRTQyd1Y0T3Rjb1cyb3Z6QzdjZXhWWDZwbHduOEVzNldFcS14Q0s3TTVBRzJNVE9LQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-09-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL develops pick-up truck batteries for US despite trade barriers - Financial Times",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1JOS05qT2NxU29ta1RaNFkxNEd1VzBoNWF6b2d0blN6cllTdy1PczZrREhPel9JMGQ0Y0RkdlRRZ3hCREFkZXc3ZS1TNlM4U2xzY1N1cVYyeFpYdDRTcllDT3RmNnVId1hINFU2OWVCRzQ3eXBZLUpTeU1XcE5WTDd1Y24?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-09-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL develops pick-up truck batteries for US despite trade barriers - FT - TradingView",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLUxfMjBOMGNDZnduTHRwYmh6N3NYZmUxcXRYZWFVMDdqUzB0V2RrZHdUbl9FWWF4RUo1RDBPYnNGYzM4T2Rxc0FHcFdKMkc5SmdSS3pQVTFrTzBSUHlMQmFGY2JQTjZSUURRMjBUbWlzNnVoVU1TbEZBay0teXRxRWNDaFU2SXVMbEpkRGxtMk9tUHQwX0p1eEFSTkJiUVVLVmFNX215WkdldlZUYk44RmVMZ1VyQU9IYi1ONlBSUjY3NEZXenFmSlhYZExrWTdGRVdHbWt4UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-09-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Shifts to Exclusive Battery Cell Sales: The Second Half of the Global Battery War Begins - 36Kr",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01eUEwWG92dzY3M2d5VExZUlFwQ2JRUGpkYzZJN2hOQ1pyOURiS3FMazV0a3B2anRlUE5NQUN5S2k2aUJSUFFOTzREclVyUEUwVXZR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "eve-2026-09-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EVE Open Source Battery™: AI Battery Debuts at IAA TRANSPORTATION 2026 - GlobeNewswire",
+      "companies": [
+        "eve"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYWdmVmpzbTY1a1Q0VnhSdHNNOEpuN1RlRktPNEJLVTlJRWEwQ3BEYk42bzRUYXEzWVUzczFPNlhVaGdLN3UwcnAxVzVwSnJvQ2M1ZjNhMFRwcHFmazhkdHJONy0tU3owaUpDY2Z4QlV5cGRVQWlMR25INjQ1M3FjZVdfVVhjNTNqZk5nT2NUTENKbVJMVUVxRmUyVUJMellnTHlHeS1MY1pxZHNmVEtYUzEwRkctTmtmYUozRUJxaUhtd3RhTFQ0TDRyMXktcjk2eFRJU2lDWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 3
+      },
+      {
+        "id": "eve",
+        "count": 2
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "sk_on",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 417,
+    "dup_title": 266,
+    "too_old": 67,
+    "gate1_blocked": 23,
+    "gate2_blocked": 20,
+    "passed": 41,
+    "pass_rate": "27.2%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "How to Make More Cars in America? Rivian’s C.E.O. Has Some Ideas. - The New York Times",
+      "2026 Rivian R1T Ascend Quad Max for Sale With 21,500 Miles - Autoblog",
+      "Rivian Says Commercial Van Roadmap ‘Just Getting Started’ in Hiring Push - eletric-vehicles.com",
+      "Rivian R2 vs Tesla Model Y: The $5,000 Difference That's About To Get Smaller - CarBuzz",
+      "We Bought a 2027 Rivian R2. Here's What It's Like to Live With - Edmunds"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為寧德時代、億緯鋰能、蔚來相關動態：「Volkswagen ID. Buzz Goes Around the World: 92 Countries, ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Volkswagen ID. Buzz Goes Around the World: 92 Countries, 99,767 Km & a Guinne...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "CATL develops pick-up truck batteries for US despite trade barriers - Financi...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 417,
+  "dup_title": 266,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 23,
+  "gate2_fail": 20,
+  "passed": 41,
+  "gate2_samples": [
+    "How to Make More Cars in America? Rivian’s C.E.O. Has Some Ideas. - The New York Times",
+    "2026 Rivian R1T Ascend Quad Max for Sale With 21,500 Miles - Autoblog",
+    "Rivian Says Commercial Van Roadmap ‘Just Getting Started’ in Hiring Push - eletric-vehicles.com",
+    "Rivian R2 vs Tesla Model Y: The $5,000 Difference That's About To Get Smaller - CarBuzz",
+    "We Bought a 2027 Rivian R2. Here's What It's Like to Live With - Edmunds"
+  ]
+}
