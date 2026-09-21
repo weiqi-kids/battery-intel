@@ -1,5 +1,527 @@
 [
   {
+    "id": "volkswagen-2026-09-21-001",
+    "date": "2026-09-21",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Volkswagen’s new ID. Cross brings a more affordable electric SUV to the lineup",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/Volkswagen-ID-Cross-Production.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/21/volkswagen-adds-more-affordable-id-cross-electric-suv/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-21-002",
+    "date": "2026-09-21",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Tesla and Sunrun’s virtual power plant dispatch record 580 MW to California grid",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/sunrun-distributed-compute2-1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/21/sunrun-tesla-580-mw-california-grid-record/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-003",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Recalls Ioniq 9 EV Because Rear Seats Could Trap Children",
+    "summary": "The carmaker has received five consumer complaints, including two about alleged minor injuries.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/808955/hyundai-ioniq-9-ev-recall-child-trap-rear-seats/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catl-2026-09-21-004",
+    "date": "2026-09-21",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CATL’s New Batteries Target American Pickups. They Could Made In The U.S.",
+    "summary": "The Chinese company sees an opportunity in America despite trade barriers, with local production through licensing as a possibility.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/808953/catl-us-pickup-battery-cells/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-005",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nissan Reveals Pricing For Its New Hybrid That Drives Like An EV",
+    "summary": "The 2027 Nissan Rogue Hybrid gets a unique hybrid powertrain that’s different from its rivals.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/808948/2027-nissan-rogue-hybrid-prices/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-21-006",
+    "date": "2026-09-21",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scania's New EV Truck Has 447 Miles Of Range",
+    "summary": "A new battery system and an aerodynamically optimized cab give Scania’s electric big rig an edge over the Tesla Semi.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/808918/scania-extended-range-ev-truck/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-09-21-007",
+    "date": "2026-09-21",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This VW ID. Buzz Finished A 62,000-Mile World Trip With Nearly 96% Battery Health",
+    "summary": "The electric van visited 92 countries in 445 days, and Volkswagen says it completed the entire trip without a single technical breakdown.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/808905/vw-id-buzz-world-trip/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-008",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Li Auto chip unit said to pursue first funding round at $2.2 billion pre-money valuation",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026092112001527.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>Li Auto plans to raise several billion yuan for its chip busin",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/21/li-auto-chip-unit-pursue-first-funding-round/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-09-21-009",
+    "date": "2026-09-21",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VW Anhui sets September 24 debut for ID. UNYX 09 sedan",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026092108180833.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The Volkswagen ID. UNYX 09 is the second model jointly develop",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/21/vw-anhui-sept-24-debut-id-unyx-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-010",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Geely enters Switzerland with 2 BEVs and 1 plug-in hybrid SUV",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026092107103413.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>Geely introduced the E5, E2, and Starray EM-i in Switzerland, ",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/21/geely-enters-switzerland/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-21-011",
+    "date": "2026-09-21",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Tesla audits China suppliers to push Optimus into mass production, report says",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026092106452597.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>Several Chinese suppliers have already secured Optimus orders ",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/21/tesla-audits-china-suppliers-optimus-mass-production/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-012",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese automotive chipmaker SemiDrive secures fresh funding",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026092103474422.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>SemiDrive's cumulative automotive chip shipments have exceeded",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/21/semidrive-secures-fresh-funding/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-09-21-013",
+    "date": "2026-09-21",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio flagship ES9 set to hit 30,000 deliveries this week in milestone for premium lineup",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026092103045776.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>ES9 cumulative deliveries are expected to reach 30,000 this we",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/21/nio-es9-to-hit-30000-deliveries-this-week/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-014",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Huawei-backed Luxeed to launch RX electric SUV on September 28",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026092102401817.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The Luxeed RX's starting pre-sales price has fallen to 269,800",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/21/luxeed-to-launch-rx-sept-28/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-09-21-015",
+    "date": "2026-09-21",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nio adds new ES8 wheel package as deliveries stay strong 1 year after launch",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026092102220985.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The package includes upgraded wheels and brake calipers and co",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/21/nio-adds-new-es8-wheel-package/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-016",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Google-backed pilot demonstrates hourly carbon accounting for US BESS using granular certificates",
+    "summary": "A US battery storage pilot sponsored by tech giant Google has demonstrated how batteries can capture surplus renewable energy and deliver it during hours with greater fossil generation.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/google-backed-pilot-demonstrates-hourly-carbon-accounting-for-us-bess-using-granular-certificates/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-017",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US energy storage industry targets 225GW/1TWh deployment by end of 2032, according to Energy Storage Coalition",
+    "summary": "The US energy storage industry is targeting 225GW/1TWh of storage deployment by the end of 2032, according to an analysis published by the Energy Storage Coalition (ESC).",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/us-energy-storage-industry-targets-225gw-1twh-deployment-by-end-of-2032-according-to-energy-storage-coalition/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eve-2026-09-21-018",
+    "date": "2026-09-21",
+    "companies": [
+      "eve"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fluence and Eve Energy agree 206GWh battery supply deal",
+    "summary": "System integrator Fluence and lithium-ion battery OEM Eve Energy have struck a massive 206GWh battery supply framework agreement for 2027-31, one of the largest deals of its kind ever announced.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/fluence-and-eve-energy-agree-206gwh-battery-supply-deal/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-019",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Already-operating battery storage projects are key to making the business case for the next assets bankable",
+    "summary": "Existing assets can provide crucial benchmarks in sizing and other crucial battery storage design decisions, writes Ashutosh Vats, head of BESS business development at 3E.  ",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/already-operating-battery-storage-projects-are-key-to-making-the-business-case-for-the-next-assets-bankable/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-020",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India flow battery player Delectrik talks 100MWh NTPC project award, targets gigawatt-hour order book",
+    "summary": "Vishal Mittal, founder and CEO of Delectrik makes the case for flow batteries to meet India’s long-duration needs in an exclusive ESN Premium interview.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/india-flow-battery-player-delectrik-talks-100mwh-ntpc-project-award-targets-gigawatt-hour-order-book/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-021",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "554MW of battery storage enters AEMO’s Market Management System in Australia",
+    "summary": "The Tailem Bend BESS 3 in South Australia and Wooreen BESS in Victoria have both entered the AEMO Market Management System (MMS).",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/554mw-of-battery-storage-enters-aemos-market-management-system-in-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-022",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. solar module production reaches historic 100 GW landmark",
+    "summary": "<p>The United States crossed 100 GW of cumulative solar PV module production during Q2 2026, according to a new bottom-up factory-level analysis by Terawatt PV Research going back to the early 1970’s.",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/21/u-s-solar-module-production-reaches-historic-100-gw-landmark/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-023",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Malaysia sets fixed grid charge, 10-year contracts for corporate solar",
+    "summary": "<p>The Malaysian government has unveiled a package of measures to accelerate its Corporate Renewable Energy Supply Scheme, including a fixed grid-access charge for firm power and mandatory 10-year con",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/21/malaysia-sets-fixed-grid-charge-10-year-contracts-for-corporate-solar/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-024",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese scientists build 33.3%-efficient perovskite-silicon tandem solar cell processed in ambient air",
+    "summary": "<p>Chinese researchers developed a PNCC polymer hole-transport layer that enables efficient and stable perovskite solar cells to be fabricated under ambient conditions. The material was used in a pero",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/21/chinese-scientists-build-33-3-efficient-perovskite-silicon-tandem-solar-cell-processed-in-ambient-air/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-025",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Canada trade tribunal rescinds order on Chinese solar modules, laminates",
+    "summary": "<p>Canada's trade tribunal has terminated a five-year review of anti-dumping and countervailing duties on Chinese solar modules and laminates, rescinding the order after finding the review lacked dome",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/21/canada-trade-tribunal-rescinds-order-on-chinese-solar-modules-laminates/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-026",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "French startup repurposes EV batteries for solar energy storage",
+    "summary": "<p>Battwoo is repurposing electric vehicle batteries for stationary energy storage, targeting solar self-consumption and other commercial and industrial applications. The company says its refurbished ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/21/french-startup-repurposes-ev-batteries-for-solar-energy-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-027",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Predictive control cuts costs in buildings combining PV, heat pumps, EVs, thermal storage",
+    "summary": "<p>Researchers have developed a predictive rule-based control strategy for building energy systems integrating PV, heat pumps, thermal storage, and electric vehicles. Simulations show it can approach ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/21/predictive-control-cuts-costs-in-buildings-combining-pv-heat-pumps-evs-thermal-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-028",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Study finds potential for 150 GW of additional PV at substations in Germany",
+    "summary": "<p>A Fraunhofer IEE study estimates that battery storage could enable around 150 GW of additional PV capacity to connect at 1,313 rural substations in Germany. By absorbing generation peaks, storage c",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/21/study-finds-potential-for-150-gw-of-additional-pv-at-substations-in-germany/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-09-20-001",
     "date": "2026-09-20",
     "companies": [
@@ -343,6 +865,99 @@
       {
         "name": "cnevpost",
         "url": "https://cnevpost.com/2026/09/20/toyota-plans-china-made-erevs-2027/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-20-019",
+    "date": "2026-09-20",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla reopens $50,000 Roadster reservations ahead of October 1 unveil",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/image.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Tesla has reopened reser",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/20/tesla-reopens-50000-roadster-reservations-october-1-unveil/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-020",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chery weighs bringing Omoda and Jaecoo to China to boost domestic sales, report says",
+    "summary": "<p><img src=\"https://cnevpost.com/wp-content/uploads/2026/09/2026092013032285.jpg\" alt=\"\" style=\"max-width: 100%; height: auto;\" /></p><p>The 2 overseas brands would target China's premium market, wit",
+    "sources": [
+      {
+        "name": "cnevpost",
+        "url": "https://cnevpost.com/2026/09/20/chery-weighs-bringing-omoda-jaecoo-to-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-20-021",
+    "date": "2026-09-20",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Tesla eyes supply partners for Optimus mass production",
+    "summary": "<p>Tesla certified three Chinese suppliers for Optimus mass production, signaling its robot timeline is accelerating.</p>\n<p>The post <a href=\"https://www.teslarati.com/tesla-eyes-supply-partners-for-",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-eyes-supply-partners-for-optimus-mass-production/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-022",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "ev_sales",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EV Sales At 32% — No, Make That 38%! — By 2030",
+    "summary": "<p>Harvard economists calculate that EV sales will accelerate rapidly in the US, despite last year's sharp U-turn in federal energy policy.</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/09/2",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/20/ev-sales-us-trump-vehicle-electrification-harvard-study/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-023",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ziroth is Wrong: Donut Lab’s Battery Is Not NMC",
+    "summary": "<p>Can you spot which battery is NMC? The one that looks like a pillow is NMC. The one that looks like a Pop-Tart is not. How do we know this? Because the puffed up battery came from a video made of a",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/20/ziroth-is-wrong-donut-labs-battery-is-not-nmc/",
         "type": "rss"
       }
     ]
@@ -2311,6 +2926,24 @@
       {
         "name": "volkswagen",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KSC1hS1AzcWpJTWxWd1cxSDdlY3h2SG05eUwwX2NIaHpOU19kb0NyRjZpV0dOXzZ1Rk5UaGEtcGt1djJyYUJxa3FhcWdWWGRKWXEwemlpTUZLSElIQm9fMmR2NTVTbXdBZ3lTQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-075",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "'Can't Be Done By One Company': Factorial Is Rallying A Team To Build Solid-State Batteries",
+    "summary": "Instead of going solo, Factorial is bringing specialized battery companies together for solid-state tech.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/808779/factorial-solid-state-ev-battery-coalition-mitsui-kinzoku/",
         "type": "rss"
       }
     ]

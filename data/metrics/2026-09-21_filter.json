@@ -1,0 +1,16 @@
+{
+  "total_raw": 120,
+  "dup_title": 56,
+  "no_date": 0,
+  "too_old": 0,
+  "gate1_fail": 22,
+  "gate2_fail": 8,
+  "passed": 34,
+  "gate2_samples": [
+    "Cadillac’s go-fast electric SUV arrives makes its way Down Under",
+    "Podcast: Tesla Roadster gets a date, VW XL1 comes back electric, BYD’s new Tesla fighter, and more",
+    "The Best Rivian R2 Colors Are Now Up For Grabs In The Configurator",
+    "A BMW i8, Tesla Model Y, And Audi E-Tron GT All Drag Race, But The Results Are Closer Than You'd Thi",
+    "Elon Musk drops a surprise update on Boring Company’s next big dig"
+  ]
+}
