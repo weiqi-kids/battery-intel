@@ -1,0 +1,230 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T13:13:55.948115Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-09-22-051",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Sunrun and Tesla deliver record 580MW to California grid amid heatwave",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.energy-storage.news/sunrun-and-tesla-deliver-record-580mw-to-california-grid-amid-heatwave/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-22-066",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "AI-assisted method maps PV module losses from a single luminescence image",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/22/ai-assisted-method-maps-pv-module-losses-from-a-single-luminescence-image/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-22-067",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Vietnam pushes provinces to accelerate rooftop solar rollout",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/22/vietnam-pushes-provinces-to-accelerate-rooftop-solar-rollout/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-09-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL kicks off trial production of battery cells in Hungary - Yahoo Finance Singapore",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHBmUVlGZkVpbmlIa0E3SlBYOEtHWDJKZFZJSnRPeEVfS0dSNEZ5UmRVOTlaMmwzLUNKUU1nSDdXMnJNVWtHb0prdjdCQVAwZE9LdF9tV1Q0RkRhOS1YTkYwSER6TFdPTy1VNzZOcVZPUzlTX3hCMEJNeGNyYW9MX0JqNWJIU2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China state media rebuts 'de-CATLization,' warns of battery supply chain price competition - CnEVPost",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oTVNpcmFrSDZnV051NjBXZUpES19Bc1RnNFFMenJQU0N4cU50YmVpRi0xMHpTSENnYmRDdk96aGVFUGl6cTl6b2JZQ2tVdkdEbEdxZk42LW9nVjZ0R2Q2dzE4SEdiNlpDRmVNdHd3Y0E1R0kzZGlkVkgzRFM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 60,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 67,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 58,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "sk_on",
+        "count": 7
+      },
+      {
+        "id": "catl",
+        "count": 6
+      },
+      {
+        "id": "lg_energy",
+        "count": 6
+      },
+      {
+        "id": "volkswagen",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 60
+      },
+      {
+        "id": "cathode_material",
+        "count": 9
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 416,
+    "dup_title": 188,
+    "too_old": 54,
+    "gate1_blocked": 27,
+    "gate2_blocked": 21,
+    "passed": 126,
+    "pass_rate": "55.3%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "LG Energy Solution Named Among Nvidia's First BESS Partners—Only 3 Worldwide - finance.biggo.com",
+      "SK On Wins CSR Award in Hungary for Second Straight Year - thelec.net",
+      "How to Make More Cars in America? Rivian’s C.E.O. Has Some Ideas. - The New York Times",
+      "2026 Rivian R1T Ascend Quad Max for Sale With 21,500 Miles - Autoblog",
+      "Rivian’s R2 VIN Count Passes 12,100 as Quarter-End Delivery Report Nears - eletric-vehicles.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 67 則事件，焦點為SK創新、寧德時代、LG新能源相關動態：「Sunrun and Tesla deliver record 580MW to California grid ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Sunrun and Tesla deliver record 580MW to California grid amid heatwave（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "AI-assisted method maps PV module losses from a single luminescence image（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

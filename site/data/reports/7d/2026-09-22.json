@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-22",
+  "date_range": {
+    "start": "2026-09-16",
+    "end": "2026-09-22"
+  },
+  "generated_at": "2026-09-22T13:13:56.150116Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ganfeng-2026-09-16-009",
+      "date": "2026-09-16",
+      "title": "China's Ganfeng Lithium inks 3-year supply contract with Tesla - arabnews.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 224,
+      "last_week": 221,
+      "week_over_week_change": "+1%",
+      "sentiment_this_week": 0.04
+    },
+    "lithium_price": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "cathode_material": {
+      "this_week": 14,
+      "last_week": 1,
+      "week_over_week_change": "+1300%",
+      "sentiment_this_week": 0.07
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 27,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "byd": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 5
+    },
+    "lg_energy": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "sk_on": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ganfeng": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "tesla": {
+      "event_count": 17,
+      "sentiment_avg": 0.15,
+      "rank": 3
+    },
+    "pilbara": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "rivian": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "volkswagen": {
+      "event_count": 20,
+      "sentiment_avg": 0.13,
+      "rank": 2
+    },
+    "nio": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "eve": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "basf": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 428,
+        "last": 466,
+        "change_pct": -8.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-16",
+      "event_count": 83,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-17",
+      "event_count": 66,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 78,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 32,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 26,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 76,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 67,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-16 ~ 2026-09-22）共 428 則事件，重點為「China's Ganfeng Lithium inks 3-year supply cont...」。電池產業通用、正極材料、鋰價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 27 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LG新能源",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

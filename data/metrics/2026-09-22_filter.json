@@ -1,0 +1,16 @@
+{
+  "total_raw": 416,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 54,
+  "gate1_fail": 27,
+  "gate2_fail": 21,
+  "passed": 126,
+  "gate2_samples": [
+    "LG Energy Solution Named Among Nvidia's First BESS Partners—Only 3 Worldwide - finance.biggo.com",
+    "SK On Wins CSR Award in Hungary for Second Straight Year - thelec.net",
+    "How to Make More Cars in America? Rivian’s C.E.O. Has Some Ideas. - The New York Times",
+    "2026 Rivian R1T Ascend Quad Max for Sale With 21,500 Miles - Autoblog",
+    "Rivian’s R2 VIN Count Passes 12,100 as Quarter-End Delivery Report Nears - eletric-vehicles.com"
+  ]
+}

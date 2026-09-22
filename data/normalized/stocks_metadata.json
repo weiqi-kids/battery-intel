@@ -1,20 +1,20 @@
 {
   "catl": {
     "earliest": "2018-06-11",
-    "latest": "2026-09-21",
-    "count": 2010,
+    "latest": "2026-09-22",
+    "count": 2011,
     "history_complete": true
   },
   "lg_energy": {
     "earliest": "2022-01-27",
-    "latest": "2026-09-21",
-    "count": 1134,
+    "latest": "2026-09-22",
+    "count": 1135,
     "history_complete": true
   },
   "samsung_sdi": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-21",
-    "count": 6679,
+    "latest": "2026-09-22",
+    "count": 6680,
     "history_complete": true
   },
   "panasonic": {
@@ -25,14 +25,14 @@
   },
   "eve": {
     "earliest": "2009-10-30",
-    "latest": "2026-09-21",
-    "count": 4105,
+    "latest": "2026-09-22",
+    "count": 4106,
     "history_complete": true
   },
   "sk_on": {
     "earliest": "2007-07-25",
-    "latest": "2026-09-21",
-    "count": 4728,
+    "latest": "2026-09-22",
+    "count": 4729,
     "history_complete": true
   },
   "albemarle": {
@@ -49,32 +49,32 @@
   },
   "ganfeng": {
     "earliest": "2018-10-11",
-    "latest": "2026-09-21",
-    "count": 1954,
+    "latest": "2026-09-22",
+    "count": 1955,
     "history_complete": true
   },
   "pilbara": {
     "earliest": "2007-09-19",
-    "latest": "2026-09-21",
-    "count": 4808,
+    "latest": "2026-09-22",
+    "count": 4809,
     "history_complete": true
   },
   "byd": {
     "earliest": "2002-07-31",
-    "latest": "2026-09-21",
-    "count": 5988,
+    "latest": "2026-09-22",
+    "count": 5989,
     "history_complete": true
   },
   "umicore": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-21",
-    "count": 6866,
+    "latest": "2026-09-22",
+    "count": 6867,
     "history_complete": true
   },
   "basf": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-21",
-    "count": 6828,
+    "latest": "2026-09-22",
+    "count": 6829,
     "history_complete": true
   },
   "tesla": {
@@ -97,8 +97,8 @@
   },
   "volkswagen": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-21",
-    "count": 6828,
+    "latest": "2026-09-22",
+    "count": 6829,
     "history_complete": true
   },
   "etf_lit": {
