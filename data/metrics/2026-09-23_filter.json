@@ -1,0 +1,16 @@
+{
+  "total_raw": 418,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 24,
+  "gate2_fail": 24,
+  "passed": 98,
+  "gate2_samples": [
+    "As Chinese carmakers diversify beyond CATL, Beijing warns of market overreaction - South China Morni",
+    "As Chinese carmakers diversify beyond CATL, Beijing warns of market overreaction - South China Morni",
+    "LG Energy Solution Named Among Nvidia's First BESS Partners—Only 3 Worldwide - finance.biggo.com",
+    "SK On Wins CSR Award in Hungary for Second Straight Year - thelec.net",
+    "How to Make More Cars in America? Rivian’s C.E.O. Has Some Ideas. - The New York Times"
+  ]
+}

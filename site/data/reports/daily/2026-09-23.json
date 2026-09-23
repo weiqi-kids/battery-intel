@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:28:38.142033Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rivian-2026-09-23-019",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Audacy",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzRxUTVGbmxUV1M4OHM3SE1CSzBBd1hGNlYzNGpLNUhhYlNDMkxvMzdFQXlUbUVlTFl6a2NoNkJoMHRnWDhiNHQzcnJMRFJnYkJsd19pdmc3TWtTTjVHam9idWI4czZnR1F4NEJQcHlrNERMQ1hsZkNTN3dhWnpIbmlwcWdVR2RyekxjSHIzblo3dVpWLU45YVJ5aFVHcVRhUlpsZlhhNGVNQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-09-23-031",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The Tesla Semi Just Got A Massive Boost From The Biggest U.S. Electric Truck Order Ever",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://insideevs.com/news/809205/largest-electric-truck-order-us-tesla-semi/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-23-035",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China NEV retail sales fall 9% in first 20 days of September, outperforming broader market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/09/23/china-nev-retail-sales-fall-first-20-days-sept/"
+    },
+    {
+      "rank": 4,
+      "event_id": "tesla-2026-09-23-044",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tesla Semi lands the biggest electric truck deal in U.S. history",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.teslarati.com/tesla-semi-lands-the-biggest-electric-truck-deal-in-u-s-history/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Geely unveils sub-5 minute EV charging as battery race revs up - Financial Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzhJci0tZl9DVnRXb0h4YTFKaUp3eG5VQTBtenVWcW96YzliY3owcEdSTVFMSXo5MVIwVFJVQzVtcGg0c2xadjZOR09vd0l0WEJBR1Z1SXlHTk1QUkVPSm9kb1ZUOWhSeFVMcGFBZVZpSHhlUk90VEtWMkJPTlo2S2JsWW4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 47,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 55,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 51,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 8
+      },
+      {
+        "id": "byd",
+        "count": 7
+      },
+      {
+        "id": "sk_on",
+        "count": 5
+      },
+      {
+        "id": "rivian",
+        "count": 5
+      },
+      {
+        "id": "nio",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 47
+      },
+      {
+        "id": "cathode_material",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 418,
+    "dup_title": 207,
+    "too_old": 65,
+    "gate1_blocked": 24,
+    "gate2_blocked": 24,
+    "passed": 98,
+    "pass_rate": "46.4%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "As Chinese carmakers diversify beyond CATL, Beijing warns of market overreaction - South China Morni",
+      "As Chinese carmakers diversify beyond CATL, Beijing warns of market overreaction - South China Morni",
+      "LG Energy Solution Named Among Nvidia's First BESS Partners—Only 3 Worldwide - finance.biggo.com",
+      "SK On Wins CSR Award in Hungary for Second Straight Year - thelec.net",
+      "How to Make More Cars in America? Rivian’s C.E.O. Has Some Ideas. - The New York Times"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 55 則事件，焦點為寧德時代、比亞迪、SK創新相關動態：「Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV show...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Audacy",
+        "level": "yellow"
+      },
+      {
+        "text": "The Tesla Semi Just Got A Massive Boost From The Biggest U.S. Electric Truck ...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
