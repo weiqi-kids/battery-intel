@@ -1,0 +1,16 @@
+{
+  "total_raw": 420,
+  "dup_title": 213,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 20,
+  "gate2_fail": 23,
+  "passed": 94,
+  "gate2_samples": [
+    "As Chinese carmakers diversify beyond CATL, Beijing warns of market overreaction - South China Morni",
+    "As Chinese carmakers diversify beyond CATL, Beijing warns of market overreaction - South China Morni",
+    "LG Energy Solution Named Among Nvidia's First BESS Partners—Only 3 Worldwide - finance.biggo.com",
+    "SK On Wins CSR Award in Hungary for Second Straight Year - thelec.net",
+    "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - The Mercury News"
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-24",
+  "date_range": {
+    "start": "2026-09-18",
+    "end": "2026-09-24"
+  },
+  "generated_at": "2026-09-24T13:24:30.637886Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "catl-2026-09-18-005",
+      "date": "2026-09-18",
+      "title": "Nio and CATL Promise to ‘Expand Cooperation, Deepen Coordination’ - eletric-vehicles.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 250,
+      "last_week": 203,
+      "week_over_week_change": "+23%",
+      "sentiment_this_week": 0.04
+    },
+    "cathode_material": {
+      "this_week": 18,
+      "last_week": 2,
+      "week_over_week_change": "+800%",
+      "sentiment_this_week": 0.06
+    },
+    "lithium_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 32,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "nio": {
+      "event_count": 21,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "byd": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "eve": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "sk_on": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "rivian": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "volkswagen": {
+      "event_count": 24,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "tesla": {
+      "event_count": 16,
+      "sentiment_avg": 0.28,
+      "rank": 5
+    },
+    "ganfeng": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "basf": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "lg_energy": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "pilbara": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 467,
+        "last": 453,
+        "change_pct": 3.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-18",
+      "event_count": 79,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 32,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 26,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 89,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 103,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 89,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 49,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-18 ~ 2026-09-24）共 467 則事件，重點為「Nio and CATL Promise to ‘Expand Cooperation, De...」。特斯拉表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 32 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "蔚來",
+        "reason": "本週出現 21 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
