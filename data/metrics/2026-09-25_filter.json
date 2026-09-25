@@ -1,0 +1,16 @@
+{
+  "total_raw": 397,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 23,
+  "gate2_fail": 20,
+  "passed": 63,
+  "gate2_samples": [
+    "LG Energy Solution Named Among Nvidia's First BESS Partners—Only 3 Worldwide - finance.biggo.com",
+    "SK On Wins CSR Award in Hungary for Second Straight Year - thelec.net",
+    "Rivian Is About To Make Its Vehicles A Lot More Affordable - CarBuzz",
+    "How to Make More Cars in America? Rivian’s C.E.O. Has Some Ideas. - The New York Times",
+    "Prediction: NIO Is a Better Buy Than Lucid for the Next Decade - The Motley Fool"
+  ]
+}

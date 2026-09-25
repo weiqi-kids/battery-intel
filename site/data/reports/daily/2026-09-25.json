@@ -1,0 +1,245 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:25:22.628225Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-09-25-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BYD is ‘leading’ the solid-state battery race, and its first EV with the new tech is almost here - Moomoo",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanNLbE1PeGU1Z0FuMFJlTF9TWjFTOExjZUtjVkhQX0xXNFZNazYzamp6RTBfS2M0V2ExU2IyUnFJY3ZNSzB4Tk05bUhZRkxBOWhsQVZEeEtmb1JQTWpVTnd3UDFEWWVVQTBHMFpPSHNpZFpTVS1NQ00tbVZKalZCTU5VVDRQVXBXRFJfdXkxcGQ0djNQTW5FWHZtSEM0QWRYVkl4eTBiS0w?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-25-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Uruguay EV Sales Report: Sales Soar in August as Market Share Reaches 56%!",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://cleantechnica.com/2026/09/24/uruguay-ev-sales-report-sales-soar-in-august-as-market-share-reaches-56/"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-09-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL starts trial battery cell production at new plant in Hungary - Yahoo Finance",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON3FzV1BBS3hUMl9xcEt1cmk1VmpNS3ZJV0pjTmhpRURmZnBpR2FFX2RmOHpFTGU3bnM5Qy01cjFZOExHMHYwQ21tUGVIaUUwYkpDelVjNUZsQV9NNF85ZlZoaFNlWDluUzNSR0F4VTJIVS1kYXFabUdzV1NoLTdmUkZTa0xOMzBXNDdpbFFBMHBJU1FtVkE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-09-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL opens largest European battery service center in Oslo - Vietnam Investment Review - VIR",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbm81a185WDJyc21tTTcyS3k1Y3VmMTFTV2Q1UlZEUk9Fd193MUh4V3hQaWUxZ0VpeW10cFBKUnlaRzhGRXd0V1M4bWQ0eDYyUG41b1lOb1owZVY0WUprX1UzSHlHV2h2TDNWWXJkZE5GSE0tdW9XZWhDYVVKUS1JbzFBRHFZaU5iV0JHeGJicVJHcms?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Battery cell production at Ohio plant to restart for GM EVs - Batteries News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnBlblMzS09NeXlsNzQtekJaWEZiV3hDYXI5WXZBam9OLUJIVGI3Rk03bjZqOWFzM1hVUjgxYmlKMFJRNjNVaHRXTFZRVXJmVzhmR0lYR3R6Tlp3SUVMdlBJem5GNmlzQ2l1cHFVT05YdzhIQWdnY3U5VXFnUS1NS1gwd3VUd2pnTjZDSmlYbw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "battery_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 25,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "eve",
+        "count": 1
+      },
+      {
+        "id": "byd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "ev_sales",
+        "count": 2
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      },
+      {
+        "id": "battery_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 397,
+    "dup_title": 227,
+    "too_old": 64,
+    "gate1_blocked": 23,
+    "gate2_blocked": 20,
+    "passed": 63,
+    "pass_rate": "37.1%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "LG Energy Solution Named Among Nvidia's First BESS Partners—Only 3 Worldwide - finance.biggo.com",
+      "SK On Wins CSR Award in Hungary for Second Straight Year - thelec.net",
+      "Rivian Is About To Make Its Vehicles A Lot More Affordable - CarBuzz",
+      "How to Make More Cars in America? Rivian’s C.E.O. Has Some Ideas. - The New York Times",
+      "Prediction: NIO Is a Better Buy Than Lucid for the Next Decade - The Motley Fool"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為福斯、特斯拉、寧德時代相關動態：「BYD is ‘leading’ the solid-state battery race, and its fi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BYD is ‘leading’ the solid-state battery race, and its first EV with the new ...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Uruguay EV Sales Report: Sales Soar in August as Market Share Reaches 56%!（電動車銷量、電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

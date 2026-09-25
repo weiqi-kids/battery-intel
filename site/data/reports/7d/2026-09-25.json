@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-25",
+  "date_range": {
+    "start": "2026-09-19",
+    "end": "2026-09-25"
+  },
+  "generated_at": "2026-09-25T13:25:22.752502Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "byd-2026-09-24-056",
+      "date": "2026-09-24",
+      "title": "BYD claims longest EV range with 683-mile Denza Z9S priced as Tesla Model 3 - notebookcheck.net",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 240,
+      "last_week": 216,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.05
+    },
+    "cathode_material": {
+      "this_week": 16,
+      "last_week": 5,
+      "week_over_week_change": "+220%",
+      "sentiment_this_week": 0.07
+    },
+    "lithium_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ev_sales": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.38
+    },
+    "battery_cost": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 24,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "eve": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "ganfeng": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "volkswagen": {
+      "event_count": 25,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "tesla": {
+      "event_count": 18,
+      "sentiment_avg": 0.25,
+      "rank": 3
+    },
+    "basf": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "sk_on": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "byd": {
+      "event_count": 16,
+      "sentiment_avg": 0.06,
+      "rank": 4
+    },
+    "rivian": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 7
+    },
+    "nio": {
+      "event_count": 15,
+      "sentiment_avg": -0.07,
+      "rank": 5
+    },
+    "lg_energy": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "pilbara": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 451,
+        "last": 478,
+        "change_pct": -5.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-19",
+      "event_count": 32,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 26,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 89,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 105,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 92,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 76,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-25",
+      "event_count": 31,
+      "sentiment_avg": 0.09
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-19 ~ 2026-09-25）共 451 則事件，重點為「BYD claims longest EV range with 683-mile Denza...」。特斯拉表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 24 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "億緯鋰能",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "福斯",
+        "reason": "本週出現 25 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

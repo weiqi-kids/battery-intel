@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-25",
+  "total_events": 31,
+  "by_company": {
+    "catl": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "eve": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "rivian": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "volkswagen": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "tesla": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "sk_on": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 26,
+      "sentiment_avg": 0.12
+    },
+    "cathode_material": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ev_sales": {
+      "count": 2,
+      "sentiment_avg": 0.38
+    },
+    "battery_cost": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
