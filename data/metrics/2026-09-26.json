@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-26",
+  "total_events": 15,
+  "by_company": {
+    "nio": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "volkswagen": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 15,
+      "sentiment_avg": 0.07
+    },
+    "cathode_material": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
