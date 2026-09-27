@@ -1,0 +1,16 @@
+{
+  "total_raw": 416,
+  "dup_title": 274,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 28,
+  "gate2_fail": 18,
+  "passed": 29,
+  "gate2_samples": [
+    "Rivian Says R3 Will Be Priced \"Materially Lower\" Than R2 - Carscoops",
+    "Why Using The CitiCar As Inspiration To Solve Rivian's $40,000 Fender Bender Problem Is Both Genius ",
+    "2026 Rivian R1S Ascend Miami Edition for Sale With 8,300 Miles - autoblog.com",
+    "Rivian Is About To Make Its Vehicles A Lot More Affordable - CarBuzz",
+    "Rivian C.E.O. RJ Scaringe Has Some Ideas for How to Make More Cars in America - The New York Times"
+  ]
+}

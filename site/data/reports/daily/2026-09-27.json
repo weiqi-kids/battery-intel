@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:40:38.315463Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-09-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Unveils TECTRANS II Battery Platform at IAA Transport Show - CleanTechnica",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVmhpN0F4WWNqdERzOXN1MFkteGQxb3NJWWV5U1RSOGhCR2hDUVhlQzRueEt1bDYxUkc5V3VFX2JBb2ktemNyNWxSOUpJemZkek5UdVYzbkhvc1EtTVh5Z3Myb2VtTmlWX1d6V09EemRBcHJ2aV9fR3FFOUZaQnRpSkpiWnNnME5PSWZ3QzBTVUdxdDFaTUt5U3dnZXpReGpYNWU5R2RJMXpJVlhqY1BTLXZuWmJnd0t0Y3RVTjB2bzhlZUZ2X21taQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "These Battery Cells Were Tested After 14 Years Of Hard Work. They're Good For Another Decade - InsideEVs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwWWVuZGNuSG5DXzdVVmVRMUhVeVhJOGN5MDBwcUM1UmZmSmktczNQdVlKNWJSelIzVy1PaXRmQ1dXQkxjZjNmR1lNM2NQR1AtYnVtS0FFZFZ4cl9MMUYtWVR0ZTZnWnVYaDVsVFBZbHY2dnRQNVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rivian-2026-09-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rivian Nears 10,000 Vehicles in Washington as Share of New EV Titles Slips - eletric-vehicles.com",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEdUSkxrV1duR0dvRFdMOXFkVDVKUUxfSHF5b2xFSjVhNjRsOVpKdzBmT3BmbFg5S1dIbkFvQURRaUFHa1g2SEtMVGxTRWpuWE1vNFI0Wkd0TUZGVHVVOEg0bVNTSlpSXzVHQ1NGd0pxZi1VRUtFNzA3R05mWmYxR056TG5od1RKZVRLVGxRMHNiZmkzVEZVWmNNSk9Kck9MQV9vWDBiUTQzdE03ZTVr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "volkswagen-2026-09-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "In Germany, Volkswagen hinders gas-car shift as entry-level EVs overtake ICE orders - The Cool Down",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTd2TW1rZk9QM0VIMV8yRGVUZHJwalQ4bEF1ZjlNVThCWVNRaUo5ZXJZd1h6WlZ4NDZpSEl1NlpuQWdFZHRhTHY3bElNUFNqazZmaEx0aEpOdGVwai1hN2JVNFlmd2ZKLXNTZTZDU3lkMUt0WXNRQVQ3SUNYS3FiYW5XcXRlWG9LR29pVA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘Cannot Give Up Right Now’: Hyundai’s R&D Boss On The Solid-State Battery Bet",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/809671/hyundai-solid-state-battery-bet-manfred-harrer/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      },
+      {
+        "id": "volkswagen",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 416,
+    "dup_title": 274,
+    "too_old": 67,
+    "gate1_blocked": 28,
+    "gate2_blocked": 18,
+    "passed": 29,
+    "pass_rate": "20.4%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "Rivian Says R3 Will Be Priced \"Materially Lower\" Than R2 - Carscoops",
+      "Why Using The CitiCar As Inspiration To Solve Rivian's $40,000 Fender Bender Problem Is Both Genius ",
+      "2026 Rivian R1S Ascend Miami Edition for Sale With 8,300 Miles - autoblog.com",
+      "Rivian Is About To Make Its Vehicles A Lot More Affordable - CarBuzz",
+      "Rivian C.E.O. RJ Scaringe Has Some Ideas for How to Make More Cars in America - The New York Times"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為寧德時代、Rivian、福斯相關動態：「CATL Unveils TECTRANS II Battery Platform at IAA Transpor...」。主要關注主題為電池產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "CATL Unveils TECTRANS II Battery Platform at IAA Transport Show - CleanTechnica（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "These Battery Cells Were Tested After 14 Years Of Hard Work. They're Good For...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

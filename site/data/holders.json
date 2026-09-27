@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T12:48:13.730513+00:00",
+  "updated_at": "2026-09-27T13:40:37.839377+00:00",
   "companies": {
     "panasonic": {
       "name": "Panasonic",
@@ -202,19 +202,6 @@
           "shares": 6000,
           "pct_held": 0.0,
           "value": 468599
-        }
-      ]
-    },
-    "umicore": {
-      "name": "Umicore",
-      "short_name": "優美科",
-      "ticker": "UMI.BR",
-      "holders": [
-        {
-          "holder": "Pacer Advisors, Inc.",
-          "shares": 1222,
-          "pct_held": 0.0,
-          "value": 26150
         }
       ]
     },
