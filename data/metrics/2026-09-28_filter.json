@@ -1,0 +1,16 @@
+{
+  "total_raw": 416,
+  "dup_title": 192,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 24,
+  "gate2_fail": 24,
+  "passed": 105,
+  "gate2_samples": [
+    "Rivian Says R3 Will Be Priced \"Materially Lower\" Than R2 - Carscoops",
+    "2026 Rivian R1S Ascend Miami Edition for Sale With 8,300 Miles - Autoblog",
+    "Why Using The CitiCar As Inspiration To Solve Rivian's $40,000 Fender Bender Problem Is Both Genius ",
+    "Rivian Is About To Make Its Vehicles A Lot More Affordable - CarBuzz",
+    "Nio to Run Separate Swap Network for Geely’s Cao Cao Fleet and Robotaxis - eletric-vehicles.com"
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:36:04.499353Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nio-2026-09-28-023",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back - Yahoo Finance",
+      "companies": [
+        "nio",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc29SUXhZR2FEeTZycmREa2xKLV9BV3ZlbE0tQUV0MzNyM1BiaEdDTmhvUE4zcDVlSDZaekRNcFdPX1dUWXdIcVNFVEIwVTVYbkdzek1tWnVHQ2wxb2xldjM0eTFwcC13RC0zOEdhWVVrRXpFWWpkR3FUNGRZZjE0ZlBjLXN3UklZbWVGc21wZE91dlNhN1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-09-28-030",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back - 24/7 Wall St.",
+      "companies": [
+        "nio",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQml3UlVqdnBQVWhvYk9fV1ZJeG9Jbk15VVViTm5kWEZGeHh1X3FqZzZuSGViTGdyZFJRYzk0RnphRmttS2c2RUktTVVfLWpaUmViMFlqWjZFd1dZelFna0liTGFoMll2ZjU1ejNwdVA2Z1h0aDc4M3JIZWhud2MxeHp0emlub1MwNHp6Y3pLTmR5d2hKNm1iU1FBNmpUSUtYQlpoYnVZYUpsd3Q3MzNmelFNd2s0LVE3Z3RVcjVWeWlqQlBNSkZMc3ZUVmNpQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tesla-2026-09-28-049",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tesla warns weather could delay Roadster demo, and the forecast is ugly",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://electrek.co/2026/09/28/tesla-roadster-demo-weather-delay-warning/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-28-060",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China unveils 5-year battery plan targeting large-scale all-solid-state use by 2030",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/09/28/china-unveils-5-year-battery-plan/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-28-072",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "VIDEO: How a global IPP uses analytics to find and act on hidden BESS losses",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.energy-storage.news/video-how-a-global-ipp-uses-analytics-to-find-and-act-on-hidden-bess-losses/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 73,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "recycling": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "nio",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 81,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 73,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 17
+      },
+      {
+        "id": "volkswagen",
+        "count": 14
+      },
+      {
+        "id": "tesla",
+        "count": 6
+      },
+      {
+        "id": "byd",
+        "count": 5
+      },
+      {
+        "id": "lg_energy",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 73
+      },
+      {
+        "id": "cathode_material",
+        "count": 5
+      },
+      {
+        "id": "recycling",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 416,
+    "dup_title": 192,
+    "too_old": 71,
+    "gate1_blocked": 24,
+    "gate2_blocked": 24,
+    "passed": 105,
+    "pass_rate": "46.9%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Rivian Says R3 Will Be Priced \"Materially Lower\" Than R2 - Carscoops",
+      "2026 Rivian R1S Ascend Miami Edition for Sale With 8,300 Miles - Autoblog",
+      "Why Using The CitiCar As Inspiration To Solve Rivian's $40,000 Fender Bender Problem Is Both Genius ",
+      "Rivian Is About To Make Its Vehicles A Lot More Affordable - CarBuzz",
+      "Nio to Run Separate Swap Network for Geely’s Cao Cao Fleet and Robotaxis - eletric-vehicles.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 81 則事件，焦點為蔚來、福斯、特斯拉相關動態：「Nio Advances 3% as Geely Takes 30% Stake in Battery Swapp...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and ...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and ...（電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
