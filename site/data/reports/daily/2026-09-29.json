@@ -1,0 +1,231 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:43:47.556925Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-09-29-031",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nio Slides 4% as Geely Takes 30% Stake in Nio Power Unit; XPeng Drops 4%, Tesla Slips - 24/7 Wall St.",
+      "companies": [
+        "tesla",
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDRxdzA0bnhuMHdpT29qUXZ0WnVxcloxMmNOX0V0bHRkY3JOcjk5TFZqSGhJUXBZUmo1MFVsdXV5eHBsWklVekhadzYzR2hZclFfaFF4WV9MQk96aDYzd19hWU90VnJzczEwb3dQcE5rc2YtakE1SjJIc0JieFYxaFNSa1JDWFhlVndYLWJQWlRQWDV4REh5OElvSDFNQnBBenBXYTE4SFc5NmFlNGg3ZlFYU0U1SDVpSWNWZ21yN2Eydw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-29-061",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Scientists propose solar cell taxonomy based on absorber integration",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/29/scientists-propose-solar-cell-taxonomy-based-on-absorber-integration/"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-09-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kuehne+Nagel and CATL partner to advance battery logistics and fleet electrification - markets.businessinsider.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMGtFTVZHT0s1N1hNTWdOYUNhWTdnVVlCUWwxNG15dTFFeDJEVFlfR2RSUVYwWDZuZndXNjlPZ0cxaUYtRldtTTI4dmNuMGU2QmZHWTBTSWhEUDAwUVRNZEhqbFg5UkNaZ2tyOXNoMmlpRWdWalFEa0hzNEoxNVZoQWpuanhucGZrT3ZQVWZ5bmpmMlBBLUtrYkdjWnVlN0o0TzVzaEd2Rng0WmJzcWZpcEhNdVBwS3dBSzY0LTRaYVR3LTZzdG1RbnZXUkFhQmw1SXNaVjA5QlFWSjg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-09-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Partners with BME to Advance Battery Pack Manufacturing in Egypt Through Technology Licensing - markets.businessinsider.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT09NTERhY2d6Q2xGOFVXMmJKY2dsX0hkbXpPQWJMeHVTT1lNSlFjQVpMQmc4WlVrUE9sU1lnYU1TTGs2dlhJQjNKaG56NW9tM2hFaDFVdEVDMlc2RjAtWXR3cmJfcENoVW9yVEpoenpSN1VPU3YweVlmaXZPUnF5SHZwRzFGUVctTkh6VGR2OEFzZktQWWNfNWFtNEFUdzI5OElBZ0xOR2U1YnpkOUlndjBaNy15ODZLUzlWUnBuNUtyVEJxTGJvdDVuTFVFWHRkWTBrZ0czTnpYN3R3UFpMUkx0dkN4ZW9IRWtaUnNn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-09-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kandi Technologies' China Battery Exchange Secures Follow-On Order for CATL Heavy-Truck Battery Swap Stations - marketscreener.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVUdNNU94V2tQb2VCMVBfcVhzNVRXVnM1b0JFbzFVT1RScVAxT21Eb1lqX3ZPOEFWZFJua01lczhvazVxd1ItZnlHb1N0ODE0Z0x5QXpUNk5MRm9pcUtZZnU3OGhwNXkwc1FLM3F1U2N3TXVST2g2aFBma1dldWVxTUZUYjRsWHdlMk5NYi1yVnFNZm5VMHo3UWpFRVhsaGpsZkRUTTdMVXJHTi1aa09NeGh2OE5sSmxDNHRJbjlnQVJZYWtJaDBoc21tUFJsWUN3TlBadjdCVnZwVGRoRV9PMEh6WVYtUWs?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 57,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 61,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 55,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_sdi",
+        "count": 10
+      },
+      {
+        "id": "catl",
+        "count": 5
+      },
+      {
+        "id": "sk_on",
+        "count": 4
+      },
+      {
+        "id": "nio",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 57
+      },
+      {
+        "id": "cathode_material",
+        "count": 7
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 416,
+    "dup_title": 202,
+    "too_old": 71,
+    "gate1_blocked": 15,
+    "gate2_blocked": 21,
+    "passed": 107,
+    "pass_rate": "50.0%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "LG Energy Solution, LS Cable & System, Gaon Cable ... Korean Companies Dive into AI Infrastructure -",
+      "Why Using The CitiCar As Inspiration To Solve Rivian's $40,000 Fender Bender Problem Is Both Genius ",
+      "Rivian Says R3 Will Be Priced \"Materially Lower\" Than R2 - Carscoops",
+      "Rivian Is About To Make Its Vehicles A Lot More Affordable - CarBuzz",
+      "Rivian Automotive (NASDAQ:RIVN) Stock Price Down 4.4% - What's Next? - marketbeat.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 61 則事件，焦點為三星SDI、寧德時代、SK創新相關動態：「Nio Slides 4% as Geely Takes 30% Stake in Nio Power Unit;...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nio Slides 4% as Geely Takes 30% Stake in Nio Power Unit; XPeng Drops 4%, Tes...",
+        "level": "yellow"
+      },
+      {
+        "text": "Scientists propose solar cell taxonomy based on absorber integration（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

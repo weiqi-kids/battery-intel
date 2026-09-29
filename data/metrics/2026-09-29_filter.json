@@ -1,0 +1,16 @@
+{
+  "total_raw": 416,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 15,
+  "gate2_fail": 21,
+  "passed": 107,
+  "gate2_samples": [
+    "LG Energy Solution, LS Cable & System, Gaon Cable ... Korean Companies Dive into AI Infrastructure -",
+    "Why Using The CitiCar As Inspiration To Solve Rivian's $40,000 Fender Bender Problem Is Both Genius ",
+    "Rivian Says R3 Will Be Priced \"Materially Lower\" Than R2 - Carscoops",
+    "Rivian Is About To Make Its Vehicles A Lot More Affordable - CarBuzz",
+    "Rivian Automotive (NASDAQ:RIVN) Stock Price Down 4.4% - What's Next? - marketbeat.com"
+  ]
+}
