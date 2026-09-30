@@ -1,0 +1,224 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:45:39.465529Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-30-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China NEV retail sales fall 20% in first 27 days of September as decline deepens",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/09/30/china-nev-retail-sales-first-27-days-sept/"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-09-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Seres and CATL-backed Aiva unveils ME7 in Paris - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc05VTEJzTFktWi1TZmFRMXRGeTl6ZmJyTGptTHQ2XzA0OGJDNG04YjA2d2RfeUN3LS11T3BxbEpVMGlKUm51c3hZd3hjMVk1NzNfUHl6cm9RekxoNXBHc1N3SnV5RC1kbnBsQ05kSGNCOTVsbldmQlNrSzhiMjVucmJzSjRUelUyMTBvNg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tesla-2026-09-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tesla audits Chinese suppliers, China outlines 2030 battery goal: 7 EV reads - South China Morning Post",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSUdtQ2g5WlM4SW15RGhRaTFZd21JNmhxYXdBYU5iTGpWUEVxOE54VG9HbDBrVS11WUU4Y2Z3TWJCcFlrUEtnc3RwQ3NaS3BNaFlHWVYwaERWUUxXMUYyLXVvRDJVcnVnTGZoZ1RoS2RGcEFhVm1uamVFd2xpeDMtVDB4cVM1NGpsTUdaQnFvLUQ1cWpVWVZJME9kdWRGQ3NZQW1CRGY2c0dmcW83Zk03Tjh5SFp6SUJMSm9PSVBpVTVydnpOaHIzMGd0VW5CRDlhYVd3OdIB1AFBVV95cUxNbWQ5R0thd21yZFdNYzVaQ3ROQnNOTkJSODNXX3F5NzNMaEVwLVRtaXUxNnlReVVJclA5OE14Ty1QWDVSVl9ZNVhKQXJ3cFNFQVNIbGZCMUtWck5jT2RhOWpMdWZHMVdObm1qc2JsZURMOUR3QXpWdFQ3LW9rU1VKQzY5NjJOVmhhTG5SaUlXVURhMUxIY0NjRU40WFpFRXo4WFVxZi1adE9SdlpDZkY3aGtWOGk1aTVkdVpZb0tiRTFiUlBDb1lhVFNfUnJFSUhhU05kNw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-09-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Starts Battery Production at Hungary Plant - Caixin Global",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd04tcEhUY2c0b3FRMUdBNDN2WDRVdkZTWm1GZlFNWTk1ZjJPc3NVMlkyNUlLME15QzJEM2lNMmFieDB2UVFOUE05VmVQNzBPUVlaQXZpQjRZZ3h6eGRGNEVlNkdUZkpLcGlOdGg0NFZwcWM2U2NhYUdqTG1HbXpySnE1eXd3YVRPR3JQT2RjaGUtRmg4QnF0Q1MwRDFxWllZWW1ydg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-09-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Li wants to learn from Xiaomi to \"raise fish\", while CATL aims to become the \"Huawei\" in the battery industry. - 36Kr",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DUUpGSU5mc0UxN2lZaF9IM0tLQk9mVC10R1Z5OHpJSERpQ3BsVkhaeEZsTlVQOHBVckQ4MVZTS0haZ2lrRGtIMUJPQWZYTFI1Zk1z?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 53,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 56,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 46,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "lg_energy",
+        "count": 3
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 2
+      },
+      {
+        "id": "sk_on",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 53
+      },
+      {
+        "id": "cathode_material",
+        "count": 7
+      },
+      {
+        "id": "recycling",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 417,
+    "dup_title": 215,
+    "too_old": 64,
+    "gate1_blocked": 17,
+    "gate2_blocked": 23,
+    "passed": 98,
+    "pass_rate": "48.5%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Mango's Prime Fall Sale takes up to 72% off Power E CATL station, bundles, and accessories starting ",
+      "LG Energy Solution Hosts Conference for Global AI, ESS Talent - 조선일보",
+      "Could Pilbara Minerals (ASX:PLS) Face More Share Pressure? - Kalkine Media",
+      "Why Using The CitiCar As Inspiration To Solve Rivian's $40,000 Fender Bender Problem Is Both Genius ",
+      "Rivian Is Nerfing Its 1,025-HP Trucks With a New Teen Mode - Autoblog"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 56 則事件，焦點為寧德時代、特斯拉、LG新能源相關動態：「China NEV retail sales fall 20% in first 27 days of Septe...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China NEV retail sales fall 20% in first 27 days of September as decline deepens（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Seres and CATL-backed Aiva unveils ME7 in Paris - CarNewsChina.com",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 417,
+  "dup_title": 215,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 17,
+  "gate2_fail": 23,
+  "passed": 98,
+  "gate2_samples": [
+    "Mango's Prime Fall Sale takes up to 72% off Power E CATL station, bundles, and accessories starting ",
+    "LG Energy Solution Hosts Conference for Global AI, ESS Talent - 조선일보",
+    "Could Pilbara Minerals (ASX:PLS) Face More Share Pressure? - Kalkine Media",
+    "Why Using The CitiCar As Inspiration To Solve Rivian's $40,000 Fender Bender Problem Is Both Genius ",
+    "Rivian Is Nerfing Its 1,025-HP Trucks With a New Teen Mode - Autoblog"
+  ]
+}
