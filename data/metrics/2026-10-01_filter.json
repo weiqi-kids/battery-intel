@@ -1,0 +1,16 @@
+{
+  "total_raw": 418,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 19,
+  "gate2_fail": 22,
+  "passed": 109,
+  "gate2_samples": [
+    "Mango's Prime Fall Sale takes up to 72% off Power E CATL station, bundles, and accessories starting ",
+    "Could Pilbara Minerals (ASX:PLS) Face More Share Pressure? - Kalkine Media",
+    "Rivian Is Nerfing Its 1,025-HP Trucks With a New Teen Mode - Autoblog",
+    "Rivian: LiDAR R2 reaches customers in 2027, employees get it this year - electrek.co",
+    "NIO (NIO) Q3 deliveries rise 25%, but September growth slows to 7.7% - electrek.co"
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T15:14:38.289331Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-10-01-018",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BYD, NIO, Xpeng Report Deliveries. The Chinese EV Market Is Still a Mess. - Barron's",
+      "companies": [
+        "byd",
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0pWYk1RclpVYWw2aFZ5Qi1UT1dKaW8yXzVIYk9kVDNWWU9QMmZNWXE3ZTdGNExXNUhub2NsM0k0N3V6U0hPX1VfRmJ1U2FVM1FGZWJIdTRKc2pCa2t4ZjQ0b3FJUGdGSmJBbC1ZQXdleUtzMmgycnNpczFBdklBMHBGZjN4eHQ4VTl0dUV3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-10-01-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nio Inc. Meets Q3 Guidance, Needs Record Months to Hit Annual Target - eletric-vehicles.com",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3ExZnBhRUtKX29NQ1JsNTZzNnNzMVE2VFdRZ3N5VjRtVmw3ZHNVUElEXzg0MmplVnlvdmcxNm5kX0tSbFdUR0NNZVhyN01fS3BKXzctY2JURnVPLS0zMk5EY0FXWkF3cmcwUTYwbnhFQVZ3NEgxSHVDbWszeGR1ZHBuLU5pOXB2b3lQSHNoaHI2SGViZnpYdndLa1A1eXBUdmc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-01-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Kia’s new EV3 is just getting started after 500+ first-month sales",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://electrek.co/2026/10/01/kias-new-ev3-just-getting-started-500-first-month-sales/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-01-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Roundup: September 2026 deliveries by major Chinese automakers",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/10/01/roundup-sept-2026-deliveries-china-automakers/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-01-034",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "GWM September sales fall 14% in steepest drop this year as domestic slump deepens",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/10/01/gwm-sept-2026-sales/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 66,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 70,
+    "sentiment_distribution": {
+      "positive": 12,
+      "neutral": 53,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 10
+      },
+      {
+        "id": "lg_energy",
+        "count": 5
+      },
+      {
+        "id": "rivian",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 66
+      },
+      {
+        "id": "cathode_material",
+        "count": 3
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 418,
+    "dup_title": 201,
+    "too_old": 67,
+    "gate1_blocked": 19,
+    "gate2_blocked": 22,
+    "passed": 109,
+    "pass_rate": "50.2%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Mango's Prime Fall Sale takes up to 72% off Power E CATL station, bundles, and accessories starting ",
+      "Could Pilbara Minerals (ASX:PLS) Face More Share Pressure? - Kalkine Media",
+      "Rivian Is Nerfing Its 1,025-HP Trucks With a New Teen Mode - Autoblog",
+      "Rivian: LiDAR R2 reaches customers in 2027, employees get it this year - electrek.co",
+      "NIO (NIO) Q3 deliveries rise 25%, but September growth slows to 7.7% - electrek.co"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 70 則事件，焦點為蔚來、LG新能源、Rivian相關動態：「BYD, NIO, Xpeng Report Deliveries. The Chinese EV Market ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BYD, NIO, Xpeng Report Deliveries. The Chinese EV Market Is Still a Mess. - B...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Nio Inc. Meets Q3 Guidance, Needs Record Months to Hit Annual Target - eletri...",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
