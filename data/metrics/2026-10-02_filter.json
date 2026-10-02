@@ -1,0 +1,16 @@
+{
+  "total_raw": 416,
+  "dup_title": 237,
+  "no_date": 0,
+  "too_old": 61,
+  "gate1_fail": 17,
+  "gate2_fail": 29,
+  "passed": 72,
+  "gate2_samples": [
+    "Mango's Prime Fall Sale takes up to 72% off Power E CATL station, bundles, and accessories starting ",
+    "CATL Widens Lead As Korean Makers Slip - Businesskorea",
+    "Could Pilbara Minerals (ASX:PLS) Face More Share Pressure? - kalkinemedia.com",
+    "BYD September 2026 Sales Hit Yearly High - electriccarsreport.com",
+    "Rivian Is Nerfing Its 1,025-HP Trucks With a New Teen Mode - Autoblog"
+  ]
+}

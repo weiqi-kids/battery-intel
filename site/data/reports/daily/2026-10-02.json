@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:34:47.208716Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-10-02-019",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Tesla beats Q3 delivery expectations but falls further behind BYD in BEV sales",
+      "companies": [
+        "byd",
+        "tesla"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/10/02/tesla-q3-delivery-byd-bev-sales/"
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-10-02-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Global EV battery market share in January-August 2026: CATL 39.4%, BYD 15.1% - CnEVPost",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVW9IT3V3cGo4dHk2Mm11MldRTEl4aEl3WEh0SVVrU2dJeW9RbENsMHZqbENLYkVzWENxeGNQY1F2WGUyaUhZLUJuUHhVT3FybWw0MDlVeGdFVFU3RWoxSmY0LUlpS09kZnRNcFpHRnlMdEIybnNVdGVkMGU5eU8wbG1B?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rivian-2026-10-02-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rivian Jumps 4% After Delivering 19,248 Vehicles and Reaffirming Full-Year Guidance; Tesla Rises 2% - 24/7 Wall St.",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR080VUU0NGlVMlYyNUh2QjN4QUxxVGx1R3R3Wm5RWkxLZXFiNWJSZzZDS0Q5RTA0OENwYmRmQVNqM3ROQ05RVTF4Rl9fRzlISjdIRzFab1pXeDRVS0dRa0VBcE8zWjhLVkl4YzhzWjdrQUFWR2dmX2t6TzdqRlZOSkNmUE92NnowM0dOTVozbG90djhXMDdsZ0R3bmttNjliOHdQbHlURjZvWWFMNVFvSjdsbjBQVk9fZ2tjeDZqMjhab19fMFFKeUE0NF9aR19EOG9DMm5B?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rivian-2026-10-02-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rivian Jumps 4% After Delivering 19,248 Vehicles and Reaffirming Full-Year Guidance; Tesla Rises 2% - AOL.com",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42RHA4Wk5Jd0lBOER6YjFET3NSZWRoX2daTGktTkwwUFQ2WlFLcmxxQXlnRmpoaFo0YU9TNmJ5UmI0OEtBdWZxRjdKMEU2Y0c1aDRKYnJEd2ltaU5TN2ViNEh3M3JCZW1LUjhVVGEzQTYzTm5tVlVNQW9iQ3c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "byd-2026-10-02-018",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Global EV battery market share in January-August 2026: CATL 39.4%, BYD 15.1%",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/10/02/global-ev-battery-market-share-jan-aug-2026/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "rivian",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": []
+    }
+  ],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 35,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "rivian",
+        "count": 9
+      },
+      {
+        "id": "tesla",
+        "count": 5
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 3
+      },
+      {
+        "id": "lg_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "ev_sales",
+        "count": 2
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 416,
+    "dup_title": 237,
+    "too_old": 61,
+    "gate1_blocked": 17,
+    "gate2_blocked": 29,
+    "passed": 72,
+    "pass_rate": "40.2%",
+    "gate2_block_rate": "16.2%",
+    "gate2_samples": [
+      "Mango's Prime Fall Sale takes up to 72% off Power E CATL station, bundles, and accessories starting ",
+      "CATL Widens Lead As Korean Makers Slip - Businesskorea",
+      "Could Pilbara Minerals (ASX:PLS) Face More Share Pressure? - kalkinemedia.com",
+      "BYD September 2026 Sales Hit Yearly High - electriccarsreport.com",
+      "Rivian Is Nerfing Its 1,025-HP Trucks With a New Teen Mode - Autoblog"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為Rivian、特斯拉、比亞迪相關動態：「Tesla beats Q3 delivery expectations but falls further be...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tesla beats Q3 delivery expectations but falls further behind BYD in BEV sales（電動車銷量、電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Global EV battery market share in January-August 2026: CATL 39.4%, BYD 15.1% ...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
