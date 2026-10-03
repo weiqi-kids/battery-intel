@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T13:11:40.285143Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rivian-2026-10-03-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Stocktwits Zero To Sixty — Tesla Deliveries Clear The Street, BYD Widens The Gap, Rivian Holds Forecast, Ford And GM EV Sales Fall Hard - Yahoo Finance",
+      "companies": [
+        "rivian",
+        "byd",
+        "tesla"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_sales",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRENhQlN6dWEwZXYxUmd2aEtOOWxmUHNNTzdZei1wcnlEWUtNUmx6UW9NdUVOekwyOXZtNURRdF9XVkJrUkF5VWoyVlJfMl9BWEN0dExrN0NQV2pZUjFVYmRCYWxBcHc1bTFTblA3UjZaSGwwVC1vSlAxQ055NUJsRDdDekI4d0pNZHNyeEczTEJRY0JheG1md0NqMlQ4djAtSzNUa1Fn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-03-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FedEx believes $300M electric truck spend will save them $800M in diesel",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/10/03/fedex-believes-300m-electric-truck-spend-will-save-them-800m-in-diesel/"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_energy-2026-10-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution to supply 46,100 round cells to Mercedes - electrive.com",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObnF3TTNSWFFJTGQ1WUY0RHAtczFIakZvUTBIa0lmT2dwOVB0N3hLVVFweVFVcnFuRjFsZjNNSjFXLVFxcE9oelhscGJVTzJBWGkwOWsxRlJDMS1YSkwzQW9zZ2s3SnVyVElaQ3ZGY0g5MjA5YjNJbXpmWXBQVlZUQThKRlFCTnFKUTlzVmFjVWdsUjBKd1Q4bkp0UlY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Watt’s up, doc? Huddig hybrid loader gets a big battery boost [video]",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/10/03/watts-up-doc-huddig-hybrid-loader-gets-a-big-battery-boost-video/"
+    },
+    {
+      "rank": 5,
+      "event_id": "tesla-2026-10-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The 2027 Cadillac Escalade IQ Gets A NACS Port And Faster Home Charging",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/810603/2027-cadillac-escalade-nacs-home-charging-upgrade/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "lg_energy",
+        "count": 1
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "ev_sales",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 268,
+    "too_old": 59,
+    "gate1_blocked": 23,
+    "gate2_blocked": 27,
+    "passed": 38,
+    "pass_rate": "25.9%",
+    "gate2_block_rate": "18.4%",
+    "gate2_samples": [
+      "Mango's Prime Fall Sale takes up to 72% off Power E CATL station, bundles, and accessories starting ",
+      "Could Pilbara Minerals (ASX:PLS) Face More Share Pressure? - Kalkine Media",
+      "Rivian Crushes Delivery Numbers. Why the Stock Is Down. - Barron's",
+      "Rivian Is Nerfing Its 1,025-HP Trucks With a New Teen Mode - Autoblog",
+      "Rivian Stock Is Falling Friday: What's Going On? - Rivian Automotive (NASDAQ:RIVN) - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為比亞迪、特斯拉、LG新能源相關動態：「Stocktwits Zero To Sixty — Tesla Deliveries Clear The Str...」。主要關注主題為電池產業通用、電動車銷量，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Stocktwits Zero To Sixty — Tesla Deliveries Clear The Street, BYD Widens The ...（電動車銷量、電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "FedEx believes $300M electric truck spend will save them $800M in diesel（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

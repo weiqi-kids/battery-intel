@@ -1,0 +1,16 @@
+{
+  "total_raw": 415,
+  "dup_title": 268,
+  "no_date": 0,
+  "too_old": 59,
+  "gate1_fail": 23,
+  "gate2_fail": 27,
+  "passed": 38,
+  "gate2_samples": [
+    "Mango's Prime Fall Sale takes up to 72% off Power E CATL station, bundles, and accessories starting ",
+    "Could Pilbara Minerals (ASX:PLS) Face More Share Pressure? - Kalkine Media",
+    "Rivian Crushes Delivery Numbers. Why the Stock Is Down. - Barron's",
+    "Rivian Is Nerfing Its 1,025-HP Trucks With a New Teen Mode - Autoblog",
+    "Rivian Stock Is Falling Friday: What's Going On? - Rivian Automotive (NASDAQ:RIVN) - Benzinga"
+  ]
+}
