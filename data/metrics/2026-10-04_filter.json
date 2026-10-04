@@ -1,0 +1,16 @@
+{
+  "total_raw": 416,
+  "dup_title": 263,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 24,
+  "gate2_fail": 27,
+  "passed": 30,
+  "gate2_samples": [
+    "Could Pilbara Minerals (ASX:PLS) Face More Share Pressure? - kalkinemedia.com",
+    "Rivian Crushes Delivery Numbers. Why the Stock Is Down. - Barron's",
+    "Rivian Stock Is Falling Friday: What's Going On? - Rivian Automotive (NASDAQ:RIVN) - Benzinga",
+    "Investors Are Missing the Boat as Nio Impressively Navigates Brutal Price War - The Motley Fool",
+    "Is NIO Stock Worth Buying After Strong Q3 Delivery Numbers? - Yahoo Finance"
+  ]
+}
