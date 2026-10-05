@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:57:05.886826Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-10-05-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Tesla (TSLA) Q3 Deliveries Beat Analysts’ Expectations, But BYD Widens EV Lead - CarbonCredits.com",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXNaQ0lEeEFMZE5hQWxEa0dEaGtaNEgzRTlvX01hZW1ObTN1em9tSnhfT3lWZjB5NTZQMVFMYjRQZmRjSTFBamJZZmhNZHFYdFh3SnlkaTZXVktZcWstQ21ZV1VUZGJldDF3WTVyRHFRTW5ucWtZXzRpSlBEWW9JYXhBN0FfWGx3WGdzVTVFWTVjSndPVnBJVXl0OTMzTVg0Ym5R?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-10-05-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nio’s Germany Registrations Plunge 95% in September to a Single Vehicle - eletric-vehicles.com",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1pUQ2ZPZEhnMUE1M2N0MUx0SGVqbGdwVGUxYlJGZEYxbklMRkFzTzdKSUl5UU0xekZqQVVwZjdCcWltRU8taXcwai1Xc3ctNFoxVm9NZVFFeV9CS3lMQW96OUxiY2RKeGhnTnJFYlZ6YjVfVmRSSmExQUhWZGxfb1lRQ3FHbnZBVE5qcmpxTkM4dTVjVUhLS2JUcHRGYzJpUjJ4NUpB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-05-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Enerparc attracts more than 100 potential investors as insolvency sale moves forward",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/05/enerparc-attracts-more-than-100-potential-investors-as-insolvency-sale-moves-forward/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-10-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL opens largest Ning Service Centre outside Asia in Oslo - electrive.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUnJPYTFjLWpaUjVlV2VkX24zN09KWnJ5VTlEZ0xiUnpRal94RnF1RGdRb3hEdVVEd2xLcGRpbHBGRkhNX2dxaUFTY2s5SVI0Vk5vYWJpcDBSLUp6ckl5Rzl2RF8zWUwyQ3ZaOE5WQU5XLXdLTkxJSUpkMjJ1YWd1S3dYS2tYLVdQUWZYaUN2WWRFRldZWkRkUjFwTFpUZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_energy-2026-10-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution signs MoU with US startup Indigotech - electrive.com",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1pUeS1tWVJFaXlPbXBTTFdiSjRWMzBKeGtEQUpwY1ZpcGxsUzFTSktwbnFtdnJ0eXVDQnB6WWE2YTd6Z2pWREV3YnBzdHAzbHd1OElwMFctSUJoRmhZLUFnU25VUVhsaC1oaHZxejNwcmtLczFTM29yZWlEeFdQS0d6OFE3ZGlWM0ZKMjc1UlJKSDRielF3Xw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 26,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "ganfeng",
+        "count": 2
+      },
+      {
+        "id": "rivian",
+        "count": 2
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "catl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 252,
+    "too_old": 62,
+    "gate1_blocked": 19,
+    "gate2_blocked": 29,
+    "passed": 53,
+    "pass_rate": "32.5%",
+    "gate2_block_rate": "17.8%",
+    "gate2_samples": [
+      "Mango's Prime Fall Sale takes up to 72% off Power E CATL station, bundles, and accessories starting ",
+      "One third of the way there: is the CATL dream lost in translation? - The Budapest Times",
+      "Could Pilbara Minerals (ASX:PLS) Face More Share Pressure? - Kalkine Media",
+      "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Orange County Register",
+      "Rivian Crushes Delivery Numbers. Why the Stock Is Down. - Barron's"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為特斯拉、贛鋒鋰業、Rivian相關動態：「Tesla (TSLA) Q3 Deliveries Beat Analysts’ Expectations, B...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tesla (TSLA) Q3 Deliveries Beat Analysts’ Expectations, But BYD Widens EV Lea...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Nio’s Germany Registrations Plunge 95% in September to a Single Vehicle - ele...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
