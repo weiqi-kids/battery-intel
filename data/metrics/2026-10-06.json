@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-06",
+  "total_events": 47,
+  "by_company": {
+    "catl": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lg_energy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_sdi": {
+      "count": 15,
+      "sentiment_avg": 0.07
+    },
+    "ganfeng": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 42,
+      "sentiment_avg": -0.04
+    },
+    "cathode_material": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

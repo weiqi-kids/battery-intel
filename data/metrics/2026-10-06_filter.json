@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 17,
+  "gate2_fail": 28,
+  "passed": 60,
+  "gate2_samples": [
+    "Schneider Electric, Samsung SDI Partner on Renewable Energy Procurement in Europe - thelec.net",
+    "Pilbara Minerals Ltd Annual Shareholders Meeting Transcript - GuruFocus",
+    "Could Pilbara Minerals (ASX:PLS) Face More Share Pressure? - Kalkine Media",
+    "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Orange County Register",
+    "Rivian releases debut video of R1T Electric Adventure Vehicle - Rivian Newsroom - rivian.com"
+  ]
+}
