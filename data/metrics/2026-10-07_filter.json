@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 215,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 18,
+  "gate2_fail": 22,
+  "passed": 77,
+  "gate2_samples": [
+    "Schneider Electric, Samsung SDI Partner on Renewable Energy Procurement in Europe - THE ELEC, Korea ",
+    "Pilbara Minerals Ltd Annual Shareholders Meeting Transcript - GuruFocus",
+    "Could Pilbara Minerals (ASX:PLS) Face More Share Pressure? - Kalkine Media",
+    "1 Great Sign for Rivian Investors - Yahoo Finance",
+    "Here’s How the Rivian R1S Stacks Up to Other 3-Row Electric SUVs - Cars.com"
+  ]
+}
