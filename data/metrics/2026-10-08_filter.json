@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 206,
+  "no_date": 0,
+  "too_old": 61,
+  "gate1_fail": 18,
+  "gate2_fail": 29,
+  "passed": 81,
+  "gate2_samples": [
+    "Why is LG Energy Solution stock surging today? - Investing.com",
+    "Schneider Electric, Samsung SDI Partner on Renewable Energy Procurement in Europe - THE ELEC, Korea ",
+    "Pilbara Minerals Ltd Annual Shareholders Meeting Transcript - GuruFocus",
+    "Here’s How the Rivian R1S Stacks Up to Other 3-Row Electric SUVs - Cars.com",
+    "Rivian Sales Are Riding High. Now Comes the Hard Part: TDS - The Drive"
+  ]
+}

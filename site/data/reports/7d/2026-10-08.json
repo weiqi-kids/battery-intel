@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-08",
+  "date_range": {
+    "start": "2026-10-02",
+    "end": "2026-10-08"
+  },
+  "generated_at": "2026-10-08T15:23:36.988453Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "byd-2026-10-02-019",
+      "date": "2026-10-02",
+      "title": "Tesla beats Q3 delivery expectations but falls further behind BYD in BEV sales",
+      "importance_score": 0.9
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "ev_sales",
+      "subject_type": "topic",
+      "this_week_sentiment": -0.08,
+      "last_week_sentiment": 0.42,
+      "delta": -0.5,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "tesla",
+      "co_mention_count": 5,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 211,
+      "last_week": 298,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": -0.0
+    },
+    "cathode_material": {
+      "this_week": 13,
+      "last_week": 24,
+      "week_over_week_change": "-46%",
+      "sentiment_this_week": 0.04
+    },
+    "ev_sales": {
+      "this_week": 6,
+      "last_week": 3,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.08
+    },
+    "lithium_price": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "byd": {
+      "event_count": 16,
+      "sentiment_avg": -0.03,
+      "rank": 5
+    },
+    "catl": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 6
+    },
+    "lg_energy": {
+      "event_count": 20,
+      "sentiment_avg": 0.11,
+      "rank": 1
+    },
+    "rivian": {
+      "event_count": 19,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "tesla": {
+      "event_count": 17,
+      "sentiment_avg": 0.03,
+      "rank": 4
+    },
+    "volkswagen": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "ganfeng": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 9
+    },
+    "nio": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "samsung_sdi": {
+      "event_count": 19,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "sk_on": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 361,
+        "last": 556,
+        "change_pct": -35.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-02",
+      "event_count": 76,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-10-03",
+      "event_count": 18,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-04",
+      "event_count": 26,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-10-05",
+      "event_count": 44,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-06",
+      "event_count": 75,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-07",
+      "event_count": 70,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-10-08",
+      "event_count": 52,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-02 ~ 2026-10-08）共 361 則事件，重點為「Tesla beats Q3 delivery expectations but falls ...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 16 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LG新能源",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
