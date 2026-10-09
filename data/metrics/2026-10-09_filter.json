@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 206,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 18,
+  "gate2_fail": 35,
+  "passed": 72,
+  "gate2_samples": [
+    "Europe’s system integrators move quickly on sodium-ion with CATL: ‘surprised if we aren’t deploying ",
+    "LG Energy Solution Reworks ESS Equipment Supplier Base - THE ELEC, Korea Electronics Industry Media",
+    "Why is LG Energy Solution stock surging today? - Investing.com",
+    "Schneider Electric, Samsung SDI Partner on Renewable Energy Procurement in Europe - THE ELEC, Korea ",
+    "Pilbara Minerals Ltd Annual Shareholders Meeting Transcript - GuruFocus"
+  ]
+}

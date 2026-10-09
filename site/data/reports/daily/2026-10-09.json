@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:05:49.107579Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-10-09-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BYD flash charger serves record 74 cars in a day but kids use MW cable as swing - Notebookcheck",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQODVRQTBKeHBzRGdFTm5zRGliVGY5LWRSUnBiWjhNeVYyZ1RSWGdkc2dkdzNUbXU4SHZobV9pTmYyZ2MwTWVvSDN5X2FNa1c5V2oxOTNXNVl3b3d0bkxLd0tRc0F2SUJQU2ZVSDVqc3YzMjNmU2xaNzZDSzRMaUU4VllUZXoxejJhZ3ZoX29SZ2hBNy16MkZJeEMzNDFoc1drN0lmYkx1emhENlVZbjJ1cnZMNnVHRTJjMXh4TUpnTWdrdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-10-09-035",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nio completes nearly 1.2 million battery swaps over 7-day holiday, sets daily record twice",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/10/09/nio-1-2-million-battery-swaps-7-day-holiday/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-09-048",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Spanish researchers reduce losses in organic solar cells by restricting emission angle",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/09/spanish-researchers-reduce-losses-in-organic-solar-cells-by-restricting-the-emission-angle/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-10-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Li Auto’s 2026 i6 set for October 28 launch without CATL’s battery - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdXV0Ykd3M2ZLYk5Kd3JrMmhnUEk2X2RDLXZwMExWNi1pVmNEZU50Y3RsZzN0MFZ4dXVOYzFRdGpTbXViUThYLW1RdzE0OVRONGIxSUJpd2xNbWhBSm1QM3EtNFVkSl9GTHZlSW1qYmREMXdJS2FuOHpMazBSNDJudGJwR0NEbHREMjVPbGlyS3dnYkFWMVhhRHNiU1ZaZllCczNr?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-10-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Debrecen Plant Begins Trial Production - The Buzz - Electric Vehicle News",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZN0lfUnVjbFBZd3RXLVhkNHhpRElBS3hhYnBJZ3YycGFhODVfZzFjb2NmV1VQbnpOS3VwUHhzZG1EbHBpeE9MSVBjR29OVlhVSXJtRzlqSjlhOUZXaktBYjlxc1ZRcFdweHNSR28zR2hKMTgwMFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 47,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "battery_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 51,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 43,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 14
+      },
+      {
+        "id": "byd",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "catl",
+        "count": 3
+      },
+      {
+        "id": "rivian",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 47
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      },
+      {
+        "id": "battery_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 395,
+    "dup_title": 206,
+    "too_old": 64,
+    "gate1_blocked": 18,
+    "gate2_blocked": 35,
+    "passed": 72,
+    "pass_rate": "38.1%",
+    "gate2_block_rate": "18.5%",
+    "gate2_samples": [
+      "Europe’s system integrators move quickly on sodium-ion with CATL: ‘surprised if we aren’t deploying ",
+      "LG Energy Solution Reworks ESS Equipment Supplier Base - THE ELEC, Korea Electronics Industry Media",
+      "Why is LG Energy Solution stock surging today? - Investing.com",
+      "Schneider Electric, Samsung SDI Partner on Renewable Energy Procurement in Europe - THE ELEC, Korea ",
+      "Pilbara Minerals Ltd Annual Shareholders Meeting Transcript - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 51 則事件，焦點為福斯、比亞迪、特斯拉相關動態：「BYD flash charger serves record 74 cars in a day but kids...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BYD flash charger serves record 74 cars in a day but kids use MW cable as swi...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Nio completes nearly 1.2 million battery swaps over 7-day holiday, sets daily...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電池成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
