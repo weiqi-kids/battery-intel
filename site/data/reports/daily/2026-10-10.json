@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T14:20:55.251209Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nio-2026-10-10-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "China’s busiest holiday reveals Nio’s swapping efficiency triples BYD’s Flash Charging - CarNewsChina.com",
+      "companies": [
+        "nio",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0NEUFRfMkNkdnhWdy1DMFFLUjlhUElSX3FGc1YzOW9VT2QzcDdUejBraUlyOU9oLVlUWXBnRnZ4eEM1M0UzckJTTkp0dzVFQUVYWXNTR3BwNTEzejVPcDRYU1EzME9zNEU5Szg3dXpmZEY5MVNyVUpFTW9UNXBWVmZnMVlmZHE5MUdQQ29hZm9wUXo5aWRSaXQ5YUdQUmxLdUtNTzhSMDl0b2N3S2psdGVFQ3RYTUJ3bWlxQg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-10-10-001",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "CATL surpasses LG Energy Solution to claim top spot in global battery patents - CarNewsChina.com",
+      "companies": [
+        "catl",
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOW9qQklDcUxnVWhpRXlCakZPQzhaSTdVY2dWZHdDRHZrdlFOcEItZWs4cjQ4TEFtZjZCbk5KRUh0X3BVMm1PZFUxZXBIVmFlLUo1Q0kydmwxNmpnT25JWUVsajB3MnNVTzNQYmk4VFJCckQtaV9HMmRveG9Oc05oQUNOU3Q3bDFlR2VPS19VSXpYSU1kdFRWUXc4TVFHUHVkMndiZzNMdVpTWWlIUzVnOVJLX0M?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nio-2026-10-10-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Battery swap works: Nio completes 1.2 million swaps in a SINGLE WEEK",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/10/10/battery-swap-works-nio-completes-1-2-million-swaps-in-a-single-week/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-10-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China's September NEV retail sales fall 12% as month-end surge narrows decline, preliminary CPCA data shows",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/10/10/china-sept-nev-retail-preliminary-cpca/"
+    },
+    {
+      "rank": 5,
+      "event_id": "byd-2026-10-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BYD touts ultra-cold 9-minute charge as in-house tech fuels EV push - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTV0Um1OUlJtclJVdEhpNWFtOGV1OXEzWTRVRE9nZHdRd3BqcGswbkhvcTNvc1U5NEFMMDctWGVDV0o3OFRmOGdDRGxHRE5lNlk2VklpQkw1Mml0WlpiY0k3bkppamUwTFMtSnUwMWVoQVNGZmpabDd4ZFlWWTNhYUtB0gGWAUFVX3lxTFAtTUsySmhpVmJ3Vndwb2FrZWl3MnVEcjlwaDdDakNoS3otalphb0tTVVlqVWk1SWtsZUlSM2hxazNaVnY3Nm1vRXBDV3R3OVJsUnRMNURSeTBSZE5lSnhXR2xJRHZxY0xIVG9wT1gxaWk0WUp1cFdYMjBLZUZzRzVJUmtDNk1fSWJQd2ZwcUwyVmxONjcwZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 5
+      },
+      {
+        "id": "nio",
+        "count": 3
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "catl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 394,
+    "dup_title": 241,
+    "too_old": 59,
+    "gate1_blocked": 17,
+    "gate2_blocked": 34,
+    "passed": 43,
+    "pass_rate": "28.1%",
+    "gate2_block_rate": "22.2%",
+    "gate2_samples": [
+      "Europe’s system integrators move quickly on sodium-ion with CATL: ‘surprised if we aren’t deploying ",
+      "Why is LG Energy Solution stock surging today? - Investing.com",
+      "LG Energy Solution Reworks ESS Equipment Supplier Base - THE ELEC, Korea Electronics Industry Media",
+      "Schneider Electric, Samsung SDI Partner on Renewable Energy Procurement in Europe - THE ELEC, Korea ",
+      "SK On Tennessee makes further job cuts at Stanton site - The Business Journals"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為比亞迪、蔚來、福斯相關動態：「China’s busiest holiday reveals Nio’s swapping efficiency...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China’s busiest holiday reveals Nio’s swapping efficiency triples BYD’s Flash...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "CATL surpasses LG Energy Solution to claim top spot in global battery patents...（電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

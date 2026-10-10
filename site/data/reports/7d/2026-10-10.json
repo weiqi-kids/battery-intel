@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-10",
+  "date_range": {
+    "start": "2026-10-04",
+    "end": "2026-10-10"
+  },
+  "generated_at": "2026-10-10T14:20:55.380015Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tesla-2026-10-08-071",
+      "date": "2026-10-08",
+      "title": "Tesla Supplier Reports Record Earnings From EV And Energy Storage Batteries",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 230,
+      "last_week": 301,
+      "week_over_week_change": "-24%",
+      "sentiment_this_week": 0.01
+    },
+    "cathode_material": {
+      "this_week": 14,
+      "last_week": 23,
+      "week_over_week_change": "-39%",
+      "sentiment_this_week": 0.03
+    },
+    "ev_sales": {
+      "this_week": 2,
+      "last_week": 5,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.0
+    },
+    "lithium_price": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "battery_cost": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 12,
+      "sentiment_avg": 0.12,
+      "rank": 8
+    },
+    "rivian": {
+      "event_count": 13,
+      "sentiment_avg": 0.04,
+      "rank": 7
+    },
+    "lg_energy": {
+      "event_count": 19,
+      "sentiment_avg": 0.17,
+      "rank": 3
+    },
+    "ganfeng": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 9
+    },
+    "tesla": {
+      "event_count": 16,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "byd": {
+      "event_count": 21,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "nio": {
+      "event_count": 14,
+      "sentiment_avg": 0.14,
+      "rank": 6
+    },
+    "volkswagen": {
+      "event_count": 23,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "samsung_sdi": {
+      "event_count": 19,
+      "sentiment_avg": 0.06,
+      "rank": 4
+    },
+    "sk_on": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 382,
+        "last": 555,
+        "change_pct": -31.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-04",
+      "event_count": 26,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-10-05",
+      "event_count": 44,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-06",
+      "event_count": 75,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-07",
+      "event_count": 70,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-10-08",
+      "event_count": 76,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-09",
+      "event_count": 72,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-10",
+      "event_count": 19,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-04 ~ 2026-10-10）共 382 則事件，重點為「Tesla Supplier Reports Record Earnings From EV ...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Rivian",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LG新能源",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

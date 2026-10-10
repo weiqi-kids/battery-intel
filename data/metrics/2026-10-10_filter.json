@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 241,
+  "no_date": 0,
+  "too_old": 59,
+  "gate1_fail": 17,
+  "gate2_fail": 34,
+  "passed": 43,
+  "gate2_samples": [
+    "Europe’s system integrators move quickly on sodium-ion with CATL: ‘surprised if we aren’t deploying ",
+    "Why is LG Energy Solution stock surging today? - Investing.com",
+    "LG Energy Solution Reworks ESS Equipment Supplier Base - THE ELEC, Korea Electronics Industry Media",
+    "Schneider Electric, Samsung SDI Partner on Renewable Energy Procurement in Europe - THE ELEC, Korea ",
+    "SK On Tennessee makes further job cuts at Stanton site - The Business Journals"
+  ]
+}
