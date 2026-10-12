@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:33:06.775515Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-10-12-018",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Nio Completes Nearly 1.2 Million Battery Swaps in One Week, Breaking Daily Records Twice - Drive Tesla Canada",
+      "companies": [
+        "tesla",
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpNNzNUeHhQYm1aMHJQa3VMX1FITDJ2TTdhZTA3RDI5UmRVdFZRSms3aVctMFIyVEtQbzNaY2FLbEtoZmt0SDE0aXItWUxZZm1qRkVEc2pORmFVY1pJemZPTjIwZXFHU3hmalFzX1FncnM4VXRfWVhTckJyeWhuOTM3dGVoSWhoZEtObw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-10-12-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Seres Deepens Partnership with CATL as AITO Cumulative Deliveries Surpass 1.2 Million Units - BigGo Finance",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHLUxBUlkyeEM5eENiYUk3Vzg1VkEtR1dMTVNLclNuT2xZdWhCbG1MZ2FwSjdxQjFtNlpOQTBlcXVudHZsMi1tTjhCOGhUN2dOcXgtb0hCZ1ZvUjRVTU8wbnZzeUJaUjZ0VXhHbGlNRmNKdXlaZ1E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "volkswagen-2026-10-12-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Volkswagen's China decline deepens as European EV demand rises - Automotive Manufacturing Solutions",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDIxTjNRUW5SbGNQTXl4aE9zUDBLM3R0WFVMb0VCRGlfOWthYjFjbmZJcmNyc0w5czJvN3k0TjRGaUZhS3JsYkZpbGpKZC03YngwNzhSak9CcTlMNndITWp4VDJ4Tl9WSlh1VVQ0QWxCVkpHeDA0dzNaNmdSSDNtaVRlQzdOa3g4NnAxTkpuRG5NcTFnNXBqcjhsR2hFSkdMZTB0aWU0anZzV1MwZlNmUVVKanNaMjItLXp5TjhZZjk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-12-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "This electric motorcycle company just hit 10 million battery swaps – and it’s profitable",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/10/12/this-electric-motorcycle-company-just-hit-10-million-battery-swaps-and-its-profitable/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-10-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL and Seres agree long-term battery and export pact - Automotive World",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR29xWDIwd25DRXhtWHh2RzBsYm1Xd0dZcVVmaEtpSWNyamx1RV9BNWVRUlExWkJXYjdZdW1FVEZDcnVNRVI0Z1ZlVlNvV2xkd3JFaTBEMTBDanMzUDViZGhWeDdCYWRicXdQMTZuM1RRdExSbTdZeFRyV3RNbW5DVG5pTld3cmtmZGVjUWVtRlNDQy1ia01B?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 58,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 64,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 51,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 9
+      },
+      {
+        "id": "catl",
+        "count": 7
+      },
+      {
+        "id": "rivian",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 58
+      },
+      {
+        "id": "lithium_price",
+        "count": 2
+      },
+      {
+        "id": "ev_sales",
+        "count": 2
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 219,
+    "too_old": 58,
+    "gate1_blocked": 23,
+    "gate2_blocked": 31,
+    "passed": 84,
+    "pass_rate": "42.9%",
+    "gate2_block_rate": "15.8%",
+    "gate2_samples": [
+      "CATL's Capital Play: Eerie Parallels to NVIDIA's Strategic Moves - 36 Kr",
+      "Why is LG Energy Solution stock surging today? - Investing.com",
+      "LG Energy Solution Rises for Second Straight Session Amid Kospi Weakness; Up 12% in a Month - BigGo ",
+      "Schneider Electric, Samsung SDI Partner on Renewable Energy Procurement in Europe - THE ELEC, Korea ",
+      "SK On Tennessee makes further job cuts at Stanton site - The Business Journals"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 64 則事件，焦點為福斯、寧德時代、Rivian相關動態：「Nio Completes Nearly 1.2 Million Battery Swaps in One Wee...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nio Completes Nearly 1.2 Million Battery Swaps in One Week, Breaking Daily Re...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Seres Deepens Partnership with CATL as AITO Cumulative Deliveries Surpass 1.2...",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

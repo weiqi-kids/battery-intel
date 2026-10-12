@@ -1,0 +1,16 @@
+{
+  "total_raw": 415,
+  "dup_title": 219,
+  "no_date": 0,
+  "too_old": 58,
+  "gate1_fail": 23,
+  "gate2_fail": 31,
+  "passed": 84,
+  "gate2_samples": [
+    "CATL's Capital Play: Eerie Parallels to NVIDIA's Strategic Moves - 36 Kr",
+    "Why is LG Energy Solution stock surging today? - Investing.com",
+    "LG Energy Solution Rises for Second Straight Session Amid Kospi Weakness; Up 12% in a Month - BigGo ",
+    "Schneider Electric, Samsung SDI Partner on Renewable Energy Procurement in Europe - THE ELEC, Korea ",
+    "SK On Tennessee makes further job cuts at Stanton site - The Business Journals"
+  ]
+}
