@@ -1,0 +1,253 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:42:43.824861Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-10-13-031",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "China NEV market share in September: BYD leads with 22.8%, Tesla rises to fourth",
+      "companies": [
+        "tesla",
+        "nio",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/10/13/china-nev-market-share-sept-2026-byd-tesla/"
+    },
+    {
+      "rank": 2,
+      "event_id": "volkswagen-2026-10-13-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Volkswagen Group Sales Decline 9% Amid Chinese Slump - 조선일보",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM045OGVaSVJVMzlMb05ZTVlsRDV1bTNTdlRFQnJEeWZMRTQtMEN1LWFSVFl1Rnh6TkFKWlpmbFl2V1NIQ2ozWVItRi1PQW9hWDJjYWpQNzVJLWx5VWxXZjVmZVpwbWIxUHpTVVBwd3ZRZkFtU2x0REdHakdxUTlKMEluanVtcEUy?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-13-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Xiaomi Auto September deliveries hit 2026 high of 40,015, still down year-on-year",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/10/13/xiaomi-auto-sept-2026-deliveries-2/"
+    },
+    {
+      "rank": 4,
+      "event_id": "volkswagen-2026-10-13-047",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "40% of Volkswagen Group’s European Orders Were 100% Electrics Last Month",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/10/12/40-of-volkswagen-groups-european-orders-were-100-electrics-last-month/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-10-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL, Seres strengthen their long-term battery partnership - Yahoo Finance",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOczlvX2FLVlNjUVlObnB5aWpfZlozY2pJODR5Z2dkSjZyNjdUQ1VZdXl6VGdfeHRoOWhlczBEbzVpWm4tSXhsZmpwQjJWMzlGYVNWc3NpdDVLZGRhaHRKN0JrQ05vRE9JVWU0Um9ISGF2NExBbEt5V1pGRklySzhtUWVMb016dWxCaTdDTEVhMHVrRFZ4RUhR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 48,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 53,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 43,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 9
+      },
+      {
+        "id": "byd",
+        "count": 7
+      },
+      {
+        "id": "tesla",
+        "count": 6
+      },
+      {
+        "id": "rivian",
+        "count": 3
+      },
+      {
+        "id": "nio",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 48
+      },
+      {
+        "id": "ev_sales",
+        "count": 3
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 233,
+    "too_old": 61,
+    "gate1_blocked": 18,
+    "gate2_blocked": 23,
+    "passed": 80,
+    "pass_rate": "44.0%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "CATL, Intilion target up to 3 GWh of sodium-ion storage in Europe - pv magazine Global",
+      "Why is LG Energy Solution stock surging today? - Investing.com",
+      "SK On Tennessee makes further job cuts at Stanton site - The Business Journals",
+      "Rivian's R2 is the most exciting alternative to Tesla, but probably not for the reasons you think - ",
+      "Towing a Pebble Flow With a Rivian R1S: The Future of Electric Towing? - Autoblog"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 53 則事件，焦點為福斯、比亞迪、特斯拉相關動態：「China NEV market share in September: BYD leads with 22.8%...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China NEV market share in September: BYD leads with 22.8%, Tesla rises to fourth（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Volkswagen Group Sales Decline 9% Amid Chinese Slump - 조선일보",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
