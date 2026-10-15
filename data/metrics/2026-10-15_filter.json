@@ -1,0 +1,16 @@
+{
+  "total_raw": 418,
+  "dup_title": 238,
+  "no_date": 0,
+  "too_old": 61,
+  "gate1_fail": 18,
+  "gate2_fail": 22,
+  "passed": 79,
+  "gate2_samples": [
+    "CATL, Intilion target up to 3 GWh of sodium-ion storage in Europe - pv magazine Global",
+    "Why is LG Energy Solution stock surging today? - Investing.com",
+    "SK On Tennessee makes further job cuts at Stanton site - The Business Journals",
+    "Towing a Pebble Flow With a Rivian R1S: The Future of Electric Towing? - Autoblog",
+    "NIO Stock Predictions: What Investors Should Expect in 2026 and Beyond - The Motley Fool"
+  ]
+}

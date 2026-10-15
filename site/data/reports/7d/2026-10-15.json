@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-15",
+  "date_range": {
+    "start": "2026-10-09",
+    "end": "2026-10-15"
+  },
+  "generated_at": "2026-10-15T13:11:56.818476Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nio-2026-10-11-019",
+      "date": "2026-10-11",
+      "title": "Nio, Li Auto, XPeng, BYD Stocks Plunge as China EV Headwinds Rise - Benzinga",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "nio",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 259,
+      "last_week": 211,
+      "week_over_week_change": "+23%",
+      "sentiment_this_week": 0.05
+    },
+    "cathode_material": {
+      "this_week": 7,
+      "last_week": 13,
+      "week_over_week_change": "-46%",
+      "sentiment_this_week": 0.0
+    },
+    "battery_cost": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "lithium_price": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.33
+    },
+    "ev_sales": {
+      "this_week": 5,
+      "last_week": 6,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": -0.1
+    },
+    "recycling": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 23,
+      "sentiment_avg": 0.19,
+      "rank": 3
+    },
+    "byd": {
+      "event_count": 25,
+      "sentiment_avg": 0.04,
+      "rank": 2
+    },
+    "rivian": {
+      "event_count": 20,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nio": {
+      "event_count": 14,
+      "sentiment_avg": 0.21,
+      "rank": 6
+    },
+    "volkswagen": {
+      "event_count": 41,
+      "sentiment_avg": -0.02,
+      "rank": 1
+    },
+    "tesla": {
+      "event_count": 23,
+      "sentiment_avg": 0.11,
+      "rank": 4
+    },
+    "lg_energy": {
+      "event_count": 5,
+      "sentiment_avg": 0.3,
+      "rank": 7
+    },
+    "ganfeng": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "samsung_sdi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "panasonic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "eve": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "pilbara": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 421,
+        "last": 389,
+        "change_pct": 8.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-09",
+      "event_count": 79,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-10",
+      "event_count": 33,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-11",
+      "event_count": 27,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-10-12",
+      "event_count": 92,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-13",
+      "event_count": 78,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-14",
+      "event_count": 68,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-15",
+      "event_count": 44,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-09 ~ 2026-10-15）共 421 則事件，重點為「Nio, Li Auto, XPeng, BYD Stocks Plunge as China...」。蔚來、LG新能源表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 23 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 25 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Rivian",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
