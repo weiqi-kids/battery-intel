@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T13:06:04.402821Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-10-16-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of indigenous lands - The Guardian",
+      "companies": [
+        "tesla",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRkJGR01XS0hvTzVSUFZ3WmJHUFQtQ3h0ZEZUS1BRbjFzUzhrVHdXcWliY3JqY0pRSGpoZl9VU1o1amptQVN4UHZsYU96dXNuc2FwS2tvWHc5U2ZZYzhZUlc2cUd2Ujl6dXJSTmRMMWF6YUdSdXhFRFRKd2dLM0ttSXI3clAzN19MbjJGWm01eXVOcEF3ZHlRWm1MS05QcGZnRHJLOV9fSTliQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-10-16-023",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Tesla's Roadster can fly, and Nio's William Li admits: 'This we really don't have'",
+      "companies": [
+        "nio",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/10/16/tesla-roadster-can-fly-nio-william-li-comment/"
+    },
+    {
+      "rank": 3,
+      "event_id": "nio-2026-10-16-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nio Firefly reaches 90,000 cumulative deliveries after record September - CnEVPost",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6RURSVHRiMGxuUWpTY0xSTWtHaHJYaFA3dWtYNUt6bk4zWE5Ea2NzN3lkejRIUDJHbFN4NTU5azNaeEFGa2gySE5uWk5zSXhlUjVDUjhhaTg4QU5hajlOVFZrUlVhVEg2dVhTS2FKSk5lSDg4OTFrbFdjaEk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nio-2026-10-16-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nio Firefly reaches 90,000 cumulative deliveries after record September",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/10/16/nio-firefly-90000-cumulative-deliveries/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-10-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Seres-CATL’s first joint model Aiva ME7 appears in regulatory filings - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT1U0RWItSXdMS2N6UC1BZHk3bjNRd3JQbGk0dHpfeE4teXZlYzlZRnp4RVlRZkR6V3ZjalpiR0ZwUjFnTE5ha01NVm95TlRjc3VHLVlrcTNfNjRxcVFfbmlHSUp0dlhlSWJyaXFBSVh6U0txTl9BVlVCN1BEdDRpVm5MTmpLdERlSFVaTy00N3hjN0N1ajBpZmQ2UU82QTljVTFaMXk1TUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 33,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 7
+      },
+      {
+        "id": "volkswagen",
+        "count": 4
+      },
+      {
+        "id": "ganfeng",
+        "count": 3
+      },
+      {
+        "id": "pilbara",
+        "count": 3
+      },
+      {
+        "id": "nio",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "cathode_material",
+        "count": 4
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 419,
+    "dup_title": 236,
+    "too_old": 54,
+    "gate1_blocked": 21,
+    "gate2_blocked": 30,
+    "passed": 78,
+    "pass_rate": "42.6%",
+    "gate2_block_rate": "16.4%",
+    "gate2_samples": [
+      "CATL, Intilion target up to 3 GWh of sodium-ion storage in Europe - pv magazine Global",
+      "SK On Tennessee makes further job cuts at Stanton site - The Business Journals",
+      "AI agents are coming to Rivian’s cars - TechCrunch",
+      "Rivian limits point-to-point driving to invite-only testers under NDA - Electrek",
+      "Rivian R2 Gets Ross Gerber’s Nod As He Advises Ditching Gas To Escape Energy Inflation - Yahoo Finan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為特斯拉、福斯、贛鋒鋰業相關動態：「Revealed: VW, Ford and Tesla batteries linked to destruct...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tesla's Roadster can fly, and Nio's William Li admits: 'This we really don't ...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

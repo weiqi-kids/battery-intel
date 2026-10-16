@@ -1,0 +1,16 @@
+{
+  "total_raw": 419,
+  "dup_title": 236,
+  "no_date": 0,
+  "too_old": 54,
+  "gate1_fail": 21,
+  "gate2_fail": 30,
+  "passed": 78,
+  "gate2_samples": [
+    "CATL, Intilion target up to 3 GWh of sodium-ion storage in Europe - pv magazine Global",
+    "SK On Tennessee makes further job cuts at Stanton site - The Business Journals",
+    "AI agents are coming to Rivian’s cars - TechCrunch",
+    "Rivian limits point-to-point driving to invite-only testers under NDA - Electrek",
+    "Rivian R2 Gets Ross Gerber’s Nod As He Advises Ditching Gas To Escape Energy Inflation - Yahoo Finan"
+  ]
+}
