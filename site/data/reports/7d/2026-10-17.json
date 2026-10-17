@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-17",
+  "date_range": {
+    "start": "2026-10-11",
+    "end": "2026-10-17"
+  },
+  "generated_at": "2026-10-17T12:02:51.133634Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nio-2026-10-11-019",
+      "date": "2026-10-11",
+      "title": "Nio, Li Auto, XPeng, BYD Stocks Plunge as China EV Headwinds Rise - Benzinga",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 247,
+      "last_week": 230,
+      "week_over_week_change": "+7%",
+      "sentiment_this_week": 0.06
+    },
+    "lithium_price": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.25
+    },
+    "ev_sales": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": -0.1
+    },
+    "cathode_material": {
+      "this_week": 10,
+      "last_week": 14,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": 0.05
+    },
+    "recycling": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 20,
+      "sentiment_avg": 0.17,
+      "rank": 3
+    },
+    "ganfeng": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "byd": {
+      "event_count": 19,
+      "sentiment_avg": -0.0,
+      "rank": 4
+    },
+    "rivian": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nio": {
+      "event_count": 11,
+      "sentiment_avg": 0.27,
+      "rank": 6
+    },
+    "volkswagen": {
+      "event_count": 31,
+      "sentiment_avg": -0.05,
+      "rank": 1
+    },
+    "lg_energy": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 9
+    },
+    "tesla": {
+      "event_count": 25,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "samsung_sdi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "panasonic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "eve": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "pilbara": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 440,
+        "last": 407,
+        "change_pct": 8.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-11",
+      "event_count": 28,
+      "sentiment_avg": 0.16
+    },
+    {
+      "date": "2026-10-12",
+      "event_count": 95,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-13",
+      "event_count": 80,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-14",
+      "event_count": 73,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-15",
+      "event_count": 82,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 66,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 16,
+      "sentiment_avg": 0.12
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-11 ~ 2026-10-17）共 440 則事件，重點為「Nio, Li Auto, XPeng, BYD Stocks Plunge as China...」。蔚來表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "贛鋒鋰業",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

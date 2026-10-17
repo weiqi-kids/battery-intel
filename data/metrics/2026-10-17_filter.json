@@ -1,0 +1,16 @@
+{
+  "total_raw": 417,
+  "dup_title": 265,
+  "no_date": 0,
+  "too_old": 52,
+  "gate1_fail": 21,
+  "gate2_fail": 26,
+  "passed": 53,
+  "gate2_samples": [
+    "CATL, Intilion target up to 3 GWh of sodium-ion storage in Europe - ESS News",
+    "Rivian limits point-to-point driving to invite-only testers under NDA - Electrek",
+    "Rivian's R2 is the most exciting alternative to Tesla, but probably not for the reasons you think - ",
+    "AI agents are coming to Rivian’s cars - TechCrunch",
+    "Rivian Automotive (NASDAQ:RIVN) Stock Falls 4.6% - Here's Why - MarketBeat"
+  ]
+}

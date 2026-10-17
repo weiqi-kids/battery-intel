@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T12:02:50.978937Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-10-17-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Stocktwits Zero To Sixty — Tesla’s Roadster Flies With SpaceX Thrusters, Rivian Opens Cars To AI Agents, And Lucid Eyes France - Stocktwits",
+      "companies": [
+        "tesla",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPSXNxeVBtLVR5MHFvRGdtcnNIbHBBYXhNYkY0OWtpMTMxWmlvMTBObGhoSEJYWVJPZmptekJrQkR6UmZJbFJhMWF3c1dpYzVqWkJfNkRZTG9RTnNqeU5jc1Y1anA0c1Z2cFZhSElkVHR4aTlvdnZxLUNTSUJIN1BQY2JjaE1EaFp6dnB2TFkzTEc5Z01wR1IyNW1PZ3UwN1ZSejVYWTh0akJyZnFGaFJtTldPNDBsOGhhN2xzWG81YThKbGhLTmJVajh4ZWViQUtUOTJsbW1UcjZMaThvbjYzdnVmN1pSSkM3UUFsQVF1TmFqRHBGX2hjcFlPVEI1bjRoZU1CQ2F5LUNvU2Y2UWNSWGFVVVlYQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-17-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Large-scale solar projects in Australia reach record 3.5 GW of annual investment decisions",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/17/large-scale-solar-sets-annual-financial-investment-decision-record-at-3-5-gw/"
+    },
+    {
+      "rank": 3,
+      "event_id": "ganfeng-2026-10-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ganfeng Lithium Net profit for first three quarters surged 195 times year-on-year - Gasgoo",
+      "companies": [
+        "ganfeng"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnV2Sm9ZajJYaVd3SmdyY1RRNGZLNW1GVzM3dnlsUHF6RUFDNWZjYUdYZWNOVjNGVFRlSVJILXo1RUcwOWNESUZhXzVKVFMyNVRpd1BkOG9QV04ydThRWHdTQVpoUC1KREpvRjF2eXZnVXZ5S0daeFBzeXF1ZnNJUVN3dFZDamlQWTRTQkl2THYwV0hhQnFmNUIyUHRrWTFxWU15dTNCMEtTOTZVb2VocUI1ZzVRR1hjSFY2V3JTeHZSZkVWNVBlVlItU0s0Uzc4UEpvTFZXblY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "byd-2026-10-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Next-Gen BYD Tang EV AWD listed with 691 hp dual motors and 250 km/h top speed - CarNewsChina.com",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVldaLW1RUjRmWkRBTU45S0xOdGJJR1ZFQ1FLWEJUTDduWXFWU2FWM1VUY1BIRTBXa3Q3WFZzaVB6MVhvLVRPSmhQcXZBaTJHLWxNZEpsRmZYRjRIQnR5enlQZElaSXN4UUdLWW8zZXFneUdkcW9YZTdkakhaSzZKVkRWcW9MV3FEY3FsSXdtYmZSS1R2OFVVVEs3TXlqZm01NmMydGRLaWtSSk9SN25wRTk2cEQwdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "volkswagen-2026-10-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Volkswagen ID.3, ID.7 and ID. Buzz owners face an 80% charging cap - AutoNext.co",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkdsWXF6QTZ6cHU2TGVBTUZCcEZuQ0NmQWIzTll2VUFUbDRtZjhxNzdUV3NxaVlkY2JVcHN1dkExcmVOaFhtLTNTZlZpME1pRG1HLXFzamx5QzB0M2xybTVqOHB1LWhQM25uVHpwQmlJN0RicTV3Rm4zQ2VxZ0l1RmNjUEpfSlkyT21NSw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "ganfeng",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 417,
+    "dup_title": 265,
+    "too_old": 52,
+    "gate1_blocked": 21,
+    "gate2_blocked": 26,
+    "passed": 53,
+    "pass_rate": "34.9%",
+    "gate2_block_rate": "17.1%",
+    "gate2_samples": [
+      "CATL, Intilion target up to 3 GWh of sodium-ion storage in Europe - ESS News",
+      "Rivian limits point-to-point driving to invite-only testers under NDA - Electrek",
+      "Rivian's R2 is the most exciting alternative to Tesla, but probably not for the reasons you think - ",
+      "AI agents are coming to Rivian’s cars - TechCrunch",
+      "Rivian Automotive (NASDAQ:RIVN) Stock Falls 4.6% - Here's Why - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為比亞迪、福斯、贛鋒鋰業相關動態：「Stocktwits Zero To Sixty — Tesla’s Roadster Flies With Sp...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Stocktwits Zero To Sixty — Tesla’s Roadster Flies With SpaceX Thrusters, Rivi...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Large-scale solar projects in Australia reach record 3.5 GW of annual investm...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
