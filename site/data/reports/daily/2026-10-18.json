@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:31:25.136820Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sk_on-2026-10-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SK On Accelerates LFP Cost Reduction and Lithium-Metal Battery Development - Korea IT Times",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05dEJXV01CU1dWTGVNaDhOVkUzX0NQNEsxa0pwOHlabjJ6M3NQMUZSZzJHZ1pidzFFOVYwZW5YOTE1cnpNbnh2YXdkQzUzd1phRmNFSGMzLWxNaTBJY2xWQjcwNHdRb1M5Uk8ySVZLbG8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sk_on-2026-10-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SK On Develops CNT Powder Process to Cut LFP Costs, Wins Top Prize at Future Technology Institute Conference - BigGo Finance",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OSXVYdkJOUjltS2JrSjc0R0RCaDdFam1BTHhTdnhaZ0FMb1lya2NjWjFMay1VZ1ZieE5hSV9jUHVtbUJldER6MVVFWHY1dXpYazk2cGtoVk5ldm85cEJNWG8zY0UzRWhMdk1QSHprU2FCb01qa1E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sk_on-2026-10-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SK On Holds Future Technology Institute Symposium to Share Next-Generation Battery Research Achievements - 아시아경제",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Qbzg1RWdYbG9JNnBjSzktMVYtVVlsbUZ2OU1UTjBMS2hub2YwR3RHMUkwU1lHSGdHUnlQVm1WWlFKR1Q0RU10UmwxT1RQVzZqME1BSDY2N1JrRGZuT0dqVEhldkw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rivian-2026-10-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lucid vs. Rivian Automotive: Which EV Stock Wins for Long-Term Investors? - Yahoo Finance",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONU1HdVdLSm90TkV6TGlOM1FPSHdOMWV3R3lmYUFoV3B0X0Vkd2tlM2RjQWYtZDV4MkVtbHRrQ0Rfa0d3LWdTZnpBZkF3VGFUOERlSmZ0UjRpWk92MDlFVEc5UWdLRjlNQU9KRUFYMXdBUXhBREw4ZFI4SWwwU05iNTBubk0xcHpTUjB3aWJLYUZDRXVJakl4X19B?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Leapmotor launches A10s with LiDAR for about $13,800",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/10/18/leapmotor-launches-a10s/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sk_on",
+        "count": 3
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 417,
+    "dup_title": 275,
+    "too_old": 70,
+    "gate1_blocked": 23,
+    "gate2_blocked": 26,
+    "passed": 23,
+    "pass_rate": "16.2%",
+    "gate2_block_rate": "18.3%",
+    "gate2_samples": [
+      "CATL, Intilion target up to 3 GWh of sodium-ion storage in Europe - pv magazine Global",
+      "SK On Holds Second Research Conference as Entries Jump 15% - Seoul Economic Daily",
+      "Rivian limits point-to-point driving to invite-only testers under NDA - Electrek",
+      "AI agents are coming to Rivian’s cars - TechCrunch",
+      "Rivian's Key to Success May Not Be Its Vehicles - The Motley Fool"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為SK創新、Rivian、特斯拉相關動態：「SK On Accelerates LFP Cost Reduction and Lithium-Metal Ba...」。主要關注主題為電池產業通用、正極材料，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SK On Accelerates LFP Cost Reduction and Lithium-Metal Battery Development - ...（正極材料、電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "SK On Develops CNT Powder Process to Cut LFP Costs, Wins Top Prize at Future ...（正極材料、電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

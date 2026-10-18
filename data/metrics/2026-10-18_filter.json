@@ -1,0 +1,16 @@
+{
+  "total_raw": 417,
+  "dup_title": 275,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 23,
+  "gate2_fail": 26,
+  "passed": 23,
+  "gate2_samples": [
+    "CATL, Intilion target up to 3 GWh of sodium-ion storage in Europe - pv magazine Global",
+    "SK On Holds Second Research Conference as Entries Jump 15% - Seoul Economic Daily",
+    "Rivian limits point-to-point driving to invite-only testers under NDA - Electrek",
+    "AI agents are coming to Rivian’s cars - TechCrunch",
+    "Rivian's Key to Success May Not Be Its Vehicles - The Motley Fool"
+  ]
+}
