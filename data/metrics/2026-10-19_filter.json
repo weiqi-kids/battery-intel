@@ -1,0 +1,16 @@
+{
+  "total_raw": 417,
+  "dup_title": 243,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 21,
+  "gate2_fail": 22,
+  "passed": 68,
+  "gate2_samples": [
+    "South Korea's KOSPI Market-Cap Rankings Shake Up as Chip Stocks Plunge; LG Energy Solution Overtakes",
+    "LG Energy Solution passes Samsung rival: KRW 97.46 trillion puts LG Energy Solution stock fifth - ad",
+    "TechCrunch Mobility: Rivian’s next act - TechCrunch",
+    "Rivian's Key to Success May Not Be Its Vehicles - The Motley Fool",
+    "AI agents are coming to Rivian’s cars - TechCrunch"
+  ]
+}

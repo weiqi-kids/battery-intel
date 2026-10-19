@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-19",
+  "date_range": {
+    "start": "2026-10-13",
+    "end": "2026-10-19"
+  },
+  "generated_at": "2026-10-19T15:22:38.451248Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tesla-2026-10-13-031",
+      "date": "2026-10-13",
+      "title": "China NEV market share in September: BYD leads with 22.8%, Tesla rises to fourth",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 231,
+      "last_week": 264,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.05
+    },
+    "cathode_material": {
+      "this_week": 10,
+      "last_week": 16,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.05
+    },
+    "ev_sales": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    },
+    "lithium_price": {
+      "this_week": 2,
+      "last_week": 5,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.0
+    },
+    "recycling": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "lg_energy": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 9
+    },
+    "samsung_sdi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "ganfeng": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "byd": {
+      "event_count": 17,
+      "sentiment_avg": 0.03,
+      "rank": 4
+    },
+    "rivian": {
+      "event_count": 16,
+      "sentiment_avg": 0.03,
+      "rank": 5
+    },
+    "nio": {
+      "event_count": 10,
+      "sentiment_avg": 0.3,
+      "rank": 6
+    },
+    "volkswagen": {
+      "event_count": 25,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "tesla": {
+      "event_count": 25,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "panasonic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "eve": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "pilbara": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 7
+    },
+    "sk_on": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 408,
+        "last": 460,
+        "change_pct": -11.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-13",
+      "event_count": 81,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-14",
+      "event_count": 74,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-15",
+      "event_count": 83,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 67,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 33,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 19,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 51,
+      "sentiment_avg": 0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-13 ~ 2026-10-19）共 408 則事件，重點為「China NEV market share in September: BYD leads ...」。蔚來表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LG新能源",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "贛鋒鋰業",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

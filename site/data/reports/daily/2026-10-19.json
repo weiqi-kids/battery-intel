@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:22:38.355905Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-10-19-016",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rivian CEO Says Volkswagen Joint Venture Will ‘Continue to Expand and Grow’ - Electric Vehicles",
+      "companies": [
+        "volkswagen",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYkprektWV19QVXJoUXBzUlhCQ2N0MFdTZExWcWlFNDBlVnNQTkZPNmctZWFnRC1OUFZod3hPaHhxZkVHcmxYNXJKM29na1c0bmg2SzJIcEs0WnByeFZ0ajhCU19QNnl4Q25OVVh3blFaQXo2ZGxpclhOeEhnV3hya3I2QXNfOG5DTktPdkN6VnA0QXF3UHRqbUxESFVTZmhMTENoX21hTzh3Nm5uQ0Zv?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-10-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Huawei-backed smart car business to cooperate with CATL on battery swapping - Reuters",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFVGSlpBY2d2NXhlczhwWGlmQllaQU51X2o3MFN1Y0dVZy1Ha1pCdHVyQ19Temc4X041WHVwc3BPbVA2OVE1d3NWWVVubDNOUldSb21sdDNhWVZnc1pzYnhaTGRfSFhaaUszOGZ3MHRMM0c0Z01DY0hVLUJHdXlsNFhQeTdVS2plT3Uwb0NBbWRwNmctWnNjQ2ExQ0dieldTSU0wSnVXT25qaU45WEhsc09CcUFuLTlxZEwyOWdWT251UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-10-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Huawei-backed smart car business to cooperate with CATL on battery swapping - Central Oregon Daily",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZWlRQkpIbXlGbXZValg3ZHE1R3ZNeDFreWsxY25CV1M3emhFdXJvYWtSaXE4cDBMZTN0YUxHSUtWN3VBamd1Q1ZpRVVPMEs0c3d3M0MzWlRuZXY2clkwUDhwYVFVd3ZjYklLdFRoMVVKSjVqOEQybl9BQXZ1S2VXNmltTUZTZWdfRVdJdFIzTUtzdTVIX0dJcHNlcS0xWHNYb2U1U1JiVkpxbTd0ZlQ4UkloOUg2RVhtMVVtclV4Wmx6ZlRseTk1UHU2bFdUOXFkT211aFJyT3RZWDVIMHNseEkxajFEYXhHeXpKb0RFN19OTHJ1OWE5aFoyLWRwWnl5bk5GVQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-10-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Huawei-backed smart car business to cooperate with CATL on battery swapping - KSL.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUttb29FWmEtSDZqR1doYTRqbG9tT1NPMktoZkJRTHBaR0o3VnZkaXpMV3E1OVI5MDRoTWh0anRqR1Rsa0FreUd3REVxOVdHbTI4cDRwdTBuREpVUTdabVJmY3NmWTlSVWpZUTNqS2FhY0pjX3ZqUEx2OVZsSGZTZTFISkthYkdqVHJaa0FPTkVPbk5ZeUFVLXNKT0JKN2ZfMFJWYkktNzUwQmpmUWpKcGtn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-10-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Huawei's smart car unit partners with CATL, joins Choco battery swap ecosystem - CnEVPost",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObDg1T3hod1NiV3ZIUUtuQkZwckwyYTN6N0x4UGk0U2pGbENyTG1vOVdIZldYcXZNQXNfelNMMWtSQWhKOXVXTUdGRGRRbjh6YUkzTzM0TXhDeU45WGhBZ3hnLUNJeW5HSHBySkJVSmhZZWwwbURYN3dzbTZqTHhaZE12T2Rfdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 50,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 51,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 45,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 8
+      },
+      {
+        "id": "volkswagen",
+        "count": 5
+      },
+      {
+        "id": "rivian",
+        "count": 3
+      },
+      {
+        "id": "nio",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 50
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 417,
+    "dup_title": 243,
+    "too_old": 63,
+    "gate1_blocked": 21,
+    "gate2_blocked": 22,
+    "passed": 68,
+    "pass_rate": "39.1%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "South Korea's KOSPI Market-Cap Rankings Shake Up as Chip Stocks Plunge; LG Energy Solution Overtakes",
+      "LG Energy Solution passes Samsung rival: KRW 97.46 trillion puts LG Energy Solution stock fifth - ad",
+      "TechCrunch Mobility: Rivian’s next act - TechCrunch",
+      "Rivian's Key to Success May Not Be Its Vehicles - The Motley Fool",
+      "AI agents are coming to Rivian’s cars - TechCrunch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 51 則事件，焦點為寧德時代、福斯、Rivian相關動態：「Rivian CEO Says Volkswagen Joint Venture Will ‘Continue t...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rivian CEO Says Volkswagen Joint Venture Will ‘Continue to Expand and Grow’ -...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Huawei-backed smart car business to cooperate with CATL on battery swapping -...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
