@@ -1,0 +1,16 @@
+{
+  "total_raw": 419,
+  "dup_title": 244,
+  "no_date": 0,
+  "too_old": 56,
+  "gate1_fail": 19,
+  "gate2_fail": 17,
+  "passed": 83,
+  "gate2_samples": [
+    "Rivian: Much More Than Just The R2 Story (NASDAQ:RIVN) - Seeking Alpha",
+    "Tesla Model Y vs. Rivian R2 Cabin Tech Comparison: Two Screens or Not Two Screens? - Edmunds",
+    "Rivian's Key to Success May Not Be Its Vehicles - The Motley Fool",
+    "Rivian Registers 2,083 R2s in California in Q3, CEC Data Shows - eletric-vehicles.com",
+    "Volkswagen bet on Xpeng to save its China business. It's not going to plan - Reuters"
+  ]
+}
