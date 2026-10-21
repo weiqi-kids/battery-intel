@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-21",
+  "total_events": 63,
+  "by_company": {
+    "catl": {
+      "count": 10,
+      "sentiment_avg": -0.03
+    },
+    "lg_energy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_sdi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "eve": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "ganfeng": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "pilbara": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "byd": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 60,
+      "sentiment_avg": -0.0
+    },
+    "cathode_material": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ev_sales": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eve",
+      "to": "ganfeng",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}

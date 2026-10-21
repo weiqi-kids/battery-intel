@@ -1,0 +1,16 @@
+{
+  "total_raw": 418,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 49,
+  "gate1_fail": 23,
+  "gate2_fail": 19,
+  "passed": 109,
+  "gate2_samples": [
+    "CATL bets big on electric truck market with new upgrades - Transport Topics",
+    "After Samsung SDI's 127% Climb, The Story Has Changed - Simply Wall Street",
+    "Mitsubishi UFJ Financial Group Raises Voting Power in Pilbara Minerals to 8.20% with 264.5 Million S",
+    "Rivian: Much More Than Just The R2 Story (NASDAQ:RIVN) - Seeking Alpha",
+    "Tesla Model Y vs. Rivian R2 Cabin Tech Comparison: Two Screens or Not Two Screens? - Edmunds"
+  ]
+}
