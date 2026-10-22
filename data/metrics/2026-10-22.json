@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-22",
+  "total_events": 42,
+  "by_company": {
+    "catl": {
+      "count": 7,
+      "sentiment_avg": 0.29
+    },
+    "sk_on": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "volkswagen": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 39,
+      "sentiment_avg": 0.1
+    },
+    "recycling": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

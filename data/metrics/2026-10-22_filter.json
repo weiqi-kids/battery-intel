@@ -1,0 +1,16 @@
+{
+  "total_raw": 419,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 49,
+  "gate1_fail": 27,
+  "gate2_fail": 19,
+  "passed": 94,
+  "gate2_samples": [
+    "NextStar Energy, LG Energy Solution’s wholly owned Canadian manufactur - Shanghai Metals Market",
+    "Samsung SDI backs Korea’s young chemists for the global olympiad contest - Korea JoongAng Daily",
+    "Samsung SDI to Sponsor South Korea's Chemistry Olympiad Team - www.thelec.net",
+    "Zeekr starts Korea delivery of 7X, first buyer SK On - CHOSUNBIZ - Chosunbiz",
+    "Mitsubishi UFJ Financial Group Raises Voting Power in Pilbara Minerals to 8.20% with 264.5 Million S"
+  ]
+}
