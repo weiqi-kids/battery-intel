@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-23",
+  "total_events": 42,
+  "by_company": {
+    "catl": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 4,
+      "sentiment_avg": -0.38
+    },
+    "rivian": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "panasonic": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 40,
+      "sentiment_avg": 0.01
+    },
+    "cathode_material": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

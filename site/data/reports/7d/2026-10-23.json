@@ -1,0 +1,176 @@
+{
+  "date": "2026-10-23",
+  "date_range": {
+    "start": "2026-10-17",
+    "end": "2026-10-23"
+  },
+  "generated_at": "2026-10-23T13:12:56.097400Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "byd-2026-10-20-101",
+      "date": "2026-10-20",
+      "title": "2026 Nio Firefly gets bigger battery in China as it prepares for expected Australian launch as rival to BYD Atto 1 and Geely EX2 - CarsGuide",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "cathode_material": {
+      "this_week": 9,
+      "last_week": 10,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": -0.11
+    },
+    "industry_general": {
+      "this_week": 261,
+      "last_week": 247,
+      "week_over_week_change": "+6%",
+      "sentiment_this_week": 0.03
+    },
+    "ev_sales": {
+      "this_week": 3,
+      "last_week": 5,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.0
+    },
+    "recycling": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "ganfeng": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 9
+    },
+    "byd": {
+      "event_count": 16,
+      "sentiment_avg": 0.03,
+      "rank": 3
+    },
+    "tesla": {
+      "event_count": 14,
+      "sentiment_avg": -0.07,
+      "rank": 5
+    },
+    "rivian": {
+      "event_count": 15,
+      "sentiment_avg": 0.1,
+      "rank": 4
+    },
+    "volkswagen": {
+      "event_count": 24,
+      "sentiment_avg": 0.02,
+      "rank": 2
+    },
+    "sk_on": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "catl": {
+      "event_count": 46,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "samsung_sdi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "pilbara": {
+      "event_count": 8,
+      "sentiment_avg": 0.19,
+      "rank": 7
+    },
+    "nio": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 6
+    },
+    "lg_energy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "eve": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 10
+    },
+    "panasonic": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 451,
+        "last": 468,
+        "change_pct": -3.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-17",
+      "event_count": 33,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 19,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 82,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 104,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 109,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-22",
+      "event_count": 62,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-23",
+      "event_count": 42,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-17 ~ 2026-10-23）共 451 則事件，重點為「2026 Nio Firefly gets bigger battery in China a...」。松下表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "贛鋒鋰業",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "特斯拉",
+        "reason": "本週出現 14 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

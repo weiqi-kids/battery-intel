@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T13:12:55.946479Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-10-23-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rivian Acquires Startup Led by Former Tesla Autopilot Simulation Head - Electric Vehicles",
+      "companies": [
+        "tesla",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXdqM0dlVkV3SkNDam1tcUxoVkhjT1Jya2ZhV2ZIMEg2c3pNVkpBU0I4U0swdndCQUpfcVpRZ0h4YVo2c1cxT0tmRkJ0UVJpaTR2RU5UZEo0bzQ3QU14SjFLU2xpZUhNNkVON3Z3SUJCRmtvVDFkUFd0N2tzS2ZBbW11ZnNGUXRBZnFNYkRDY25zZzZMd3I2S2dsVmJ1bWIwQXNCaU0wellPdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-10-23-031",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tesla Q3 2026 energy storage revenues fall despite second-highest quarterly deployments",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.energy-storage.news/tesla-q3-2026-energy-storage-revenues-fall-despite-second-highest-quarterly-deployments/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-23-034",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "What The Battery Show Told Us About the Next Chapter of Electrification",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/10/22/what-the-battery-show-told-us-about-the-next-chapter-of-electrification/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-10-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL, BAIC Target 1 Million Cars With New Battery Swap Network - Bloomberg.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTFhoZ3lqOWNmVk45ZkNEZVRnN3pjMGlzMnZYdmhkLVRlNGVXb29HTHBTSjRLajdVckxPVDEtZkNsR1hXRmFLMFhqMHRuV1hLNjg4WnZTdlNiNTQxcG1VcTNSbUIycko1TDE3SzZMZVFQZlA0RFdEYm9IMGxweU1MRkY0NTh0ZEFxZUM4UHNaNUt6cTByTk1kTlBmZ1NOdUFfeVVEeTFCVjdlMDZkYkFPbWlB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-10-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BAIC and CATL aim to accelerate battery swap approach - electrive.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEZXTjRxUmV6cU50dS1CUGVJZDJteGx5Vnp4YkZGS0VjVEltY3NlZE91MXZPS0NwQkZLZVJvOUlvWGFtVkl3dXp1ZngwZmxuY1JsdUt5TWVHbzllbU1sbWxINXBrNy1LSlRLcVctZEItUWthVE9aTVJOUmFKZUJuTmVLTGdZMXpNRnhXdklnbV9oaWJ0QlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 40,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 33,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 5
+      },
+      {
+        "id": "nio",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 40
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 399,
+    "dup_title": 228,
+    "too_old": 53,
+    "gate1_blocked": 28,
+    "gate2_blocked": 21,
+    "passed": 69,
+    "pass_rate": "40.4%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "NextStar Energy, LG Energy Solution’s wholly owned Canadian manufactur - Shanghai Metals Market",
+      "JPMorgan Chase & Co. Raises Voting Power in Pilbara Minerals to 6.67% with 215 Million Ordinary Shar",
+      "Mitsubishi UFJ Financial Group Raises Voting Power in Pilbara Minerals to 8.20% with 264.5 Million S",
+      "Why Rivian's R2 Could Be Worth Far More Than Its Sales Numbers Suggest - Yahoo Finance",
+      "Rivian Starts Testing Tesla-Style Driving With Select Owners - Autoblog"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為寧德時代、蔚來、特斯拉相關動態：「Rivian Acquires Startup Led by Former Tesla Autopilot Sim...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rivian Acquires Startup Led by Former Tesla Autopilot Simulation Head - Elect...（正極材料、電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tesla Q3 2026 energy storage revenues fall despite second-highest quarterly d...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

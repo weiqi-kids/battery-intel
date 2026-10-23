@@ -1,0 +1,16 @@
+{
+  "total_raw": 399,
+  "dup_title": 228,
+  "no_date": 0,
+  "too_old": 53,
+  "gate1_fail": 28,
+  "gate2_fail": 21,
+  "passed": 69,
+  "gate2_samples": [
+    "NextStar Energy, LG Energy Solution’s wholly owned Canadian manufactur - Shanghai Metals Market",
+    "JPMorgan Chase & Co. Raises Voting Power in Pilbara Minerals to 6.67% with 215 Million Ordinary Shar",
+    "Mitsubishi UFJ Financial Group Raises Voting Power in Pilbara Minerals to 8.20% with 264.5 Million S",
+    "Why Rivian's R2 Could Be Worth Far More Than Its Sales Numbers Suggest - Yahoo Finance",
+    "Rivian Starts Testing Tesla-Style Driving With Select Owners - Autoblog"
+  ]
+}
