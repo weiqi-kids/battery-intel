@@ -1,0 +1,16 @@
+{
+  "total_raw": 417,
+  "dup_title": 278,
+  "no_date": 0,
+  "too_old": 49,
+  "gate1_fail": 22,
+  "gate2_fail": 20,
+  "passed": 48,
+  "gate2_samples": [
+    "Samsung SDI backs Korea’s young chemists for the global olympiad contest - Korea JoongAng Daily",
+    "Mitsubishi UFJ Financial Group Raises Voting Power in Pilbara Minerals to 8.20% with 264.5 Million S",
+    "JPMorgan Chase & Co. Raises Voting Power in Pilbara Minerals to 6.67% with 215 Million Ordinary Shar",
+    "Why Rivian's R2 Could Be Worth Far More Than Its Sales Numbers Suggest - Yahoo Finance",
+    "Rivian channels 'Ghostbusters' with one-of-a-kind Ecto-R1 for Halloween season - ABC7 Los Angeles"
+  ]
+}

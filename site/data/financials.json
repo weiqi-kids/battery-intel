@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T13:12:51.870626Z",
+  "updated_at": "2026-10-24T12:31:13.430885Z",
   "quarter": "2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -109,17 +109,17 @@
       "name": "LG新能源",
       "ticker": "373220.KS",
       "currency": "KRW",
-      "ar": 5156728000000,
-      "ar_prev": 4311178000000,
-      "ar_qoq": "+20%",
+      "ar": 5975320000000,
+      "ar_prev": 5156728000000,
+      "ar_qoq": "+16%",
       "ar_period": "QoQ",
-      "inventory": 5353720000000,
-      "inv_prev": 4350407000000,
-      "inv_qoq": "+23%",
+      "inventory": 6445283000000,
+      "inv_prev": 5353720000000,
+      "inv_qoq": "+20%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "nio",
