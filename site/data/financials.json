@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T12:31:13.430885Z",
-  "quarter": "2026-03-31, 2026-06-30",
+  "updated_at": "2026-10-25T13:03:05.141310Z",
+  "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
       "id": "albemarle",
@@ -92,17 +92,17 @@
       "name": "贛鋒鋰業",
       "ticker": "1772.HK",
       "currency": "HKD",
-      "ar": 9506752364,
-      "ar_prev": 6616597836,
-      "ar_qoq": "+44%",
+      "ar": 7928934607,
+      "ar_prev": 9506752364,
+      "ar_qoq": "-17%",
       "ar_period": "QoQ",
-      "inventory": 15150000211,
-      "inv_prev": 14533753782,
-      "inv_qoq": "+4%",
+      "inventory": 15015965746,
+      "inv_prev": 15150000211,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "lg_energy",
@@ -143,17 +143,17 @@
       "name": "松下",
       "ticker": "6752.T",
       "currency": "JPY",
-      "ar": 1379750000000,
-      "ar_prev": 1316172000000,
-      "ar_qoq": "+5%",
+      "ar": 1409210000000,
+      "ar_prev": 1379750000000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 1066123000000,
-      "inv_prev": 1022225000000,
-      "inv_qoq": "+4%",
+      "inventory": 1179799000000,
+      "inv_prev": 1066123000000,
+      "inv_qoq": "+11%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "pilbara",
