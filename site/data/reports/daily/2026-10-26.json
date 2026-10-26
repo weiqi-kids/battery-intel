@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T14:58:26.423380Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-10-26-023",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Volkswagen lines up a smaller, $22,000 EV as it takes on BYD - Yahoo Autos",
+      "companies": [
+        "volkswagen",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTZJU2lqZHozOVFRQ2lnWWVvamV0RVVyNTV4anRLcnlCSTRpWlNhcXV0US00QlE2OXhySEY2a1Btcy1lcWJVMUtPeHhhcE5TWXA3M092Q3VLZm5objRwa2JEYWFxeENzMzcxY2RWaURIMnYwOGhQR0Fma3J3TzQ4M0JoNzdxREcySkY2aUZ4bTQyZl9Sc0otV04tRGRwUTA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "volkswagen-2026-10-26-033",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Volkswagen lines up a smaller, $22,000 EV as it takes on BYD - The Cool Down",
+      "companies": [
+        "volkswagen",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVFFTeVlQYk05UUJOaHRqX2IyQnh2TWZpRWpZZnp2Z0JWWWNlQlZnYmVScWdvTDNWd3R2Sjgyb1BfMU92dE94cnNlOVRwM3g2Tm9Bd0FNV2ZkdDBic0pqMzUxNjZuZm5KcklPSnZ1N3dIdWtmdTBid1kxMUlNWmJWcDRDejJlZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nio-2026-10-26-048",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nio presses ahead with in-house cylindrical cells, with limited output reported by year-end",
+      "companies": [
+        "nio",
+        "eve"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/10/26/nio-presses-ahead-cylindrical-cells-limited-output-year-end/"
+    },
+    {
+      "rank": 4,
+      "event_id": "volkswagen-2026-10-26-026",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Audi and Rivian to Become Georgia Neighbors as Their VW Software Link Grows - Electric Vehicles",
+      "companies": [
+        "volkswagen",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWhBR3RlRHhibl9lbmk2bHktY2YzMHNPWVNWcl96MmRRZU92Y2stTW8xRWNlV0JXM3l5dFZEbklKNmdWM1pyRzI1OXZ6VXJ5SVExQkdWT25JeW5qUVVuLUdwblV2UVlsUGJBajRyX01MVFJLSjR2YjRPZEo5Q0NyMlBnLWgtTlJsNEYzYmUwQ2kyN0M5cU1YZ1dHbWdRSzhyTk94NHBFRXQ1cllhVGtRWWln?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tesla-2026-10-26-027",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Tesla Rises 6% as Barclays Upgrade Cites SpaceX Merger Potential; Lucid Drops 4%, Rivian Slips - 24/7 Wall St.",
+      "companies": [
+        "tesla",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZEpYWnJMM3kyenA2UjR0di1taHFzOWFocjZjVlRKdnFEOFllYXJIYmJFbzVaZHpZREFwQ0xhcjJFV0FvQy1kS2ZTM3VQM0JLVXVqc0dHbm94Tm5kWEpEMDEzYWhjTENGT2IyWGVDbWhFYy0zdmdnczVDSlU4dHZ4Z0xJb1ZTMjZBT1p4Ym9Vd3FDZ2EzaFZqNkxCVUp2bXAwMjRtRlRFUmdGS3Y4S2x2enFvVzNSbW5wLW1XVTF5MTF0TUNpREZOZW1NNkpyX2M?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 50,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "volkswagen",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "rivian",
+      "to": "volkswagen",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 56,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 48,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_sdi",
+        "count": 16
+      },
+      {
+        "id": "volkswagen",
+        "count": 9
+      },
+      {
+        "id": "byd",
+        "count": 8
+      },
+      {
+        "id": "nio",
+        "count": 5
+      },
+      {
+        "id": "rivian",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 50
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 235,
+    "too_old": 52,
+    "gate1_blocked": 30,
+    "gate2_blocked": 30,
+    "passed": 68,
+    "pass_rate": "37.8%",
+    "gate2_block_rate": "16.7%",
+    "gate2_samples": [
+      "Samsung SDI to Supply 1.5 GWh of ESS Solutions to US Energy Firm - THE ELEC, Korea Electronics Indus",
+      "Pilbara Minerals Closes US$700 Million 8.00% Senior Unsecured Notes Due 2032 - Kalkine",
+      "JPMorgan Chase & Co. Raises Voting Power in Pilbara Minerals to 6.67% with 215 Million Ordinary Shar",
+      "Mitsubishi UFJ Financial Group Raises Voting Power in Pilbara Minerals to 8.20% with 264.5 Million S",
+      "Rivian channels 'Ghostbusters' with one-of-a-kind Ecto-R1 for Halloween season - ABC7 Los Angeles"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 56 則事件，焦點為三星SDI、福斯、比亞迪相關動態：「Volkswagen lines up a smaller, $22,000 EV as it takes on ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Volkswagen lines up a smaller, $22,000 EV as it takes on BYD - Yahoo Autos（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Volkswagen lines up a smaller, $22,000 EV as it takes on BYD - The Cool Down（電池產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
