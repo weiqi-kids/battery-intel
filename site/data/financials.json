@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T14:58:22.241367Z",
+  "updated_at": "2026-10-27T14:10:29.991844Z",
   "quarter": "2025-12-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "億緯鋰能",
       "ticker": "300014.SZ",
       "currency": "CNY",
-      "ar": 19706336090,
-      "ar_prev": 16387344668,
-      "ar_qoq": "+20%",
+      "ar": 22423297682,
+      "ar_prev": 19706336090,
+      "ar_qoq": "+14%",
       "ar_period": "QoQ",
-      "inventory": 15421608942,
-      "inv_prev": 11488245524,
-      "inv_qoq": "+34%",
+      "inventory": 17734998144,
+      "inv_prev": 15421608942,
+      "inv_qoq": "+15%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "ganfeng",

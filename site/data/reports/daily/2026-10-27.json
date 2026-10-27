@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T14:10:34.582202Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eve-2026-10-27-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "China's NIO taps EVE Energy, Gotion High-tech to make its in-house large cylindrical cells, with small-volume output due by year-end - BigGo Finance",
+      "companies": [
+        "eve",
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXUlRMY2xBTU53cklHQTJzZEZqeWZiUWppM29NRlZXN2ViWmc5WXF3UmloRndNWUNQVGRQbmc0U0ItZTB2aGRTcTVtMlVIeThOTTUxTVkxczdXSnNfNVp1V2E0S01YSkw0NnV2ZW42cXY2Z0Jjcmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-10-27-023",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Volkswagen Weighs China-Built Software Over Rivian’s for Most Core EVs - Electric Vehicles",
+      "companies": [
+        "rivian",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRm9YVXc1NHcydnpPRFdoQ2lsOVFQRFhtWmZjQy1hdDFQNFJDYUlIcms2blFJMWJIYnQzbWl5THRrdE85NXdjeHJfM2cxZGtLa25DNVJtY0NKMXNvWWlZVkd0UGdtQWZiNmttN1NiSjE5X0V5UC1pRlROMDJZRGdoLW9LamlqVDVnbVlxSTdPelFwVmR5QkV0WWZPV3dDcDVvSUZOWVhneTJBTzFw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-27-050",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China’s solar installations fall 54% year on year despite September rebound",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/27/chinas-solar-installations-fall-54-year-on-year-despite-september-rebound/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Stellantis wants 4,000 workers for its new €4.1 billion plant... the first ones are being sent to China - ItalPassion",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVXV4OEVhX0VwMnRYNE5iYmZZRXA4OUVsel9FN0JjamdCLVBmQjJpWE9pOUJRc01sUWhKaERVXzdVUm9LdnpyOExzZ3FfOVJEd3VSMEtoN29BNDVNcW0xc0djZDNTa3E1NUdOT09zME1zeVZrLVAxeV93UEI1N1hnUzdCaGREVmszNzQwcGQzeVVPRk5pY2kxcEcxU0RSaFBQczl5WXduRGk0V3ZwbjYtOG1kZUliLUgyczg3am4wdmVmNW5IRnZlVWM2TEl2UlNLR1NURTRGdENiMnR3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_energy-2026-10-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution and Energix Sign MoU to Expand ESS Business in Europe and North America - LG에너지솔루션",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15UVFWQ281RUZZT09zaW1vbHdlOFQ1RWpKMF9GWVI3UWgwQXVjUmxxM2NqSTFUSkFiazNXemxjWWZ2LXlPVkxmbUh0a01URUFHQWQyU3RVMkJMYTMxLUVZTWhFWFJTVHVGUEE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 39,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 51,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 41,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "lg_energy",
+        "count": 11
+      },
+      {
+        "id": "volkswagen",
+        "count": 8
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 5
+      },
+      {
+        "id": "byd",
+        "count": 4
+      },
+      {
+        "id": "nio",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 39
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 412,
+    "dup_title": 205,
+    "too_old": 73,
+    "gate1_blocked": 29,
+    "gate2_blocked": 32,
+    "passed": 73,
+    "pass_rate": "35.3%",
+    "gate2_block_rate": "15.5%",
+    "gate2_samples": [
+      "LG Energy Solution, Energix Partner on ESS Projects in Europe and North America - THE ELEC, Korea El",
+      "LG Energy Solution Partners with Energix to Expand ESS Business in Europe and North America - Korea ",
+      "Samsung SDI to Supply 1.5 GWh of ESS Solutions to US Energy Firm - THE ELEC, Korea Electronics Indus",
+      "Pilbara Minerals Subject to State Street Substantial Holder Notice Covering 364.2 Million Ordinary S",
+      "Pilbara Minerals Closes US$700 Million 8.00% Senior Unsecured Notes Due 2032 - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 51 則事件，焦點為LG新能源、福斯、三星SDI相關動態：「China's NIO taps EVE Energy, Gotion High-tech to make its...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "China's NIO taps EVE Energy, Gotion High-tech to make its in-house large cyli...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Volkswagen Weighs China-Built Software Over Rivian’s for Most Core EVs - Elec...（電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

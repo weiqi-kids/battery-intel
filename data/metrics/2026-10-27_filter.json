@@ -1,0 +1,16 @@
+{
+  "total_raw": 412,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 29,
+  "gate2_fail": 32,
+  "passed": 73,
+  "gate2_samples": [
+    "LG Energy Solution, Energix Partner on ESS Projects in Europe and North America - THE ELEC, Korea El",
+    "LG Energy Solution Partners with Energix to Expand ESS Business in Europe and North America - Korea ",
+    "Samsung SDI to Supply 1.5 GWh of ESS Solutions to US Energy Firm - THE ELEC, Korea Electronics Indus",
+    "Pilbara Minerals Subject to State Street Substantial Holder Notice Covering 364.2 Million Ordinary S",
+    "Pilbara Minerals Closes US$700 Million 8.00% Senior Unsecured Notes Due 2032 - Kalkine"
+  ]
+}
