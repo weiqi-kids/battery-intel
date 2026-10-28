@@ -1,0 +1,16 @@
+{
+  "total_raw": 407,
+  "dup_title": 191,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 21,
+  "gate2_fail": 25,
+  "passed": 107,
+  "gate2_samples": [
+    "CATL Tener+ 9 MWh BESS makes global debut, says market has ‘deep interest’ in Tener Sodium - ESS New",
+    "LG Chem to Raise KRW2.5 Trillion via LG Energy Solution Share Transfer - www.marketscreener.com",
+    "LG Energy Solution, Energix Partner on ESS Projects in Europe and North America - THE ELEC, Korea El",
+    "LG Chem to Sell 2.5 Trillion Won of LG Energy Solution Shares - Seoul Economic Daily",
+    "LG Chem to sell about $1.89 billion of LG Energy Solution shares to improve finances - www.marketscr"
+  ]
+}

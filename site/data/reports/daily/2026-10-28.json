@@ -1,0 +1,235 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T14:57:49.591339Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pilbara-2026-10-28-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Pilbara Minerals Achieves Record 267.6kt Spodumene Output in September Quarter and Greenlights P2000 Expansion - Kalkine Media",
+      "companies": [
+        "pilbara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "lithium_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOazZnVVNmNVFNdVlMYUNrWlBuVlJ5U3M2eXYtNXVtQ2pWV2NWQWpQSjJnckd4ZG1JSU1meHVMcklnUGlnSktwblNzRnYwcG1IcFVPYzB2dkVTWWJ0R0JYdUVqNERHX1hwRW92YXhUOG9FSklzRXVPYkdXNGwyQjE4dGU1TG1TQ01MRVpsYkVNdnVVOWZYbmN0ZE4yNnVhdVd1N1BKa1dtdW9RY3AwRkNLSDJnRkJ2c1RTemJEaU9xb2hYaEF4UnNEbnZ6enJlbEllYzNfbnBFRFpYOEhsZHFlLW8xVlFLWEcyTGdPaw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "volkswagen-2026-10-28-031",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Volkswagen Debuts New Car Software to Halt China Sales Decline - Bloomberg.com",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVl91NjBpdWh5bktIeS11b3VNV2ZkeW1femlxRzhOMTVVMkVRaWZQNUFvS1lJMndRU2M4NlgxTEtiNEVPNTl0Z3prWE00NzJuenhyVmRPR1VVdkpfRTlGeVJTOGozczhJdnVabHZLUlF5OGwyeU9WRWdGNFh2eHJuRWIwd21ObDduRGlOSWRZTnQ4eGFPdlR5NzRpUThaR2Z4eDEzcGxQZ2t2QlVqZkFualJhMTg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-28-057",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Acid-free molten salt method recovers 94% of silver from solar cells",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/28/acid-free-molten-salt-method-recovers-94-of-silver-from-solar-cells/"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-10-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL’s next bet is bigger than electric cars - Financial Times",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWm5hWXB3Mzl1dXo2bUd5N2NYNWk3aGdMcGtLRG4wMTk5TEhjYllrQmJoR0R1bGhpRi1oX19MNXJkX3Buc1NHb2JrN1NSdUVxazVUZGVPMVpEM01fMy1hTjNJelBwRjVzV3ZPaE9WdXlFamJUUXZha1JMRGRjYV9ObDJmZ0I?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-10-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL advances 20 Ah solid-state battery cells ahead of 2027 trial production - CarNewsChina.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSm5FdC11T0k3Ym13eVdCYmlsek9YSkdlVEdlU193N1VwVUdPbm9YdUp3Z0liLW1PMElEVllkNnlBTEdiUDBfLWdrNDM2eVJSMXNhTG1XcHJKbFVfeDlVREZWWmgyVVAxTy1LU2l2enJENjY1LTRON19xVHRwV3VaZmVlclRpVDZtM0hVQkpJM1I5bjNCWWMzclBqTl93OXAxbks4WUUxcGY0cEhjTXgtSnIxdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 58,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 62,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 52,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 10
+      },
+      {
+        "id": "volkswagen",
+        "count": 9
+      },
+      {
+        "id": "lg_energy",
+        "count": 5
+      },
+      {
+        "id": "rivian",
+        "count": 5
+      },
+      {
+        "id": "sk_on",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 58
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 407,
+    "dup_title": 191,
+    "too_old": 63,
+    "gate1_blocked": 21,
+    "gate2_blocked": 25,
+    "passed": 107,
+    "pass_rate": "49.5%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "CATL Tener+ 9 MWh BESS makes global debut, says market has ‘deep interest’ in Tener Sodium - ESS New",
+      "LG Chem to Raise KRW2.5 Trillion via LG Energy Solution Share Transfer - www.marketscreener.com",
+      "LG Energy Solution, Energix Partner on ESS Projects in Europe and North America - THE ELEC, Korea El",
+      "LG Chem to Sell 2.5 Trillion Won of LG Energy Solution Shares - Seoul Economic Daily",
+      "LG Chem to sell about $1.89 billion of LG Energy Solution shares to improve finances - www.marketscr"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 62 則事件，焦點為寧德時代、福斯、LG新能源相關動態：「Pilbara Minerals Achieves Record 267.6kt Spodumene Output...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Pilbara Minerals Achieves Record 267.6kt Spodumene Output in September Quarte...（鋰價、電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Volkswagen Debuts New Car Software to Halt China Sales Decline - Bloomberg.com（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
