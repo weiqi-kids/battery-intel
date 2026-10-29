@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-29",
+  "total_events": 56,
+  "by_company": {
+    "catl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lg_energy": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "samsung_sdi": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "sk_on": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ganfeng": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 5,
+      "sentiment_avg": -0.4
+    },
+    "byd": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 49,
+      "sentiment_avg": -0.04
+    },
+    "recycling": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

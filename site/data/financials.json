@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T14:57:45.669617Z",
+  "updated_at": "2026-10-29T15:02:26.684460Z",
   "quarter": "2025-12-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "巴斯夫",
       "ticker": "BAS.DE",
       "currency": "EUR",
-      "ar": 11748000000,
-      "ar_prev": 11518000000,
-      "ar_qoq": "+2%",
+      "ar": 11074000000,
+      "ar_prev": 11748000000,
+      "ar_qoq": "-6%",
       "ar_period": "QoQ",
-      "inventory": 13814000000,
-      "inv_prev": 12908000000,
-      "inv_qoq": "+7%",
+      "inventory": 14382000000,
+      "inv_prev": 13814000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "byd",

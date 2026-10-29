@@ -1,0 +1,16 @@
+{
+  "total_raw": 416,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 59,
+  "gate1_fail": 26,
+  "gate2_fail": 32,
+  "passed": 85,
+  "gate2_samples": [
+    "LG Chem Share Disposal Triggers 10% Plunge in LG Energy Solution Stock - 조선일보",
+    "LG Chem to sell 2.5 tn won in LG Energy Solution shares - 매일경제",
+    "LG Chem to sell about $1.89 billion of LG Energy Solution shares to improve finances - www.marketscr",
+    "LG Energy Solution, Energix Partner on ESS Projects in Europe and North America - THE ELEC, Korea El",
+    "LG Chem to Raise KRW2.5 Trillion via LG Energy Solution Share Transfer - www.marketscreener.com"
+  ]
+}

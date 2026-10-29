@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T15:02:30.253578Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-10-29-037",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+    },
+    {
+      "rank": 2,
+      "event_id": "sk_on-2026-10-29-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SK On Posts Q3 Operating Loss of approximately $60 Million; ESS Expansion and Q4 EV Rebound Set Up Two-Pronged Push - BigGo Finance",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnVVJYTjdkZjk1TmEwY1RZRlNVc0VkUnRvdHd1ZjFfTFUzOXhaUWsyV0lUWkg1bUtxb0p0anVpODBMZ2Q1bVZBTXdPdTljSi16NzJ4MXdHS0FhUi1TRlNEaVRHTmJzZG5JMjNadk9OTVJoeFkwUGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-29-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SK Innovation Posts Record 3.7 Trillion Won Q3 Operating Profit - THE ELEC, Korea Electronics Industry Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWSE40SzNDME9uREVjaHdQRW50TTA0WHpCQnA1MUxacDlZbzhGRHF4RFl1YlBUb3VDWlJVZE5fZmVrS3NaRldZcHo3UnlKSWRXWWVoTHptSFFRMklGaWdvUGpNMDVTV28?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-29-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "South Korea's SK Innovation Posts Record Q3 Operating Profit of approximately $2.8 Billion on Refining, Lubes; Battery Unit Stays in the Red - BigGo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tM2NYZUpGcDVjZHFtSWtsZ0hDdFYwTkduNHdBbWZMdEJFRDJ4RTFlVFk3anByU3EwWmxmMFpjV2laVW1Vckd3VVZlWmxQZE1YTVdzcUt3bC00eXdDZW54aUVNOGI2RXY1NWNsR1JKSkd1THVaM0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sk_on-2026-10-29-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "[SK이노베이션 Q3 2026 Earnings Call] SK Innovation Q3 Net Profit Jumps KRW 2.94T to KRW 3.51T as Enmove Posts Record KRW 1.09T Operating Profit - BigGo Finance",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GbUVCUDFMUTA5V2VlYnY2Tm0zb1JSYlJZZDV2QmxWWDBSTGEtYWc1aXJFeExfQVpqNEk1cGRRTkZnVUQzcEk1eEFQY0hhZTZDeDA3OGZPeUs2SEpSblNjdFNvMHk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 56,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 43,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "samsung_sdi",
+        "count": 8
+      },
+      {
+        "id": "lg_energy",
+        "count": 6
+      },
+      {
+        "id": "volkswagen",
+        "count": 5
+      },
+      {
+        "id": "sk_on",
+        "count": 3
+      },
+      {
+        "id": "nio",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 49
+      },
+      {
+        "id": "recycling",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 416,
+    "dup_title": 214,
+    "too_old": 59,
+    "gate1_blocked": 26,
+    "gate2_blocked": 32,
+    "passed": 85,
+    "pass_rate": "42.1%",
+    "gate2_block_rate": "15.8%",
+    "gate2_samples": [
+      "LG Chem Share Disposal Triggers 10% Plunge in LG Energy Solution Stock - 조선일보",
+      "LG Chem to sell 2.5 tn won in LG Energy Solution shares - 매일경제",
+      "LG Chem to sell about $1.89 billion of LG Energy Solution shares to improve finances - www.marketscr",
+      "LG Energy Solution, Energix Partner on ESS Projects in Europe and North America - THE ELEC, Korea El",
+      "LG Chem to Raise KRW2.5 Trillion via LG Energy Solution Share Transfer - www.marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 56 則事件，焦點為三星SDI、LG新能源、福斯相關動態：「BYD now has 1.02 million workers, more than Toyota, GM, F...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "SK On Posts Q3 Operating Loss of approximately $60 Million; ESS Expansion and...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

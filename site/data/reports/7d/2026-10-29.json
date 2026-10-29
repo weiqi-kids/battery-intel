@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-29",
+  "date_range": {
+    "start": "2026-10-23",
+    "end": "2026-10-29"
+  },
+  "generated_at": "2026-10-29T15:02:30.403871Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nio-2026-10-23-050",
+      "date": "2026-10-23",
+      "title": "CLSA Nearly Halves Nio, XPeng Price Target, Cuts BYD and Li Auto - Electric Vehicles",
+      "importance_score": 0.9
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "nio",
+      "subject_type": "company",
+      "this_week_sentiment": -0.03,
+      "last_week_sentiment": 0.43,
+      "delta": -0.46,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 259,
+      "last_week": 256,
+      "week_over_week_change": "+1%",
+      "sentiment_this_week": 0.0
+    },
+    "cathode_material": {
+      "this_week": 7,
+      "last_week": 11,
+      "week_over_week_change": "-36%",
+      "sentiment_this_week": 0.0
+    },
+    "lithium_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    },
+    "recycling": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "byd": {
+      "event_count": 19,
+      "sentiment_avg": 0.03,
+      "rank": 4
+    },
+    "tesla": {
+      "event_count": 12,
+      "sentiment_avg": -0.13,
+      "rank": 8
+    },
+    "rivian": {
+      "event_count": 15,
+      "sentiment_avg": -0.03,
+      "rank": 7
+    },
+    "nio": {
+      "event_count": 16,
+      "sentiment_avg": -0.03,
+      "rank": 6
+    },
+    "volkswagen": {
+      "event_count": 38,
+      "sentiment_avg": -0.09,
+      "rank": 1
+    },
+    "panasonic": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 13
+    },
+    "samsung_sdi": {
+      "event_count": 31,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "eve": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "lg_energy": {
+      "event_count": 23,
+      "sentiment_avg": -0.0,
+      "rank": 3
+    },
+    "ganfeng": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 12
+    },
+    "pilbara": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 11
+    },
+    "sk_on": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 436,
+        "last": 495,
+        "change_pct": -11.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-23",
+      "event_count": 65,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 36,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-25",
+      "event_count": 16,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-26",
+      "event_count": 79,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-27",
+      "event_count": 97,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-10-28",
+      "event_count": 87,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-29",
+      "event_count": 56,
+      "sentiment_avg": -0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-23 ~ 2026-10-29）共 436 則事件，重點為「CLSA Nearly Halves Nio, XPeng Price Target, Cut...」。Pilbara Minerals、松下表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "比亞迪",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "特斯拉",
+        "reason": "本週出現 12 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
