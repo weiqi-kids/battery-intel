@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:55:48.089267Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nio-2026-10-30-023",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Will Volkswagen Restructuring Change NIO Stock's Narrative - Simply Wall St",
+      "companies": [
+        "nio",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZnlLMHU2VWNIYVp5ZTViTG1jVW9hT2xBbFRUVUVXYXB4ZUJBeEhFWXJLOWtRY3I2TFE1NnZCYXpSNmNsdzV2YnRtd1Y4YmVCZnBSTzhxWGF5RFJxa3RLLTZaU0JHT0lReDBVdlFpTTlKcUFVVzRjTVZTUE16bDhmd2ZoXzU3eEstNjFpZUlCczNfcHdwS1ZtYVZZQmxjQktjcllDS295RDhBZnRscHJJaDljSWxEUDN2RnVr0gHAAUFVX3lxTE0wenVhN2w0c0s0c3NLaWFLNVIxZkZyRnN3Ql84eTJySUhkbmRBVXd5a3hrV2tyRnBRS0ZNNjV5S2liRXJlck1xVHcwRWh4VTlhNmdJcU4waUY3ZElfWGw1MUE0RUVpck1wTU84SWstS3JnZjctX1MwN1pfSHJ2WHl4bjZvSWY1TDJpaUswSGI2UHRlNVJtOVA3LTViU1BXUlNBa0FhTFNFUWM4RVNsNXZkS1V2Yy1TWURMSmppVGxsZg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-10-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hungarian court dismisses challenge to CATL's Debrecen battery plant, Chinese state media reports - Reuters",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT0dyYUVxdHR5Z29vVkttVFdtandoNm9IRFk3NEx2LVExcmNHV21qNVF1d0JQNE8zS3lnYTJOUW95UGdYTlVReTlFa0dBM1VQY0VuOGVCMXBIUWZzbWJ5QzBSMmdfSGJiYkpZZTFIN280R3B1QVVrS0U0cWE2WExkMzFzSV9Fc3d2NlRZOU9uTFFIekpTYUtlb0dQQ1otb19lS3pKYTNiV20wNGU0UFRPdlhpYWxWdHplUUNMQw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-10-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL, Gotion to gain as oil prices drive energy-storage demand - South China Morning Post",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYWNnUk1Kd1h3QjAxUzc0MHRzZnd6SjhTRy1rNmtwc0Y5Ulc5dW1qV3JzQWVZdnRtMkk4Wm9LXzhWdGFUZGFFLVhha1BINFY2eVJKMFZyeF8xNk9US1hqVk05T0MyN04wSy10aGZrdTktZnQzLUVuaGVja0tfeEZjeHhUZVJCQnlDSkx0dkNOQ0hOMTktVDY4ZVJxUXQzcG40WTJVMzlrU0Z0N2Z2Q2h5eWtnSVllQmhXYUZuUVlNNzdja2tFSS12UXcyQWhKR2Uwc202ZVpKQdIB1wFBVV95cUxOTTVRRW8wWWZJN0U5c251Umg1WHlGQ09ZbzBTQWNQR2xneDh5cUtsbnFRR2UxLUhEQ2NELVNhSVB0RGN1anY0b0twbmtDZzRQVW16ME9OU01RWDlMRUo2MmpxY2JQSWJ3aDhDZ3loUFFZY2dsV1M0a1dxdDQwczh4dldLazBQbVVvcUR4anBCc0oxS3RWanhsMGlHQ0FjMjhOSEZRbmNlenVueEF3THFXOFVWS1VwVkQ5UFVPX2pxdUNyUlQ0SHZsWnFwS3I5Qjk4Y0VQclozSQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-10-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "IM Motors Tours CATL Plant, Publicly Dissecting Battery Anxiety - Gasgoo",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXM1MFZ3ZWdKbWY3TjNqaTZBaDZ2Zm9Kd2Z3T0hDRlM1eFFkMjdudnA5Y1VqUVZtVDRXRG9TMG5oU2NLLXFkYkxjV0NSWUxMZzdhRG9SQ3J1UWY3Q0hKd3h0eFNtNUZwNzJGSTdvMGk2Y3F3TkQxQi1FRE1FSlhkNzB1Z2xLRUFRWlhESm4ydmsyeDBSMURoQWxKU0NlMXpVcXNGTVBPYm9ueUJlZFkyeDVmdDhTbmJWNzMzQl9uVQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-10-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hungarian court dismisses challenge to CATL's Debrecen battery plant, Chinese state media reports - TradingView",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPemZkTl9GZGM2MXlybm5waDh3WXVxMS04ZXhveGU1Y016TjFHRlhKdGZERU5JNlFDaU92TVpVUTYtNWJXOWRVSnZjN2Fvcks3SFB1X1JDejZmUEM0NWdtNHVCbzRTUklwekVrSTkyTy1ES3h6cjkwdFY2NmFISjVlc3JSQkhPOEVJRTllbE5PdVhFV0lpY1VFRHY0TGpOUVI0dW1POVowR19GWFVuS1cxTnFIQlBtVHgyNzFkaDVmQlpwYUVpQW1GM2FORVB5VkhzZGpGRExEbTdoSThITGFTaXpZMXlwSVFsSXg3SXFXT1l5NDhJLVhHOG5n?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 50,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 54,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 48,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 9
+      },
+      {
+        "id": "catl",
+        "count": 7
+      },
+      {
+        "id": "lg_energy",
+        "count": 6
+      },
+      {
+        "id": "rivian",
+        "count": 4
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 50
+      },
+      {
+        "id": "cathode_material",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 416,
+    "dup_title": 204,
+    "too_old": 60,
+    "gate1_blocked": 30,
+    "gate2_blocked": 31,
+    "passed": 91,
+    "pass_rate": "42.9%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "LG Chem Share Disposal Triggers 10% Plunge in LG Energy Solution Stock - 조선일보",
+      "Samsung SDI Employees Win Prime Minister, Ministerial Commendations - THE ELEC, Korea Electronics In",
+      "SK On swings to loss in Q3 as one-time gains fade - 헤럴드경제",
+      "PLS - Pilbara Minerals (PLS) — Is it a buy at today's price? - Simply Wall St",
+      "Screenshot 2026-10-28 095232 - Mining.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 54 則事件，焦點為福斯、寧德時代、LG新能源相關動態：「Will Volkswagen Restructuring Change NIO Stock's Narrativ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Will Volkswagen Restructuring Change NIO Stock's Narrative - Simply Wall St（正極材料）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hungarian court dismisses challenge to CATL's Debrecen battery plant, Chinese...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
