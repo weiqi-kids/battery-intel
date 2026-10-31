@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-31",
+  "date_range": {
+    "start": "2026-10-25",
+    "end": "2026-10-31"
+  },
+  "generated_at": "2026-10-31T14:24:42.368038Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "volkswagen-2026-10-26-023",
+      "date": "2026-10-26",
+      "title": "Volkswagen lines up a smaller, $22,000 EV as it takes on BYD - Yahoo Autos",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 256,
+      "last_week": 266,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": 0.02
+    },
+    "cathode_material": {
+      "this_week": 9,
+      "last_week": 8,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.0
+    },
+    "lithium_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    },
+    "recycling": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "volkswagen": {
+      "event_count": 41,
+      "sentiment_avg": -0.07,
+      "rank": 1
+    },
+    "nio": {
+      "event_count": 12,
+      "sentiment_avg": -0.04,
+      "rank": 7
+    },
+    "lg_energy": {
+      "event_count": 29,
+      "sentiment_avg": 0.02,
+      "rank": 3
+    },
+    "samsung_sdi": {
+      "event_count": 32,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "eve": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "byd": {
+      "event_count": 16,
+      "sentiment_avg": 0.03,
+      "rank": 6
+    },
+    "rivian": {
+      "event_count": 18,
+      "sentiment_avg": -0.03,
+      "rank": 5
+    },
+    "tesla": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "ganfeng": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 12
+    },
+    "pilbara": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 11
+    },
+    "catl": {
+      "event_count": 19,
+      "sentiment_avg": 0.05,
+      "rank": 4
+    },
+    "sk_on": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 466,
+        "last": 490,
+        "change_pct": -4.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-25",
+      "event_count": 16,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-26",
+      "event_count": 82,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-27",
+      "event_count": 100,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-10-28",
+      "event_count": 89,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-29",
+      "event_count": 90,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-10-30",
+      "event_count": 81,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-31",
+      "event_count": 8,
+      "sentiment_avg": 0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-25 ~ 2026-10-31）共 466 則事件，重點為「Volkswagen lines up a smaller, $22,000 EV as it...」。電池產業通用、正極材料、鋰價為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "福斯",
+        "reason": "本週出現 41 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "蔚來",
+        "reason": "本週出現 12 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "LG新能源",
+        "reason": "本週出現 29 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

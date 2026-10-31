@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-31",
+  "total_events": 8,
+  "by_company": {
+    "catl": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "eve": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
