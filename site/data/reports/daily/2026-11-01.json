@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T14:51:01.929627Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-11-01-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Volkswagen Group Halts Electric Golf Development Amid Profit Plunge - 조선일보",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1R6NWs2bk8xalBOQUY5TFQ1QzlqZDI5VGctbkVoVy1rZ1JKYXNZVzQ5YWRadWRsYlVEWjVsV2VPNFpPQnp5czg1V2JOUFdqTFpHMWNEVU5KaTJob0hOR0dCR0Z3ejlYY2Y2WHNnckYtLXRZNFQ2TlBqV0ViU0RJR1hqak84S3Vt?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-11-01-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Roundup: October 2026 deliveries by major Chinese automakers",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/11/01/roundup-oct-2026-deliveries-chinese-automakers/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-01-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Chery October sales rise 5.3% as NEVs hit record and exports top 200,000 again",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/11/01/chery-oct-2026-sales/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-01-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Geely nears monthly sales record as exports remain strong",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/11/01/geely-oct-2026-sales/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-01-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Huawei HIMA October deliveries halve, pushing year-to-date total into decline",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/11/01/huawei-hima-oct-2026-deliveries/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 9,
+      "negative": 8
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 6
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 416,
+    "dup_title": 253,
+    "too_old": 67,
+    "gate1_blocked": 28,
+    "gate2_blocked": 28,
+    "passed": 40,
+    "pass_rate": "24.5%",
+    "gate2_block_rate": "17.2%",
+    "gate2_samples": [
+      "PLS - Pilbara Minerals (PLS) — Is it a buy at today's price? - Simply Wall St",
+      "Screenshot 2026-10-28 095232 - Mining.com",
+      "Pilbara Minerals Closes US$700 Million 8.00% Senior Unsecured Notes Due 2032 - Kalkine",
+      "Mitsubishi UFJ Financial Group Raises Substantial Holding in Pilbara Minerals to 9.42% - Kalkine",
+      "JPMorgan Chase & Co. Raises Voting Power in Pilbara Minerals to 8.76% with 282.5 Million Shares - Ka"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為蔚來、福斯、比亞迪相關動態：「Volkswagen Group Halts Electric Golf Development Amid Pro...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Volkswagen Group Halts Electric Golf Development Amid Profit Plunge - 조선일보（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Roundup: October 2026 deliveries by major Chinese automakers（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
