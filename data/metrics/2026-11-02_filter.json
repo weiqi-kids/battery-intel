@@ -1,0 +1,16 @@
+{
+  "total_raw": 414,
+  "dup_title": 215,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 22,
+  "gate2_fail": 31,
+  "passed": 77,
+  "gate2_samples": [
+    "LG Chem Share Disposal Triggers 10% Plunge in LG Energy Solution Stock - 조선일보",
+    "Samsung SDI Employees Win Prime Minister, Ministerial Commendations - THE ELEC, Korea Electronics In",
+    "PLS - Pilbara Minerals (PLS) — Is it a buy at today's price? - Simply Wall St",
+    "Screenshot 2026-10-28 095232 - Mining.com",
+    "Mitsubishi UFJ Financial Group Raises Substantial Holding in Pilbara Minerals to 9.42% - Kalkine"
+  ]
+}
