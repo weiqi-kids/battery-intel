@@ -1,0 +1,16 @@
+{
+  "total_raw": 411,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 27,
+  "gate2_fail": 29,
+  "passed": 66,
+  "gate2_samples": [
+    "LG Energy Solution Wroclaw Supports First Korea Day Festival, Connecting Korean Culture and Business",
+    "LG Energy Solution Swings to Loss in Q3; Sales Up; Shares Drop 4% - marketscreener.com",
+    "Rivian Stock Can Rise More Than 30%. The R2 Isn’t Just for ‘Tesla Switchers.’ - Barron's",
+    "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship - The Verge",
+    "Rivian car buyers are driving a Wall Street rethink on the stock - TheStreet"
+  ]
+}
