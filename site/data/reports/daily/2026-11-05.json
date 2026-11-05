@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T16:17:01.717237Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-11-05-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "CATL, BYD gain EV battery share outside China as Korean rivals lose ground - CnEVPost",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMElPY2xMZFBpSFpka2pMTVhydG9QaTFjMTVoYnczSmRna3FOdzl4ZUh5ZXZ2TXpWMXVrcjRaR0pqQ0FwcmgtTHljbjR5bWJDRlAzWWNhR3Q4a202RW45ZFRFSW85ZEt1VXZJSnhTY1dhcUp0Y1lfY1JNdkJGWlJuLUpJQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-11-05-024",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "CATL, BYD gain EV battery share outside China as Korean rivals lose ground",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/11/05/catl-byd-gain-ev-battery-share-outside-china/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese battery makers secure 56.4% share of overseas market in first three quarters of 2026 - CarNewsChina.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ3ZVcXRtWExPTlZZT01obzkwb2d1WW9WdzBseXcxdm1hckE0VldHQ1NnSHZjSWRSMnU4UUpIbFgxMWZmcXhqdFpXUDhWNU5lMWlfQUNBUG1zc2czNy0xclEyQWlqekNPcDhLc290UUtWZ19TbnZhUGRqS2YtYWpjSFhBZFlWYzUwU3NBU1pEc0V6TjltUUd2bHZYZW50VXFSQVNvaFdoejRoWldacTlYNUcwYXdSQnRRc3ZDQy0tcG5xOHNSSFZR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-11-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL’s EV battery JV in Indonesia begins operations - Yahoo Finance",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObVVJRVB5aThZdjBPNEZ6OW44UDdER0FNOHVPZHN4VWhDZFRCTGVsVEtQRW9Ta3NlS3prZG80MWhoV3NmWFNSZVpyLVo2YzJ0TzhCXzQxLU5XNkVnREI1SlRJWG9YNmlFS0diOXdoNEtGeWFMdm5vSTM5ZXJzek9FbHVqQnBnN1VHVWU5RG13?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-11-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL, Ampace and Octopus Energy Join Forces to Develop Smarter Home Batteries for Europe - Electric Cars Report",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1lhTW1FZENqWnFtMGZOYWZVeUE5eWZ5LXJuNU1pRU5EdEJmdGNrT0YwY09DVjN0V0NZMXN5NFdleDRGM2o5TWhQSjJVNGMteGVWaDFubXQxVC1VUW9RY1N0ZXRvejNHMXpJR252RUF2Ym1aaFhYRDhjNTlGTTFrYld3S0VveDdDTFFDYzg1aU81UQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 43,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 36,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 5
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "lg_energy",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "ganfeng",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 41
+      },
+      {
+        "id": "ev_sales",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 411,
+    "dup_title": 198,
+    "too_old": 82,
+    "gate1_blocked": 23,
+    "gate2_blocked": 30,
+    "passed": 78,
+    "pass_rate": "36.6%",
+    "gate2_block_rate": "14.1%",
+    "gate2_samples": [
+      "LG Energy Solution Withdraws From 2 Trillion Won ESS Bidding Strategically - 조선일보",
+      "LG Energy Solution skips 3rd ESS bid to prioritize long-term growth - Chosunbiz",
+      "LG Energy Solution Swings to Loss in Q3; Sales Up; Shares Drop 4% - marketscreener.com",
+      "State Street Corporation Discloses 13.80% Substantial Holding in Pilbara Minerals as of 3 November 2",
+      "State Street Corporation Cuts Substantial Holding in Pilbara Minerals from 13.80% to 12.37% - Kalkin"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 43 則事件，焦點為寧德時代、比亞迪、LG新能源相關動態：「CATL, BYD gain EV battery share outside China as Korean r...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CATL, BYD gain EV battery share outside China as Korean rivals lose ground - ...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "CATL, BYD gain EV battery share outside China as Korean rivals lose ground（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

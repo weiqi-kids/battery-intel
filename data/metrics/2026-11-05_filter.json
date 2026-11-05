@@ -1,0 +1,16 @@
+{
+  "total_raw": 411,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 23,
+  "gate2_fail": 30,
+  "passed": 78,
+  "gate2_samples": [
+    "LG Energy Solution Withdraws From 2 Trillion Won ESS Bidding Strategically - 조선일보",
+    "LG Energy Solution skips 3rd ESS bid to prioritize long-term growth - Chosunbiz",
+    "LG Energy Solution Swings to Loss in Q3; Sales Up; Shares Drop 4% - marketscreener.com",
+    "State Street Corporation Discloses 13.80% Substantial Holding in Pilbara Minerals as of 3 November 2",
+    "State Street Corporation Cuts Substantial Holding in Pilbara Minerals from 13.80% to 12.37% - Kalkin"
+  ]
+}
