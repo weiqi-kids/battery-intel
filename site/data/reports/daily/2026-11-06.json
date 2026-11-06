@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T15:47:27.205202Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rivian-2026-11-06-013",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Zero To Sixty: Fort Worth Gets Tesla Robotaxi While UBS Upgrades Rivian And Citigroup Shuffles EV Holdings - Stocktwits",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNc1FSRGdJaGVVc0F3bHo5SGxaLWItbVVHMFNrT2dwbG1kTVNaa1NUQ2k1SWJ5NDNXWWM3c0NqdFBTR2F5czEwWXlaX3JRZGhtT2JGRC1IcWVCT2xCZ19zaUVoNkNPZ2pFUHQ1cGh1aVJPT1FIZmpEOFBDOGxJSGtrUkllNXZ5TjRVWk5GYThfQlQ0N0VibTU1SjJndGxudnQyZWZFR3M4T3p3dG45RlY4SXVYN2FnMWtsOWNFZ3VDUHFId3AteUtLOVNrbzM3ZzdFbjlhZXBicy1remRhU3NvbFIxcU1KSDBjeXN6TE5FU2RNdWZBNFdFMjhiZFJYQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-11-06-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BYD’s electric hypercar hits 312 mph, first production car over 500 km/h",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/11/06/byd-yangwang-u9-xtreme-first-production-car-500-km-h/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-06-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Over A Quarter Of BMW, Mini, And Rolls-Royce Models Sold In Q3 Had A Plug",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://insideevs.com/news/814628/bmw-group-ev-phev-sales-q3-2026/"
+    },
+    {
+      "rank": 4,
+      "event_id": "byd-2026-11-06-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BYD Yangwang U9 Xtreme breaches 500 km/h barrier to set new world record for production cars",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/11/06/byd-yangwang-u9-xtreme-breaches-500-km-h/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-06-044",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/11/05/xpeng-researchers-and-academic-partners-introduce-groundingpi-an-open-source-visual-perception-model-for-physical-ai/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 50,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 54,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 44,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 7
+      },
+      {
+        "id": "byd",
+        "count": 6
+      },
+      {
+        "id": "nio",
+        "count": 4
+      },
+      {
+        "id": "volkswagen",
+        "count": 4
+      },
+      {
+        "id": "rivian",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 50
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 413,
+    "dup_title": 203,
+    "too_old": 80,
+    "gate1_blocked": 27,
+    "gate2_blocked": 29,
+    "passed": 74,
+    "pass_rate": "35.2%",
+    "gate2_block_rate": "13.8%",
+    "gate2_samples": [
+      "LG Energy Solution Skips 2 Trillion Won ESS Tender - THE ELEC, Korea Electronics Industry Media",
+      "LG Energy Solution Skips 2 Trillion Won ESS Bid - 조선일보",
+      "LG Energy Solution Swings to Loss in Q3; Sales Up; Shares Drop 4% - marketscreener.com",
+      "State Street Corporation Discloses 13.80% Substantial Holding in Pilbara Minerals as of 3 November 2",
+      "State Street Corporation Cuts Substantial Holding in Pilbara Minerals from 13.80% to 12.37% - Kalkin"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 54 則事件，焦點為特斯拉、比亞迪、蔚來相關動態：「Zero To Sixty: Fort Worth Gets Tesla Robotaxi While UBS U...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Zero To Sixty: Fort Worth Gets Tesla Robotaxi While UBS Upgrades Rivian And C...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "BYD’s electric hypercar hits 312 mph, first production car over 500 km/h（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

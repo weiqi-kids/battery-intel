@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-05T16:16:56.148940Z",
-  "quarter": "2026-06-30, 2026-09-30",
+  "updated_at": "2026-11-06T15:47:22.448474Z",
+  "quarter": "2025-12-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
       "id": "albemarle",
       "name": "雅保",
       "ticker": "ALB",
       "currency": "USD",
-      "ar": 603805000,
-      "ar_prev": 522715000,
-      "ar_qoq": "+16%",
+      "ar": 606375000,
+      "ar_prev": 603805000,
+      "ar_qoq": "+0%",
       "ar_period": "QoQ",
-      "inventory": 1384563000,
-      "inv_prev": 1346960000,
-      "inv_qoq": "+3%",
+      "inventory": 1392595000,
+      "inv_prev": 1384563000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "basf",
@@ -262,17 +262,17 @@
       "name": "優美科",
       "ticker": "UMI.BR",
       "currency": "EUR",
-      "ar": 1887300000,
-      "ar_prev": 910544000,
-      "ar_qoq": "+107%",
+      "ar": 910544000,
+      "ar_prev": 1362800000,
+      "ar_qoq": "-33%",
       "ar_period": "QoQ",
-      "inventory": 2644000000,
-      "inv_prev": 2550046000,
-      "inv_qoq": "+4%",
+      "inventory": 2550046000,
+      "inv_prev": 2295700000,
+      "inv_qoq": "+11%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2025-12-31"
     },
     {
       "id": "volkswagen",
