@@ -1,0 +1,16 @@
+{
+  "total_raw": 411,
+  "dup_title": 221,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 24,
+  "gate2_fail": 27,
+  "passed": 49,
+  "gate2_samples": [
+    "LG Energy Solution Swings to Loss in Q3; Sales Up; Shares Drop 4% - marketscreener.com",
+    "State Street Corporation Cuts Substantial Holding in Pilbara Minerals from 13.80% to 12.37% - Kalkin",
+    "BYD’s new luxury electric SUV has one big problem: It weighs over 8,200 lbs - Electrek",
+    "Why It Could Be Smart To Spend $1000 Extra For Smaller Wheels On Your Rivian R2 - The Autopian",
+    "Rivian car buyers are driving a Wall Street rethink on the stock - TheStreet"
+  ]
+}

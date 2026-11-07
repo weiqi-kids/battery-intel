@@ -1,0 +1,184 @@
+{
+  "date": "2026-11-07",
+  "date_range": {
+    "start": "2026-11-01",
+    "end": "2026-11-07"
+  },
+  "generated_at": "2026-11-07T14:46:51.428020Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "byd-2026-11-02-003",
+      "date": "2026-11-02",
+      "title": "Global EV battery market share in January-September 2026: CATL 39.1%, BYD 15.2% - CnEVPost",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nio",
+      "company_b": "tesla",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 285,
+      "last_week": 256,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.05
+    },
+    "cathode_material": {
+      "this_week": 11,
+      "last_week": 9,
+      "week_over_week_change": "+22%",
+      "sentiment_this_week": 0.05
+    },
+    "lithium_price": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.25
+    },
+    "recycling": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ev_sales": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "rivian": {
+      "event_count": 8,
+      "sentiment_avg": -0.12,
+      "rank": 7
+    },
+    "nio": {
+      "event_count": 24,
+      "sentiment_avg": -0.01,
+      "rank": 3
+    },
+    "volkswagen": {
+      "event_count": 18,
+      "sentiment_avg": -0.03,
+      "rank": 5
+    },
+    "byd": {
+      "event_count": 24,
+      "sentiment_avg": 0.19,
+      "rank": 4
+    },
+    "catl": {
+      "event_count": 29,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "lg_energy": {
+      "event_count": 25,
+      "sentiment_avg": 0.18,
+      "rank": 2
+    },
+    "samsung_sdi": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "pilbara": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 9
+    },
+    "tesla": {
+      "event_count": 16,
+      "sentiment_avg": 0.03,
+      "rank": 6
+    },
+    "ganfeng": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "umicore": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "eve": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 442,
+        "last": 493,
+        "change_pct": -10.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-01",
+      "event_count": 41,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-11-02",
+      "event_count": 72,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-03",
+      "event_count": 91,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-11-04",
+      "event_count": 77,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-11-05",
+      "event_count": 62,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-06",
+      "event_count": 77,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-11-07",
+      "event_count": 22,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-01 ~ 2026-11-07）共 442 則事件，重點為「Global EV battery market share in January-Septe...」。電池產業通用、正極材料、電動車銷量為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Rivian",
+        "reason": "本週出現 8 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "蔚來",
+        "reason": "本週出現 24 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "福斯",
+        "reason": "本週出現 18 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

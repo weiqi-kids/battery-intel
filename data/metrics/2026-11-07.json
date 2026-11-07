@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-07",
+  "total_events": 22,
+  "by_company": {
+    "catl": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "lg_energy": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "samsung_sdi": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nio": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 21,
+      "sentiment_avg": -0.04
+    },
+    "cathode_material": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
