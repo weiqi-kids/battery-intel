@@ -1,0 +1,16 @@
+{
+  "total_raw": 412,
+  "dup_title": 244,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 23,
+  "gate2_fail": 27,
+  "passed": 20,
+  "gate2_samples": [
+    "State Street Corporation Discloses 13.80% Substantial Holding in Pilbara Minerals as of 3 November 2",
+    "BYD’s new luxury electric SUV has one big problem: It weighs over 8,200 lbs - Electrek",
+    "Why It Could Be Smart To Spend $1000 Extra For Smaller Wheels On Your Rivian R2 - The Autopian",
+    "Rivian Stock Can Rise More Than 30%. The R2 Isn’t Just for ‘Tesla Switchers.’ - Barron's",
+    "View Exterior Photos of the 2027 Rivian R2 Performance - Car and Driver"
+  ]
+}
