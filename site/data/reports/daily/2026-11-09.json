@@ -1,0 +1,241 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T18:30:25.449701Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-11-09-024",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Tesla and BYD star: EVs and hybrids take more than half of October sales as petrol and diesel slide - EV Central",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa1R6VnVSYVAxZWdmLUZPNVR6dEhwUzdUTG9qN3J1bVJhckdHRFRyWXNaMzhXSEVMbjA2REJyV0FiLUdBV3pSeG5pYXF1VmJXUm93NU5qVnRkRnFJZFF1WTZ1QlFfOXdjOTN6MG9fbE5Cb2t2Tno4eEtCS3dKYjBnd2xYU0wxdzFjSldQbEJHNy1WQmxEbmF6emtsLXVodTZ4RHQwTk9ISmE4bXdyeWtzOUZzZmpCcnp1YnhOaldxbWg4dw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_sdi-2026-11-09-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BMW adds Samsung SDI and LG Energy Solution as battery suppliers - Quartz",
+      "companies": [
+        "samsung_sdi",
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wM2RPY1NfaEN5VWpXMi1mQy10RjZJaXJYbDRpT1VNSDBQVUpOOTBKYjhHT0VPWFMtelpSZGw5clh3NjhRU0FNZ3pDdngtY09xY1Bic1V2eW9xTXJnM281dWFITFZIZktpUFRCbUQ0UjFDbThOc001XzNHUG5fM1k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_sdi-2026-11-09-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BMW partners with Samsung SDI and LG Energy Solution for EV batteries - Fuel Cells Works",
+      "companies": [
+        "samsung_sdi",
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYmdmcldCaGpMcTFCRk9VdVBjQ2otYTcyRHpfdEZyeTFieVJGRENvT0ZhN3VHeTNnR0tCSTFtT0VxazZTRkVuRzlJLVRuZEVQamxuQ1dDdlpZc1kwYTBvZUJ3ZG91Nm1oZmpmSms0SkVnQ0Uwc2NEX0RDczBCa0VZOEpJR3V5VXE1MEd1QnIxek41M3NEWjBfR0Z6VkF6YTBocGJMd01sZmhOY2g5RmtTZ0wzSENRTUZRVmh0eG9rNkNVRC1sRU9WX0w1bDFSZjFr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_sdi-2026-11-09-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BMW Adds Samsung SDI, LG Energy Solution as Gen6 Battery Cell Suppliers - The EV Report",
+      "companies": [
+        "samsung_sdi",
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUZMTWt4dEo1Ny1KTUR2a25iWkdSRjBfcnZCdGtLZzdaazloZTlHMnBBV19TcEZmVFJYNjNNSWhEZWtXWEdFeHRyTjJsMmJ0aXJQS0U4WmVHZDhvWmVvZkpwdG1kQWVnS1lWZEFtSFRPaHFUQ0Z3WHdpcnpKSzRQSVVXdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tesla-2026-11-09-033",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Barclays Adds Nio, XPeng and Rivian in Q3, Cuts Tesla, Lucid, and GM and Shares - Electric Vehicles",
+      "companies": [
+        "tesla",
+        "nio",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaXVHWDJzWnRaTnNmYUlLT2VDSlUyRFJtVHlqdlRxY0dhakVnVld0bUJobzJwQ21uY0hleHBKcUJ1NndiMGhDWFZBTzljRTdFTW9iWmNSR3Jsa042Sk5zRV92Rm0wTHE0WWhMVERnRHU4TDA0b182aU9oR3Boc3BHZk5nMEViV0xBSzNPTEk3QU9jekNKRnZ4QmMtS1RkT1ZqSTBPd1prQmxxcXd4YlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 64,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_energy",
+      "to": "samsung_sdi",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 66,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 55,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 7
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 6
+      },
+      {
+        "id": "tesla",
+        "count": 6
+      },
+      {
+        "id": "lg_energy",
+        "count": 5
+      },
+      {
+        "id": "catl",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 64
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 202,
+    "too_old": 84,
+    "gate1_blocked": 20,
+    "gate2_blocked": 22,
+    "passed": 76,
+    "pass_rate": "37.6%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "South Korea's ESS Lifespan Race Ignites: SK On Takes On Samsung SDI With 20-Year-Plus Warranty - Big",
+      "JPMorgan Chase & Co. Reduces Substantial Holding in Pilbara Minerals to 6.21% - Kalkine",
+      "BYD’s new luxury electric SUV has one big problem: It weighs over 8,200 lbs - Electrek",
+      "Why It Could Be Smart To Spend $1000 Extra For Smaller Wheels On Your Rivian R2 - The Autopian",
+      "View Exterior Photos of the 2027 Rivian R2 Performance - Car and Driver"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 66 則事件，焦點為蔚來、三星SDI、特斯拉相關動態：「Tesla and BYD star: EVs and hybrids take more than half o...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tesla and BYD star: EVs and hybrids take more than half of October sales as p...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "BMW adds Samsung SDI and LG Energy Solution as battery suppliers - Quartz（電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

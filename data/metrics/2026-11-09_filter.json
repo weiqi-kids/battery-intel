@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 20,
+  "gate2_fail": 22,
+  "passed": 76,
+  "gate2_samples": [
+    "South Korea's ESS Lifespan Race Ignites: SK On Takes On Samsung SDI With 20-Year-Plus Warranty - Big",
+    "JPMorgan Chase & Co. Reduces Substantial Holding in Pilbara Minerals to 6.21% - Kalkine",
+    "BYD’s new luxury electric SUV has one big problem: It weighs over 8,200 lbs - Electrek",
+    "Why It Could Be Smart To Spend $1000 Extra For Smaller Wheels On Your Rivian R2 - The Autopian",
+    "View Exterior Photos of the 2027 Rivian R2 Performance - Car and Driver"
+  ]
+}
