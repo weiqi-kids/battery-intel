@@ -1,0 +1,16 @@
+{
+  "total_raw": 402,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 21,
+  "gate2_fail": 21,
+  "passed": 81,
+  "gate2_samples": [
+    "BMW Adds Samsung SDI, LG Energy Solution for Gen6 [2026] - shattered.io",
+    "LG Energy Solution Wins CES Innovation Award - Businesskorea",
+    "SK On joins 20-year ESS warranty race - mkbn.mk.co.kr",
+    "South Korea's ESS Lifespan Race Ignites: SK On Takes On Samsung SDI With 20-Year-Plus Warranty - Big",
+    "First Sentier Group Discloses Substantial Holder Change in Pilbara Minerals on 6 November 2026 - Kal"
+  ]
+}

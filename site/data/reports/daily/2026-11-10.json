@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T16:15:28.332661Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-11-10-047",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Automakers' shares of China's NEV exports in October: BYD leads with 28.3%, Tesla rises to 10.1%",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/11/10/automakers-shares-china-nev-exports-oct-2026/"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-11-10-048",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "China NEV market share in October: BYD leads with 22.4%, Tesla drops out of top 10",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "tesla"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/11/10/china-nev-share-oct-2026/"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_energy-2026-11-10-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "LG Energy Solution, Samsung SDI ink agreements with BMW on high-voltage battery supply - Korea JoongAng Daily",
+      "companies": [
+        "lg_energy",
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQV9YOGlJN3ZRQzhUVVFVdHBscjE2SjhOS0xMN0tBdGVHTjM1WmUwd3dJUFV0SGRkZURnT2g4QS1wX2l1UzFXbEtzZkwwWERKYU9QUGZuTnZFeFpxVEJrdjh6SDV5Q0FXQk1MRE5uT3RjTmlSWFd3VTVoWU93eGxuM2RMMG0xX3V0NGx6UTdaZE1zYzRTUFdHYzVpZkNQTW1HVW5hMWdIQkZsd1hDVXl3OEdxRk51dXB2MTNsdldYUG1WOEh0c1MycXp5eVFLalZ0YVFv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_energy-2026-11-10-013",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BMW Adds Samsung SDI, LG Energy Solution as EV Battery Suppliers - THE ELEC, Korea Electronics Industry Media",
+      "companies": [
+        "lg_energy",
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93NUp6Z3ByY3BDSnl2dHVhOG5JYWE0cGRoaWtvdHVFSGhEWTl4YVpPRW1iZzcxX2tLNFRQUENIWTFVSDkxYWlPUFpqb0JHUmpLbndDVzM5VTRudlh0bWpob1l6UU9YM0U?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_energy-2026-11-10-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BMW Adds Samsung SDI, LG Energy Solution as Battery Suppliers, Completing Two-Pillar 'Local Supply' Setup in Europe, US - BigGo Finance",
+      "companies": [
+        "lg_energy",
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdUhLX04tSmhMZ2VxOGVxSGJSY1o0ODRzNk5WeUszd0pIS1NOVmJXMzBGMzlfUGg2eV9MaHU4UGIwR1J2UUNRUzdMbEhlbFgyajRldE1uZFlNc3lRbHR0OVROQnpzWkNBVDY3ZnN4RWlKa0hib0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 70,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_energy",
+      "to": "samsung_sdi",
+      "relation": "co_mention",
+      "co_mention_count": 6,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "byd",
+      "to": "tesla",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 71,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 65,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_sdi",
+        "count": 14
+      },
+      {
+        "id": "lg_energy",
+        "count": 11
+      },
+      {
+        "id": "catl",
+        "count": 8
+      },
+      {
+        "id": "byd",
+        "count": 6
+      },
+      {
+        "id": "rivian",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 70
+      },
+      {
+        "id": "cathode_material",
+        "count": 2
+      },
+      {
+        "id": "ev_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 402,
+    "dup_title": 193,
+    "too_old": 86,
+    "gate1_blocked": 21,
+    "gate2_blocked": 21,
+    "passed": 81,
+    "pass_rate": "38.8%",
+    "gate2_block_rate": "10.0%",
+    "gate2_samples": [
+      "BMW Adds Samsung SDI, LG Energy Solution for Gen6 [2026] - shattered.io",
+      "LG Energy Solution Wins CES Innovation Award - Businesskorea",
+      "SK On joins 20-year ESS warranty race - mkbn.mk.co.kr",
+      "South Korea's ESS Lifespan Race Ignites: SK On Takes On Samsung SDI With 20-Year-Plus Warranty - Big",
+      "First Sentier Group Discloses Substantial Holder Change in Pilbara Minerals on 6 November 2026 - Kal"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 71 則事件，焦點為三星SDI、LG新能源、寧德時代相關動態：「Automakers' shares of China's NEV exports in October: BYD...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Automakers' shares of China's NEV exports in October: BYD leads with 28.3%, T...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "China NEV market share in October: BYD leads with 22.4%, Tesla drops out of t...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
