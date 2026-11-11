@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 28,
+  "gate2_fail": 26,
+  "passed": 76,
+  "gate2_samples": [
+    "BMW Adds Samsung SDI, LG Energy Solution for Gen6 [2026] - shattered.io",
+    "South Korea's ESS Lifespan Race Ignites: SK On Takes On Samsung SDI With 20-Year-Plus Warranty - Big",
+    "Mitsubishi UFJ Financial Group Raises Voting Power in Pilbara Minerals to 8.38% at 6 November 2026 -",
+    "First Sentier Group Discloses Substantial Holder Change in Pilbara Minerals on 6 November 2026 - Kal",
+    "State Street Corporation Discloses 13.80% Substantial Holding in Pilbara Minerals as of 3 November 2"
+  ]
+}

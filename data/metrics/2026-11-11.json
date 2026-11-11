@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-11",
+  "total_events": 57,
+  "by_company": {
+    "catl": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "samsung_sdi": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "lg_energy": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ganfeng": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "rivian": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "nio": {
+      "count": 6,
+      "sentiment_avg": 0.17
+    },
+    "volkswagen": {
+      "count": 8,
+      "sentiment_avg": 0.25
+    },
+    "tesla": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 52,
+      "sentiment_avg": 0.03
+    },
+    "cathode_material": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "lithium_price": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "ev_sales": {
+      "count": 5,
+      "sentiment_avg": 0.65
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_energy",
+      "to": "samsung_sdi",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ]
+    }
+  ]
+}
