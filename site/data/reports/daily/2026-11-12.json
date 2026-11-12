@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:40:36.538884Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-11-12-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Germany bans BYD, Nio and Geely cars from some military sites, report says - CarNewsChina.com",
+      "companies": [
+        "byd",
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUw4OUF6NGhJaWx6SUdTdkRGdzJEaUxDTjlOYWRoaFNZaGFUbWRjaW9sRHFkZThGVmhLRGR5NVgwMWEyanBEMVhIY00tVVVFNk4xWDR6Vk9TTFowYzExRjVnQ21Td25rSnR1cHBZY25mbW5XZWp2aE50X21wSVphYkdXazdvNFpuOEFpUHR0WWtDcUNCamxpTV91X1FxYXJ0YzNlb19hQ3dFM3I4VkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "volkswagen-2026-11-12-018",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "VW’s China EV venture stalls with no new models until 2029: Report - Drive Tesla Canada",
+      "companies": [
+        "volkswagen",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lTGYxYWZ3UzdYWDktaXhNTnRUTlBHZDhBWDQ0ejE3UDJqcjE4MFY3SUhJZF9pano4cUk3YS1HWTd1MGllSkFQZ1JpQjVwWkxkZXZLYmc5X1ZMdjhZMjhJRDQtalBEa1pKelM4dGtqNDgxa1VYejJuZzRKMFBiMGM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘It is much, much faster’: could China’s battery-swapping e-trucks be the answer to EV range anxiety? - The Guardian",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbTJJcE96ejJOa2p5dFV4MjZGMVNBNGZobjBUSmVmNzdHUEZKTWdKZ1RHdTBOSmhGblhzdTAwRExXejBKRmtGTDBnRzFtLVdINktRUTJHMHo3NDFSQ0F3TjJnWGVSQ3lYNzV5dUt3dUpfWGtRNG5rNzlLNU9aVTA1QWZ6a2Z0N0V1cnJNQWlfd2NEMzlBU1ZFaXhXbkppRlN5WXZYT3dISFA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-11-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL secures another exclusive eVTOL battery partnership with EVT Aerotechnics - CnEVPost",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLT09fSkp6TUp5ejJJaXpxMUExQ3RhZmdqTmpDeFl2VWUybDJjU0xiOGdVcUE5TzdUaWxZamxLWURCN0FQNGgtV3U2dFlfNkIzaXpjUHh6QnRXT3hVXzVKWDRQQ1JPN3B3b2FmTWFaWDRoUGFHbVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_energy-2026-11-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution Vertech Launches AEROS™ Intelligence to Turn Battery Data into Actionable Insights - PR Newswire",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOXQwX3RHTEZXMlJzQ1ZaZnJpSTZaR2JUSndoR1ZJYk5vVUZoQnRYWUJIVGNzZnM2T3FlTFk1NjRYUEhYTjZXOGc2Uk9DMnpHTjZrdmpKNDM2b2RSQWdNQ0JZUVIyQjc4MTFtcFB3TEVWcHFmampsWVA5VDdVTjMyWFVQTUZMWkx1VzlTR0ljUE9td2RyTmpnckpQY2JkRGQ0ZWdCSVJLOFE5VVBCV2hpWmE2VWxsUUpLRzd3UU9UMDIzRFBIY0lFV0x0eXVRSEczZnZkSDdNMlRObV9tM2NEMHl0QkR5d21HWmh2VA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "ev_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 44,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 38,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 9
+      },
+      {
+        "id": "byd",
+        "count": 4
+      },
+      {
+        "id": "rivian",
+        "count": 4
+      },
+      {
+        "id": "nio",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 42
+      },
+      {
+        "id": "ev_sales",
+        "count": 2
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 402,
+    "dup_title": 197,
+    "too_old": 78,
+    "gate1_blocked": 29,
+    "gate2_blocked": 29,
+    "passed": 69,
+    "pass_rate": "33.7%",
+    "gate2_block_rate": "14.1%",
+    "gate2_samples": [
+      "BMW Adds Samsung SDI, LG Energy Solution for Gen6 [2026] - shattered.io",
+      "Morgan Stanley Cuts Voting Power in Pilbara Minerals to 7.29% from 8.36% - Kalkine",
+      "Mitsubishi UFJ Financial Group Raises Voting Power in Pilbara Minerals to 8.38% at 6 November 2026 -",
+      "JPMorgan Chase & Co. Reduces Substantial Holding in Pilbara Minerals to 6.21% - Kalkine",
+      "First Sentier Group Discloses Substantial Holder Change in Pilbara Minerals on 6 November 2026 - Kal"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 44 則事件，焦點為福斯、比亞迪、Rivian相關動態：「Germany bans BYD, Nio and Geely cars from some military s...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Germany bans BYD, Nio and Geely cars from some military sites, report says - ...（正極材料）",
+        "level": "red"
+      },
+      {
+        "text": "VW’s China EV venture stalls with no new models until 2029: Report - Drive Te...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

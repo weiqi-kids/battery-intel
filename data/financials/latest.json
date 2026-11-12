@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:57:38.149044Z",
+  "updated_at": "2026-11-12T16:40:31.667204Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -143,17 +143,17 @@
       "name": "松下",
       "ticker": "6752.T",
       "currency": "JPY",
-      "ar": 1409210000000,
-      "ar_prev": 1379750000000,
-      "ar_qoq": "+2%",
+      "ar": 1407111000000,
+      "ar_prev": 1409210000000,
+      "ar_qoq": "-0%",
       "ar_period": "QoQ",
-      "inventory": 1179799000000,
-      "inv_prev": 1066123000000,
-      "inv_qoq": "+11%",
+      "inventory": 1275960000000,
+      "inv_prev": 1179799000000,
+      "inv_qoq": "+8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "pilbara",

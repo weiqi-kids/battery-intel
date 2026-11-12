@@ -1,0 +1,16 @@
+{
+  "total_raw": 402,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 29,
+  "gate2_fail": 29,
+  "passed": 69,
+  "gate2_samples": [
+    "BMW Adds Samsung SDI, LG Energy Solution for Gen6 [2026] - shattered.io",
+    "Morgan Stanley Cuts Voting Power in Pilbara Minerals to 7.29% from 8.36% - Kalkine",
+    "Mitsubishi UFJ Financial Group Raises Voting Power in Pilbara Minerals to 8.38% at 6 November 2026 -",
+    "JPMorgan Chase & Co. Reduces Substantial Holding in Pilbara Minerals to 6.21% - Kalkine",
+    "First Sentier Group Discloses Substantial Holder Change in Pilbara Minerals on 6 November 2026 - Kal"
+  ]
+}
