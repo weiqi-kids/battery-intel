@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 27,
+  "gate2_fail": 29,
+  "passed": 77,
+  "gate2_samples": [
+    "BMW Adds Samsung SDI, LG Energy Solution for Gen6 [2026] - shattered.io",
+    "Mitsubishi UFJ Financial Group Raises Voting Power in Pilbara Minerals to 8.38% at 6 November 2026 -",
+    "BYD apologises for wheel-rim error as China cracks down on car quality issues - South China Morning ",
+    "BYD’s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000 - Electrek",
+    "The Rivian R2 Is the 2027 MotorTrend SUV of the Year - MotorTrend"
+  ]
+}

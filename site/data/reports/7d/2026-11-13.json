@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-13",
+  "date_range": {
+    "start": "2026-11-07",
+    "end": "2026-11-13"
+  },
+  "generated_at": "2026-11-13T15:59:47.853998Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tesla-2026-11-09-024",
+      "date": "2026-11-09",
+      "title": "Tesla and BYD star: EVs and hybrids take more than half of October sales as petrol and diesel slide - EV Central",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "lg_energy",
+      "company_b": "samsung_sdi",
+      "co_mention_count": 14,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "tesla",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 309,
+      "last_week": 272,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": 0.05
+    },
+    "cathode_material": {
+      "this_week": 8,
+      "last_week": 10,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": -0.06
+    },
+    "ev_sales": {
+      "this_week": 8,
+      "last_week": 3,
+      "week_over_week_change": "+167%",
+      "sentiment_this_week": 0.47
+    },
+    "lithium_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": -1.0
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 27,
+      "sentiment_avg": 0.02,
+      "rank": 3
+    },
+    "lg_energy": {
+      "event_count": 26,
+      "sentiment_avg": 0.04,
+      "rank": 4
+    },
+    "samsung_sdi": {
+      "event_count": 29,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "nio": {
+      "event_count": 26,
+      "sentiment_avg": 0.13,
+      "rank": 5
+    },
+    "byd": {
+      "event_count": 21,
+      "sentiment_avg": 0.05,
+      "rank": 7
+    },
+    "volkswagen": {
+      "event_count": 29,
+      "sentiment_avg": 0.02,
+      "rank": 2
+    },
+    "tesla": {
+      "event_count": 23,
+      "sentiment_avg": 0.04,
+      "rank": 6
+    },
+    "sk_on": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "rivian": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "panasonic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "ganfeng": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 9
+    },
+    "eve": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 416,
+        "last": 444,
+        "change_pct": -6.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-07",
+      "event_count": 30,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-11-08",
+      "event_count": 18,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-11-09",
+      "event_count": 76,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-11-10",
+      "event_count": 92,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-11",
+      "event_count": 84,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-12",
+      "event_count": 63,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-11-13",
+      "event_count": 53,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-07 ~ 2026-11-13）共 416 則事件，重點為「Tesla and BYD star: EVs and hybrids take more t...」。贛鋒鋰業情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "贛鋒鋰業",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 27 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LG新能源",
+        "reason": "本週出現 26 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,244 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T15:59:47.688215Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nio-2026-11-13-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "CATL targets 6,000 passenger car battery swap stations in 2027, potentially overtaking Nio - CnEVPost",
+      "companies": [
+        "nio",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "nio"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNU9tQ0N5ZGtNakttdVZZdmtwR2tMM00zd0lEWXJXc2NIMHJZYjNOVFFqVGUtblRSU0ZtNHlTNkZsWDdsUHNWWXZSUXJVVDU1Vm5lYThIMTNRQkdkcVUwMXhwa0NPa280alNVYmRfYkY3SkhablM2RDh2TFRhU2pOTy1wNnlRSXg4NjRF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-11-13-028",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "CATL targets 6,000 passenger car battery swap stations in 2027, potentially overtaking Nio",
+      "companies": [
+        "nio",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "nio"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/11/13/catl-targets-6000-passenger-car-swap-stations-2027/"
+    },
+    {
+      "rank": 3,
+      "event_id": "nio-2026-11-13-014",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Renaissance Slashes Nio and Rivian by Over Half, Nearly Exits Nvidia - Electric Vehicles",
+      "companies": [
+        "nio",
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVHdDdHhtN2Y2REFrX2JzVmt3UWx3S2w1THdRaExscHVhMTVKLXFGbzE3dW8wUkxtLXdzd1BpZ01fUXRtdF8wV3FUQzRhNl9JRGgza3lILUl5MllidU94U3pnRVBQTlpHNWZoVG16UmpIR2RnQ2xheEZvSVZGMm5LWnhaNnl4RTFGTXRZSm16M09HSFZrY25aT1J1c0U0V1pkbVRN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "volkswagen-2026-11-13-019",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Volkswagen Starts ID. Tiguan Production in Germany Ahead of 2027 Deliveries - Drive Tesla Canada",
+      "companies": [
+        "volkswagen",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOU1LNndCT1k5aDdiV24zZUFVSnh3NkVaM0RwSVh2RXd2MEJJTjlZenRHQlJEVWZPUFVjUEd2YWphQlNMQWFUVjgxN19wNGxzRjJhVnlvYU1BbkJZVXVjNEVKNkFNSW1TazdOUDJmTW9WZE5JSkU3WjB6RXUzU0hNN052OFg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-13-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "A Record Number Of Uber Miles Are Happening In EVs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://insideevs.com/news/815368/uber-evs-record-miles-global-q3-2026/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 51,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "catl",
+      "to": "nio",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 53,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 42,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 6
+      },
+      {
+        "id": "nio",
+        "count": 6
+      },
+      {
+        "id": "volkswagen",
+        "count": 6
+      },
+      {
+        "id": "tesla",
+        "count": 5
+      },
+      {
+        "id": "lg_energy",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 51
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 193,
+    "too_old": 77,
+    "gate1_blocked": 27,
+    "gate2_blocked": 29,
+    "passed": 77,
+    "pass_rate": "36.7%",
+    "gate2_block_rate": "13.8%",
+    "gate2_samples": [
+      "BMW Adds Samsung SDI, LG Energy Solution for Gen6 [2026] - shattered.io",
+      "Mitsubishi UFJ Financial Group Raises Voting Power in Pilbara Minerals to 8.38% at 6 November 2026 -",
+      "BYD apologises for wheel-rim error as China cracks down on car quality issues - South China Morning ",
+      "BYD’s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000 - Electrek",
+      "The Rivian R2 Is the 2027 MotorTrend SUV of the Year - MotorTrend"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 53 則事件，焦點為寧德時代、蔚來、福斯相關動態：「CATL targets 6,000 passenger car battery swap stations in...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CATL targets 6,000 passenger car battery swap stations in 2027, potentially o...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "CATL targets 6,000 passenger car battery swap stations in 2027, potentially o...（電池產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
