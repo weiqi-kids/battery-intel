@@ -1,5 +1,364 @@
 [
   {
+    "id": "catl-2026-11-14-001",
+    "date": "2026-11-14",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "CATL’s US$130b drop: why has China’s biggest battery maker plunged in value? - South China Morning Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPYTBwTWc0TmluWlZ5N0kyRlV0cHhfcEgzdG11aE03ZmNPT2k5b3plV1hzMzRpRDE0M0VNMjJyZW1YZ0hPX0x5VElubDBaUkpQM0x6bHhQVXZQenRYV1VtWWxZS3pBcTJVQzhHa2ZmWW",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYTBwTWc0TmluWlZ5N0kyRlV0cHhfcEgzdG11aE03ZmNPT2k5b3plV1hzMzRpRDE0M0VNMjJyZW1YZ0hPX0x5VElubDBaUkpQM0x6bHhQVXZQenRYV1VtWWxZS3pBcTJVQzhHa2ZmWWhSTU9NMEJINU1BT0ZYWkJoaW5Bb3RuUTlRWElLN0hwQkVKTVVscEgtMmxHcDNQZkFKdmRaN1dMR2pWbEhvOTdPRkNRRHE4NkNYN1NfNnViQ1RLRmRxbkxnTldwYy1RQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-002",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s Arcfox launches two new EVs with 99-second battery swaps - Interesting Engineering",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNOTVkVU1mYzRpN3pvSU80cF9fQkw1UU0xUnJpZ2JYMlB6QUhOQkJTYzd3OGdTbjhtcVNVbndEN1RyQlotRGFsOGJuMVNQRnBGSkw0ci1LaVdfczFqbkJLMzJyTkU3NXJnNENlNUx3UT",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOTVkVU1mYzRpN3pvSU80cF9fQkw1UU0xUnJpZ2JYMlB6QUhOQkJTYzd3OGdTbjhtcVNVbndEN1RyQlotRGFsOGJuMVNQRnBGSkw0ci1LaVdfczFqbkJLMzJyTkU3NXJnNENlNUx3UTA5R194T3Q1U0hhT0VqZXByMHg0QW1iYUotcDZxd1FfYUI5bldVRzBXRHBKejFfdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catl-2026-11-14-003",
+    "date": "2026-11-14",
+    "companies": [
+      "catl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "INTILION and CATL plan to deploy 3 GWh of sodium-ion BESS in Europe - Solarbytes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRkZHbmxBQW81dm8xZjBYdV9Jam1kem9aYWpKQzY2dzhLdllCSjVDRHJNenF6YnRJVTZhc081eW1CcDdkeFhpSkxlakdmMHZYeGpoZ0ZlUmxWV2ZpZ3RjMU5Hc2ZQcmpaTXc4aFhtc1",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRkZHbmxBQW81dm8xZjBYdV9Jam1kem9aYWpKQzY2dzhLdllCSjVDRHJNenF6YnRJVTZhc081eW1CcDdkeFhpSkxlakdmMHZYeGpoZ0ZlUmxWV2ZpZ3RjMU5Hc2ZQcmpaTXc4aFhtc1ZJMGp4eFBjSm92WTczczJ3MWpyUzl1TFRWSjhiTnpaS0U3Y041d1Y1WGlRQ2lFVGpfeE9lQzY4ejRfSV9jR3pFNzZkemZXS25fR2p6SFpRSEZlbWh6QXh4S2xKZkNlRUJhOHdoaEpqbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-11-14-004",
+    "date": "2026-11-14",
+    "companies": [
+      "lg_energy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy Solution's Consolidated Subsidiary Ultium Cells Faces Overtime Pay Class Action by U.S. Plant Workers Alleging Unpaid Time Spent Putting On and Removing Protective Gear - 뉴스필드",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZVFdkQ0U5ZU1oaWNiNFdvXzhqRVMwMDNoblRCSnZ0cnhqSzhFYXY1bjNhU3VLOXlfd3FzTmxzZ2JGNXZKa3NIQ1NlOUk?oc=5\" target=\"_blank\">LG Energy Solution's Con",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZVFdkQ0U5ZU1oaWNiNFdvXzhqRVMwMDNoblRCSnZ0cnhqSzhFYXY1bjNhU3VLOXlfd3FzTmxzZ2JGNXZKa3NIQ1NlOUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_energy-2026-11-14-005",
+    "date": "2026-11-14",
+    "companies": [
+      "lg_energy",
+      "samsung_sdi"
+    ],
+    "topics": [
+      "cathode_material",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy Solution and Samsung SDI plan LFP batteries for AI server backup units from mid-2027 - MLQ.ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2FkSm1Zc2E0eGR2N3NxUFlta0tMV19Dbl8yWjZDY3FSelMzUE4xa2szazAxYlVPbkxHS2JyQzhGOF9rcnluclFpNnJSMjRveXotMFZmeHYxcU4tb3FaSjZEbWZDYllPWEI2U2kwQz",
+    "sources": [
+      {
+        "name": "lg_energy",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2FkSm1Zc2E0eGR2N3NxUFlta0tMV19Dbl8yWjZDY3FSelMzUE4xa2szazAxYlVPbkxHS2JyQzhGOF9rcnluclFpNnJSMjRveXotMFZmeHYxcU4tb3FaSjZEbWZDYllPWEI2U2kwQzd0SHRCM2ZIVURBSFhTSDgyVVJINE9HUWhHb3l1dkhCckRvQVhEdjEwMnprME5FemVlS0UyLTE2a3dwRHdqY0NxekZ0NURJZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-006",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hungary bet big on China's EV battery boom. Now the bill comes due - Ynetnews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GNkR0TlE4LVUycGZzM0lWWFhxNDZWZkxaSVRMYmRqOEczOG1UT2x5Y2pPN3RONERVaDZfZnBuT0cyZlZVUHNyWGQwM2ZBQWxYaU9WOWtpR0ZBb05RbWc?oc=5\" target=\"_blank\">",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GNkR0TlE4LVUycGZzM0lWWFhxNDZWZkxaSVRMYmRqOEczOG1UT2x5Y2pPN3RONERVaDZfZnBuT0cyZlZVUHNyWGQwM2ZBQWxYaU9WOWtpR0ZBb05RbWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-11-14-007",
+    "date": "2026-11-14",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD unveils solar-powered EV charging station with battery storage and robotic plug-in - The Driven",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNblp5eVJNbllMbjNDXzFoR1pON0lNaXJWTDQwZ25CWXo3NUlIQlZwOVVETmhTX3hFZWxDaEY1MmZQVTV5WG1rbWw0bmZJV3ZVN1NfaTJzLXQ3aDEta0lnc1VkbW5vNzBacDlIbjN0N2",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNblp5eVJNbllMbjNDXzFoR1pON0lNaXJWTDQwZ25CWXo3NUlIQlZwOVVETmhTX3hFZWxDaEY1MmZQVTV5WG1rbWw0bmZJV3ZVN1NfaTJzLXQ3aDEta0lnc1VkbW5vNzBacDlIbjN0N2F2VC01NWFOQmRyVm5FQXZ5MEU1OHF1c0xkUjVOWXdBWkFKZjItajVWQkw0T1VGaWY3SllNX1B4QzlqWGVTdTdXT2k0dkRRUEN5R1pZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-11-14-008",
+    "date": "2026-11-14",
+    "companies": [
+      "nio"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NIO (NIO) Shares Just Moved, So What Is Behind The Attention? - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnd0X2VwM3VOQVdsSDhjb1N4U2NBdl90eEtaWk02cHRpQm5Cc1FNZURnZS16ZTZlRGRubGd6QTE4VU9tUm83OW5kSFFpemk3X05IZG0ydmNldXJTRll4MjVtMzZCbGpIMFUxaF9mSl",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnd0X2VwM3VOQVdsSDhjb1N4U2NBdl90eEtaWk02cHRpQm5Cc1FNZURnZS16ZTZlRGRubGd6QTE4VU9tUm83OW5kSFFpemk3X05IZG0ydmNldXJTRll4MjVtMzZCbGpIMFUxaF9mSlYyaS1yOEFvWEFBeHdURmpoVzd1UjI5WFVRc0lGSVpUMzVfbWpsRDZJc0ZiaXNqZEE1S1ZMSnBraTBBcnBYNjBQblJFUzZrQW5wR1A40gHAAUFVX3lxTE05QUQyMWdmMU92UGs4Slc2OHR3N0U5bEkzQXZsWkRWeTJzeHNyRmNWMTVwTWJsVmR6OHVuQUlfWWU2RVpPVl9ZTEcxWFJmbXhraFJxNnN3VHZRYlJjUU5UVTFWbi10NTFIbURWZ2twbHFUMWhZT0J4LWt5NjY2UnRmS243Z1VjT2hJSkQ1aVRYSmdDTnZQal95ZGpGZDVnMTB4WUdWUmxnbmUzakJRZUd5X0IxVGVRVE9WZ1ViUGNIOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-11-14-009",
+    "date": "2026-11-14",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "May Mobility Plans 10,000+ Volkswagen ID. Buzz Robotaxis by 2031 - Electric Cars Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnpTaHhqdXFoUkZyN3ZIeXFjdUNORnI3SnVtRkZZX0d3ZGRjWG9HMTdheHJBTUgxVDNLOTFFVE5aZG9OTjBSZmlobk8ydDg2dERtQmt2VXo0SHk5U05OVl82SnRGREFVY1JrNzFpZm",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnpTaHhqdXFoUkZyN3ZIeXFjdUNORnI3SnVtRkZZX0d3ZGRjWG9HMTdheHJBTUgxVDNLOTFFVE5aZG9OTjBSZmlobk8ydDg2dERtQmt2VXo0SHk5U05OVl82SnRGREFVY1JrNzFpZmpWdExaa2RSUUVabWc0NWZiNTVkZ3VmVTdoc1loM2RUZ0s4a2Y4eWk0UUd4VVdXdFJUSlJj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-11-14-010",
+    "date": "2026-11-14",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "I finally got a USB-C charging e-bike, and it costs 75% less than Rivian’s bike",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/engwe-zip-foldig-bike-head.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">I’v",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/11/14/i-finally-got-a-usb-c-charging-e-bike-and-it-costs-75-less-than-rivians-bike/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-11-14-011",
+    "date": "2026-11-14",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybercab-orders.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Tesla i",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-11-14-012",
+    "date": "2026-11-14",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla Opens Self-Driving Cybercab Orders To 'Select Customers' At $29,990",
+    "summary": "The Cybercab will be Tesla's cheapest vehicle, but there's a catch: autonomous driving will cost you $299 per month. ",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-11-14-013",
+    "date": "2026-11-14",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla Starts Selling Cybercab — $30,000*",
+    "summary": "<p>Well, it&#8217;s a big day in Tesla World. The company has officially launched Cybercab sales. You can now order a Cybercab for the starting price of $30,000 (technically, $29,900). That said, ther",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/13/tesla-starts-selling-cybercab-30000/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-014",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Who Can Weather the Health Storm?",
+    "summary": "<p>States facing the greatest health damage from climate change are the least equipped to protect their residents. Across the United States, climate change is intensifying extreme weather events, resu",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/13/who-can-weather-the-health-storm/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-015",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First attempt to address screen printing-induced degradation in copper-plated heterojunction solar cells",
+    "summary": "<p>Researchers in China have investigated a previously overlooked degradation mechanism in copper-plated heterojunction solar cells caused by screen-printed photoresist. They found that progressive we",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/14/first-attempt-to-address-screen-printing-induced-degradation-in-copper-plated-heterojunction-solar-cells/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-016",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UNSW develops three-minute lithium-ion battery health test",
+    "summary": "<p>Researchers at the University of New South Wales (UNSW) have developed a prototype that uses electrical pulses and statistical models to assess lithium-ion battery health in under three minutes per",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/14/unsw-develops-three-minute-lithium-ion-battery-health-test/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-017",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Masdar completes $950 million solar and battery storage project in California",
+    "summary": "<p>The Abu Dhabi clean energy developer and its joint venture partner Terra-Gen have brought the Lockhart complex online, adding 365 MW of solar generation and 173.7 MW of energy storage to the Califo",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/14/masdar-completes-950-million-solar-and-battery-storage-project-in-california/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catl-2026-11-14-018",
+    "date": "2026-11-14",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "cathode_material",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Clarifying the CATL Tener Sodium, with new specifications and availability",
+    "summary": "<p>New specs for CATL’s four-hour sodium-ion battery reveal how the company will market the product for cost benefits over LFP-based batteries. International deliveries are due to begin in summer 2027",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/14/clarifying-the-catl-tener-sodium-with-new-specifications-and-availability/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-019",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Transparent bamboo boosts energy performance of solar PV skylights",
+    "summary": "<p>Researchers tested 21 glazing configurations using transparent wood and PV modules with different transparency levels. Bamboo-based systems achieved the lowest heat gain and cooling operating costs",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/14/transparent-bamboo-boosts-energy-performance-of-solar-pv-skylights/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "catl-2026-11-13-001",
     "date": "2026-11-13",
     "companies": [
@@ -1012,6 +1371,395 @@
       {
         "name": "pv_magazine",
         "url": "https://www.pv-magazine.com/2026/11/13/chinas-highways-could-generate-182-twh-of-solar-annually/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catl-2026-11-13-054",
+    "date": "2026-11-13",
+    "companies": [
+      "catl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CATL Expands Aviation Battery Push as eVTOL Market Takes Shape - Caixin Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTlZ0U0ZTX2xIWVc3ZWRpVG5SeE1ac2NZQkYtTmIxUG1PUlFvdVZkRnIxMnJ1RjV1cW9nVlZtVlJBcWw1ODVUM2JwUWxYcDdac2FxRXJCbThrdlVMVXFrb2VQVmlhdi1zTW9zTi1IQm",
+    "sources": [
+      {
+        "name": "catl",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTlZ0U0ZTX2xIWVc3ZWRpVG5SeE1ac2NZQkYtTmIxUG1PUlFvdVZkRnIxMnJ1RjV1cW9nVlZtVlJBcWw1ODVUM2JwUWxYcDdac2FxRXJCbThrdlVMVXFrb2VQVmlhdi1zTW9zTi1IQmVYVjczeXJqelhwWV8yU1RPZ1NkWG9ndkE5LUJfZzJvdFFPS01JLVNmMEZlMllMUUI5OWFOMGdydFZXZkNTWi10M1hUT0YxeERr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-055",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMW Signs New Battery Supply Deals for US and EU EVs - Thomasnet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkgyTDlDWW85MmJ1Q0NnRGVVZDh5dEpvMjFheTl2M0taTHFHUnkwYmNHTnhDcm9ubXZVVnd1aWd6YkhESklWMGlaM3I4bm9HQ1hqODdUdXB6SFdJbWZ4RHUtOVhQNTlPYWZTXzFQLU",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkgyTDlDWW85MmJ1Q0NnRGVVZDh5dEpvMjFheTl2M0taTHFHUnkwYmNHTnhDcm9ubXZVVnd1aWd6YkhESklWMGlaM3I4bm9HQ1hqODdUdXB6SFdJbWZ4RHUtOVhQNTlPYWZTXzFQLUd0aVJNRGtmN0hHbTFEX0w0Y1psTjIxYW02M3BiRjhXQnFnR2NnREE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_sdi-2026-11-13-056",
+    "date": "2026-11-13",
+    "companies": [
+      "samsung_sdi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMW selects Samsung SDI batteries for Neue Klasse - www.mojkraj.hr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPWGhuajl6ZXBSS3pPekFLTTMybmQydnNfTnBxeEFJTjJ3SE9WaUFnMlZaaFE4cjJBS1dRZUI1a3BfZFQ0bVdnQjF2Nkd4b3Q5V1FvRzdjUGh2eXA3bjJZZ3ZoYjVRWGlxQ1pCU0NfWj",
+    "sources": [
+      {
+        "name": "samsung_sdi",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWGhuajl6ZXBSS3pPekFLTTMybmQydnNfTnBxeEFJTjJ3SE9WaUFnMlZaaFE4cjJBS1dRZUI1a3BfZFQ0bVdnQjF2Nkd4b3Q5V1FvRzdjUGh2eXA3bjJZZ3ZoYjVRWGlxQ1pCU0NfWjNuaTRVd3JXWmpZXzZDV092b19aejhmZDJSSnd4cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-11-13-057",
+    "date": "2026-11-13",
+    "companies": [
+      "byd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BYD’s new flagship Tang SUV starts at about $34,000 with two enormous screens - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNLWgyT1NENXVhRUNwZUhwWkdfalRUT3dMZ2FiUTNYQ2pxLXRNeDd6NVNybm8tUHVROVppYWlqUDNoV2dVWlhLbGM0RWJOOXhwUHl0SEczX1paREw5QTRWN1BMZzNNa3dIS1Z5SjY5Mj",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLWgyT1NENXVhRUNwZUhwWkdfalRUT3dMZ2FiUTNYQ2pxLXRNeDd6NVNybm8tUHVROVppYWlqUDNoV2dVWlhLbGM0RWJOOXhwUHl0SEczX1paREw5QTRWN1BMZzNNa3dIS1Z5SjY5MjhNUHBYVXJCczZiLXZVYnJ2S0xkYXdUUEp6TkZpeFFxWW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-11-13-058",
+    "date": "2026-11-13",
+    "companies": [
+      "rivian",
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla Cybertruck Owner Switches to Rivian R2, Walks Away With Unexpectedly Strong Trade-in Value - Yahoo Autos",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHVjMkxfS1FLMFo4Z184WjdVWmstVWRJWHkwaVNLa2huT2I0SXV6ME1lVjYzeEdxQWlnUnlYY3ZZRXlWa1VFd2xfWEdJZmRHWWdnenBZdHBoYlVFWWhjNE1xRmkxQ05wUjV6LW01WF",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHVjMkxfS1FLMFo4Z184WjdVWmstVWRJWHkwaVNLa2huT2I0SXV6ME1lVjYzeEdxQWlnUnlYY3ZZRXlWa1VFd2xfWEdJZmRHWWdnenBZdHBoYlVFWWhjNE1xRmkxQ05wUjV6LW01WFdnNU1RUWUwcVFudXV4NFBlUUdZWFEtVjQtRUhjTVN3Wm1rdmpPSlBvTndiWVBpUVBnWEZ3VEZFNVkxTzEtYUtj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-11-13-059",
+    "date": "2026-11-13",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Vanguard Trims Lucid for First Time, Lifts Rivian to Record in Q3 - Electric Vehicles",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPOHdaamRwbFo5MGV5VllMd3pYdnBlaWM0OUlXYzZjcktxb05uWmd0RDVUU3YyUmlmdFpYWm5IN0JkRkRfZmpVbjdBYUt3R2N1TkdReG83OTBtNV9GRjJLR2xNTjIwNnh0czNQYlFkZW",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOHdaamRwbFo5MGV5VllMd3pYdnBlaWM0OUlXYzZjcktxb05uWmd0RDVUU3YyUmlmdFpYWm5IN0JkRkRfZmpVbjdBYUt3R2N1TkdReG83OTBtNV9GRjJLR2xNTjIwNnh0czNQYlFkZWFlN1N6UFd1V0xacEZIa0stSDhlaElkTzN4NFRmUnBOT2o4b0c1VVpjai1tT0I5OW1US2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nio-2026-11-13-060",
+    "date": "2026-11-13",
+    "companies": [
+      "nio"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Nio Stock Slides to Six-Year Low as EV Maker Faces Pressure on Every Front - Electric Vehicles",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2hOWE5nS29FRFZseHZNTEVWX1dacF82Rm1lLUQ4RUI5ZVJ0MFFZQnJoMFpfRnlvMFdRelQ2aGJ6YTJlVWcxTEs0bktRRl9BQ05WQjBnUnN0Qm84Mm1YYXFWNWMzWGh6a3ZoVGZGVk",
+    "sources": [
+      {
+        "name": "nio",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2hOWE5nS29FRFZseHZNTEVWX1dacF82Rm1lLUQ4RUI5ZVJ0MFFZQnJoMFpfRnlvMFdRelQ2aGJ6YTJlVWcxTEs0bktRRl9BQ05WQjBnUnN0Qm84Mm1YYXFWNWMzWGh6a3ZoVGZGVk5CLVhUUXRuTHRUY0xjS2toNk1NUEtmSllIVi11eHFRYTZ2RDJHVWY5eF9CSHpISGR6R29KYklWSWppNnox?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-11-13-061",
+    "date": "2026-11-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen may have just hinted at the name of its next affordable EV - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOdm5WZW54RUs0dkZrdnRzSFhaWDBXRGl5OHVKZFJiWi0xNFR2ek5kaklCanJ6dHYyMWk3ZlNtd1ZoNmhZbU1TTWhVZ0ctRTl0TDZabTBtUDUwekl2TFhDZHhxNTVlRk9xMmwtdi1keV",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdm5WZW54RUs0dkZrdnRzSFhaWDBXRGl5OHVKZFJiWi0xNFR2ek5kaklCanJ6dHYyMWk3ZlNtd1ZoNmhZbU1TTWhVZ0ctRTl0TDZabTBtUDUwekl2TFhDZHhxNTVlRk9xMmwtdi1keVZJdHViVUJlSVEwS3RsOTZldHdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-11-13-062",
+    "date": "2026-11-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Volkswagen is delaying another EV based on the SSP - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1laVJsQlNQbHRTcHJERzZxOE9QeXpGNDMwd3R6WmZ3aXVpTy1od3dRY3lXNFZvOHY2cDNuZHAtU3ZLamhpU3JTNDVZUTNFMy00SVgyenJONG1OYmlmb0ROZS1tekljN0RuVy1rejNKMH",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1laVJsQlNQbHRTcHJERzZxOE9QeXpGNDMwd3R6WmZ3aXVpTy1od3dRY3lXNFZvOHY2cDNuZHAtU3ZLamhpU3JTNDVZUTNFMy00SVgyenJONG1OYmlmb0ROZS1tekljN0RuVy1rejNKMHlFWVRH?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-11-13-063",
+    "date": "2026-11-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen trademark filing suggests its next affordable EV could be called ID. UP - Mezha.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPdzZVc1hhSzNreDhpYXA3ci1ZU1h0eFdDcHFJdXZ0NlVJX3VTbzlfV0RidVdzZzZTZWV2RWotZnYxbjRXNl9pVGlJY2FYR0JIYWQydTkxVksybUJNM3h0ZGxXdlVmbVFYTTFxZDBpby",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdzZVc1hhSzNreDhpYXA3ci1ZU1h0eFdDcHFJdXZ0NlVJX3VTbzlfV0RidVdzZzZTZWV2RWotZnYxbjRXNl9pVGlJY2FYR0JIYWQydTkxVksybUJNM3h0ZGxXdlVmbVFYTTFxZDBpby0xTHk1MlZzckp3b3dzbWkwcWJMQVdEUUhUU0FGaU85bw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-11-13-064",
+    "date": "2026-11-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen Starts Production of the New ID.Tiguan: Electric Crossover to Replace Two Models at Once - Root-Nation.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNREhNYjc5cUxicGZFYU5qLTZHa3hLX0I0RjgtbjZsMGlQTTd0MS1aaXRpWmt5M0lfNlVmeEFoVDZtRnBMS05LdDlVOExnY3dUS05pRTQ5OEVWWnF3c2VHU2lyM2p1QW4zY1VDUlNTMW",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREhNYjc5cUxicGZFYU5qLTZHa3hLX0I0RjgtbjZsMGlQTTd0MS1aaXRpWmt5M0lfNlVmeEFoVDZtRnBMS05LdDlVOExnY3dUS05pRTQ5OEVWWnF3c2VHU2lyM2p1QW4zY1VDUlNTMW90b283RUk0UUNUelFidW43SDQ5SEZjQWxqcGNFek1idTF1VWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-065",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ID. Tiguan Series Production Begins at Emden Plant - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0hzZWRyNkdWQXM5a3c2cU1zNktfQ29PNnJGcFlHVDdlLW92QmVQNEZFeWQ2UFRDWGpHR2c5RGVILVRtSEtPVFRtQ3cxWU9sYzFnempEdU9OaDJmWDlCMFlUeVVFeHk0bV9jWjBJWE",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0hzZWRyNkdWQXM5a3c2cU1zNktfQ29PNnJGcFlHVDdlLW92QmVQNEZFeWQ2UFRDWGpHR2c5RGVILVRtSEtPVFRtQ3cxWU9sYzFnempEdU9OaDJmWDlCMFlUeVVFeHk0bV9jWjBJWEZOd0h2WktFbHh4ZGwzT2dqVFhxaGc1NE9QU1YwRDQycXgtUTU1YTdSWXhKbGJjckVGMWZfVGI4X3ZWaDFMNEs3QTc4b1FTR1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-11-13-066",
+    "date": "2026-11-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen may have just hinted at the name of its next affordable EV",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-E20000-EV.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><a href=",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/11/13/volkswagen-trademark-name-next-affordable-ev/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-11-13-067",
+    "date": "2026-11-13",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD’s new flagship Tang SUV starts at about $34,000 with two enormous screens",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Tang-EV.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><a href=\"https://",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/11/13/byd-opens-tang-ev-orders-two-enormous-screens-for-34000/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-11-13-068",
+    "date": "2026-11-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Volkswagen is delaying another EV based on the SSP",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-delaying-Audi-A4-EV.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/11/13/volkswagen-delaying-another-ev-ssp/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-11-13-069",
+    "date": "2026-11-13",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/image_7594a0.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Tesla is now only",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-070",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/Hyundai-new-Kona-leaks.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><a hre",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/11/13/hyundai-overhauling-kona-ev/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-11-13-071",
+    "date": "2026-11-13",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla Cybercab goes on sale for $29,990, slated for December deliveries",
+    "summary": "<p>Tesla has officially put the Cybercab up for sale, revealing a bargain price and a $299 per month &#8220;Autonomy Subscription&#8221; that could hit customer hands as soon as December. The offer re",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-cybercab-29990-december-deliveries/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-11-13-072",
+    "date": "2026-11-13",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX Starship Flight 15: How to watch the double catch attempt",
+    "summary": "<p>UPDATE: The FAA has granted the license for Starship Flight 15. Starship Flight 15 License has been granted by the FAA! Let&#8217;s go! https://t.co/DugsgjvYAe — TESLARATI (@Teslarati) November 13,",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/spacex-starship-flight-15-how-to-watch-the-double-catch-attempt/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-073",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ask a Scientist: Who Has a Voice in Clean Air Protections?",
+    "summary": "<p>If developers and planners decide to site an industrial chemical plant next door to your home, you’d want the chance to speak up about it. Soliciting input from the communities and individuals affe",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/13/ask-a-scientist-who-has-a-voice-in-clean-air-protections/",
         "type": "rss"
       }
     ]
@@ -2223,6 +2971,66 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/11/12/build-clean-accelerating-affordable-energy-while-advancing-community-and-environmental-stewardship/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-11-12-064",
+    "date": "2026-11-12",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD's Futuristic EV Charger Can Run On Sunshine And Batteries - Yahoo Autos",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdUozUTJmUVd0cUNPV3hjNUtXQTRZZGw5UmNTSVgyUXpYc2d6UFBCNFZEZUZPVXpNWVRWeng0ZFFGa1g2dWp2dFB4NEtZVFE4S3RmdDNDdkFSdXNLcjRTNUJwbXZIa2dYSTAtM1NPYT",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUozUTJmUVd0cUNPV3hjNUtXQTRZZGw5UmNTSVgyUXpYc2d6UFBCNFZEZUZPVXpNWVRWeng0ZFFGa1g2dWp2dFB4NEtZVFE4S3RmdDNDdkFSdXNLcjRTNUJwbXZIa2dYSTAtM1NPYTBIT0FtSktUWHhmM0xUVVRpbF9DRDg4UGh4OGhuaFoxU1VjZzVhTGZpNnUyTmVWZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-11-12-065",
+    "date": "2026-11-12",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "BYD Denza's updated N8 returns as 5-seater, expanding family SUV lineup - CnEVPost",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9OWmtNRHdXMmRDME9ZM1Q4aDRLQTRpTjFTRTdOVFlhQnRLTlVscTlyOFBQbXcwSVQ4Szh5OFlzaHQ0M1dheUU1MU1RT2dpQWlwRXZ1UEc5Y1Y0ZzlsQWNiakVCRjExTWR2djRYZWIwbm",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OWmtNRHdXMmRDME9ZM1Q4aDRLQTRpTjFTRTdOVFlhQnRLTlVscTlyOFBQbXcwSVQ4Szh5OFlzaHQ0M1dheUU1MU1RT2dpQWlwRXZ1UEc5Y1Y0ZzlsQWNiakVCRjExTWR2djRYZWIwbm02ZlNEdWFNOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rivian-2026-11-12-066",
+    "date": "2026-11-12",
+    "companies": [
+      "rivian"
+    ],
+    "topics": [
+      "cathode_material"
+    ],
+    "impact": "neutral",
+    "title": "Rivian CEO says robotaxis won’t end car ownership - and he’s betting on both - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNcm13WS16RTJYODBkR0JoMy1QckdiQmEtUjBKN190c3ZIQWo1OWdlT3oyYjhfVzJrdkdtTjYwQlNlS3MtaWZMZXlFZXJfd3BiRnBZYlZrMnVnaWxiSzZOdDg1d2JiSC04XzRMX0ZvaE",
+    "sources": [
+      {
+        "name": "rivian",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcm13WS16RTJYODBkR0JoMy1QckdiQmEtUjBKN190c3ZIQWo1OWdlT3oyYjhfVzJrdkdtTjYwQlNlS3MtaWZMZXlFZXJfd3BiRnBZYlZrMnVnaWxiSzZOdDg1d2JiSC04XzRMX0ZvaEdsTzNpWklBV3M0R2hCNW5nY2RwRDIwSHdRQ2FsYzBNS05zSjAySzZ2RjJmYURDazdoTFBkZWdsOWlidnVoT2JocDgwSnFsSUhaaTlXbVppZXJRNkMx?oc=5",
         "type": "rss"
       }
     ]
@@ -3822,6 +4630,24 @@
       {
         "name": "volkswagen",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZRWhrV1ZYaTlxcVh6Z1ZRMGZFUlF3YVJHT3FaUlkwaUhManFEdm52djYycGI2ZHEwekluUWFjb0VWTXdueHNmSWJPUDNYbW5sMjE1U3BtMS1NNi1vU2dkVTZ5S1JhY2FSTUFLYy1MWjNsc1hjNE00dE55TTnSAXxBVV95cUxNQWZnQ2ZLZVpqQmdMTTZ4YTRhb2ZZbVJnWDNMWTFBbGFBSW1FT2dNTGJMZlM0NUhCVnlON2ZBekV0YnRoaUdkWEtKbFdXbURSMS1nMk9YSmlJWmlRVkNRTDVRTXFsdlJxT0lLTHVkaG5GSEZkMW8zUWRhWVlo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-085",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese Lithium Giant Says Price Swings Have Turned Extreme - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2Y3YUg1VlpCN3NPN0ZoS3M1TGIzTFliVzZxUmNoSVNKSS1uaGlpS3o5YkhUeEM1UWtmTlpkaEl3bXV0LUJxZGR4ZUhGMG1jd3ZERTFPV3VzQmMtdVBuNEdzV0Z4THZ3c29ZVWR1ej",
+    "sources": [
+      {
+        "name": "ganfeng",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2Y3YUg1VlpCN3NPN0ZoS3M1TGIzTFliVzZxUmNoSVNKSS1uaGlpS3o5YkhUeEM1UWtmTlpkaEl3bXV0LUJxZGR4ZUhGMG1jd3ZERTFPV3VzQmMtdVBuNEdzV0Z4THZ3c29ZVWR1ejBIZEY2NWhfY1ZZYUl0SHZXemJhdkNGZTNZQko5ZnJUaXd3MUZ2YTU3R3VDMUhXS3NaUlJpaDNvZ1poZ2FOUFdBbHlyZ3k1QQ?oc=5",
         "type": "rss"
       }
     ]
