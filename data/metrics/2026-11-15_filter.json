@@ -1,0 +1,16 @@
+{
+  "total_raw": 407,
+  "dup_title": 248,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 31,
+  "gate2_fail": 29,
+  "passed": 22,
+  "gate2_samples": [
+    "Clarifying the CATL Tener Sodium, with new specifications and availability - ESS News",
+    "BMW Adds Samsung SDI, LG Energy Solution for Gen6 [2026] - shattered.io",
+    "Morgan Stanley Cuts Voting Power in Pilbara Minerals to 7.29% from 8.36% - Kalkine",
+    "BYD’s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000 - Electrek",
+    "2026 Jeep Recon vs. 2027 Rivian R2 Tested: Which Electric SUV Is Better? - Car and Driver"
+  ]
+}

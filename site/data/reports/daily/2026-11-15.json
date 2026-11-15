@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T15:29:17.222076Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_energy-2026-11-15-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung SDI, LG Energy Solution Face Off Over AI Data Center ESS at RE+ 2026 in Las Vegas - BigGo Finance",
+      "companies": [
+        "lg_energy",
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsNnNRd0RNMFAwOG43V1ZkbXcwZlRqOTNrbHQzQ0oyMHVVRTVQSnNwaVNpWkt2WTJiX2loMHBaN09ZLXlqOGVvRFo3a0hFTTVrdV9rZ3MwaWFOM2pENl90cV8wSl9jZHZnNHhuczRhZVpwTVFUb1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_energy-2026-11-15-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung SDI and LG Energy Solution to showcase AI data center batteries at US RE+ 2026 - Chosunbiz",
+      "companies": [
+        "lg_energy",
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPckRXdkdpYlZGRkZLbW5QblNWeXAyRVdRTkZaUlRVSGczb1ItYk5jb0QxekJLeVloM1Q0M3YzMlRUNmxmT1JMMUVBbzBpeWpFMmpiQUpPX3prTl9rb2M1cVlaWlFtd3BJbVdpdTZ5UEwyT1ZKMGJrdEV4QVpwcWdjR1B30gGWAUFVX3lxTE9QNEZhU0ttQV9WOEZhWlp2aU5PMmNUeEdVcnVVd1dYbVJ1ZWtvZVE1T2RzSGYwck1YT1NHb3E3OGZ5X254Q3FwRW53eEY0QjFSY2MtOVdDR291Zl84LXpVN05FaHN1d191WDZyTHZaVkpUN21pUWJkSEZkMGQyQVY4Zmw5YnRwMGFnVEhFT3lkQlZfT3d0Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_energy-2026-11-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Energy Solution's Vertech Launches ESS Management Software - THE ELEC, Korea Electronics Industry Media",
+      "companies": [
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0ta2hLenhKNzRMUGpUT2FFa1dkX28xa1N3YkN1TWVJeGo5QzdBajB2SmRITmtNNnNJSDZpVjlSaXVOTU5jcFo2YW40N1dIclNRQVRyOGJQUE5oeGt5ZUtCOUh2LVRuMm8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_sdi-2026-11-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung SDI Co., Ltd. Unveils Next-Generation Total Battery Solutions... Steps Up Push Into ESS Market - 매일경제",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOWmFDejRnb0ZmRlJNWG9yWjZPREVOQUZNQ1MtenFScThkbjRTNjVTNWtLUkx4WFFxZENwOEw5dUhYbkxfTkpUSHJjQ2lfZC1YaUtN?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_sdi-2026-11-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung SDI unveils U.S.-manufactured SBB 2.0 : Business/Industry : JKN - 재경일보",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XUXdWS3lFOTZoTWhpNTN1d2N2RWxfaXZLX3hjQnJBX2ZXMVc5YXQ0YXRlX1AwTGlsVi1QdmVmMUhCXzZGYnlyVlBhWFpVTFl3WTV3eW4xZF85UGFMaUdEN1hB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_energy",
+      "to": "samsung_sdi",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 6
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 4
+      },
+      {
+        "id": "lg_energy",
+        "count": 3
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      },
+      {
+        "id": "volkswagen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 407,
+    "dup_title": 248,
+    "too_old": 77,
+    "gate1_blocked": 31,
+    "gate2_blocked": 29,
+    "passed": 22,
+    "pass_rate": "13.8%",
+    "gate2_block_rate": "18.2%",
+    "gate2_samples": [
+      "Clarifying the CATL Tener Sodium, with new specifications and availability - ESS News",
+      "BMW Adds Samsung SDI, LG Energy Solution for Gen6 [2026] - shattered.io",
+      "Morgan Stanley Cuts Voting Power in Pilbara Minerals to 7.29% from 8.36% - Kalkine",
+      "BYD’s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000 - Electrek",
+      "2026 Jeep Recon vs. 2027 Rivian R2 Tested: Which Electric SUV Is Better? - Car and Driver"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為蔚來、三星SDI、LG新能源相關動態：「Samsung SDI, LG Energy Solution Face Off Over AI Data Cen...」。主要關注主題為電池產業通用、正極材料，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Samsung SDI, LG Energy Solution Face Off Over AI Data Center ESS at RE+ 2026 ...",
+        "level": "yellow"
+      },
+      {
+        "text": "Samsung SDI and LG Energy Solution to showcase AI data center batteries at US...（電池產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
