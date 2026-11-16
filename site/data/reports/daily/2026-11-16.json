@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T18:07:01.502398Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nio-2026-11-16-032",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "China steps up supplier payment oversight covering 17 automakers including BYD, Nio and Xiaomi - CnEVPost",
+      "companies": [
+        "nio",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00RXl0c0wzM1JOcUx3ZG9fOWtIUzFhU1o5cy1pWDRpOGF2cklDQ1ZhMWRCMjhtUnhzVl9tU3RHTTFfX0JXRkx0cDhSbjZtYnJlOXVaaHUySlF4c0cySjVtR3VWRDFNMktsdFFzNFpIc054ZUVBYkRZcVlOZTFjcVU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nio-2026-11-16-046",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "China steps up supplier payment oversight covering 17 automakers including BYD, Nio and Xiaomi",
+      "companies": [
+        "nio",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/11/16/china-steps-up-supplier-payment-oversight/"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_energy-2026-11-16-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BMW adds Samsung SDI in Europe and LG Energy Solution in the US as Gen6 cell suppliers - Charged EVs",
+      "companies": [
+        "lg_energy",
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3AxeHhfUjFGTl92VmhJX01DSVpjX1VjRzBXRm1aTFV4aXpkVVlCdXZNQWstNlhhOUVocnJ2WlZqSXc2bjQyQTdsTFVSdktvRnNFSTR6aXNhUWdWWW1iY2o0RmZCTUNGdm5OYVJoSGNIVnFLdHNhdGR1SS1hREZGNzl0QVlqZnZVYTFhWkdqZWNObGl3RlpucXNsX041cUhsMXdORUxvUGs1a0FnbDlNNVFaWGlzTzFLdU00?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rivian-2026-11-16-029",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Lucid Sinks 8% Despite $1.75 Billion Saudi Lifeline; Tesla Falls 3%, Rivian Dips - 24/7 Wall St.",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzVWdGpnTXNYazlFVkNJb2l0Z21MQk94U2JSOEctTmU3bUYtZTdjOTdNaTIyelVhNmJxWVdCR3ZfTlhlTDhGelFuMndpbl90Rkc2dnhXZlRDVm5jVnpBM3FHdUt3LWJCVlFCYzhFaFJucGNkdGI4ZmRQampXOEtLUWM3UzhLaFRYVGs1N1FEeFdyYnhEUzZKeXBJajBvTGgycTZwVVVENjUtRzZIX3dtNXFvWFJrZEFoOTNj?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nio-2026-11-16-030",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "XPeng Rallies 5% on Q3 Results and Strong Q4 Delivery Outlook; Nio Falls 4%, Tesla Slides 3% - 24/7 Wall St.",
+      "companies": [
+        "nio",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQWNIc0IzYUVGTEN6SFRJV1BYNFE0bmVOSU9KWFpLOWMwaVVyLUtiWUo4aWFQVlU5WHRVV0hZTDZySFphLTlEdGU3OWRsRzVlbkNkNTEyVHpPVE5iLVp4M19hcVQ2Qi1QZFVYWGE0aTFqWW94ZW91Z1lrMnRWMENRTFEwNlUweGtPVHQ1anEwb20zZ3hibkp4eFhzQUl6MmRCdVNSQ3RZMlpnLUJodld4aDFEaDBZVEJGanZlZVltUnpXQ2ZVTEpoZERpOA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 60,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "rivian",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "nio",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "byd",
+      "to": "nio",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 66,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 58,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "samsung_sdi",
+        "count": 16
+      },
+      {
+        "id": "tesla",
+        "count": 8
+      },
+      {
+        "id": "byd",
+        "count": 6
+      },
+      {
+        "id": "volkswagen",
+        "count": 6
+      },
+      {
+        "id": "rivian",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 60
+      },
+      {
+        "id": "cathode_material",
+        "count": 8
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 413,
+    "dup_title": 201,
+    "too_old": 75,
+    "gate1_blocked": 27,
+    "gate2_blocked": 31,
+    "passed": 79,
+    "pass_rate": "37.3%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "Clarifying the CATL Tener Sodium, with new specifications and availability - pv magazine Global",
+      "CATL Joins Forces with Asia-Pacific Partners to Promote Energy Transition - CATL",
+      "Samsung SDI, LG Energy Solution step up ESS push at U.S. expo - 매일경제",
+      "First Sentier Group Discloses Substantial Holder Change in Pilbara Minerals on 6 November 2026 - Kal",
+      "BYD’s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000 - Electrek"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 66 則事件，焦點為三星SDI、特斯拉、比亞迪相關動態：「China steps up supplier payment oversight covering 17 aut...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China steps up supplier payment oversight covering 17 automakers including BY...（電池產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "China steps up supplier payment oversight covering 17 automakers including BY...（電池產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

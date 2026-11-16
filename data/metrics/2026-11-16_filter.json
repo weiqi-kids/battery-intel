@@ -1,0 +1,16 @@
+{
+  "total_raw": 413,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 27,
+  "gate2_fail": 31,
+  "passed": 79,
+  "gate2_samples": [
+    "Clarifying the CATL Tener Sodium, with new specifications and availability - pv magazine Global",
+    "CATL Joins Forces with Asia-Pacific Partners to Promote Energy Transition - CATL",
+    "Samsung SDI, LG Energy Solution step up ESS push at U.S. expo - 매일경제",
+    "First Sentier Group Discloses Substantial Holder Change in Pilbara Minerals on 6 November 2026 - Kal",
+    "BYD’s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000 - Electrek"
+  ]
+}
