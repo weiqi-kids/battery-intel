@@ -1,0 +1,16 @@
+{
+  "total_raw": 406,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 27,
+  "gate2_fail": 22,
+  "passed": 76,
+  "gate2_samples": [
+    "Mitsubishi UFJ Financial Group Raises Voting Power in Pilbara Minerals to 8.38% at 6 November 2026 -",
+    "BYD is bringing its $10,000 ‘Great’ Seagull overseas, but it won’t replace the Dolphin Surf - Electr",
+    "Rivian may have an unexpected solution to high car prices - TheStreet",
+    "Rivian Stock Falls Off A Cliff - 24/7 Wall St.",
+    "Elon Musk Just Killed the Cybertruck to Build Cybercabs. Here’s What It Means for Tesla Stock -- and"
+  ]
+}

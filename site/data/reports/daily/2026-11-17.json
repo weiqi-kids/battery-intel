@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:29:02.293186Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-11-17-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CATL seeks ‘AI Einstein’ to drive battery breakthroughs amid market headwinds - South China Morning Post",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcXZlM0Y1aEUtaF93V19LbnFaWDNtWHlzYmRuUXVzTE44Z1RZWmxZaDNNN21jckY3YTVqcnVNWkdjVklNVUtjQUpOVXpZZGRzVlFtb3JvVC1hWHdPeHdMMzRqMWZlcVpCbWJCRW5BTjhXSkRsTGZ4WXN2UDdNcjJicFdPRllGTXkzR0YyUXB2VEhOY2V4U1FaWGhuLWJGdFo4SmRvTmRXbi1UM1RvRDBDbldXMVN4b2R6b09RS1Y1dWdDS0JuSEZLY0VXUU9JeDNJcEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-11-17-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "D.E. Shaw Becomes Rivian’s Fifth-Largest 13F Holder After Record Q3 - eletric-vehicles.com",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOczdqSUxNeC1paEJkNS1ycFFtdjRlUEVGVUIzT2phRlF2ck5YQm1ra0pLMXRGdEZ5azY1Y2dfaG1IZ0dvb2tXQXNRZlo3V2x5RGdmQVlfbkNacnFrVXFwaUNyQjlqZkowU1RLZTh1blB6bGFid1I2WXRRWU1MN3pVMy14YXVWRDV2NTdjeXBKLWV0VzlsNWgxVW9ZTHpSU29UbDZiWg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-17-049",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "When Less Is More: Rewilding as a Strategy for Nature Recovery",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/11/17/when-less-is-more-rewilding-as-a-strategy-for-nature-recovery/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-17-057",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Italy surpasses 1 million renewable-linked battery storage systems",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/17/italy-surpasses-1-million-renewable-linked-battery-storage-systems/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-11-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CATL Bets on Battery-Swapping to Cement EV Chain Dominance - Bloomberg.com",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmJuaHQ3VTFfa3ZvaWJMZkVqMU1FUURZVEdiaTlrdzBKM3dvREFVd3g3WGNhd2ZyZHpSaVFxTmxiSVU5elNESEo1VHo5T0V4bm9KS2FvRktacUotMXNNUTViNWpsLTdpWmpjTkk3YkxOQ2t6TmJ1ZTQ0aEZaU2dJVU5EODJwWktCMUxDTExBUFljeVdEOEd6bm5JLV9MZjBDeWo1TG1lZHhDMkxJWmwyOE9R?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 55,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 61,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 49,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 9
+      },
+      {
+        "id": "catl",
+        "count": 8
+      },
+      {
+        "id": "rivian",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 55
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 204,
+    "too_old": 77,
+    "gate1_blocked": 27,
+    "gate2_blocked": 22,
+    "passed": 76,
+    "pass_rate": "37.6%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Mitsubishi UFJ Financial Group Raises Voting Power in Pilbara Minerals to 8.38% at 6 November 2026 -",
+      "BYD is bringing its $10,000 ‘Great’ Seagull overseas, but it won’t replace the Dolphin Surf - Electr",
+      "Rivian may have an unexpected solution to high car prices - TheStreet",
+      "Rivian Stock Falls Off A Cliff - 24/7 Wall St.",
+      "Elon Musk Just Killed the Cybertruck to Build Cybercabs. Here’s What It Means for Tesla Stock -- and"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 61 則事件，焦點為蔚來、寧德時代、Rivian相關動態：「CATL seeks ‘AI Einstein’ to drive battery breakthroughs a...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CATL seeks ‘AI Einstein’ to drive battery breakthroughs amid market headwinds...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "D.E. Shaw Becomes Rivian’s Fifth-Largest 13F Holder After Record Q3 - eletric...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
