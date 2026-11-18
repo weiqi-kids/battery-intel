@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T17:02:07.120579Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_sdi-2026-11-18-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung SDI, LG Energy Solution vie for AI data center market - The Korea Times",
+      "companies": [
+        "samsung_sdi",
+        "lg_energy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWEdqUlBkT2dKZlFSZ3VIWHBnVE5UbU0tZ0JIci1yQnRoUDhsbFJGa19waWJLNHpVVWl2NjdCckVEVmQ0MHdERy04Z1p6clptUnh5Z2J1Ri1Cd3hvTzM3bXluMnNHVHdVYkFFV21XV3B4U25vWGxzb1J3MkFrUmJSRUExektlc1pIS0FTTVZycVFPS0MwYWhKSjMwVDc2bGVTZUxRYWk4Nk5hSFpNT185dXQ3a1hxdGNB0gG-AUFVX3lxTE5QN042MjZGQUh1SjhVMC1BX2x3YzNCZFlKUDB1ZTNEamVKTXBGbkZka3RJRnVDWXlpUFBmNHRxWkpMZHZ0Z3laRGxDUDJBQXhFNHN6dURSVDdFRld4cU1GQ1hNSVVTT25UM3pHd3lKVEV1T0Q1X0I4MFNsS2NNOVdlN0hPbHVmOU1VanlPa1hoNDU3blBPdkI5Ym01a1Y4QUFyV1FfbUU3Y0l0bDdBVE94ZlhYeU5PejBLaDdCdVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sk_on-2026-11-18-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SK On-Hyundai U.S. Battery JV Posts 108.4 Billion Won Quarterly Loss - Businesskorea",
+      "companies": [
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nbWs0MFZxZlY3VHQ4M0pKa1l3R1J1SkZ1Y1dWRlAyTmpqU1Bvam5TRXJXZElGaFBLYTVfY2JEYzRMLTEwMi1DYkRWakNvc01HU0syZGdwUE5ENHBUX2FnWGhGYzBQYTlvdUdNcFdKVTAwNGpM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "volkswagen-2026-11-18-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "This Volkswagen EV was hacked to record its driver's conversation - Cybernews",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZFh0TERIVmR2MzhGUmpKRkRVZ3BtTTkzU0thWDZIYnpnaENVMmR6SU41UFVHUENZTGtrTmdHaGpJQ1VGdW9SNi1uMXpSc2NDa1lvUDgwaGZidVhMaGZpX3ZGYkhOQjFOVkpQd2xmNGljNHgwNFZORlBNRWgwVWF6bWg4WQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-18-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LiDAR maker Hesai announces buyback of up to $100 million as Hong Kong shares hover near record low",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/11/18/hesai-buyback-100-million/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-18-040",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "States of uncertainty",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/18/states-of-uncertainty/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 44,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 36,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "samsung_sdi",
+        "count": 8
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "lg_energy",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 44
+      },
+      {
+        "id": "cathode_material",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 298,
+    "dup_title": 130,
+    "too_old": 57,
+    "gate1_blocked": 32,
+    "gate2_blocked": 17,
+    "passed": 62,
+    "pass_rate": "36.9%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Mplus Wins Top Prize at Samsung SDI Innovation Competition - THE ELEC, Korea Electronics Industry Me",
+      "Rivian may have an unexpected solution to high car prices - TheStreet",
+      "2027 Rivian R2 One-Year Road Test Update: Great Vibes, Fun Ride - Edmunds",
+      "Rivian Stock Falls Off A Cliff - 24/7 Wall St.",
+      "2026 Jeep Recon vs. 2027 Rivian R2 Tested: Which Electric SUV Is Better? - Car and Driver"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為三星SDI、福斯、特斯拉相關動態：「Samsung SDI, LG Energy Solution vie for AI data center ma...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung SDI, LG Energy Solution vie for AI data center market - The Korea Times（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "SK On-Hyundai U.S. Battery JV Posts 108.4 Billion Won Quarterly Loss - Busine...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

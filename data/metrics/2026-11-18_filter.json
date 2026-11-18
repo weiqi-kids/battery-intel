@@ -1,0 +1,16 @@
+{
+  "total_raw": 298,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 57,
+  "gate1_fail": 32,
+  "gate2_fail": 17,
+  "passed": 62,
+  "gate2_samples": [
+    "Mplus Wins Top Prize at Samsung SDI Innovation Competition - THE ELEC, Korea Electronics Industry Me",
+    "Rivian may have an unexpected solution to high car prices - TheStreet",
+    "2027 Rivian R2 One-Year Road Test Update: Great Vibes, Fun Ride - Edmunds",
+    "Rivian Stock Falls Off A Cliff - 24/7 Wall St.",
+    "2026 Jeep Recon vs. 2027 Rivian R2 Tested: Which Electric SUV Is Better? - Car and Driver"
+  ]
+}
