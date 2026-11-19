@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T17:11:04.776635Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "catl-2026-11-19-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Top battery makers' share in China in October 2026: CATL 40.00%, BYD 21.36% - CnEVPost",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQRXpGdU9LRmZiYXBwMHNURnlmQ1Y3dmt5OW9yQ0luYk1OVHRsQjZUUzZrSlhITzRsdjVDbUhVeGl5cVllN2loSTVKUV9JWHp4QjhPZElsNDQ0MGszZUdHclJXaG5fY0lnYkpvYjRPVUF2aGltVlJNeFlVamw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catl-2026-11-19-056",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Top battery makers' share in China in October 2026: CATL 40.00%, BYD 21.36%",
+      "companies": [
+        "catl",
+        "byd"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cnevpost.com/2026/11/19/top-battery-makers-share-china-oct-2026/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-19-043",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Official 2026 Amazon Black Friday sale now live! Millions of deals: Apple, Google, TVs, home, more",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://9to5toys.com/2026/11/19/amazon-2026-black-friday-sale-now-live/"
+    },
+    {
+      "rank": 4,
+      "event_id": "tesla-2026-11-19-062",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tesla’s Cybercab fleet just had its biggest day ever",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.teslarati.com/teslas-cybercab-fleet-just-had-its-biggest-day-ever/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-19-076",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "MicroQuanta, Zhejiang University achieve world-record efficiency of 23.9% for 19.48 cm² perovskite solar module",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/19/microquanta-achieves-world-record-efficiency-of-23-9-for-19-48-cm%c2%b2-perovskite-solar-module/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cathode_material": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 76,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "recycling": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 83,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 73,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 12
+      },
+      {
+        "id": "volkswagen",
+        "count": 7
+      },
+      {
+        "id": "tesla",
+        "count": 7
+      },
+      {
+        "id": "ganfeng",
+        "count": 6
+      },
+      {
+        "id": "lg_energy",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 76
+      },
+      {
+        "id": "cathode_material",
+        "count": 8
+      },
+      {
+        "id": "recycling",
+        "count": 2
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 418,
+    "dup_title": 182,
+    "too_old": 76,
+    "gate1_blocked": 19,
+    "gate2_blocked": 30,
+    "passed": 111,
+    "pass_rate": "47.0%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "South Korea's Samsung SDI to Roll Out AI Diagnostics 'SBI' Across SBB ESS Line, Catching Fire Risks ",
+      "Mplus Wins Top Prize at Samsung SDI Innovation Competition - THE ELEC, Korea Electronics Industry Me",
+      "BYD is bringing its $10,000 ‘Great’ Seagull overseas, but it won’t replace the Dolphin Surf - Electr",
+      "2027 Rivian R2 One-Year Road Test Update: Great Vibes, Fun Ride - Edmunds",
+      "Rivian's Latest Design Flex Has Nothing to Do With Cars - Highsnobiety"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 83 則事件，焦點為寧德時代、福斯、特斯拉相關動態：「Top battery makers' share in China in October 2026: CATL ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Top battery makers' share in China in October 2026: CATL 40.00%, BYD 21.36% -...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Top battery makers' share in China in October 2026: CATL 40.00%, BYD 21.36%（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

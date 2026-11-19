@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-19",
+  "total_events": 83,
+  "by_company": {
+    "catl": {
+      "count": 12,
+      "sentiment_avg": 0.04
+    },
+    "byd": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "lg_energy": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "samsung_sdi": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sqm": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "ganfeng": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "nio": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 7,
+      "sentiment_avg": 0.14
+    },
+    "panasonic": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "cathode_material": {
+      "count": 8,
+      "sentiment_avg": 0.04
+    },
+    "industry_general": {
+      "count": 76,
+      "sentiment_avg": 0.03
+    },
+    "recycling": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lithium_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}
