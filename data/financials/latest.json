@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T17:10:59.669419Z",
-  "quarter": "2025-12-31, 2026-06-30, 2026-09-30",
+  "updated_at": "2026-11-20T16:49:14.376227Z",
+  "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
       "id": "albemarle",
@@ -228,17 +228,17 @@
       "name": "智利化工",
       "ticker": "SQM",
       "currency": "USD",
-      "ar": 1058600000,
-      "ar_prev": 826100000,
-      "ar_qoq": "+28%",
+      "ar": 945722000,
+      "ar_prev": 1058600000,
+      "ar_qoq": "-11%",
       "ar_period": "QoQ",
-      "inventory": 1897900000,
-      "inv_prev": 1882200000,
-      "inv_qoq": "+1%",
+      "inventory": 1942084000,
+      "inv_prev": 1897900000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "tesla",
@@ -262,17 +262,17 @@
       "name": "優美科",
       "ticker": "UMI.BR",
       "currency": "EUR",
-      "ar": 910544000,
-      "ar_prev": 1362800000,
-      "ar_qoq": "-33%",
+      "ar": 1887300000,
+      "ar_prev": 910544000,
+      "ar_qoq": "+107%",
       "ar_period": "QoQ",
-      "inventory": 2550046000,
-      "inv_prev": 2295700000,
-      "inv_qoq": "+11%",
+      "inventory": 2644000000,
+      "inv_prev": 2550046000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "volkswagen",
