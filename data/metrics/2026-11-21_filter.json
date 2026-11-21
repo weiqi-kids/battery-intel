@@ -1,0 +1,16 @@
+{
+  "total_raw": 418,
+  "dup_title": 229,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 23,
+  "gate2_fail": 25,
+  "passed": 54,
+  "gate2_samples": [
+    "CATL Opens Türkiye's First NING SERVICE Experience Center in Istanbul - markets.businessinsider.com",
+    "BYD is bringing its $10,000 ‘Great’ Seagull overseas, but it won’t replace the Dolphin Surf - Electr",
+    "2027 Rivian R2 One-Year Road Test Update: Great Vibes, Fun Ride - Edmunds",
+    "Rivian Automotive (RIVN) Has Investors Asking A Bigger Question - Yahoo Finance",
+    "Rivian Is Near Its 52-Week Low. Will RIVN Stock Hit $10 or $15 First? - 24/7 Wall St."
+  ]
+}

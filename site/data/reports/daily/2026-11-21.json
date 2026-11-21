@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T15:58:57.695531Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-11-21-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "This Plug-In Hybrid SUV Towed A Boeing 747 On Only 2 Wheels. Yes, Really.",
+      "companies": [
+        "byd",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/815896/byd-denza-b5-phev-suv-jumbo-jet-tow-two-wheels/"
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-11-21-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31 - pv magazine Global",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcWlRV0RoRUhTc0R4LXJjaWtlbl9DaGFqcHE1eGN2V0ZkaVV2ZEhfVTFHQTVTTHpfQ2UtSnR2MTltMFhBOGNPMkU3WDZqVmdlOHNPS0plRnR5SldZTHBSS3BxODBZMjBmRkdJZ3p6Rlg0X1hudXZ3bWgtUldOTHI2ZnRSUFdRcjd5YlFYM2VYem9mSEZFNFU2OTVWUjhqSjd5X0IyTWNSaGZhM0NaSHg3LQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "byd-2026-11-21-023",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
+      "companies": [
+        "byd",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "byd"
+        ],
+        "suppliers": [
+          "catl"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/21/catl-byd-acwa-among-co-initiators-of-storage-alliance-unveiled-at-cop31/"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_sdi-2026-11-21-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Battery patents: Solid-state filings surpass lithium-ion to hit record high",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.83
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/21/battery-patents-solid-state-filings-surpass-lithium-ion-to-hit-record-high/"
+    },
+    {
+      "rank": 5,
+      "event_id": "catl-2026-11-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "POSCO group Strengthens Lithium Supply Partnership with CATL, the World’s Largest Battery Company - Batteries News",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkctU3dRRzM4dUVSQUVqWENTcktVbUw2amZ0dXY5VV94OFdHQl9PM05HWmlNUUVydkFUYTM2SDlSTDZiNHlUaUhzV3VsbFp5emRTNVJKc2NMZHQ5enJIaWZQZGhiR0xldTZzVVBxNGVUdkdfSy1uRjZSQ2JWRTkwc3ctSDhhU05lXzR6d2dYWEwxVnV1bjJRNnVOSzBBMWt1RVRhM2ZZZjhTaU9La2E4NGlrYnE3U1JtNDNOczMxNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "battery_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 23,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 5
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 3
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "battery_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 418,
+    "dup_title": 229,
+    "too_old": 87,
+    "gate1_blocked": 23,
+    "gate2_blocked": 25,
+    "passed": 54,
+    "pass_rate": "28.6%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "CATL Opens Türkiye's First NING SERVICE Experience Center in Istanbul - markets.businessinsider.com",
+      "BYD is bringing its $10,000 ‘Great’ Seagull overseas, but it won’t replace the Dolphin Surf - Electr",
+      "2027 Rivian R2 One-Year Road Test Update: Great Vibes, Fun Ride - Edmunds",
+      "Rivian Automotive (RIVN) Has Investors Asking A Bigger Question - Yahoo Finance",
+      "Rivian Is Near Its 52-Week Low. Will RIVN Stock Hit $10 or $15 First? - 24/7 Wall St."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為蔚來、比亞迪、寧德時代相關動態：「This Plug-In Hybrid SUV Towed A Boeing 747 On Only 2 Whee...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "This Plug-In Hybrid SUV Towed A Boeing 747 On Only 2 Wheels. Yes, Really.",
+        "level": "red"
+      },
+      {
+        "text": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31 - p...",
+        "level": "yellow"
+      },
+      {
+        "text": "電池成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
