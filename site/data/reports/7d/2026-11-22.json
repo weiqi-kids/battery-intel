@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-22",
+  "date_range": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "generated_at": "2026-11-22T16:02:32.403175Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nio-2026-11-16-032",
+      "date": "2026-11-16",
+      "title": "China steps up supplier payment oversight covering 17 automakers including BYD, Nio and Xiaomi - CnEVPost",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "catl",
+      "co_mention_count": 5,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 316,
+      "last_week": 304,
+      "week_over_week_change": "+4%",
+      "sentiment_this_week": 0.06
+    },
+    "cathode_material": {
+      "this_week": 24,
+      "last_week": 10,
+      "week_over_week_change": "+140%",
+      "sentiment_this_week": 0.01
+    },
+    "recycling": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "lithium_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ev_sales": {
+      "this_week": 1,
+      "last_week": 8,
+      "week_over_week_change": "-88%",
+      "sentiment_this_week": 0.0
+    },
+    "battery_cost": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "catl": {
+      "event_count": 31,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "lg_energy": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "samsung_sdi": {
+      "event_count": 30,
+      "sentiment_avg": 0.03,
+      "rank": 3
+    },
+    "sk_on": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 10
+    },
+    "byd": {
+      "event_count": 20,
+      "sentiment_avg": 0.05,
+      "rank": 6
+    },
+    "rivian": {
+      "event_count": 17,
+      "sentiment_avg": 0.12,
+      "rank": 7
+    },
+    "tesla": {
+      "event_count": 24,
+      "sentiment_avg": 0.04,
+      "rank": 5
+    },
+    "nio": {
+      "event_count": 32,
+      "sentiment_avg": 0.12,
+      "rank": 1
+    },
+    "volkswagen": {
+      "event_count": 27,
+      "sentiment_avg": 0.04,
+      "rank": 4
+    },
+    "sqm": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 11
+    },
+    "eve": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "ganfeng": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "panasonic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 466,
+        "last": 448,
+        "change_pct": 4.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-16",
+      "event_count": 84,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 84,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-11-18",
+      "event_count": 72,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-11-19",
+      "event_count": 103,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-20",
+      "event_count": 71,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-11-21",
+      "event_count": 40,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-22",
+      "event_count": 12,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-16 ~ 2026-11-22）共 466 則事件，重點為「China steps up supplier payment oversight cover...」。智利化工情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "智利化工",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "寧德時代",
+        "reason": "本週出現 31 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LG新能源",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

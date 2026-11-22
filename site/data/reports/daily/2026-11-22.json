@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T16:02:32.249226Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rivian-2026-11-22-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rivian Institutional Ownership Hits Record in Q3 as Funds Absorb Offering - Electric Vehicles",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZlp5UzNnQXJHNzYzM004MXhRRnM5MHVCOXVjb3Yta3dnYTJnYTZWb0dwLVRkZV82aTFHbnpweDQtRTZKMVFMY19PRTZoTUNQNVQ0VnJobmF2allHYzFSbDM4WFlmVENhOTI1R2tFRF9CRHA5azdHYUh4OU44TkFMTWZJT1U4S3NUbnRVanBNQmkxYXh1YkowUlFRaGNkN2V2OEVkYWRDS2dKZG9sRVBN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ford Begins Producing Its Own LFP Batteries - CleanTechnica",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdDhuUll4dzdQdUJlU00xTUFoT0JYTGlpWWFjOTlQWjJjM0NKYjRpS0NPb05aOTF1UDhnSjdnb20xYUc2VkNFSTIxc3N4MVdNemw4QU5McFprT25WYjZPU0VKUXNTNFJHcHlISDJZamRKVzdRd1hZQjcwNm5fRW5QSE9Eb3RiX3Y0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nio-2026-11-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nio Moves Up New ET5T and ES6 to First Half of 2027, Holds ET5 and EC6 - Electric Vehicles",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHpHX05SeTd0TXk5YkNxeFVEa1N4T01nT3dEanZIX1lnTkhZclJGQ0xoMWZZd0lkdGlyNTBiQlQyLXY4ZEo0VER5OHhMVFFRdVhzaXVkdFp0LVJxZTFFTkhFUkZ3WGpDeGJ3OHd6OUxhTTRhSlkwTWpDaW44UXR4T3RzOHJBN2lmN0FwZllXaWNsSWh6cENzRm1pcjBZTWJ5YmxXQ0FB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nio-2026-11-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nio Firefly debuts Haven special edition in Oslo, plans spring 2027 launch in Europe - CnEVPost",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenFKVkNaZ3diUWY0MEI5SzdsMUlTQ19sTy1YYWFBdVFkWE1scm4yNXFwb01od29OSFNVUHNOeXpma3FvNmhoSm02N0s4Sk5aZVYwcDlrRXlRWWF4WnVjNi10WUVrUktSVS1vSDgybnR4M3NXazE2b0hUV2UyUGdwejZyNXhycDQzMWtXcWdZNHJjbW8yTzhyeVJjMWo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nio-2026-11-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nio CEO Says He Won’t Cater to Investors as Shares Hit Lowest Since 2020 - Electric Vehicles",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXQxUXBFQml2WjB0TVZ3cXlkdlhRNmxwSkE3NXZaYXh5eUFjdkEta2pTTHhyc0lGeXhCQThtM09UQ09VU0lnNUc4UGF1ZkJaeGdvQXVJOXY1Z1lSOEpucW9BbG9YYS1nMnI1V2lBeUlzNV9DUVlyRnl3QzJhVHl0QS05ZVpIWlVXN0RuZFFvbk5wdFI5TmpwY3RoLV9neTQyY3MtZU1oSGQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cathode_material": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 5
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      },
+      {
+        "id": "byd",
+        "count": 1
+      },
+      {
+        "id": "catl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "cathode_material",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 228,
+    "too_old": 70,
+    "gate1_blocked": 28,
+    "gate2_blocked": 22,
+    "passed": 28,
+    "pass_rate": "18.9%",
+    "gate2_block_rate": "14.9%",
+    "gate2_samples": [
+      "2027 Rivian R2 One-Year Road Test Update: Great Vibes, Fun Ride - Edmunds",
+      "Rivian's Latest Design Flex Has Nothing to Do With Cars - Highsnobiety",
+      "Rivian Is Near Its 52-Week Low. Will RIVN Stock Hit $10 or $15 First? - 24/7 Wall St.",
+      "Rivian-VW venture expands Palo Alto footprint ahead of tech debut - The Business Journals",
+      "Nio Is Down 45% This Year. What Will It Take to Get NIO Stock Back to $5? - 24/7 Wall St."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為蔚來、Rivian、比亞迪相關動態：「Rivian Institutional Ownership Hits Record in Q3 as Funds...」。主要關注主題為電池產業通用、正極材料，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rivian Institutional Ownership Hits Record in Q3 as Funds Absorb Offering - E...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Ford Begins Producing Its Own LFP Batteries - CleanTechnica（正極材料、電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

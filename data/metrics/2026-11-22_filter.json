@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 228,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 28,
+  "gate2_fail": 22,
+  "passed": 28,
+  "gate2_samples": [
+    "2027 Rivian R2 One-Year Road Test Update: Great Vibes, Fun Ride - Edmunds",
+    "Rivian's Latest Design Flex Has Nothing to Do With Cars - Highsnobiety",
+    "Rivian Is Near Its 52-Week Low. Will RIVN Stock Hit $10 or $15 First? - 24/7 Wall St.",
+    "Rivian-VW venture expands Palo Alto footprint ahead of tech debut - The Business Journals",
+    "Nio Is Down 45% This Year. What Will It Take to Get NIO Stock Back to $5? - 24/7 Wall St."
+  ]
+}
