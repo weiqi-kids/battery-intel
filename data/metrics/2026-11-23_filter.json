@@ -1,0 +1,16 @@
+{
+  "total_raw": 415,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 27,
+  "gate2_fail": 20,
+  "passed": 59,
+  "gate2_samples": [
+    "CATL Opens Türkiye's First NING SERVICE Experience Center in Istanbul - CATL",
+    "Tesla Jumps 13% as Jensen Huang's Return to NVIDIA Sparks Broad Market Rally; Rivian Rallies 9%, Luc",
+    "2027 Rivian R2 One-Year Road Test Update: Great Vibes, Fun Ride - Edmunds",
+    "Rivian Automotive stock hits 52-week low at $11.37 - Investing.com",
+    "Rivian Is Near Its 52-Week Low. Will RIVN Stock Hit $10 or $15 First? - 24/7 Wall St."
+  ]
+}

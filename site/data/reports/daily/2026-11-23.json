@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T19:58:04.000225Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-11-23-013",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nio Sees Revenue Topping $15B This Year— But Analyst Warns Onvo Could Derail Tesla Roadster-Inspired Luxury Bet - TradingView",
+      "companies": [
+        "tesla",
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNanJ2U1FhMXFDYXVnaXlsY2hXZjJyaVlsRDB3ZlR5RlV2OTlRWlpNT05tbm81eWcxSWxaOHRpZGRJWkI0U1JGNXhENnJzNm16TV9TOG5KSW5RYnNVbkFEdTB4WjlHaU1sMjNGNDB3Y1B0SVQtejRKNHRPa0N0U04wd1NoZTZSX2dZcW9mdVM3LVREdEhJcHZTLUxhVS1RUC0tSllIWE9oalVPQVhkclFZX003elEtZnFvdlQyZGZqMkpsSUFlWGJUUGhKNVlCQkVqUmpWdm9pUzVXUWRHOEs4Z2ZNQmgtT2tuVksybGNIYlZiSm40eFJaXzJPNTF1d3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-11-23-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rivian Jumps 9% As Recent Decline Pauses - StocksToTrade",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tTm93OXp3Z29NaTdNRzlyU210dTBkZjlnREEtN19yeU9SSmR0ajFGSGw3aldtZ1h3TC1wVTdXM2VER1hJOUZzLS1zdUpEZmhRNXNBWDlfeGFTRm43SVVfNW9LZXdYVXNCOENKdWVUNU44ZVd3NC1OdlBOT1lQUjA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-11-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Battery giant CATL signals further investment in Türkiye - Hürriyet Daily News",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQODUtYlN5aWw5dVRtSlBvVHV4bmU1c0p2NE1fM2RoSWVCZHdtR0s3TnZocjh1SWo3cXhqUkJCVnR2OEVxbkZwanFteXo1S2RnLS1CSElKSkpoV0FMUzJ1cjJpY0hRVFQ2aUQzSEE5eG1PcXlPclpTR1p0Mng4cUdCOThNcHlKRkI3S3ppQkR1NUtZc3ZfQms3bGs3YWlfUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-11-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's EV battery market shifts: CATL's share slips quarter by quarter as second-tier makers rise - BigGo Finance",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCWTV2cnpBQnluVFNnSzd4OFFKSWttNEpDS0N5Wk1NRzl3WlNnT19CUHRteEJhbTJ5RUZIVGpIcjREbVhmNnFyUlNBMUg4c0hKdkJjTnhOUU12ZjZhSC1URGN6VUhfLTdobURCdERfSUc2aWtjQ2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lithium carbonate falls back to 80,000 yuan range; lithium battery industry bids farewell to universal tax exemption, with many small and mid-sized manufacturers potentially exiting within three years - BigGo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "lithium_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBT3RiZWtGeFdzczZYb0h5UWdwS1llN01XeHlzeW50SkVqQnpSeF82Ui1HOEpvMHpOT0V5dUcybDhTVE9pYXAxZWVaaHZvOE5sb0FpdUZPRzdDbmRhZ0RKOHNwUU9FdmFraU55cmdaLXFNblhKeXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 43,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 49,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 44,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 9
+      },
+      {
+        "id": "tesla",
+        "count": 7
+      },
+      {
+        "id": "catl",
+        "count": 2
+      },
+      {
+        "id": "rivian",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 43
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 217,
+    "too_old": 92,
+    "gate1_blocked": 27,
+    "gate2_blocked": 20,
+    "passed": 59,
+    "pass_rate": "29.8%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "CATL Opens Türkiye's First NING SERVICE Experience Center in Istanbul - CATL",
+      "Tesla Jumps 13% as Jensen Huang's Return to NVIDIA Sparks Broad Market Rally; Rivian Rallies 9%, Luc",
+      "2027 Rivian R2 One-Year Road Test Update: Great Vibes, Fun Ride - Edmunds",
+      "Rivian Automotive stock hits 52-week low at $11.37 - Investing.com",
+      "Rivian Is Near Its 52-Week Low. Will RIVN Stock Hit $10 or $15 First? - 24/7 Wall St."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 49 則事件，焦點為蔚來、特斯拉、寧德時代相關動態：「Nio Sees Revenue Topping $15B This Year— But Analyst Warn...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nio Sees Revenue Topping $15B This Year— But Analyst Warns Onvo Could Derail ...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rivian Jumps 9% As Recent Decline Pauses - StocksToTrade",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
