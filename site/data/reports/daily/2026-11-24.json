@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:25:42.509415Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "basf-2026-11-24-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BASF Begins Battery Materials Supply for CATL Production - Fuel Cells Works",
+      "companies": [
+        "basf",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "catl"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSGtNSkFUU3FhT2NxMTFRV1hUYldkS3hjWGh4b0EtNlVZNlVaM3VLcDdYbjBJZVhDV2E5S3FsOUJLZGxBSHppT0dxX3RYMk5HZDhkMEc0dHZrWEJUN29FSERuRERkZGk2YkttcUl6LWxVaXRENzdZbmVPUzY3VGhpNWsxV19mS1cxQlBjaGlQdEZTaEtIbXAtRkFWUE9wWlB2amlRMEwwcFk0MGhEcno5RDRacw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "basf-2026-11-24-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BASF supplies CATL: CAM shipments from Schwarzheide have begun - electrive.com",
+      "companies": [
+        "basf",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "catl"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGxydVZ3NkdKN0lfQ193ZzNIemtuSFFMUTJjbFNseVpLOFR6LUJqZXhuQm9DWWZ0LVZSaDhudy1lNnZlZWRFSHRtRXlOZFJuLXYybzY5SDBWc1EtaTFLd2x1ZGEyTWhhVEhiNVFFMTlsSU51MDFZbjloT2oxNldMcjNEMS15MG9WdmVqZTNKMHliMHNMU0Z1NGlOX2RUWDBT?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "basf-2026-11-24-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BASF Begins Cathode Material Deliveries to CATL from Germany - ChemAnalyst",
+      "companies": [
+        "basf",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "catl"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXRKd3BzWjZmSVBvdGpMZ1hhUTkzclZTM0RpZGJPdUhxQ3lLdEQxcF8zRFprLVl4RnZHNG15cmE1T3NqRnVURVhGZkF1VHZpdDYzNHpxVkJrY2VDaU8xdnNYSXU1anNYcnBEMlBBXzV6WXBydWFhcDR5YmRxNDRXNXZhbTM2SHhoa0R5Tm8xWGZkSXBCOVQ3VXlYSFVUY1RlUjZxc0RiVE9KZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rivian-2026-11-24-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rivian Tops Seaport’s EV Picks as Firm Starts Tesla, Ford and GM at ‘Buy’ - Electric Vehicles",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcUI2d2tFcjFJNW5rWS1CcVViWDdJT3hIbjA2eVFmS0dPTG1pTzRWUlRtUmZMejMwcjVFa1lPVzVZWTJSSzR2ZzlZMWVmT1I1MDJ4bV9VWWxoM0VQeS12ZG1lQlZ0bzBJR0sxbENCTU9SdFNTT3dMZ0c2cjVjcVRFNk1tU29lcjI2UWtDRFJDUnBoU3ZCY1B3UVpZUy1MVl9DOHNzMEd6Z2ZoQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rivian-2026-11-24-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Ex-VW engineer admits to insider trading on Rivian deal - Automotive News",
+      "companies": [
+        "rivian",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbEJncUhqdVkzRUowQllDamUzZEw5VjdNZl91VWpJeGZqejJsZ3VpcjFpRmFBRmtiVmxzOUhMSTdrd1V0VEQ4WWJsc25aTGJxMEJfZVowWVAzb25XN25xSHAyWTFQbHNiTUotd0M0LV9ld2VHek5kMkFENldtY19nNmV6NnZvVEtVN25z?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 45,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "basf",
+      "to": "catl",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general",
+        "cathode_material"
+      ]
+    },
+    {
+      "from": "rivian",
+      "to": "volkswagen",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 51,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 46,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 7
+      },
+      {
+        "id": "rivian",
+        "count": 5
+      },
+      {
+        "id": "byd",
+        "count": 4
+      },
+      {
+        "id": "basf",
+        "count": 3
+      },
+      {
+        "id": "catl",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 45
+      },
+      {
+        "id": "cathode_material",
+        "count": 3
+      },
+      {
+        "id": "lithium_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 414,
+    "dup_title": 222,
+    "too_old": 81,
+    "gate1_blocked": 34,
+    "gate2_blocked": 16,
+    "passed": 61,
+    "pass_rate": "31.8%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "CATL opens first NING SERVICE experience center in Türkiye - Gasgoo",
+      "CATL opens first NING SERVICE experience center in Türkiye - Gasgoo",
+      "South Korea's Samsung SDI to Roll Out AI Diagnostics 'SBI' Across SBB ESS Line, Catching Fire Risks ",
+      "2027 Rivian R2 One-Year Road Test Update: Great Vibes, Fun Ride - Edmunds",
+      "Two tech companies tried to reinvent the e-bike. Why DJI's Amflow soared while Rivian's ALSO flounde"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 51 則事件，焦點為福斯、Rivian、比亞迪相關動態：「BASF Begins Battery Materials Supply for CATL Production ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BASF Begins Battery Materials Supply for CATL Production - Fuel Cells Works（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "BASF supplies CATL: CAM shipments from Schwarzheide have begun - electrive.com（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "鋰價話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

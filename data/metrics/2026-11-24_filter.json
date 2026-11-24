@@ -1,0 +1,16 @@
+{
+  "total_raw": 414,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 34,
+  "gate2_fail": 16,
+  "passed": 61,
+  "gate2_samples": [
+    "CATL opens first NING SERVICE experience center in Türkiye - Gasgoo",
+    "CATL opens first NING SERVICE experience center in Türkiye - Gasgoo",
+    "South Korea's Samsung SDI to Roll Out AI Diagnostics 'SBI' Across SBB ESS Line, Catching Fire Risks ",
+    "2027 Rivian R2 One-Year Road Test Update: Great Vibes, Fun Ride - Edmunds",
+    "Two tech companies tried to reinvent the e-bike. Why DJI's Amflow soared while Rivian's ALSO flounde"
+  ]
+}
