@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-25",
+  "total_events": 44,
+  "by_company": {
+    "basf": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "catl": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "lg_energy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "eve": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sk_on": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 3,
+      "sentiment_avg": -0.25
+    },
+    "nio": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "volkswagen": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 42,
+      "sentiment_avg": 0.07
+    },
+    "lithium_price": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "cathode_material": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,239 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:31:54.097153Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "basf-2026-11-25-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "From Europe for Europe: BASF starts battery materials supply to CATL - Batteries News",
+      "companies": [
+        "basf",
+        "catl"
+      ],
+      "related": {
+        "customers": [
+          "catl"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc3BxRDlMREplWm9uaEc1cHVJYy1yNDB6Um5lSmZ2cVZQbklMd05GQmxUVF9CRnlSdWhsbHgxbnVCeVVnc2JzVWJ0SEtTRjAtNnY0RkR4YmFyclBTaGdicnVjWENVTzVPa3dObEh2VzZqU1doOXp6em0taW1YcDNaOGdDTk41VmNMMXU0RUVmMGRDVXhMUzl3ZnZ3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-11-25-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rivian Automotive Shares Decline Amid Broader Electric Vehicle Sector Weakness : 기업주식정보 : JKN - 재경일보",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSlN1UXphdi1fZ0UxUTk2RS1CN0JXV04yd0s5XzdCLUExdE0xNzlEU3g2eWxaZUZMcE5MTUtWNkxRT2hNRFlnaV80R2QyNEN6Vm9jVGlqcG1TTE5sYTJzeFVB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nio-2026-11-25-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "NIO targets 10,000 battery swap stations and $52B in batteries by 2030",
+      "companies": [
+        "nio"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/11/25/nio-10000-battery-swap-stations-52-billion-batteries-2030/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-25-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China passenger NEV retail sales fall 13% year-on-year in November 1-22, penetration reaches 71.3%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cnevpost.com/2026/11/25/china-passenger-nev-retail-sales-nov-1-22/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-25-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Li Auto beats Q3 revenue guidance as net loss narrows, expects Q4 return to profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cnevpost.com/2026/11/25/li-auto-q3-2026-earnings/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "lithium_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 44,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 34,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "catl",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "rivian",
+        "count": 3
+      },
+      {
+        "id": "nio",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 42
+      },
+      {
+        "id": "lithium_price",
+        "count": 3
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 277,
+    "dup_title": 140,
+    "too_old": 40,
+    "gate1_blocked": 26,
+    "gate2_blocked": 16,
+    "passed": 55,
+    "pass_rate": "40.1%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "Aftermarket services go overseas, start competing on localization - Gasgoo",
+      "LG Energy Solution Showcases Integrated Power Infrastructure for AI Data Centers at RE+ 2026 - LG Co",
+      "Recycled power is the new Normal for Rivian - Automotive Manufacturing Solutions",
+      "Tesla Slides 6% as EU Delays Vote on Its Self-Driving Software; Rivian and Lucid Drop 4% - 24/7 Wall",
+      "Mammotion LUBA Mini 2 AWD robot mower $1,599 low, EGO Multi-Head string trimmer $300 low + portable "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 44 則事件，焦點為寧德時代、特斯拉、Rivian相關動態：「From Europe for Europe: BASF starts battery materials sup...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "From Europe for Europe: BASF starts battery materials supply to CATL - Batter...（電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rivian Automotive Shares Decline Amid Broader Electric Vehicle Sector Weaknes...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "鋰價話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

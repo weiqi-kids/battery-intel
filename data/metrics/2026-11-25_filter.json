@@ -1,0 +1,16 @@
+{
+  "total_raw": 277,
+  "dup_title": 140,
+  "no_date": 0,
+  "too_old": 40,
+  "gate1_fail": 26,
+  "gate2_fail": 16,
+  "passed": 55,
+  "gate2_samples": [
+    "Aftermarket services go overseas, start competing on localization - Gasgoo",
+    "LG Energy Solution Showcases Integrated Power Infrastructure for AI Data Centers at RE+ 2026 - LG Co",
+    "Recycled power is the new Normal for Rivian - Automotive Manufacturing Solutions",
+    "Tesla Slides 6% as EU Delays Vote on Its Self-Driving Software; Rivian and Lucid Drop 4% - 24/7 Wall",
+    "Mammotion LUBA Mini 2 AWD robot mower $1,599 low, EGO Multi-Head string trimmer $300 low + portable "
+  ]
+}
