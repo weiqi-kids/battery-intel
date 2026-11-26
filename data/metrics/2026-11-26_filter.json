@@ -1,0 +1,16 @@
+{
+  "total_raw": 415,
+  "dup_title": 229,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 27,
+  "gate2_fail": 18,
+  "passed": 68,
+  "gate2_samples": [
+    "Samsung SDI to Retire Treasury Shares Worth 1.42 Trillion Won in Shareholder Return Push - Businessk",
+    "Pilbara Minerals Subject to State Street Substantial Holder Notice Disclosing 14.06% Voting Power as",
+    "Recycled power is the new Normal for Rivian - Automotive Manufacturing Solutions",
+    "NIO Showcases Its Latest Innovative Technologies at NIO IN 2026 - NIO - Home",
+    "Nio says AI use could lift gross margin by 10 percentage points - Reuters"
+  ]
+}

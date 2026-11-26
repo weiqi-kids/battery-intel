@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T18:14:22.653903Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_energy-2026-11-26-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung SDI, LG Energy Solution Target Q2 2027 Mass Production of LFP Batteries for AI Data Center BBUs - BigGo Finance",
+      "companies": [
+        "lg_energy",
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40cERiZVpDRHhrOU5LdlFvUW56NU16MFkzS19VYlhWTm45ZjBwTVBlQUhyNGVSTElsNFp4TlVpRFM1MnBheVdKSHdTeVRLck02RW5SZExvbDdWMzJxVG8wZEVRMUVidll5U19UX0NadklKakIyOVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-26-035",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Spain could reach 10 GW of batteries by 2030, but bankability remains the major challenge",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/26/spain-could-reach-10-gw-of-batteries-by-2030-but-bankability-remains-the-major-challenge/"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-11-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s CATL faces a trillion-yuan question: how to win back investor confidence - South China Morning Post",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYXhQb0lTcjM5WVFkR2JmV2wyWmFwanpvR2taWk9HeVRHdXZTY1NpUEF0enY1d3ZFbmRWcDUwV1ZHWTJPTGVDQmFOVkd6NnpVQlo4M3lOM20zVVEyLXlkQmxXVFJXZkRrRzYzNGlObGUybHNMWVh1MldsMkEtMWNxdkZmamNmNFRqUTQ3d1BVWnBCWWdiUWxGLVZIckNOZzRyeEpacmZITlJSQU05YTNOUkhvRHFyMTVEbFgxSlNlVUNDRUdDRVcxbXBYOXYtTnRoNWx5Wg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "eve-2026-11-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EVE Energy Unveils Full-Scenario Energy Storage Solutions for AI Data Centers at RE+ 2026 - Arizona Daily Star",
+      "companies": [
+        "eve"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMzlVZ1BzZTUyZkw0QldFUW9ZU3NtWmpZUVRMSlh4NWdUQ1NYLTlhRDZDLW9wQ05PVGRSZTNfZ3E3U2xxUWpZUEJuU3dXcEdBaHhpa2MwZU1ZQzlHeEdBTF9BRE1hN2VpbmprUjh5cF82RmhrVXJEdU9lNVBxWkphaVVxR0phSWMzUVp1UUM5XzFlSV9pZE54V3o4djlZOGhP?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rivian-2026-11-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rivian R2 vs. Jeep Recon: Which Electric Adventure SUV Wins? - GreenCars",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cathode_material",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUF9WcXNmSXdEQk1VQk5oYmNySVhybE1NcTdCSzdoWUU2QWVsa3psRGE3TWhiTFNxVC05QlJHclliV2VNVERlOEhXTFNfcURfMmJVYW9DN2xZWUJDb3hlNUpxNmYyNEVONjFaNXBCR19TWUlmVkRYcmJjaEQ3SlhHd2lzVnd1X1VZRVdWS3BMV3VBTzZRbGdrSUpQVHVhLTR0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 32,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "rivian",
+        "count": 5
+      },
+      {
+        "id": "nio",
+        "count": 5
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "catl",
+        "count": 1
+      },
+      {
+        "id": "lg_energy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "cathode_material",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 229,
+    "too_old": 73,
+    "gate1_blocked": 27,
+    "gate2_blocked": 18,
+    "passed": 68,
+    "pass_rate": "36.6%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Samsung SDI to Retire Treasury Shares Worth 1.42 Trillion Won in Shareholder Return Push - Businessk",
+      "Pilbara Minerals Subject to State Street Substantial Holder Notice Disclosing 14.06% Voting Power as",
+      "Recycled power is the new Normal for Rivian - Automotive Manufacturing Solutions",
+      "NIO Showcases Its Latest Innovative Technologies at NIO IN 2026 - NIO - Home",
+      "Nio says AI use could lift gross margin by 10 percentage points - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為Rivian、蔚來、福斯相關動態：「Samsung SDI, LG Energy Solution Target Q2 2027 Mass Produ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung SDI, LG Energy Solution Target Q2 2027 Mass Production of LFP Batteri...（正極材料、電池產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Spain could reach 10 GW of batteries by 2030, but bankability remains the maj...（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
