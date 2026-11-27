@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-27",
+  "total_events": 54,
+  "by_company": {
+    "catl": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "lg_energy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "samsung_sdi": {
+      "count": 3,
+      "sentiment_avg": 0.67
+    },
+    "sk_on": {
+      "count": 4,
+      "sentiment_avg": 0.38
+    },
+    "eve": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rivian": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    },
+    "tesla": {
+      "count": 4,
+      "sentiment_avg": -0.25
+    },
+    "nio": {
+      "count": 8,
+      "sentiment_avg": 0.25
+    },
+    "volkswagen": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 49,
+      "sentiment_avg": 0.13
+    },
+    "battery_cost": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung_sdi",
+      "to": "sk_on",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}

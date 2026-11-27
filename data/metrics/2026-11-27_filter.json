@@ -1,0 +1,16 @@
+{
+  "total_raw": 411,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 28,
+  "gate2_fail": 17,
+  "passed": 66,
+  "gate2_samples": [
+    "South Korea's LG Chem Adds 1.41 Million More Collateral Shares as LG Energy Solution Stock Plunges; ",
+    "Samsung SDI Wins Majority of 2 Trillion Won ESS Tender - THE ELEC, Korea Electronics Industry Media",
+    "Samsung SDI, SK On win lion’s share of S.Korea’s record-volume third ESS tender - KED Global",
+    "Samsung SDI to Retire Treasury Shares Worth 1.42 Trillion Won in Shareholder Return Push - Businessk",
+    "First Sentier Group Lifts Voting Power in Pilbara Minerals to 9.82% with 316.9 Million Shares - Kalk"
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T17:56:55.731979Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_sdi-2026-11-27-009",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Samsung SDI wins 63% of record 3rd ESS central contract market; SK On takes rest - 헤럴드경제",
+      "companies": [
+        "samsung_sdi",
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BODZHQmdDeE5aVWRJU0NmbGYzamx3LW0xaFprb3JRUVBoUlQxWklER0gyWkpfQURfQ1ZMTWxkRnF5LUVRR2VrVFdxMDFhX2gzTXpSX2l5UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rivian-2026-11-27-015",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Tesla Rallies 5% Amid SpaceX Merger Speculation; Rivian and SpaceX Rise 3%: Is Tesla's 439x P/E a Warning Sign? - 24/7 Wall St.",
+      "companies": [
+        "rivian",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ1Y5cWtPazFPbDdhMVNHUUNES25DWjdpNXptMEdLNFg2OEtKR3dZRVUyMUlBbjhtMDdic0hhWERhNXNfOWdHS1pvcVlWQWo5Z1BNU00tVk95NnhfekNrcXYzbHN4S1ZralBVbnJvSGFrTWtSdG15ZkxZRFdWQnFOTG5pX3RURFF2aC0temFSb2FEZmRhWlNuRnVZZnpUWE92VTczV0FBdGhjdlViWnRhUWh3V0hfWUFYVzhNSkVTSlFVZTBoekx5YXcxSHU2dll4YTY5WkNxU2hSU0gyWXNmYTFxdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_sdi-2026-11-27-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung SDI, SK On win Korea's largest energy storage tender - Chosunbiz",
+      "companies": [
+        "samsung_sdi",
+        "sk_on"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcHBFUERyZ2JZYXBvNWRnX3l5LUNoU0VHeEFWdEFtNGlwQVRBWEpSQVBMN0M1RmVMeE44akNKckdJRGRDcTV5M2NmbGJjZmdfMUtTMlRVVktmQUxIeDE3N003dktNMDdkZXgzbHNoLUlPcVR0S3YzbFhvd3J3NU52dzd30gGWAUFVX3lxTE5JUE1yT0t5RTR1TnY4cnlJR0U0Y2tPQ080c1BHUC1JbVNHS0tENW5UUnJ2Z3FuWnFud3JCbTFUQ25KakdJalNCQnh0VUtEdk1PMjBmLTZ2aXJfbUJ1UzhrNjVLY3Bvb0hFaXRpRVRUQUlkRmZjQjNLNVdkOTlVc2JZWlNhdF9lWnZOTWdySk55anNJbE9wUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catl-2026-11-27-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Gasgoo Daily: Huawei Launches New Driver Assistance Brand; Huawei Qiankun, CATL Unveil Intelligent Battery Swapping Solution; China's Robot Production Expected to Surpass Autos in 5-10 Years - Gasgoo",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQdWEwaU1mWEU3NU5nODlES0dsQUptdUl3a0d0UkYwNnFwcXBsRVJsOXMzcVpoeXFFNkF6ckppMmlGdEQ0SmVTa1d0SGg1X05XQm1yUHJGRlo2SVZDa2MyNVFCeXVsTENTMVJEbG5DV19vN3VwclBKUnBvY0pPdXI4S3NtcUVNbE1ZSU10R3ZyVE9EdHhjdGZNeFhCMmR2U3FFMU0yS1dRNzVXcmc4MGw4Ni01RG9fbGh4VUxmdzNhOWNEalZfLW9rbWUtVnVDc1dGS3N4YXFRZGFIZXd1MTZLRmg4Vnlfc1d2TjZXOVItYi1ua2JYQk5sQ1RNS3U5ZEFzWXhETHQ0eUlPR1ZzeXdBRWNFUk5jZVNFMFp6NHlQMzhGbGRweml5Q044clhjTHhybmJzcHNnTC1ibE5NSHotc09vTGJIVHUxU09Sa0F3Y0FQa0NEd2xxbGlFdmRfcDI2ZkFHelhn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_sdi-2026-11-27-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Samsung SDI takes nearly two-thirds of record Korean ESS tender - Korea JoongAng Daily",
+      "companies": [
+        "samsung_sdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXFITGNYbnBsNlNITkJoOE81Um0zdnU3QmNVdDVGSzFJbDJvSzVOQlJDQ1VOMWpSaFVpNVl0TlFYTWc3dnVjeHNkQWoySEVwM1RWQmE2dXp6SXRrQUZaRWhudFRpYjBtbTBXRTIwTFRkTnRjVE5rX0JINW12emN5OFFLcHlaamdCNFVGaFVDd0E3dzZKTDNsUkdiX1ZxMFgxS3gycUFxNHdkSnRHdjNmUzFVV01pdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    },
+    "battery_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung_sdi",
+      "to": "sk_on",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 54,
+    "sentiment_distribution": {
+      "positive": 11,
+      "neutral": 40,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "nio",
+        "count": 8
+      },
+      {
+        "id": "catl",
+        "count": 5
+      },
+      {
+        "id": "sk_on",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "samsung_sdi",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 49
+      },
+      {
+        "id": "battery_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 411,
+    "dup_title": 235,
+    "too_old": 65,
+    "gate1_blocked": 28,
+    "gate2_blocked": 17,
+    "passed": 66,
+    "pass_rate": "37.5%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "South Korea's LG Chem Adds 1.41 Million More Collateral Shares as LG Energy Solution Stock Plunges; ",
+      "Samsung SDI Wins Majority of 2 Trillion Won ESS Tender - THE ELEC, Korea Electronics Industry Media",
+      "Samsung SDI, SK On win lion’s share of S.Korea’s record-volume third ESS tender - KED Global",
+      "Samsung SDI to Retire Treasury Shares Worth 1.42 Trillion Won in Shareholder Return Push - Businessk",
+      "First Sentier Group Lifts Voting Power in Pilbara Minerals to 9.82% with 316.9 Million Shares - Kalk"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 54 則事件，焦點為蔚來、寧德時代、SK創新相關動態：「Samsung SDI wins 63% of record 3rd ESS central contract m...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung SDI wins 63% of record 3rd ESS central contract market; SK On takes r...",
+        "level": "yellow"
+      },
+      {
+        "text": "Tesla Rallies 5% Amid SpaceX Merger Speculation; Rivian and SpaceX Rise 3%: I...",
+        "level": "yellow"
+      },
+      {
+        "text": "電池成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
