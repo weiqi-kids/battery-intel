@@ -1,0 +1,16 @@
+{
+  "total_raw": 414,
+  "dup_title": 255,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 29,
+  "gate2_fail": 17,
+  "passed": 40,
+  "gate2_samples": [
+    "South Korea's LG Chem Adds 1.41 Million More Collateral Shares as LG Energy Solution Stock Plunges; ",
+    "Samsung SDI, SK On win lion’s share of S.Korea’s record-volume third ESS tender - KED Global",
+    "Samsung SDI Wins Majority of 2 Trillion Won ESS Tender - THE ELEC, Korea Electronics Industry Media",
+    "Robotaxi boom offers SK On's US factories a path to recovery - 헤럴드경제",
+    "First Sentier Group Lifts Voting Power in Pilbara Minerals to 9.82% with 316.9 Million Shares - Kalk"
+  ]
+}

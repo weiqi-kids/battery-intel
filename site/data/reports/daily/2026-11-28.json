@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T16:42:47.500612Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-11-28-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Volkswagen eyes a record 32,000 China NEV deliveries in November, up from 28,000 - GlobalChinaEV",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTZDaFR3RHVWTEotcmNzQ0lKZHV4YXNJMkYzTzVIRzZqRERsVTcySWQyc1BRd0YyV29ZX3N1ZU5iMkRqSDFsUWxta0JoSGxPZzVsODlsM2QzazljQm9hUEtlYk12bk1Zekd5eXVCd0JMZnZWX2JVc2otTElFdzdZSGMzbXdpN0xUY0pjT1lLY0tKVUUwYkpGN25xbkdkdHZTaUo1Mk9ENXlIcUx6U0Fybnd3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-28-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Leading the energy transition: stereotypes, AI and what stays human",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/28/leading-the-energy-transition-stereotypes-ai-and-what-stays-human/"
+    },
+    {
+      "rank": 3,
+      "event_id": "catl-2026-11-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Huawei Qiankun Tops Guangzhou Auto Show Buzz as CATL Expands Battery-Swap Ecosystem - BigGo Finance",
+      "companies": [
+        "catl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GWU5zTFo3Mm1ibWZZdkEwaVBWU1Y0LUVReGlFUVo2U2hGRnBHeE44RmJ6QmswLVVjZkdub0plVzgzQzZfZ0JraVM2dm1LVFozd1B3YjVud0hRajJLeTJESUVPOXFzaVB2WGRvdHBfQ3FQOG5MNnc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tesla-2026-11-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai Unveils Mercury Concept With Swappable Batteries for Chinese Market - Drive Tesla Canada",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTRFaWN1OFB6VVlCTUxhOUoxMjVyNW1Weld6dGtjQlZsVzBMWllablo0WHRWaVZIUWFSODRMbHRTRWFqcXpFS0lEbmtBTUtjZ0JZRW42UVVSdzItNzAwMUFyX0UyclR1Y09IS3k2ei1TSVBiVkxYd0Y5eFE1UURKU2ZWZ1BKT3hfYUlKY3E2WTE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rivian-2026-11-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rivian Recalls R1S, R1T, And New R2 SUV Because Of A Typo - CarBuzz",
+      "companies": [
+        "rivian"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sV2hkbE9Zblg4WlRjcmJHUFo4cnZFcWZnbUhnMzJ4ODdWeVVkeDJiN1VZVXlyTGpxSDF4Z2RoajRWY2dFRFhhYktaMlp2T2luUkdPOHZGX2VCM1BzaTZQWUgtX0VSdWUxMF9NeDVabTlZZFRsTENFUERza3Y?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "cathode_material": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "catl",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      },
+      {
+        "id": "rivian",
+        "count": 1
+      },
+      {
+        "id": "nio",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "cathode_material",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 414,
+    "dup_title": 255,
+    "too_old": 73,
+    "gate1_blocked": 29,
+    "gate2_blocked": 17,
+    "passed": 40,
+    "pass_rate": "25.2%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "South Korea's LG Chem Adds 1.41 Million More Collateral Shares as LG Energy Solution Stock Plunges; ",
+      "Samsung SDI, SK On win lion’s share of S.Korea’s record-volume third ESS tender - KED Global",
+      "Samsung SDI Wins Majority of 2 Trillion Won ESS Tender - THE ELEC, Korea Electronics Industry Media",
+      "Robotaxi boom offers SK On's US factories a path to recovery - 헤럴드경제",
+      "First Sentier Group Lifts Voting Power in Pilbara Minerals to 9.82% with 316.9 Million Shares - Kalk"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為福斯、寧德時代、特斯拉相關動態：「Volkswagen eyes a record 32,000 China NEV deliveries in N...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Volkswagen eyes a record 32,000 China NEV deliveries in November, up from 28,...（電池產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Leading the energy transition: stereotypes, AI and what stays human（電池產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
